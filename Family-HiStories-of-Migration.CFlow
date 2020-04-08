@@ -1,0 +1,117 @@
+<project><prname>Family HiStories of Migration</prname>
+<idnum>54</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Family HiStories of Migration</wfname>
+<wfauthor>By Diane Shea</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>43</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/family-stories-of-migration/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce the Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present the assignment to the students &lt;/li&gt;&lt;li&gt;Discuss oral history methodology and ethics &lt;/li&gt;&lt;li&gt;Read examples of students’ stories from the Class Blog&lt;/li&gt;&lt;li&gt;Ask students to reﬂect on the impact of history on families and on individual lives&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Conduct Interviews on Migration</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;In the period of 3-4 weeks, interview two family members (or a friend’s family if preferred) with a focus on the impact of migration and the historical events linked to migration on the family.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compose a Reflection on the Interview</name>
+<id>9</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the interview to reﬂect on the impact of history on families and on individual lives&lt;/li&gt;&lt;li&gt;Use the information from the interviews to write a 1000 words assignment that tells the story/ies that they discovered&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Reflection Summaries to Peers</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Bring the written assignments to class and present the summaries to each other in groups of 6-8 students. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each presentation takes about 5-8 minutes &lt;/li&gt;&lt;li&gt;Students are encouraged to ask questions following the presentation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>106</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Note Takeaways from Peer Presentations</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As each student presents, the other group members take notes of what they ﬁnd most interesting and something new they have learned about history from this presentation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback on Assignments </name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Review the assignments, giving feedback and editing for clarity if needed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Update Assignments Based on Feedback</name>
+<id>16</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Integrate the edits and feedback in the assignments &lt;/li&gt;&lt;li&gt;Upload the assignment onto the blog&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This can also be done in the Computer Lab during class time.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

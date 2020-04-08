@@ -1,0 +1,171 @@
+<project><prname>The Amazing Ethics Race</prname>
+<idnum>148</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Amazing Ethics Race</wfname>
+<wfauthor>By J Stephenson, R Guttman, T Cinelli, M Hicks</wfauthor>
+<wfid>85</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>84</weekid>
+<node><name>Activity Instruction</name>
+<id>133</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/the-amazing-ethics-race/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Find station locations &amp; prepare challenges</name>
+<id>71</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Find locations around campus to serve as stations and prepare appropriate clues for students to follow to each station.&lt;/li&gt;&lt;li&gt;Distribute copies of challenges and an answer sheet to instructors at each station.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>73</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide students into teams of 6-8 &lt;/li&gt;&lt;li&gt;Assign the teams to the blue or pink circuit&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve the Case Study at Station 1</name>
+<id>74</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;&lt;em&gt;Begin at Station 1&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Receive their passports&lt;/li&gt;&lt;li&gt;View videos&lt;/li&gt;&lt;li&gt;Answer questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Check Answers &amp; Give Next Stateion Clues </name>
+<id>75</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Check the students answers &lt;/li&gt;&lt;li&gt;Correct sign oﬀ on students' passports &lt;/li&gt;&lt;li&gt;Issue students the next clue for their circuit&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Riddle &amp; Head to Station 2</name>
+<id>76</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Solve a riddle or clue &lt;/li&gt;&lt;li&gt;Proceed to their next station&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Task 2</name>
+<id>77</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide a task&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve the Case Study at Station 2</name>
+<id>78</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work through the station’s task &lt;/li&gt;&lt;li&gt;Submit their answers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Check Answers &amp; Give Next Stateion Clues </name>
+<id>79</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Check the students answers&lt;/li&gt;&lt;li&gt;Correct sign oﬀ on their passports&lt;/li&gt;&lt;li&gt;Issue students the next clue for their circuit.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve the Case Study at Station 3 &amp; 4</name>
+<id>80</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The process repeats through all stations until they return to the start.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Decide Winners</name>
+<id>81</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;As teams return their passports and attendance are checked. The ﬁrst team to ﬁnish wins.&lt;/p&gt;&lt;p&gt;Note: Teams that arrive early may receive a ﬁnal case study.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Recite Pledge</name>
+<id>83</id>
+<lefticon>class</lefticon>
+<righticon>reading</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The whole class ends with a pledge.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML/>
+<x>563</x>
+<y>1591</y>
+<commentparent>84</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;what icon should be used to represent students reciting the pledage?&lt;/p&gt;</textHTML>
+<x>690</x>
+<y>2120</y>
+<commentparent>84</commentparent>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,120 @@
+<project><prname>“Light, Camera, Action” Starring reactions in photosynthesis</prname>
+<idnum>48</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>“Light, Camera, Action” Starring reactions in photosynthesis</wfname>
+<wfauthor>By Francesca Theriault</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>home</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Out of Class (Students)</columntext>
+<columnnodetext>Out of Class (Students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for the Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a space in the classroom. Use green painter’s tape to delineate the thylakoid membrane.&lt;/li&gt;&lt;li&gt;Prepare 2 boxes with chocolate coins – one placed in the “stroma” space, the other in the “thylakoid lumen” space. &lt;/li&gt;&lt;li&gt;Prepare 16 (legal size) papers with the 16 diﬀerent “characters” of the non-cyclic light reactions on them and have them ready for students to pick out.&lt;/li&gt;&lt;li&gt;Have tape ready so students can tape the papers to themselves.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>194</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Divide the students into 16 Actors and 2 Pigment Groups.&lt;/p&gt;&lt;p&gt;OPTIONAL: With student approval, video record the runs and post the resulting video as a review tool.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign and Arrange Roles - R1</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Run 1: The Actors choose and tape their roles to themselves. Through peer discussion and peer direction, the Actors arrange themselves according to their roles along the thylakoid membrane, in the “stroma” space or in the “thylakoid lumen” space.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Demonstrate Light Reactions - R1</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Run 1: Through peer discussion and peer direction, act out the non-cyclic light reactions. Actors transfer electrons and move protons against their concentration gradient, then with their concentration gradient and pigment groups, do a wave action when activated by photons.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>122</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Identify errors and discuss with the class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign and Arrange Roles - R2</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The actors swap with pigment group students&lt;/p&gt;&lt;p&gt;Run 2: the Actors tape their roles to themselves. Through peer discussion and peer direction, the Actors arrange themselves according to their roles along the thylakoid membrane, in the “stroma” space or in the “thylakoid lumen” space.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Demonstrate Light Reactions - R2</name>
+<id>17</id>
+<lefticon>class</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Run 2: through peer discussion and peer direction, the students act out the non-cyclic light reactions. Actors transfer electrons and move protons against their concentration gradient, then with their concentration gradient, and pigment groups do a wave action when activated by photons.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>126</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions - Repeat Process  </name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>practice</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Repeat the process until all questions have been addressed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
