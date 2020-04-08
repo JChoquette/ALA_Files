@@ -1,0 +1,129 @@
+<project><prname>Rock Paper Scissors Lizard</prname>
+<idnum>58</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Rock Paper Scissors Lizard</wfname>
+<wfauthor>By Brendan Joyce</wfauthor>
+<wfid>11</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Out of Class (Student)</columntext>
+<columnnodetext>Out of Class (Student)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>10</weekid>
+<node><name>Prepare for Class Activity</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read an article on evolutionarily stable strategies&lt;/li&gt;&lt;li&gt;View a video &lt;/li&gt;&lt;li&gt;Complete an online quiz.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Quiz Topics</name>
+<id>2</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Brieﬂy review the topics from the quiz.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity </name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Distribute either non-transitive dice, or templates and materials for making dice, to the students. Divide class into three groups.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare: Select or Create Die</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Select or create an A, B or C die following the Grimes Dice template for 3 dice.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Dice Outcomes</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Seek out both dissimilar dice and roll against each other repeatedly. &lt;/li&gt;&lt;li&gt;Record what die it was and the outcome of each roll on a paper.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Make a Die Choice</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Pool the data and vote by group for which die they’d rather roll against.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Selection of Best Die</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Share tally counts for each group. Initiate the whole class discussion on "Which is the best die?”&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Watch Video</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;View a video on Side-blotched lizards (Uta stansburiana)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Summarize and Clear Misconceptions</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Finally, discuss about unstable evolutionary strategies and the misconceptions that evolution is linear or that there is always a single best strategy.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>210</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,146 @@
+<project><prname> Vénus d’Ille: Police Enquiry</prname>
+<idnum>68</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname> Vénus d’Ille: Police Enquiry</wfname>
+<wfauthor>By Alexandre Limoges</wfauthor>
+<wfid>10</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Out of Class (Student)</columntext>
+<columnnodetext>Out of Class (Student)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>9</weekid>
+<node><name>Activity Instructions</name>
+<id>56</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/venus-dille-police-enquiry/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Read the short story 'La Vénus d’Ille' at home along with a text providing context for the story, the author, as well as aspects to focus the students' attention to during their reading of the text.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce the Activity</name>
+<id>2</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the activity&lt;/li&gt;&lt;li&gt;Separate the class into groups of 4 students - they are asked to take on the role of investigators of the murder in the novel&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Clues</name>
+<id>3</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each student in a group is responsible for identifying and ﬁnding clues pointing to a suspect.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss the Clues</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As a group, discuss the clues and evidence pointing to each of the identiﬁed suspects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Build Cases - Note Evidence</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Build a strong case for each suspect: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify their motives, their means of committing the crime &lt;/li&gt;&lt;li&gt;Include textual evidence (quotations) while filling in the boxes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Formal Accusation</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each group presents a formal accusation to the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assess Each of the Cases</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Evaluate each of the students' four cases to ensure that their supporting evidence is convincing. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate the Presentations</name>
+<id>44</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After approving them, ask each group to make four formal accusations in front of the whole class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze the Cases</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the most convincing suspects, analyzing the strength of the evidence on each side.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;Instructor Evaluation or Orchestration?&lt;/p&gt;</textHTML>
+<x>450</x>
+<y>1340</y>
+<commentparent>9</commentparent>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,139 @@
+<project><prname>Homophones Talent Show</prname>
+<idnum>68</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Homophones Talent Show</wfname>
+<wfauthor>By Laurent Duval</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>44</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/homophones-talent-show/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review homophones, asking questions about the students previous knowledge and noting the most difﬁcult ones&lt;/li&gt;&lt;li&gt;Introduce the activity, giving each group of 2-3 students a homophone to work on and show them past examples of creative projects&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>   Revise and Use Homophones </name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Begin work on the assignment, looking at the grammatical category of the homophone and using it in a sentence.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Trick to Explain Use of Homophones</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Brainstorm to ﬁnd a creative trick to explain how the homophone is used and how to anticipate common mistakes.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present the Trick</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Give a 2-3 minute presentation on the talent/trick to another group online in a video conference (ex. a video, a skit, a song...).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compose Quiz Questions for Peers</name>
+<id>14</id>
+<lefticon>class</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Create and submit a small quiz to the instructor for all the students to take to see if they understood the matter.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    </name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Put out two polls: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;After the presentation was ﬁnished&lt;/li&gt;&lt;li&gt;To ask the students to provide feedback on the activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze and Complete Presentations</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss  the material in the presentation&lt;/li&gt;&lt;li&gt;Go over the more diﬃcult homophones to ﬁll in the holes in the presentations&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions on Homophones</name>
+<id>16</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Answer questions on homophones in workbooks.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflect on the Takeaways</name>
+<id>18</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Write a small response about what was retained or learned from the activity and what homophone was diﬃcult.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

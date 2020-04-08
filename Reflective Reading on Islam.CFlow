@@ -1,0 +1,106 @@
+<project><prname>Reflective Reading on Islam</prname>
+<idnum>59</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Reflective Reading on Islam</wfname>
+<wfauthor>By Diane Shea</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/reflective-reading-on-islam/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read a text on Islam&lt;/li&gt;&lt;li&gt;Answer homework questions related to the reading in the activity book (an informal assignment activity/homework book)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Verify Student Homework</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;At the beginning of class, collect and sign the questions in the notebooks, making sure the students read and are engaged with the reading material.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Separate the students into groups and give each group one or two numbers of questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Identify best Answer to Assigned Question</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the answers to the assigned question &lt;/li&gt;&lt;li&gt;Decide on the best answer to the question based on understanding of the reading&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Correct Homework Assignment</name>
+<id>22</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;A student from each group volunteers to write their answer to the question on the board&lt;/li&gt;&lt;li&gt;Another student presents their answers to the class&lt;/li&gt;&lt;li&gt;As a class, students discuss the various answers and correct the homework assignment&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Student Discussion</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Engage students in a wider discussion, branching oﬀ from their knowledge gained from the reading and deepening the discussion by providing further contextualization.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present relevant slides to aid student discussion as the groups are talking about certain aspects of the questions and making correction&lt;/li&gt;&lt;li&gt;Make comparisons and get the students to put the topic in the context of today&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,106 @@
+<project><prname>Bottle Rocket Tracker</prname>
+<idnum>57</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Bottle Rocket Tracker</wfname>
+<wfauthor>By Kevin Lenton</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/bottle-rocket-tracker/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Video of Bottle Rocket</name>
+<id>4</id>
+<lefticon>class</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As a class, move outside to record a video of a bottle rocket taking off (prepared by the instructor). Ensure that at least one member of the group is filming using their phone.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Generate Data using Tracker Software</name>
+<id>18</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;In the classroom, at computers, upload the first video into the Tracker Software.&lt;/li&gt;&lt;li&gt;In the tracker software, use the calibration tool to calibrate the video and set up the axes.&lt;/li&gt;&lt;li&gt;Use the software to track the position of the bottle rocket in each frame as a point mass, using the auto-tracking feature or by clicking through frame by frame. &lt;/li&gt;&lt;li&gt;Use the software to generate tabulated position-time data.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>186</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Generate Plots using Data</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Import the tabulated data into a spreadsheet program such as Excel.&lt;/li&gt;&lt;li&gt;Use the data to plot the position as a function of time.&lt;/li&gt;&lt;li&gt;Split the problem into four different stages:&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;Propulsion phase (accelerating upward)&lt;/li&gt;&lt;li&gt;Drag (the rocket has a high velocity and drag forces are large)&lt;/li&gt;&lt;li&gt;Projectile motion (constant acceleration due to gravity)&lt;/li&gt;&lt;li&gt;Terminal velocity.&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>214</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Plots</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Analyze the plots for each phase and fit equations of motion to the data. Advanced classes can make use of their calculus knowledge, fitting first to 2nd order polynomials then to higher orders.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Observe Patterns and Discuss Conclusions</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Observe that during certain phases the acceleration was not constant, as it is fit by a higher order polynomial. Discuss the meaning of this and the reasons why the acceleration may not be constant (for example, changing mass and pressure, changing drag forces).&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

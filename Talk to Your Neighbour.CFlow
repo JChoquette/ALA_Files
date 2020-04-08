@@ -1,0 +1,84 @@
+<project><prname>Talk to Your Neighbour</prname>
+<idnum>19</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Talk to Your Neighbour</wfname>
+<wfauthor>By Marta Cerruti</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instruction</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and the materials of the activity &lt;a href="https://www.saltise.ca/activity/eng-talk_to_your_neighbour/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;At several points during the lecture&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Announce that the class will do a ”Talk to your Neighbour” activity&lt;/li&gt;&lt;li&gt;Pose a question which can either be embedded in the lecture slides or spontaneous if needed; in the latter case, write the question on the board so that it is clear.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This question is intended to be challenging (students will not be able to solve the question easily) and sometimes to do with ”real life”. The types of question used are as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Predict a phenomenon or trend based on what was just explained in class&lt;/li&gt;&lt;li&gt;Recall previous knowledge from the lecture or from a different class&lt;/li&gt;&lt;li&gt;Solve a problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>298</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions &amp; Solve Problems</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Group with with students around them&lt;/li&gt;&lt;li&gt;Answer the question or solve the problem &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Class Discussion</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Ask several groups to answer the question (The group decides who will be the speaker).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Responses</name>
+<id>19</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss with the instructor to review why responses are correct or incorrect&lt;/li&gt;&lt;li&gt;Ask questions if needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

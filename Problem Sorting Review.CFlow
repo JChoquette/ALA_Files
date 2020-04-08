@@ -1,0 +1,99 @@
+<project><prname>Problem Sorting Review</prname>
+<idnum>30</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Problem Sorting Review</wfname>
+<wfauthor>By Sameer Bhatnagar</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity&lt;a href="https://www.saltise.ca/activity/problem-sorting-review/" target="_blank"&gt; here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Give each group 27 cards, each of which has a problem on it.&lt;/li&gt;&lt;li&gt;These cards correspond to the three sets of problems (9 each) used in the Problem Sorting activity. Ideally these cards are provided on interactive whiteboards in a notebook file, however physical printed cards can also work.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Categorize Problems</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Sort the problems into categories of own choosing.&lt;/p&gt;&lt;p&gt;Note: This decision should be made based on the physics in the problem, not on superficial grounds. There is no ‘correct’ answer here: the justification is more important.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Justify Categorization</name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Provide a written rationale for the chosen groupings, explaining why they chose these particular categories and why they are physically significant.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Gallery Walk</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Perform a gallery walk; groups move from one workstation to the next to review and discuss each other group’s work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Categories</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Re-evaluate own categories and sorting method, and  write a new rationale if required after re-evaluation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;1&lt;br&gt;Here, students perform gallery walk, but the icon denotes discussion. Since gallery walk is a strategy on its own, how should we approach assigning icons here?&lt;/p&gt;</textHTML>
+<x>660</x>
+<y>1070</y>
+</comment>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

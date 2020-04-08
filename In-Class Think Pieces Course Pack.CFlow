@@ -1,0 +1,158 @@
+<project><prname>In-Class Think Pieces: Course Pack</prname>
+<idnum>140</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>In-Class Think Pieces: Course Pack</wfname>
+<wfauthor>By Charles-Albert Ramsay</wfauthor>
+<wfid>14</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>13</weekid>
+<node><name>Prepare for Class Activity</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a question/prompt to guide one-page essay at the end of the discussions.&lt;/p&gt;&lt;p&gt;Note: Find an Overview of the Activity &lt;a href="https://www.saltise.ca/activity/in-class-think-pieces-course-pack/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Read assigned section(s) of textbook relating to the topic of the lecture.&lt;/p&gt;&lt;p&gt;Note: A quiz at the end of the semester will be based on this reading.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Concepts</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present the lecture on exchange rates.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Record Notes</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the course pack to ﬁll in the blanks of their notes &lt;/li&gt;&lt;li&gt;Answer analytical questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give the prompt to groups of 2-3:&lt;/p&gt;&lt;p&gt;'The exchange rate between Canada and Mexico over the past 10 years'&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine Business Plan as CEO</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As the CEO of Bombardier, who is considering buying more plane parts from Mexico:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Consider the exchange rate and assumptions about the actions of others in the industry&lt;/li&gt;&lt;li&gt;Decide whether or not to increase imports and set up a plant in Mexico.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Economic Impact </name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss what would happen to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mexico’s production capacity&lt;/li&gt;&lt;li&gt;Canada’s current account (ie.imports going up, going into a trade deﬁcit)&lt;/li&gt;&lt;li&gt;Canada’s capital account (deﬁcit) leading to imbalanced payments,&lt;/li&gt;&lt;li&gt;Mexico’s capital accounts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discuss the relationship between Canada's capital accounts and Mexico's capital accounts&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Predict Effect on Exchange Rate</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Synthesize information to predict how the imbalance might eﬀect the overall exchange rate.&lt;/p&gt;&lt;p&gt;Note: During their discussions students are helping each other grasp the material better, teaching each other, and making sure everyone has understood the implications of their answers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions in a 1-page Response</name>
+<id>10</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a 1 page response to broad questions about the eﬀect on tourism and the effect on them personally.&lt;/li&gt;&lt;li&gt;Submit to the instructor.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    Mark Responses</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give a participation mark to each student who handed in work&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Responses</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After reading all of the answers of the students, provide verbal feedback and any needed clariﬁcation based on common errors.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

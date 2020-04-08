@@ -1,0 +1,183 @@
+<project><prname>Newton's Third Law</prname>
+<idnum>80</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Newton&apos;s Third Law</wfname>
+<wfauthor>By Jean-François Brière</wfauthor>
+<wfid>15</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>14</weekid>
+<node><name>Activity Instructions</name>
+<id>64</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/newtons-third-law/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a reading on Newton’s third law.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Photograph Objects</name>
+<id>2</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Take a photo of two static interacting objects.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The photo must showcase specific features from a list&lt;/li&gt;&lt;li&gt;Collectively each pre-assigned group must exhaust the full list&lt;/li&gt;&lt;li&gt;The photos are uploaded into a Visual Classrooms space limited to the group members&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>168</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw Free Body Diagrams for Objects</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw free body diagrams for both objects&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;li&gt;Upload their work to Visual Classrooms&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Students are instructed to split into their pre-assigned groups.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Free Body Diagrams</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In pairs within their group, compare their FBDs and photos and assess them for correctness.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Horizontal Pushing</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Model two examples of horizontal pushing:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A static problem&lt;/li&gt;&lt;li&gt;A dynamic problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Free Body Diagrams</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Analyze three scenarios (two dynamic and one static) distributed by the instructor to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Exercise</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the exercise, emphasizing the characteristics of action-reaction pairs.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Vertically Stacked Objects</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Model an example of vertically stacked objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Free Body Diagrams</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Analyze two scenarios (one dynamic and one static) distributed by the instructor to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Exercise</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the exercise, emphasizing the characteristics of action-reaction pairs.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Edit Diagrams</name>
+<id>12</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;In Visual Classrooms, students:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rework their original diagrams&lt;/li&gt;&lt;li&gt;Explain in writing the changes they make&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Group Work and Submit</name>
+<id>13</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide feedback on the work of their group members, revising their own work as many times as necessary based on feedback they receive&lt;/li&gt;&lt;li&gt;Submit a final version&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

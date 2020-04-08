@@ -1,0 +1,99 @@
+<project><prname>Dark Lords IF-AT</prname>
+<idnum>77</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Dark Lords IF-AT</wfname>
+<wfauthor>By Michael Dugdale</wfauthor>
+<wfid>22</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>21</weekid>
+<node><name>Activity Instructions</name>
+<id>68</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/dark-lords-if-at/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>16</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Hand out an exam with multiple choice questions related to kinematics, vectors, and coordinate systems. &lt;/p&gt;&lt;p&gt;Unlike most exams, design the questions to be somewhat ambiguous and promote discussion.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>108</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Questions and Justify Answers</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Solve and answer each question to their best abilities. The final question is one in which three solutions are presented to a problem, but each implicitly uses a different coordinate system. &lt;/li&gt;&lt;li&gt;Determine which solution(s) are correct, and provide their justification.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign a Scratch Card to Each Group</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign groups of 3-4. Each group is given a scratch card.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Verify Solutions</name>
+<id>19</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss their solutions to each problem, determining which is correct.&lt;/li&gt;&lt;li&gt;Use a coin to scratch off the corresponding entry on the scratch card, which reveals whether or not it was the correct answer.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Grades</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign grades in part based on the number of revealed answers on the scratch card (this should, however, be a formative exam with little real impact on their grade).&lt;/p&gt;&lt;p&gt;Note: If the students reveal an incorrect answer, they may attempt the question again until they reveal the correct answer.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;This is a revision activity/exam. I am not sure if this works as an activity without the context of the material that is being tested&lt;/p&gt;</textHTML>
+<x>210</x>
+<y>20</y>
+</comment>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

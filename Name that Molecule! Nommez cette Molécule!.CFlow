@@ -1,0 +1,154 @@
+<project><prname>Name that Molecule! Nommez cette Molécule!</prname>
+<idnum>69</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Name that Molecule! Nommez cette Molécule!</wfname>
+<wfauthor>By Caroline Cormier and Bruno Voisard</wfauthor>
+<wfid>13</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>12</weekid>
+<node><name>Prepare for the Class</name>
+<id>1</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Using the provided templates the instructor prints and cuts out cards (1 deck per 4-5 students).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Organize Groups</name>
+<id>2</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor has the class divided into groups of 4-5 students and issues each group a deck of cards.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review the Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor reviews the rules of the game.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>   </name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;All players in a group roll a 12-sided die to determine the length of their initial carbon molecule as described in the rules.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>   </name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;All players name their molecule and draw 1 card&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    </name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The player with largest molecule draws a second card and selects one of their cards to impose on a player of their choice.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    </name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The opponent must add the group speciﬁed on the card and name the new molecule. If correct the card goes to the opponent for points, if not it is discarded.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    </name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The remaining group members evaluate the opponents work and determine if the name is correct.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>    </name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Going clockwise, each player takes turns drawing a card and imposing a card on an opponent of their choice.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Student Questions</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor circulates among the groups to answer questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>  </name>
+<id>11</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Once the deck is ﬁnished, players calculate their score by summing the point value of all cards acquired in play (points on the left) with the point value of the last card in their hand (points on the right)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;The nodes are all about a single game, so maybe they should be condensed into one.&lt;/p&gt;</textHTML>
+<x>707</x>
+<y>612</y>
+<commentparent>12</commentparent>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

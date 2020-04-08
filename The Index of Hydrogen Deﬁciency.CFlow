@@ -1,0 +1,128 @@
+<project><prname>The Index of Hydrogen Deﬁciency</prname>
+<idnum>53</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Index of Hydrogen Deﬁciency</wfname>
+<wfauthor>By Sebastien Robidoux</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/the-index-of-hydrogen-deficiency/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Prepare color coded molecular formula cards using the templates provided. The colours of the cards should correspond to convention where possible (i.e. red for formulas with oxygen, green for halogen, etc.)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the valency of H, F, Cl, Br, I, C, N, O&lt;/li&gt;&lt;li&gt;Divide the class into groups of two and a molecular formula card is distributed to each group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw and Submit Three Structures</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw at least three possible structures corresponding to the molecular formula on the received card&lt;/li&gt;&lt;li&gt;Submit the answers to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback and Share Structures</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Check the answers for validity&lt;/li&gt;&lt;li&gt;Write select structures on the board&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Formula for IHD</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Introduce the formula for the index of hydrogen deﬁciency (IHD)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate and Explain the Results</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Calculate the IHD for the molecular formula&lt;/li&gt;&lt;li&gt;Provide an explanation as to why these structures have the calculated IHD&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compare Student Answers to Structures</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Compare the shared student answers with structures drawn previously&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present and Discuss Two New Formulas</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present the students with the molecular formulas of two medications; Salbutamol and Clenbuterol&lt;/li&gt;&lt;li&gt;Ask the students if it is possible that either contains a benzene ring and/or a carbonyl&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Answers to the Problem</name>
+<id>16</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At the end of the exercise, as a class, share and discuss the answers to the problem with the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

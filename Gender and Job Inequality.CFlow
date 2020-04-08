@@ -1,0 +1,179 @@
+<project><prname>Gender and Job Inequality</prname>
+<idnum>75</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Gender and Job Inequality</wfname>
+<wfauthor>By Elliot Kerr</wfauthor>
+<wfid>14</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>13</weekid>
+<node><name>Watch Video Content</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Students watch the ﬁrst episode of a tv drama (ex. Madmen) that exposes them to assumptions about social interactions and hierarchies in the workplace.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze the Video</name>
+<id>2</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Students write a ﬁlm analysis about how the structure of that speciﬁc culture in the video inﬂuences the division of labor within that workplace in that time period.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Information</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Students do a reading about gender roles, establishing diﬀerences between gender and sex and how they are constructed. Students also review statistics regarding occupational segregation to prepare for the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Group Work</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor separates the class into groups of 4-6 and asks them to list 6 characteristics associated with each of the jobs identiﬁed on the whiteboard (nurse, engineer, teacher, lawyer, manager, and ﬂight attendant).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Assigned Content</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students explore and question the stereotypes generally associated with each job in their groups when coming up with their 6 characteristics.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Assigned Content</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students then discuss characteristics and qualiﬁcations associated with each job as well as what qualiﬁes a person as being competent in the profession.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Provide an Additional Prompt</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor pauses the discussion and asks the students to indicate which jobs they think pay more.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Research Information</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students may research the actual pay range of the jobs in order to establish the answer to this question.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Information </name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students identify the higher and lower paying jobs and compare their categorizing to what they discussed regarding gender stereotyping in each job. They look for patterns with regards to these gender stereotypes and the way jobs are valued.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Results</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students in the group write down their patterns and reasoning on the white board&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Group Presentations</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After all the groups have written their characteristics and monetary values on the whiteboards, the instructor moves the activity to group presentations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present in Groups </name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each group presents their categorizations and patterns they found (in general) to the class in short 30-60 sec presentations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Class Discussion</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After the group presentations, the instructor moves the activity to a class-wide discussion.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;The instructor never adds icons on the instructor nodes in this workflow. Can I add them by identifying what fits?&lt;/p&gt;</textHTML>
+<x>810</x>
+<y>810</y>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,95 @@
+<project><prname>Fireweed and seals, oh my! Mini cases in Population Ecology</prname>
+<idnum>56</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Fireweed and Seals, oh my! Mini Cases in Population Ecology</wfname>
+<wfauthor>By Edward Awad and Maxime Pelland</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/fireweed-and-seals-oh-my-mini-cases-in-population-ecology/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch assigned videos relating to population ecology, R and K selection, and the Leslie Matrix in population ecology&lt;/li&gt;&lt;li&gt;After reviewing the assigned material, perform a brief online quiz to assess knowledge before class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions and Issues</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Have a short discussion with the class answering any questions relating to the assigned material.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Have the class divide into groups of 3-4&lt;/li&gt;&lt;li&gt;Brieﬂy introduce the mini case studies&lt;/li&gt;&lt;li&gt;Present a series of multiple choice questions relating to the case studies&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find the Answers to Questions</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the question at hand prior to submitting individual answers via clicker (approximately 3 min per question).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>If Needed, Clarify the Questions</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Optional: If less than 70% of the class answers correctly, discuss the matter with the students, who can answer again as a group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

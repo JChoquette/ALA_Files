@@ -1,0 +1,106 @@
+<project><prname>Dictation: Read and Run</prname>
+<idnum>60</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Dictation: Read and Run</wfname>
+<wfauthor>By Avery Rueb</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>51</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/dictation-read-and-run/" target="_blank"&gt;here&lt;/a&gt;. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Optional: Practice the dictation using the text at home since access is granted to the text for the dictation activity in class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Print out the short text and place the printouts at the front of the class&lt;/li&gt;&lt;li&gt;Clear space (as much as possible) to allow students to move more freely from the back to the front of the class&lt;/li&gt;&lt;li&gt;Separate class into groups of 2 and are given instructions for the activity. Give roles to students&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>112</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Read and Memorize the Text</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;The Walker moves from the back of the class (where the Secretary is) to the front where the printouts of the text are and they read the text&lt;/li&gt;&lt;li&gt;The Walker memorizes a small portion of the text and walks back to the Secretary&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Write the Memorized Text Correctly</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;The Walker dictates what they memorized to the Secretary who writes it down as they listen&lt;/li&gt;&lt;li&gt;As the Secretary writes, the Walker makes sure they are writing the homophones and grammar rules correctly&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Revise the Text</name>
+<id>19</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Swap roles taking turns writing and memorizing/dictating&lt;/li&gt;&lt;li&gt;Once the dictation is finished, correct the texts autonomously, using the copy at the front of the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Reflective Writing Activity</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After this activity, ask the students to complete a reﬂective writing assignment on the text they read or as a springboard for a lesson in grammar.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

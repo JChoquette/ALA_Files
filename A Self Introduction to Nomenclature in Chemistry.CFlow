@@ -1,0 +1,76 @@
+<project><prname>A Self Introduction to Nomenclature in Chemistry</prname>
+<idnum>43</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>A Self Introduction to Nomenclature in Chemistry</wfname>
+<wfauthor>By Manlio Alessi</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>36</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/a-self-introduction-to-nomenclature-in-chemistry/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Using the Moodle quiz settings and questions provided, create two online quizzes, one for practice (unlimited attempts) and one to be graded. Both quizzes provide feedback for incorrect answers resulting from common errors&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Do the Practice Quiz</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;View two videos and review slides introducing nomenclature in chemistry&lt;/li&gt;&lt;li&gt;Take a practice quiz to practice naming (The quizzes are generated using randomly selected questions from the question bank. They are automatically corrected)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If needed, retake the practice quiz to build conﬁdence.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Take the Final Quiz</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Once practiced enough, attempt the second quiz, which is for marks and can be taken only once.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assess Student Answers to the Quiz</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Review the answers to the quizzes. Incorrect answers resulting from misunderstanding are added to the corresponding question along with feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

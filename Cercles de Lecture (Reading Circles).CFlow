@@ -1,0 +1,147 @@
+<project><prname>Cercles de Lecture (Reading Circles)</prname>
+<idnum>54</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Cercles de Lecture (Reading Circles)</wfname>
+<wfauthor>By Laetitia Desanti</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/cercles-de-lecture-reading-circles/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present a wide range of reading strategies to accommodate diﬀerent student learning types (note taking on paper or online and questions to ask while reading) &lt;/li&gt;&lt;li&gt;Give an introduction to the activity of Reading Circles&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Demonstrate  Strategy Application</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Guide the students through an application of the strategies presented using a short text.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflect on the Readings</name>
+<id>6</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the theme that will relate to the text that will be read for the activity (death, ghosts, or vampires).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Read and Analyze the Text</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read ”Masque de la mort rouge” at home using one of the three formats provided (paper, electronic, or audio)&lt;/li&gt;&lt;li&gt;Analyze and annotate the text using diﬀerent colored post-it notes, writing in the margins, etc.&lt;/li&gt;&lt;li&gt;Contribute the notes to a class-wide google doc (highlighting and deﬁning vocabulary words, inserting comments related to certain passages of the text, and posing questions they had while reading)&lt;/li&gt;&lt;li&gt;To prepare for the in-class activity, answer questions or outline the narrative structure of the text&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Analysis</name>
+<id>49</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Present the analysis to the group.&lt;/span&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Perspectives and Roles</name>
+<id>50</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Discuss the perspective the presenter has adopted or role they are playing (for example, if the student’s role is a linguist they might bring a word bank to go over with their group or analyze the language in a certain passage).&lt;/span&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>53</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Encourage students to synthesize and consolidate what they worked on in their groups&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Prompt them with questions related to the reading&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>50</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Assess Students' Reading Notes</name>
+<id>53</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Collect the reading notes and evaluate them to assess whether or not the students have succeeded in reading beyond the surface level.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Favorite Activity</name>
+<id>51</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Give a presentation to the class of their favorite group activity.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Note: There is an option to i&lt;span style="color: rgb(65, 65, 65);"&gt;ndividually prepare a project related to the reading and discussion.&lt;/span&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

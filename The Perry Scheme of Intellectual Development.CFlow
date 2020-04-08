@@ -1,0 +1,159 @@
+<project><prname>The Perry Scheme of Intellectual Development</prname>
+<idnum>74</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Perry Scheme of Intellectual Development</wfname>
+<wfauthor>By Cory Legassic</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/the-perry-scheme-of-intellectual-development/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Before class, prepare (4-5) statements associated with each of the 4 phases of student learning development&lt;/li&gt;&lt;li&gt;Cut and place them (uncategorized) into envelopes with written instructions pasted on the front of the envelope&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce the Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Place one envelope at each station &lt;/li&gt;&lt;li&gt;Divide the class into groups of 3-5 students &lt;/li&gt;&lt;li&gt;Circulate to facilitate the activity after giving verbal instructions (as well as written ones)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Group the Statements</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Place the statements into categories of ”types of students” based on identiﬁed patterns within the statements.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign a Name and Abstract to Groupings</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;After sorting the statements into coherent groupings, assign a name to each grouping (type of student) and an abstract visual representation of them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present the Groupings</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;A representative of each group:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Writes their groups’ sorting &lt;/li&gt;&lt;li&gt;Draws its visual representation on the board&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Class Discussion</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Stop the activity &lt;/li&gt;&lt;li&gt;Move to the stage of full class discussion, comparing groupings and categories&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss and Reflect on Groupings </name>
+<id>13</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As a class, the groups:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss their processes for organizing the groupings&lt;/li&gt;&lt;li&gt;Reﬂect on similarities and diﬀerences&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>16</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback on Student Work</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide feedback to students on their processing and sorting.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>13</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Present Perry's Scheme</name>
+<id>16</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present Perry’s scheme (&lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Cory_Legassic_Perry-Scheme.pdf" target="_blank"&gt;see attached document&lt;/a&gt;).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compare Groupings to Perry's Scheme</name>
+<id>18</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the differences between the categories students came up with and the theoretical pattern identiﬁed by Perry.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Wrap up the Activity</name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Close the activity by situating the scheme within the broader goals of the course &lt;/li&gt;&lt;li&gt;Take a photo of the students work &lt;/li&gt;&lt;li&gt;Send it to the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

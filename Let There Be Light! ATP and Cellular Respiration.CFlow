@@ -1,0 +1,77 @@
+<project><prname>Let there be light! ATP and cellular respiration</prname>
+<idnum>50</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Let There Be Light! ATP and Cellular Respiration</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>38</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/let-there-be-light-atp-and-cellular-respiration/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch an assigned video relating to cellular respiration&lt;/li&gt;&lt;li&gt;After reviewing the assigned material, perform a brief online quiz to assess the knowledge before class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Lead a short discussion with the class answering any questions relating to the assigned material&lt;/li&gt;&lt;li&gt;Divide the class into groups of 3-4&lt;/li&gt;&lt;li&gt;Brieﬂy introduce the luciferase case study&lt;/li&gt;&lt;li&gt;Present a series of questions relating to the case study&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address and Submit the Questions</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work together to answer the questions&lt;/li&gt;&lt;li&gt;Once complete, submit the answers to the instructor for evaluation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;instructor evaluation icon&lt;/p&gt;</textHTML>
+<x>490</x>
+<y>1550</y>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

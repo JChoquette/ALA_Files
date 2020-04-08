@@ -1,0 +1,128 @@
+<project><prname>Let's Role Play the French Revolution!</prname>
+<idnum>50</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Let&apos;s Role Play the French Revolution!</wfname>
+<wfauthor>By Diane Shea</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>39</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/a-review-activity-of-the-french-revolution/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class Activity</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the textbook &lt;/li&gt;&lt;li&gt;Watch a Power Point Presentation on the French Revolution&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Give a 5-minute presentation of the activity to the students &lt;/li&gt;&lt;li&gt;Assign each group to one of the ”estates” or ”classes” or groups (Clergy, Nobility, bourgeoisie, urban workers, peasantry, Parisian women of the Third Estate)&lt;/li&gt;&lt;li&gt;Hand out a grid the students will have to ﬁll out&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Task and Split into New Groups</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Refer to textbooks and class notes to create a ”best answer” for the given ’class’ or group, outlining the grievances, actions taken and gains/losses in each&lt;/li&gt;&lt;li&gt;Form new groups comprised of one member each of the six classes or groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions and Issues</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Circulate and engage with the students to answer any questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Concepts to Peers</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Explain the role of the assigned class or group to the other students who ﬁll out the complete grid.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Come up with the Best Answers</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Get back to the initial groups and report back to the class as a whole on the ”best answers”.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback to Students' Discussion</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Comment or add to what each student is saying to ensure that the information being shared is complete and correct.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Takeaways from the Activity</name>
+<id>15</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Reﬂect on how this information informs present-day social struggles and the roles of classes, privilege, and political action today.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

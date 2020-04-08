@@ -1,0 +1,183 @@
+<project><prname>Experimental Design in Neurobiology</prname>
+<idnum>50</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Experimental Design in Neurobiology</wfname>
+<wfauthor>By Joseph Dent</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<weekname>Week 1</weekname>
+<node><name>Activity Instructions</name>
+<id>29</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/experimental-design-in-neurobiology/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;In class, describe the experimental techniques that students will use in the lab.&lt;/p&gt;&lt;p&gt;In lab, teaching assistant (TA) demonstrates how to properly use the lab equipment that the students will need to perform experiments.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Practice Experimental Techniques</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In pairs, practice the experimental techniques demonstrated by the TA.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Form a Research Question</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review relevant neurobiology literature&lt;/li&gt;&lt;li&gt;Formulate a research question to address with the experiments&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>50</weekid>
+<weekname>Week 2</weekname>
+<node><name>Discuss Experiment Design</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Explain the scientific method&lt;/li&gt;&lt;li&gt;Discuss how to design and approach experiments&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Perform Experiment and Record Results</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In pairs, practice specific sets of experiments and record the results. &lt;/p&gt;&lt;p&gt;These experiments are available to use as part of the respective experimental design projects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Design Experimental Plan</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Using the techniques learned in lab, design an experimental plan to answer the respective research questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>49</weekid>
+<weekname>Week 3</weekname>
+<node><name>Present Experimental Plan</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present respective experimental designs/plans to the class&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Experimental Plan</name>
+<id>31</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Peer review each other’s experimental designs/plans.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Execute Experimental Plan &amp; Record Results</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Carry out the experimental plan and record observed results.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>48</weekid>
+<weekname>Week 4</weekname>
+<node><name>Discuss and Teach on Data Analysis</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss how to analyze and report experimental results&lt;/li&gt;&lt;li&gt;Teach relevant statistical techniques that can be used for data analysis&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Research Questions</name>
+<id>14</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Analyze the results of respective experiments&lt;/li&gt;&lt;li&gt;Provide a plausible answer to the research questions based on the data&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Finalize and Submit Project</name>
+<id>15</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finish any remaining experiments&lt;/li&gt;&lt;li&gt;Finalize project report&lt;/li&gt;&lt;li&gt;Submit the project to the instructor for assessment&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,146 @@
+<project><prname>Schools of Thought in Psychology</prname>
+<idnum>72</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Schools of Thought in Psychology</wfname>
+<wfauthor>By Selma Hamdani</wfauthor>
+<wfid>11</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>home</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Out of Class (Student)</columntext>
+<columnnodetext>Out of Class (Student)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>10</weekid>
+<node><name>Pair Concepts &amp; Schools of Thought</name>
+<id>1</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;The instructor prepares a list of three general psychological concepts (ex. fear). and pairs two schools of thought (behaviorist, structuralist, neuroscience, functionalist, psychoanalyst, humanistic) with each of the three concepts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Group Work</name>
+<id>2</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Splits the class into 6 teams.&lt;/li&gt;&lt;li&gt;Gives each pair of teams the same general theme/concept to research.&lt;/li&gt;&lt;li&gt;Asks each team to prepare their research from the perspective of one of the 6 schools of thought.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Research Concepts</name>
+<id>3</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In teams of two, students research their concept from the perspective they were given. They write down their ﬁndings and will use this to explain how their school of thought approaches their topic to their counterparts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Debate Schools of Thought</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>debate</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each team of two then debates with the team that shares the same concept (but has a diﬀerent school of thought), trying to come up with diﬀerent arguments and rebuttals.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select a Preferred School of Thought</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At the end of the debate the teams try to come up with a solution or an answer to which school of thought makes the most sense to them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Conclusions</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;A representative from each pair of teams volunteers to present their conclusions to the class&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine Goals</name>
+<id>7</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As a class, students discuss their ﬁndings in order to ascertain the goals of each of the 6 schools of thought&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Collect Writing</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;The instructor collects the written component completed by each team of two students.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Synthesize the Debate</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;At home, as paired teams, the students synthesize their debate and outline their consensus. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Submit Reflections</name>
+<id>59</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Each individual student completes a reﬂection assignment and submits it to the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;There needs to be an icon for instructor evaluation here. I can't find it in the list.&lt;/p&gt;</textHTML>
+<x>810</x>
+<y>1600</y>
+</comment>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

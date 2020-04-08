@@ -1,0 +1,117 @@
+<project><prname>The Matching Game</prname>
+<idnum>92</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Matching Game</wfname>
+<wfauthor>By Lori Jinbachian</wfauthor>
+<wfid>59</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>58</weekid>
+<node><name>Activity Instruction</name>
+<id>92</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and the material for the activity &lt;a href="https://www.saltise.ca/activity/the-matching-game/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare Activity</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Print questions and associated cards &lt;/li&gt;&lt;li&gt;Place them in ﬁle folders&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>51</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 3-4 students.&lt;/li&gt;&lt;li&gt;Explain the exercise&lt;/li&gt;&lt;li&gt;Distribute question folders one per group.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Problems</name>
+<id>53</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify what they will need to know and how to ﬁnd it in order to proceed.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Match Compounds</name>
+<id>54</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Match the group's compounds to the corresponding characteristic(s) of the compounds.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Students' Answers</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review student answers&lt;/li&gt;&lt;li&gt;Provide guidance if incorrect&lt;/li&gt;&lt;li&gt;Instruct students to take a photo if correct&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce a New Challenge</name>
+<id>56</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide a new ﬁle to the groups&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Repeat the Process of Solving Challenges</name>
+<id>57</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Repeat the process for all remaining ﬁles.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify what they will need to know and how to ﬁnd it in order to proceed.&lt;/li&gt;&lt;li&gt;Match the group's compounds to the corresponding characteristic(s) of the compounds.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

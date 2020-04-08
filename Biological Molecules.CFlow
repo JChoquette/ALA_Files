@@ -1,0 +1,129 @@
+<project><prname>Biological Molecules</prname>
+<idnum>38</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Biological Molecules</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnnodetext>Out of Class</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Activity Instructions</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/biological-molecules/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Use the sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings.&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do assigned readings and watch a video about lipids&lt;/li&gt;&lt;li&gt;Do a quiz through Moodle to test what is learned from the video and readings&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>148</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review material at the start of the class and answer any questions students might have from the pre-assigned readings&lt;/li&gt;&lt;li&gt;Introduce the activity and provide details of how to fill in the lipids table&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete Lipids Table</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Get into groups of 2-3 and fill in the lipids table.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 20 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review  Lipids Table</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Read through and correct the table of another group.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 15 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>80</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Student Questions</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Regroup the class to answer student questions&lt;/li&gt;&lt;li&gt;Proceed with clicker questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Clicker Questions</name>
+<id>13</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer clicker questions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 15 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Revise Answers</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;If the majority of the class answers incorrectly on a particular question, the instructor takes up that question with the entire class.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Correct Answers</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Return to their groups and change any incorrect answers on their table.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
