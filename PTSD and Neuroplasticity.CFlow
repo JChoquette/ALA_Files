@@ -1,0 +1,130 @@
+<project><prname>PTSD and Neuroplasticity</prname>
+<idnum>299</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>PTSD and Neuroplasticity</wfname>
+<wfauthor>By Daniel Goldsmith and Véronique Brulé</wfauthor>
+<wfdescription>&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/neuoplasticity/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into two teams: Team 1: mindfulness therapy can rewire the brain to treat trauma; Team 2: mindfulness therapy cannot rewire the brain to treat trauma&lt;/li&gt;&lt;li&gt;Choose 3-5 students (depending on the size of the class/teams) to act as judges for the debate&lt;/li&gt;&lt;li&gt;Introduce the idea of physiological changes resulting from trauma using video clip 1 and 2&lt;/li&gt;&lt;li&gt;Show video clip 3 discussing mindfulness as therapy to trauma&lt;/li&gt;&lt;li&gt;Describe the debate activity to the class&lt;/li&gt;&lt;li&gt;Provide students with &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Debate-Instructions-and-answers.pdf" target="_blank"&gt;instructions&lt;/a&gt; that include the guidelines and criteria for the debate activity&lt;/li&gt;&lt;li&gt;Pose the question: "Can mindfulness therapy actually reverse physiological effects of trauma in the brain through neuroplasticity?"&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>364</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Supporting Information</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Research information for their team&lt;/li&gt;&lt;li&gt;Take notes of important facts and references&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Research prompts are outlined in the instructions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Develop Argument </name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a Note Taker, Moderator, and 2 Presenters&lt;/li&gt;&lt;li&gt;Discuss their research&lt;/li&gt;&lt;li&gt;Put together a 5-minute argument&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Roles are outlined in the instructions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Debate</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Regroup the class to begin the debate&lt;/li&gt;&lt;li&gt;Act as a moderator and time-keeper&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present First Argument</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>debate</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;First Presenter from each team&lt;/p&gt;&lt;p&gt;Start presenting the argument to the class (5 minutes each).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on arguments from each team.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Develop Rebuttals</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Teams&lt;/p&gt;&lt;p&gt;Come up with a rebuttal to the opponent’s argument.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Rebuttals</name>
+<id>21</id>
+<lefticon>class</lefticon>
+<righticon>debate</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Second Presenter&lt;/p&gt;&lt;p&gt;Starts this round, presenting their rebuttal (maximum 5 minutes each).&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on rebuttals from each team.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine Winning Team</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Judges&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss their notes&lt;/li&gt;&lt;li&gt;Evaluate each team’s argument&lt;/li&gt;&lt;li&gt;Choose a winning team&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Arguments</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize arguments from both teams&lt;/li&gt;&lt;li&gt;Discuss mindfulness and neuroplasticity using video clip 4 and 5&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

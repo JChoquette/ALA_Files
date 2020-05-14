@@ -1,8 +1,9 @@
 <project><prname>In-Class Think Pieces: Course Pack</prname>
-<idnum>140</idnum>
+<idnum>246</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>In-Class Think Pieces: Course Pack</wfname>
 <wfauthor>By Charles-Albert Ramsay</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students role play in their groups as the CEO of Bombardier using think pieces related to exchange rates,&amp;nbsp;to understand the&amp;nbsp;effect of trade imbalances on the exchange rate. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/in-class-think-pieces-course-pack/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>14</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,15 +22,19 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>13</weekid>
-<node><name>Prepare for Class Activity</name>
+<node><name>Prepare Activity</name>
 <id>60</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare a question/prompt to guide one-page essay at the end of the discussions.&lt;/p&gt;&lt;p&gt;Note: Find an Overview of the Activity &lt;a href="https://www.saltise.ca/activity/in-class-think-pieces-course-pack/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare a question/prompt to guide one-page essay at the end of the discussion.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>1</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Prepare for Class</name>
@@ -43,43 +48,42 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Concepts</name>
+<node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Present the lecture on exchange rates.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Record Notes and Answer Questions</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the course pack to ﬁll in the blanks of their notes &lt;/li&gt;&lt;li&gt;Answer analytical questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>5</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<link><targetid>4</targetid>
-<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
-<linkstyle>dashed</linkstyle>
-</link>
 <tagARRAY/>
 </node>
-<node><name>Record Notes</name>
-<id>4</id>
-<lefticon>solo</lefticon>
-<righticon>write</righticon>
-<column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Use the course pack to ﬁll in the blanks of their notes &lt;/li&gt;&lt;li&gt;Answer analytical questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
-<node><name>Introduce Activity</name>
+<node><name>Initiate Case Study</name>
 <id>5</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Give the prompt to groups of 2-3:&lt;/p&gt;&lt;p&gt;'The exchange rate between Canada and Mexico over the past 10 years'&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Give groups of 2-3 the following prompt:&lt;/p&gt;&lt;p&gt;'The exchange rate between Canada and Mexico over the past 10 years'&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -90,9 +94,9 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;As the CEO of Bombardier, who is considering buying more plane parts from Mexico:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Consider the exchange rate and assumptions about the actions of others in the industry&lt;/li&gt;&lt;li&gt;Decide whether or not to increase imports and set up a plant in Mexico.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Case Study: As the CEO of Bombardier, who is considering buying more plane parts from Mexico:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Consider the exchange rate and assumptions about the actions of others in the industry&lt;/li&gt;&lt;li&gt;Decide whether or not to increase imports and set up a plant in Mexico&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -101,7 +105,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss what would happen to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mexico’s production capacity&lt;/li&gt;&lt;li&gt;Canada’s current account (ie.imports going up, going into a trade deﬁcit)&lt;/li&gt;&lt;li&gt;Canada’s capital account (deﬁcit) leading to imbalanced payments,&lt;/li&gt;&lt;li&gt;Mexico’s capital accounts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discuss the relationship between Canada's capital accounts and Mexico's capital accounts&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss what would happen to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mexico’s production capacity&lt;/li&gt;&lt;li&gt;Canada’s current account (ie.imports going up, going into a trade deﬁcit)&lt;/li&gt;&lt;li&gt;Canada’s capital account (deﬁcit) leading to imbalanced payments&lt;/li&gt;&lt;li&gt;Mexico’s capital accounts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discuss the relationship between Canada's capital accounts and Mexico's capital accounts.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>174</textheight>
 <isdropped>true</isdropped>
@@ -110,7 +114,7 @@
 <node><name>Predict Effect on Exchange Rate</name>
 <id>9</id>
 <lefticon>group</lefticon>
-<righticon>discuss</righticon>
+<righticon>analyze</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Synthesize information to predict how the imbalance might eﬀect the overall exchange rate.&lt;/p&gt;&lt;p&gt;Note: During their discussions students are helping each other grasp the material better, teaching each other, and making sure everyone has understood the implications of their answers.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
@@ -118,12 +122,12 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Address Questions in a 1-page Response</name>
+<node><name>Address Questions in a 1-Page Response</name>
 <id>10</id>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Write a 1 page response to broad questions about the eﬀect on tourism and the effect on them personally.&lt;/li&gt;&lt;li&gt;Submit to the instructor.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a 1 page response to question/prompt provided by the Instructor about the eﬀect on tourism and the effect on them personally&lt;/li&gt;&lt;li&gt;Submit to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -134,9 +138,9 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Give a participation mark to each student who handed in work&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Give a participation mark to each student who handed in work.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -147,7 +151,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;After reading all of the answers of the students, provide verbal feedback and any needed clariﬁcation based on common errors.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>

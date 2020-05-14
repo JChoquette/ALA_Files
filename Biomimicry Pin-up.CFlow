@@ -1,0 +1,123 @@
+<project><prname>Biomimicry Pin-up</prname>
+<idnum>74</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Biomimicry Pin-up</wfname>
+<wfauthor>By Jamie Miller</wfauthor>
+<wfdescription>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;In this multiple-class activity, students research &lt;/span&gt;biomimetic design to create a poster that showcases how to apply the biology of an organism. Students will understand what comprises a visually appealing, clear, and engaging poster, and be able to apply biomimicry methodology to their design. &lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/arts-biomimicry_pin-ups/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Research Biomimicry</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Research biomimetic design to deliver the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3 bio-data sheets that communicate functional strategies in an organism or system in nature&lt;/li&gt;&lt;li&gt;3 examples of biomimicry technologies&lt;/li&gt;&lt;li&gt;1 biomimetic design that is abstracted from 1 of 3 organisms&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create a Poster on Biomimicry Design</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Create a 11 x 17 in poster, which showcases a biomimetic design synthesized by the student themselves using biomimetic methodology. &lt;/p&gt;&lt;p&gt;Note: The poster should be kept anonymous.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Critique Posters </name>
+<id>7</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Pin up individual posters and critique other's posters from three different levels:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;"6 ft" - Does the poster draw you in? Do you get the overall concept?&lt;/li&gt;&lt;li&gt;"3 ft" - After reading a few words, would you want to keep reading it?&lt;/li&gt;&lt;li&gt;"1 ft" - Assess the details of the poster&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>166</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Critique Posters</name>
+<id>32</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Critique (formative assessment) some of the posters with the class (what worked, what didn’t work etc.).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Integrate Feedback</name>
+<id>9</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Edit individual posters based on feedback from the instructor and from peers&lt;/li&gt;&lt;li&gt;Work on the rest of the project&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>90</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Finalize Poster Revisions</name>
+<id>11</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finish editing posters and working on their project&lt;/li&gt;&lt;li&gt;Submit a digital booklet (11 x 17 in format) to the online course website&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Project with Final Poster</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present individual project (typically using PowerPoint) including final draft of poster.&lt;/p&gt;&lt;p&gt;Recommended time: 10 min each&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Projects</name>
+<id>52</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Evaluate with a &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Rubric_instructionsfor_presentation_Biomimicry.pdf" target="_blank"&gt;grading rubric&lt;/a&gt; on the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Level of biological abstraction&lt;/li&gt;&lt;li&gt;Level of contribution&lt;/li&gt;&lt;li&gt;Presentation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>112</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

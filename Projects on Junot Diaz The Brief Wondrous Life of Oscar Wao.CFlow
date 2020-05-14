@@ -1,0 +1,222 @@
+<project><prname>Projects on Junot Diaz: &quot;The Brief Wondrous Life of Oscar Wao&quot;</prname>
+<idnum>427</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Projects on Junot Diaz: &quot;The Brief Wondrous Life of Oscar Wao&quot;</wfname>
+<wfauthor>By Jeffrey Gandell</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students engage in a collaborative process to produce websites that showcase their individual creative works that are inspired by a thematic analysis of a novel.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/projects-on-junot-diaz-the-brief-wondrous-life-of-oscar-wao/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>337</weekid>
+<weekname>Class 1</weekname>
+<node><name>Prepare Activity</name>
+<id>54</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Direct students to choose groups of 4 before the first class&lt;/li&gt;&lt;li&gt;Prepare a video introducing the &lt;a href="https://102fiction.wordpress.com/oscar-wao-material/" target="_blank"&gt;WordPress platform&lt;/a&gt; and print templates&lt;strong&gt; &lt;/strong&gt;for students to use during brainstorm&lt;/li&gt;&lt;li&gt;Introduce the final assignment and its guidelines&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Begin reading the novel: "The Brief Wondrous Life of Oscar Wao", by Junot Diaz&lt;/li&gt;&lt;li&gt;Learn how to use the WordPress platform using the video created by the instructor&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: By Class 1, read until midway through the novel.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Identify Theme of Novel</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Come up with a one-word theme that relates to the novel&lt;/li&gt;&lt;li&gt;Write it down on a piece of paper and give it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Filter the Most Relevant Themes</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose the words/themes that are the most interesting and relevant to the novel&lt;/li&gt;&lt;li&gt;Place words in a hat in preparation for the next class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>123</weekid>
+<weekname>Class 2</weekname>
+<node><name>Select Random Theme</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pick one word/theme from the hat&lt;/li&gt;&lt;li&gt;Use chosen theme to inspire their engagement with and analysis of the novel&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>122</weekid>
+<weekname>Class 3 &amp; 4</weekname>
+<node><name>Draft Ideas Using Template</name>
+<id>10</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Brainstorm ideas following a &lt;a href="https://102fiction.files.wordpress.com/2017/10/brainstorming.pdf" target="_blank"&gt;template&lt;/a&gt; provided by the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>1</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Develop Proposal</name>
+<id>12</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Work on the proposal for three weeks.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>121</weekid>
+<weekname>Class 6</weekname>
+<node><name>Recommend Grading Criteria</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;First Part of Class&lt;/p&gt;&lt;p&gt;Create a grading scheme for their individual work, highlighting 3 main factors on which they think they should be graded.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>98</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>14</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<link><targetid>70</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Decide Grading Criteria</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Read students' criteria and compile a list that will become the grading criteria for students' final individual work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Give Peer Feedback</name>
+<id>70</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Second Part of Class&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review and evaluate each others' work&lt;/li&gt;&lt;li&gt;Give their work and the other students' feedback to the instructor, who will add their own feedback before giving the proposals back&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>15</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>120</weekid>
+<weekname>Class 8 &amp; 9</weekname>
+<node><name>Develop Blog</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Create their group's blog over two classes.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Produce Creative Piece</name>
+<id>16</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Work on an individual creative piece that relates to the theme selected with their group at the beginning of the project.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>  Add Individual Pieces to the Blog</name>
+<id>18</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Assemble individual creative pieces that contribute to the blog.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>119</weekid>
+<weekname>Class 12 &amp; 13</weekname>
+<node><name>Share and Discuss Blogs</name>
+<id>20</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Submit projects for Class 12&lt;/li&gt;&lt;li&gt;Showcase work and present it to the rest of the class&lt;/li&gt;&lt;li&gt;Discuss each presentation and ask each other questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

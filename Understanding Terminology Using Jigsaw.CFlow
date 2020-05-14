@@ -1,0 +1,119 @@
+<project><prname>Understanding Terminology Using Jigsaw</prname>
+<idnum>214</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Understanding Terminology Using Jigsaw</wfname>
+<wfauthor>By Heather Martin</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity,&amp;nbsp;students learn how to define program areas of recreation programming and, using a jigsaw strategy, they explore how to link it with different program formats. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/understanding-terminology-using-jigsaw/&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Read introductory materials provided by the instructor on their assigned program area and on program formats.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide class in groups&lt;/li&gt;&lt;li&gt;Explain the structure of the activity&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students have already been assigned a program area.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>5-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explore Program Area</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Review the details of their program area (e.g. what courses could fit it, its clientele, etc.).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Divide Groups and Assign Format</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Direct students to change groups so that each new group is made up of one student from each program area&lt;/li&gt;&lt;li&gt;Assign each new group one program format: workshop, events, competitive, recreational or instructional&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Program in a Certain Format </name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Learn about the program format and share how it can be applied to each student's assigned program area.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explore Different Formats</name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Return to original groups&lt;/li&gt;&lt;li&gt;Discuss how each program format could fit with their program area&lt;/li&gt;&lt;li&gt;Create an overview of that area's programming department&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15-20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>14</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Lessons</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Lead a discussion on lessons learned.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

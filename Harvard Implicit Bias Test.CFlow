@@ -1,8 +1,9 @@
 <project><prname>Harvard Implicit Bias Test</prname>
-<idnum>188</idnum>
+<idnum>315</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Harvard Implicit Bias Test</wfname>
 <wfauthor>By Susan Finch</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students&amp;nbsp;take the Harvard implicit bias test and confront their own implicit and explicit biases to make them better able to mitigate their relationships&amp;nbsp;with patients and colleagues&amp;nbsp;in their internships and future careers. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/harvard-implicit-bias-test/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>12</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,15 +22,19 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>11</weekid>
-<node><name>Prepare for Class Activity</name>
+<node><name>Prepare Activity</name>
 <id>54</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare 4 discussion questions for end-of-class discussion&lt;/p&gt;&lt;p&gt;Note: Find overview of Activity &lt;a href="https://www.saltise.ca/activity/harvard-implicit-bias-test/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare 4 discussion questions for end-of-class discussion&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>1</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Prepare for Class</name>
@@ -37,13 +42,13 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Students read a text in their course-pack pertaining to research on stigmatized populations&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read a text in their course-pack pertaining to research on stigmatized populations&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Concepts</name>
+<node><name>Introduce Activity</name>
 <id>2</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -59,10 +64,25 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss implicit and explicit biases, both pedagogically and at a more personal level for students.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss implicit and explicit biases, both pedagogically and at a more personal level.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Direct Students to Online Test</name>
+<id>202</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Direct students to access and complete two sections of the Harvard Implicit Bias test.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Complete Bias Tests</name>
@@ -70,7 +90,7 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Complete the Harvard Implicit Bias test on obese vs thin people using a computer.&lt;/li&gt;&lt;li&gt;Choose and complete a second test (relating to nationality, race, gender, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete the Harvard Implicit Bias test on obese vs thin people using a computer&lt;/li&gt;&lt;li&gt;Choose and complete a second test (relating to nationality, race, gender, etc.)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -95,28 +115,12 @@
 </link>
 <tagARRAY/>
 </node>
-<node><name>Facilitate Discussion</name>
-<id>175</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Prompt student discussion using prepared questions.&lt;/p&gt;&lt;p&gt;Ex. Would you be comfortable with your future employer knowing the results of this test, why or why not?)&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<link><targetid>7</targetid>
-<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-<linkstyle>dashed</linkstyle>
-</link>
-<tagARRAY/>
-</node>
 <node><name>Discuss Impact of Biases</name>
 <id>7</id>
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss questions prompted by the instructor.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss questions prompted by the instructor.&lt;/p&gt;&lt;p&gt;Ex. Would you be comfortable with your future employer knowing the results of this test, why or why not?&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -126,26 +130,51 @@
 </link>
 <tagARRAY/>
 </node>
-<node><name>Record Answers</name>
+<node><name>Record Answers 
+and Submit</name>
 <id>8</id>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Finish answering the questions on their laptops &lt;/li&gt;&lt;li&gt;Submit work into the instructor before the end of the class.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Instead of: &lt;em&gt;Once they have ﬁnished answering the questions on their laptops they hand their work into the instructor before the end of the class.&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finish answering the questions on their laptops&lt;/li&gt;&lt;li&gt;Submit work into the instructor before the end of the class.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Engage in Follow-up Discussion</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Review and share experiences and insights.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Facilitate Follow-up Discussion</name>
-<id>9</id>
+<id>218</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Lead another class-wide discussion on what students got out of the exercise, especially related to their own biases and their view of how biases are unavoidable and do not necessarily make you a bad person&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Facilitate another class-wide discussion on what students got out of the exercise, especially related to own biases and view of how biases are unavoidable and do not necessarily make you a bad person.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Add Journal Entry</name>
@@ -153,18 +182,13 @@
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;OPTIONAL:&lt;/p&gt;&lt;p&gt;An optional writing assignment that can be given at the end of this assignment is structured as a journal entry (one of ﬁve completed throughout the course) about what the students learned about themselves and the concepts in this activity.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete a writing assignment that can be given at the end of this assignment is structured as a journal entry.&lt;/p&gt;&lt;p&gt;Note: This is an optional assignment (one of ﬁve completed throughout the course) about what the students learned about themselves and the concepts in this activity.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>130</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;Define quiz/test as regarding content or assessed by instructor? Does this require a Media icon?&lt;/p&gt;</textHTML>
-<x>240</x>
-<y>106</y>
-<commentparent>4</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

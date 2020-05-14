@@ -1,0 +1,109 @@
+<project><prname>Understanding Agro-Ecosystems by Observing, Writing and Discussing</prname>
+<idnum>78</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Understanding Agro-Ecosystems by Observing, Writing and Discussing</wfname>
+<wfauthor>By Caroline Begg</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity,&amp;nbsp;students visits a farm several times to&amp;nbsp;engage in a critical analysis of that ecosystem. Then&amp;nbsp;in groups, students engage in a class discussion to provide a deeper analysis of the complexity of that system. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/agri-understanding-agro-ecosystems-by-observing-writing-and-discussing/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instructor</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>In Class (Instructor)</columntext>
+<columnnodetext>In Class (Instructor)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a list of questions that students can ask the farmer/person in charge in order to acquire valuable information during the visit and send them to the students. The questions change depending on the visit.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Learn Through Inquiry  at a Farm</name>
+<id>5</id>
+<lefticon>class</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Visit the farm with the instructor&lt;/li&gt;&lt;li&gt;Ask questions to learn more about the site&lt;/li&gt;&lt;li&gt;On the way back to school, write a reflection analyzing the site they just visited&lt;/li&gt;&lt;li&gt;Give the reflection to the TA, except for the members of the groups that will be presenting&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Inquire about a different issue each week.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Plan Class Facilitation on Themes</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a facilitation plan on the main themes that emerged through the site visit&lt;/li&gt;&lt;li&gt;Submit a one-page outline of the themes covered and each member's role in the facilitation before the following class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Groups rotate to plan and facilitate the discussion each week.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Discuss Themes</name>
+<id>10</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Explore more in depth the themes that the facilitating group deemed to be most relevant during the site visit.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Complete Site Reports</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Write and submit a 2-page report for 5 of the 11 site visits.&lt;/p&gt;&lt;p&gt;Note: The group that facilitates cannot write a report for the same site visit.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>98</textheight>
+<isdropped>true</isdropped>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for each 
+of 11 site visits</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1010</wflegendx>
+<wflegendy>210</wflegendy>
+</wfdata></workflow>
+</project>

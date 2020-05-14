@@ -1,0 +1,124 @@
+<project><prname>Poetic Literary Jeopardy</prname>
+<idnum>54</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Poetic Literary Jeopardy</wfname>
+<wfauthor>By Vanessa Vandergrift</wfauthor>
+<wfdescription>&lt;p&gt;See a full description&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/poetic/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name/>
+<id>35</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Preparatory materials used in this class can be found on the activity page, in the "complete materials" folder.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Over a few weeks&lt;/p&gt;&lt;p&gt;Read and learn about the poetic and literary elements that will be part of the "knowledge toolbox" for the course.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Actiivty</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into groups according to the number of smart-boards available (If using this technology)&lt;/li&gt;&lt;li&gt;Stream the Jeopardy rubric screen to all boards&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Follow the rules:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pick a category and dollar value, one group at a time&lt;/li&gt;&lt;li&gt;During the allotted time, each group writes the answer on their smart board computer. Once time is up, the answers pop up on the boards&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>36</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Manage Rounds of the Game</name>
+<id>36</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Set a timer for each question depending on the difficulty&lt;/li&gt;&lt;li&gt;Once time is up, stop streaming the screen and students' answers pop up on their boards&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If desired, and to increase engagement, run a final jeopardy, "all-or-nothing" round. This means that students decide the dollar value they would like to wager and the instructor chooses a category and a problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>23</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Responses to Each Question</name>
+<id>23</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss their answers after each question, until class ends or all categories/dollar values have been picked.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>Repeat as 
+needed</linktext>
+</link>
+<link><targetid>25</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz on Poetic and Literary Elements</name>
+<id>25</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;p&gt;Respond to a quiz on literary and poetic elements.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

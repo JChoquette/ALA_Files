@@ -1,0 +1,85 @@
+<project><prname>The Right Tool for the Right Job</prname>
+<idnum>69</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Right Tool for the Right Job</wfname>
+<wfauthor>By Lori Jinbachian</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students arrange a set of cards to explore the process of solving a chemistry problem and identify the tools required to obtain a solution. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/the-right-tool-for-the-right-job/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Print &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Review_activityChem_NYB_RightTool_Right-Job.pdf" target="_blank"&gt;questions and associated cards&lt;/a&gt; and place in ﬁle folders.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 3-4 students&lt;/li&gt;&lt;li&gt;Explain the exercise&lt;/li&gt;&lt;li&gt;Distribute question folders to each group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine a Solution Using Cards</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify the cues in the text&lt;/li&gt;&lt;li&gt;Determine which cards are needed to solve the problem(s) and place them in order of use&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Group Work</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the answers. If incorrect, provide guidance. If correct, instruct students to take a photo&lt;/li&gt;&lt;li&gt;Provide new page with problem and cards for the groups to repeat the process until all solutions have been found&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>126</textheight>
+<isdropped>true</isdropped>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for all cards</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

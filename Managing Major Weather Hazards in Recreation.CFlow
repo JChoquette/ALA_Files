@@ -1,0 +1,135 @@
+<project><prname>Managing Major Weather Hazards in Recreation</prname>
+<idnum>116</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Managing Major Weather Hazards in Recreation</wfname>
+<wfauthor>By Heather Martin</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students create and perform a skit to demonstrate how a group should respond to various weather events, teaching each other guidelines&amp;nbsp;established by&amp;nbsp;Emergency Preparedness Canada. Students learn to communicate with the press and in front of others. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/crlt-managing-major-weather-hazards-in-recreation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class up in groups&lt;/li&gt;&lt;li&gt;Give each group the prompt - weather condition / context - for students to recreate in their 1-3 min performance&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Examine Health Canada Guidelines</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Research Health Canada's guidelines for how to respond to their weather prompt.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>5-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Prepare to Perform Guidelines</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign roles as &lt;span style="color: rgb(65, 65, 65);"&gt;(1) the interviewer, (2) the person in charge and (3) others that act out the situation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Create the skit / performance that &lt;span style="color: rgb(65, 65, 65);"&gt;Integrates all the response steps given by&amp;nbsp;&lt;/span&gt;&lt;a href="https://www.getprepared.gc.ca/index-eng.aspx" target="_blank" style="color: rgb(25, 118, 188);"&gt;Emergency Preparedness Canada&lt;/a&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;, to demonstrate the appropriate response to their assigned weather condition&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>136</textheight>
+<timevalue>15-20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Skit Preparation</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Walk around to give advice and ensure that students are correctly integrating the guidelines in their skits&lt;/li&gt;&lt;li&gt;Direct students to perform (option #1) or record (option #2) the skits&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Perform Live or Record	</name>
+<id>111</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Option #1: Each group performs their skit in front of the rest of the class.&lt;/p&gt;&lt;p&gt;Option #2: Record their performance through a video.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Performance of Guidelines</name>
+<id>114</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Option #1: Briefly discuss each performance.&lt;/p&gt;&lt;p&gt;Option #2: If performance is recorded, show videos at the beginning of the next class, and briefly discuss each video skit.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10-15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Check and Correct Use of Guidelines</name>
+<id>16</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Ensure that all guidelines were covered correctly&lt;/li&gt;&lt;li&gt;Explain anything that was unclear&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>114</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

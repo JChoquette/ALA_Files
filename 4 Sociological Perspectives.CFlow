@@ -1,0 +1,221 @@
+<project><prname>4 Sociological Perspectives</prname>
+<idnum>263</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>4 Sociological Perspectives</wfname>
+<wfauthor>By Cory Legassic</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students explore&amp;nbsp;four&amp;nbsp;major&amp;nbsp;sociological frameworks. Given a number of statements, they engage in a creative process to&amp;nbsp;identify patterns and highlight core assumptions that group certain statements. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/4-sociological-perspectives/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>17</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>16</weekid>
+<node><name>Prepare Activity</name>
+<id>1</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare five statements (refer here for examples) related to each of the 4 perspectives&lt;/li&gt;&lt;li&gt;Place these sentences out of order into envelopes&lt;/li&gt;&lt;li&gt;Print &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Statements-and-Envelope-Instructions.pdf" target="_blank"&gt;instructions&lt;/a&gt; and paste on the envelope&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>2</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>  Introduce Activity</name>
+<id>2</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Place the envelopes at each desk/work station&lt;/li&gt;&lt;li&gt;Divide the class into groups of 3-5&lt;/li&gt;&lt;li&gt;Briefly introduce the role of theoretical perspectives within the ﬁeld of sociology without identifying them&lt;/li&gt;&lt;li&gt;Explain the activity instructions while students follow along with on the printed handout&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explore Connections</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Identify and debate informally the similarities and connections among the diﬀerent statements.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Group Statements by Perspective</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Sort the statements into four groups based on what they think reﬂect sociological perspectives.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussions</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Monitor group work; visit each of the groups and aﬃrm choices or asks guiding questions to facilitate the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Create Names and Logos</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Assign a name and abstract representation (e.g. a logo) for each category.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Categories</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a group representative&lt;/li&gt;&lt;li&gt;Write on the smart board/poster board the way in which they chose to categorize the sentences&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Initiate Class Discussion</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Stop the activity to move to the next phase of class-wide discussion on the topic&lt;/li&gt;&lt;li&gt;Ask pointed questions to facilitate a presentation of each of the four perspectives&lt;/li&gt;&lt;li&gt;Call on groups that have identiﬁed one of the categories&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>   Summarize Findings</name>
+<id>10</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In response to a prompt from the instructor, summarize group findings related to the perspective being discussed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Explain Perspectives</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present each of the 4 theoretical perspectives, referencing the language chosen by the groups in their discussion&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for each of 
+the 4 perspectives</linktext>
+</link>
+<link><targetid>120</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Review</name>
+<id>120</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Move on to facilitate a class-wide review of group work.&lt;/p&gt;&lt;p&gt;Note: Take a photo of the students work to send it to the class. Creatively integrate the names and abstract representations created by the students.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>112</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Outcomes of Group Work</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Share similarities, points of tension, and ambiguities found during categorization and theorizing.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prompt Discussion with an Example</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Offer an example to facilitate a discussion of the four perspectives.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>14</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Explore Theoretical Application</name>
+<id>14</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Apply the theory to the given example by identifying how the case can be parsed into the 4 perspectives.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

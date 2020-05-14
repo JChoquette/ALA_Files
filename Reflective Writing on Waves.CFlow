@@ -1,0 +1,131 @@
+<project><prname>Reflective Writing on Waves</prname>
+<idnum>73</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Reflective Writing on Waves</wfname>
+<wfauthor>By Chris Whittaker
+</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a reflective writing exercise on waves that offers feedback for the instructor on which topics to be covered in the following group activity. Students will be able to review material that addresses misconceptions or difficulties. &lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/reflective-writing-on-waves/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete an assigned reading on waves, introducing concepts such as wavelength, phase, and types of waves&lt;/li&gt;&lt;li&gt;Engage in a “free-write” exercise, a reflective writing about the concepts they struggle to understand. Write any problems encountered or questions. This should be only a few paragraphs&lt;/li&gt;&lt;li&gt;Submit reflective writing by email or online feature, at least 3 hours before class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>204</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare Activity</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read through a sample of the reflective writings&lt;/li&gt;&lt;li&gt;Produce a “word cloud” (for example using wordle.net) of the reflective writings, giving an overview of the topics most commonly mentioned&lt;/li&gt;&lt;li&gt;Design problems for student groups to explore the topics that were difficult, according to the reflective writings&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>168</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 3-6.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>42</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Decide on a Superquestion</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Attempt to come up with a "superquestion", a question related to the reading to which no one knows the answer.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Lead a class discussion to explore the answers to each group's superquestion.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Problems</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present the problems, one at a time, of those chosen based on the reflective writings. &lt;/p&gt;&lt;p&gt;Note: These problems should increase in difficulty.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>92</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>17</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Solve Difficult Problems</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss and solve problems on difficult material.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>22</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Material and Reflective Writings</name>
+<id>22</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;For each problem, recap the material and selected samples of the reflective writings with instructor annotations.&lt;/p&gt;&lt;p&gt;Note: These samples should be kept anonymous.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<link><targetid>40</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for 
+each problem</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

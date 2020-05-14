@@ -1,0 +1,130 @@
+<project><prname>Organic Chemistry Flipped Classroom</prname>
+<idnum>83</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Organic Chemistry Flipped Classroom</wfname>
+<wfauthor>By Caroline Cormier and Bruno Voisard
+</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, the class is flipped in order for students to be more engaged and receive extra help if needed. At the end of the semester, students will have produced a portfolio containing all of their organic chemistry exercises completed throughout the semester. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chem-organic_-chemistry_flipped_classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Before the start of the semester, prepare two to four 6-minute videos for each class during the semester. The videos cover the easier topics within the course&lt;/li&gt;&lt;li&gt;Before each class, prepare 1-3 one-sided portfolio (PF) &lt;u&gt;organic chemistry activity sheets&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If students have 2 classes per week, the number of videos per week does not exceed 5.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Watch two to four videos assigned by the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>31</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Ask if there are any questions about the videos&lt;/li&gt;&lt;li&gt;Write them down and answer them (in an order decided upon by the instructor)&lt;/li&gt;&lt;li&gt;Hand out the PF activity sheet and circulate to answer any questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>136</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Activity Sheets</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete each PF activity sheet&lt;/li&gt;&lt;li&gt;If there are two to three activity sheets, work on each sheet consecutively&lt;/li&gt;&lt;li&gt;Submit all activity sheets at the end of class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students are given the choice to work in pairs or individually.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15-30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Provide Feedback</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate the PF activity sheet as a formative assessment, without giving the final answers. Give students a star if their answer is correct or an X, or a tip on how to correct it, if it is incorrect&lt;/li&gt;&lt;li&gt;Return PF activity sheets to students&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Correct Activity Sheets</name>
+<id>12</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Before each test&lt;/p&gt;&lt;p&gt;Correct PF activity sheets and submit.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>13</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Activity Sheets</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Evaluate the PF activity sheets after each submission.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each incorrect answer is considered (whether it was an answer not corrected at all based on the formative assessment or whether it was an answer corrected incorrectly)&lt;/li&gt;&lt;li&gt;Each submission is worth 1% of their final mark (For total of 5% of their final mark)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>204</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Produce a Portfolio</name>
+<id>14</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Collect PF activity sheets and include them in a portfolio.&lt;/p&gt;&lt;p&gt;Note: At the end of the semester, the portfolio will contain all of the organic chemistry exercises completed throughout the semester. For example, if there were 5 exams, there will be 5 sets of PF activity sheets.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
