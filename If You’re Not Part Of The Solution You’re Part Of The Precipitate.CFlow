@@ -1,0 +1,92 @@
+<project><prname>If You’re Not Part of the Solution You’re Part of the Precipitate</prname>
+<idnum>56</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>If You’re Not Part of the Solution You’re Part of the Precipitate</wfname>
+<wfauthor>By Carmen Leung</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are&amp;nbsp;presented with the concepts of solubility and the skills for writing proper chemical equations in an engaging and memorable way. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chemistry-if-youre-not-part-of-the-solution-youre-part-of-the-precipitate/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>home</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Out of Class (Students)</columntext>
+<columnnodetext>Out of Class (Students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a set of cue cards each with one chemical compound using the provided list.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of two&lt;/li&gt;&lt;li&gt;Distribute the cue cards, one per subgroup&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete Equations for the Precipitate</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Seek out another group that has a compound which will form a precipitate with theirs&lt;/li&gt;&lt;li&gt;Work together to write the molecular formula, complete ionic, and net ionic equations for the reaction&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Other Groups' Equations</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Once the work has been completed, the groups pair with another group and evaluate each other’s work&lt;/li&gt;&lt;li&gt;Check that the equations are written properly, are balanced, indicate the correct state for each substance, and include appropriate charges for the ions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Final Grade for the Equations</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give students' work final evaluation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

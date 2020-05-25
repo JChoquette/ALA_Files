@@ -1,8 +1,9 @@
-<project><prname>Let's Role Play the French Revolution!</prname>
-<idnum>50</idnum>
+<project><prname>Let&apos;s Role Play the French Revolution!</prname>
+<idnum>110</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Let&apos;s Role Play the French Revolution!</wfname>
 <wfauthor>By Diane Shea</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take on the role of a participant in the French Revolution to think about the multifaceted factors that lead to a state of revolution, historical transformation, and class in its context.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/a-review-activity-of-the-french-revolution/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>39</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/a-review-activity-of-the-french-revolution/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
-<node><name>Prepare for Class Activity</name>
+<node><name>Prepare for Activity</name>
 <id>3</id>
 <lefticon>solo</lefticon>
-<righticon>research</righticon>
+<righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read the textbook &lt;/li&gt;&lt;li&gt;Watch a Power Point Presentation on the French Revolution&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the textbook&lt;/li&gt;&lt;li&gt;Watch a PowerPoint Presentation on the French Revolution&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -49,7 +38,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Give a 5-minute presentation of the activity to the students &lt;/li&gt;&lt;li&gt;Assign each group to one of the ”estates” or ”classes” or groups (Clergy, Nobility, bourgeoisie, urban workers, peasantry, Parisian women of the Third Estate)&lt;/li&gt;&lt;li&gt;Hand out a grid the students will have to ﬁll out&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Give a 5-minute presentation of the activity to the students&lt;/li&gt;&lt;li&gt;Assign each group to one of the ”estates” or ”classes” or groups (Clergy, Nobility, Bourgeoisie, Urban Workers, Peasantry, Parisian Women of the Third Estate)&lt;/li&gt;&lt;li&gt;Hand out a grid the students will have to ﬁll out&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>138</textheight>
 <isdropped>true</isdropped>
@@ -60,21 +49,14 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Refer to textbooks and class notes to create a ”best answer” for the given ’class’ or group, outlining the grievances, actions taken and gains/losses in each&lt;/li&gt;&lt;li&gt;Form new groups comprised of one member each of the six classes or groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Refer to textbooks and class notes to create a ”best answer” for the given "class" or group, outlining the grievances, actions taken and gains/losses in each&lt;/li&gt;&lt;li&gt;Form new groups comprised of one member each of the six classes or groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>154</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Address Questions and Issues</name>
-<id>9</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Circulate and engage with the students to answer any questions.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Explain Concepts to Peers</name>
@@ -91,12 +73,16 @@
 <node><name>Come up with the Best Answers</name>
 <id>12</id>
 <lefticon>class</lefticon>
-<righticon>analyze</righticon>
+<righticon>discuss</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Get back to the initial groups and report back to the class as a whole on the ”best answers”.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>15</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Give Feedback to Students' Discussion</name>
@@ -108,6 +94,10 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Share Takeaways from the Activity</name>

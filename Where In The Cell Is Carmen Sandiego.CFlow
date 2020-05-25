@@ -1,0 +1,77 @@
+<project><prname>Where in the Cell is Carmen Sandiego?</prname>
+<idnum>48</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Where in the Cell is Carmen Sandiego?</wfname>
+<wfauthor>By Todd Nickle</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are separated into groups and are tasked with finding out where in the cell Carmen Sandiego is hiding with clues. In this activity, students learn to understand the role of different cellular organelles and their location in the cell. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bio-carmen-san/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare poster boards (5 total) with molecules/organelles/compartment squares pinned on Clues are hidden on the back of each square.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Set up &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Carmen-Board-and-Cards.pdf" target="_blank"&gt;poster boards&lt;/a&gt; around the classroom or seminar room&lt;/li&gt;&lt;li&gt;Explain the activity to the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Clue and Check for Correctness</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of 4-5&lt;/li&gt;&lt;li&gt;Go to one of the poster boards&lt;/li&gt;&lt;li&gt;Solve an initial clue given by the instructor&lt;/li&gt;&lt;li&gt;Decide as a team which molecule, organelle, or compartment the clue is referring to&lt;/li&gt;&lt;li&gt;Flip over the first molecule/organelle square and see if they are correct&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Work through clues on each square they flip over to decipher where Carmen Sandiego is hiding. If they get a clue wrong, they restart their trail from the first clue. The first group to find Carmen Sandiego wins!&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>246</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Clue Trail and Answer Questions</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Regroup the class and discuss the correct "clue trail" for each poster&lt;/li&gt;&lt;li&gt;Answer any questions to address student misconceptions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

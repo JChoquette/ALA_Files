@@ -1,9 +1,10 @@
 <project><prname>Mass of a Car</prname>
-<idnum>64</idnum>
+<idnum>119</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Mass of a Car</wfname>
 <wfauthor>By Nathaniel Lasry and Kevin Lenton
 </wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students measure the mass of a car using simple tools, create free body diagrams, and find equations of motion describing the two stages of acceleration and deceleration. They learn to apply knowledge of kinematics and dynamics to real world problems and to distinguish inertial mass from gravitational mass. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/mass-of-a-car/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,24 +23,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>33</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity&lt;a href="https://www.saltise.ca/activity/mass-of-a-car/" target="_blank"&gt; here&lt;/a&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>54</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 3-4.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Give a demonstration with a wheeled chair. Push the chair (accelerating it), then let go (allowing it to decelerate).&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 3-4&lt;/li&gt;&lt;li&gt;Give a demonstration with a wheeled chair. Push the chair (accelerating it), then let go (allowing it to decelerate)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -60,12 +49,12 @@
 </link>
 <tagARRAY/>
 </node>
-<node><name>Introduce a Problem</name>
+<node><name>Introduce the Problem</name>
 <id>36</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Introduce a problem: students are to measure the mass of a car.&lt;/p&gt;&lt;p&gt;Note: Ensure the students don’t forget friction during the acceleration phase.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Ask students to measure the mass of a car.&lt;/p&gt;&lt;p&gt;Note: Ensure the students don’t forget friction during the acceleration phase.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>106</textheight>
 <isdropped>true</isdropped>
@@ -106,7 +95,7 @@
 <lefticon>class</lefticon>
 <righticon>experiment</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Execute plans using several trial runs.&lt;/li&gt;&lt;li&gt;Organize into groups to take on different roles in the experiment, which should be done as a class.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Execute plans using several trial runs&lt;/li&gt;&lt;li&gt;Organize into groups to take on different roles in the experiment, which should be done as a class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>78</textheight>
 <isdropped>true</isdropped>
@@ -121,14 +110,13 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Prompt students to attempt several methods. The best way is to find the acceleration while students push the car (with constant force measured on the scales) and again after the car is released.&lt;/li&gt;&lt;li&gt;Guide students to find the acceleration using kinematics (d, t, and v0) or they can use objects such as sandbags dropped out of the window of the car at regular intervals as a sort of ticker tape.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prompt students to attempt several methods. The best way is to find the acceleration while students push the car (with constant force measured on the scales) and again after the car is released&lt;/li&gt;&lt;li&gt;Guide students to find the acceleration using kinematics (d, t, and v0) or they can use objects such as sandbags dropped out of the window of the car at regular intervals as a sort of ticker tape&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>15</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -137,7 +125,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Use the data collected to calculate the mass of the car. &lt;/li&gt;&lt;li&gt;If the ticker tape method was used, create a graph of velocity vs. time, using the slope to determine the acceleration.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the data collected to calculate the mass of the car&lt;/li&gt;&lt;li&gt;If the ticker tape method was used, create a graph of velocity vs. time, using the slope to determine the acceleration&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -148,7 +136,7 @@
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Write up a lab report describing their experiment and result.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Write up a lab report describing the experiment and result.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

@@ -1,8 +1,9 @@
 <project><prname>Three Tiered Writing </prname>
-<idnum>74</idnum>
+<idnum>118</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Three Tiered Writing </wfname>
 <wfauthor>By Laure Galipeau</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students write a text and then manipulate it to fit two different grammar tenses to show that they have understood the theoretical material learned in class and how to apply it in writing. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/three-tiered-writing/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,23 +22,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>74</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/three-tiered-writing/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Give the students the beginning of a phrase ”un jeune homme commence...”&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Give the students the beginning of a sentence:&lt;/p&gt;&lt;p&gt;”Un jeune homme commence...”&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -48,7 +38,7 @@
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Continue the sentence and write a 250 word text containing 20 diﬀerent verbs in the present tense.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Continue the sentence and write a 250-word text containing 20 diﬀerent verbs in the present tense.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -70,7 +60,7 @@
 <lefticon>solo</lefticon>
 <righticon>practice</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Correct, ﬁnish, and manipulate this text at home and then bring it to the next class to refer to during the writing of the second text&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Correct, ﬁnish, and manipulate this text at home and then bring it to the next class to refer to during the writing of the second text.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -81,9 +71,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present the grammatical theory such as according the verb with the subject. and then give another beginning of a sentence to the students: ”les deux jeunes hommes commences...” Also give students an autocorrection guide to help them edit their texts.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present the grammatical theory such as accordance of the verb with the subject&lt;/li&gt;&lt;li&gt;Give another beginning of a sentence to the students: ”les deux jeunes hommes commences...”&lt;/li&gt;&lt;li&gt;Give students an auto-correction guide to help them edit their texts&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -92,18 +82,18 @@
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Write a text of 250 words containing 20 diﬀerent verbs, 10 diﬀerent adjectives (which are both identiﬁed using highlighting/underlining).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Write a text of 250 words containing 20 diﬀerent verbs and 10 diﬀerent adjectives which are both identiﬁed using highlighting/underlining.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Use Autocorrection Guide   </name>
+<node><name>Use Auto-Correction Guide   </name>
 <id>10</id>
 <lefticon>solo</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Use the autocorrection guide to identify verbs in the present, adjectives, and the accordance with the subject of the sentence.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Use the auto-correction guide to identify verbs in the present, adjectives, and the accordance with the subject of the sentence.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -114,7 +104,7 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Collect the text and the autocorrection guide and assign a grade (5 percent for each part)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Collect the text and the auto-correction guide and assign a grade (5 percent for each part).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -125,7 +115,7 @@
 <lefticon>solo</lefticon>
 <righticon>practice</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Correct mistakes at home and continue working to improve the text. Bring both texts, feedback, and the autocorrection grid to the next class&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Correct mistakes at home and continue working to improve the text. Bring both texts, feedback, and the auto-correction grid to the next class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -136,7 +126,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Give the students another beginning of a sentence: ”La jeune ﬁlle commence”&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Give the students another beginning of a sentence:&lt;/p&gt;&lt;p&gt;”La jeune ﬁlle commence...”&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -147,7 +137,7 @@
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Write a 250 word text containing 20 verbs, 10 adjectives, and 10 adverbs.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Write a 250-word text containing 20 verbs, 10 adjectives, and 10 adverbs.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -158,18 +148,13 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Collect students' text and assign a grade of 10 percent&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Collect students' texts and assign a grade of 10 percent.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;instructor present&lt;/p&gt;</textHTML>
-<x>790</x>
-<y>970</y>
-<commentparent>2</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

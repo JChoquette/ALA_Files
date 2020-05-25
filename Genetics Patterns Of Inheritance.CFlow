@@ -1,5 +1,5 @@
 <project><prname>Genetics:Patterns of Inheritance</prname>
-<idnum>90</idnum>
+<idnum>101</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Genetics: Patterns of Inheritance</wfname>
 <wfauthor>By Karl Laroche
@@ -82,7 +82,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete a Moodle quiz.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>170</textheight>
+<textheight>58</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -106,7 +106,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Using Moodle, work through &lt;u&gt;Part A of the ’Pedigree Analysis’&lt;/u&gt; to answer 6 questions about the individuals in the pedigree.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Using Moodle, work through Part A of the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Patterns-of-Inheritance-In-Class-Questions-1.pdf" target="_blank"&gt;"Pedigree Analysis"&lt;/a&gt; to answer 6 questions about the individuals in the pedigree.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>70</textheight>
 <isdropped>true</isdropped>

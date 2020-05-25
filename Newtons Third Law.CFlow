@@ -1,8 +1,9 @@
-<project><prname>Newton's Third Law</prname>
-<idnum>80</idnum>
+<project><prname>Newton&apos;s Third Law</prname>
+<idnum>111</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Newton&apos;s Third Law</wfname>
 <wfauthor>By Jean-François Brière</wfauthor>
+<wfdescription>&lt;p&gt;In this single class activity, students work on two similar problems with one big difference. They will evaluate each other&apos;s work, learn to apply Newton’s second and third laws to problems involving friction between multiple objects, and learn to identify key distinctions between similar problems. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/newtons-third-law/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>15</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>14</weekid>
-<node><name>Activity Instructions</name>
-<id>64</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/newtons-third-law/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>64</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>1</id>
 <lefticon>solo</lefticon>
@@ -60,7 +49,7 @@
 <lefticon>solo</lefticon>
 <righticon>analyze</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Draw free body diagrams for both objects&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;li&gt;Upload their work to Visual Classrooms&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw free body diagrams for both objects&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;li&gt;Upload the work to Visual Classrooms&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -71,7 +60,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Students are instructed to split into their pre-assigned groups.&amp;nbsp;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Instruct students to split into their pre-assigned groups.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
 <isdropped>true</isdropped>
@@ -104,7 +93,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Analyze three scenarios (two dynamic and one static) distributed by the instructor to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Analyze three scenarios (two dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -137,7 +126,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Analyze two scenarios (one dynamic and one static) distributed by the instructor to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Analyze two scenarios (one dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -159,7 +148,7 @@
 <lefticon>solo</lefticon>
 <righticon>practice</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;In Visual Classrooms, students:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rework their original diagrams&lt;/li&gt;&lt;li&gt;Explain in writing the changes they make&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;In Visual Classrooms:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rework the original diagrams&lt;/li&gt;&lt;li&gt;Explain in writing the changes made&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

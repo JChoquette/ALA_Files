@@ -1,0 +1,201 @@
+<project><prname>Momentum Photoproject</prname>
+<idnum>11218</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Momentum Photoproject</wfname>
+<wfauthor>By Rhys Adams</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students capture an image or a video of two objects before, during and after the interaction and draw a free-body diagram of the &quot;during&quot; period of interaction, along with a written explanation. Students learn to determine whether a system is isolated or not and the consequences for conservation of momentum. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/momentum-photoproject/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<weekname> </weekname>
+<node><name>Introduce Activity</name>
+<id>0111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Preassign students to groups (4-6 students) prior to the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Obtain and Classify Photos/Video </name>
+<id>11117</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Either (a) find photos or a video online or (b) take own photos or videos of two interacting objects&lt;/li&gt;&lt;li&gt;Isolate photos/screenshots of the before, during, and after states of the interaction&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw FBDs &amp; Identify Interaction Features</name>
+<id>11114</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw free-body diagrams (FBDs) for the two interacting objects (using the “during” image)&lt;/li&gt;&lt;li&gt;Prepare a written explanation identifying the key features (e.g. duration) of the interaction and the relative magnitudes of forces on objects&amp;nbsp;&lt;/li&gt;&lt;li&gt;Upload images, FBDs, and explanations into an online collaborative platform (e.g. Visual Classroom) for sharing with group members and instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>194</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Modify FBDs</name>
+<id>11119</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Peer-review each other’s work&lt;/li&gt;&lt;li&gt;Discuss the accuracy of their FBDs, making any necessary changes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review FBDs</name>
+<id>11120</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Determine whether FBDs and explanations meet necessary criteria.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Questions</name>
+<id>11177</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present the class with clicker type questions (e.g. Ohio State questions) relating to momentum.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Clicker Questions</name>
+<id>11121</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At a dry-erase whiteboard or interactive whiteboard, answer the questions, providing a written rationale for responses.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Examine Concept Questions and FBDs</name>
+<id>11123</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Compare and contrast (a) answers to the concept questions and (b) the FBDs for their own interacting objects and identify similarities between the two.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>11133</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+<linktext>Choose one Option</linktext>
+<linklabelx>-0.1844</linklabelx>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>11174</weekid>
+<weekname>Follow-up Task - Option 1</weekname>
+<node><name>Correct FBDs and Justify Changes</name>
+<id>11125</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Using an online collaborative platform, correct the FBDs, indicating what is changed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>72</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review FBDs</name>
+<id>11139</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Assess/peer-review groupmates’ FBDs and explanations, suggesting potential improvements.&lt;/p&gt;&lt;p&gt;Note: The instructor may also comment during the peer review if desired.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>106</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11180</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Revise and Submit FBDs</name>
+<id>11180</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Submit final FBD and an updated rationale using an online collaborative platform.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>11175</weekid>
+<weekname>Follow-up Task - Option 2</weekname>
+<node><name>Prepare and Post Test Question</name>
+<id>11133</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare own test question based on the selected photos/screenshots&lt;/li&gt;&lt;li&gt;Post it into an online collaborative platform&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select Student Questions &amp; Present</name>
+<id>11130</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Select the most interesting student-designed questions and present/assign them to the class.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Questions and Submit</name>
+<id>11127</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Solve the questions and submit responses to the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

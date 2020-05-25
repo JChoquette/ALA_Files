@@ -1,0 +1,78 @@
+<project><prname>Sketching the graph of a curve</prname>
+<idnum>62</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Sketching the Graph of a Curve</wfname>
+<wfauthor>By Andreea Panait</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students collaborate to solve a problem and to correctly graph a function. Through this activity, they will be able to learn to sketch a curve and to understand mistakes in the problem-solving process. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/sketching-the-graph-of-a-curve/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present the topic and solve two problems closely following the guidelines&lt;/li&gt;&lt;li&gt;Divide the class into groups of 3, making sure that they are balanced in terms of knowledge/skill level&lt;/li&gt;&lt;li&gt;Give each group member the &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Sketching-the-Curve-Activity-Handout.pdf" target="_blank"&gt;Activity Handout&lt;/a&gt; with a different part of the problem to solve&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Part of the Solution</name>
+<id>19</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Solve the assigned section of the problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>40</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Merge Parts to Graph the Function</name>
+<id>24</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Put the different parts of the solution together to map the graph described by the function.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>21</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Initiate Peer Review</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Optional: If there is time left, direct groups to exchange problems and evaluate each other's work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

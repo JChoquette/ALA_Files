@@ -1,8 +1,9 @@
 <project><prname>Bottle Rocket Tracker</prname>
-<idnum>57</idnum>
+<idnum>82</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Bottle Rocket Tracker</wfname>
 <wfauthor>By Kevin Lenton</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will use the Tracker software to analyze the equations of motion of a bottle rocket. They will learn to analyze and fit equations of motion to raw data and how to break motion into different regimes based on what forces dominate at any given time. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bottle-rocket-tracker/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>40</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/bottle-rocket-tracker/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
@@ -49,7 +38,7 @@
 <lefticon>class</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;As a class, move outside to record a video of a bottle rocket taking off (prepared by the instructor). Ensure that at least one member of the group is filming using their phone.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Move outside to record a video of a bottle rocket taking off (prepared by the instructor). Ensure that at least one member of the group is filming using their phone.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -60,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;In the classroom, at computers, upload the first video into the Tracker Software.&lt;/li&gt;&lt;li&gt;In the tracker software, use the calibration tool to calibrate the video and set up the axes.&lt;/li&gt;&lt;li&gt;Use the software to track the position of the bottle rocket in each frame as a point mass, using the auto-tracking feature or by clicking through frame by frame. &lt;/li&gt;&lt;li&gt;Use the software to generate tabulated position-time data.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;In the classroom, at computers, upload the first video into the Tracker Software&lt;/li&gt;&lt;li&gt;In the tracker software, use the calibration tool to calibrate the video and set up the axes&lt;/li&gt;&lt;li&gt;Use the software to track the position of the bottle rocket in each frame as a point mass, using the auto-tracking feature or by clicking through frame by frame&lt;/li&gt;&lt;li&gt;Use the software to generate tabulated position-time data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>186</textheight>
 <isdropped>true</isdropped>
@@ -71,9 +60,9 @@
 <lefticon>group</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Import the tabulated data into a spreadsheet program such as Excel.&lt;/li&gt;&lt;li&gt;Use the data to plot the position as a function of time.&lt;/li&gt;&lt;li&gt;Split the problem into four different stages:&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;Propulsion phase (accelerating upward)&lt;/li&gt;&lt;li&gt;Drag (the rocket has a high velocity and drag forces are large)&lt;/li&gt;&lt;li&gt;Projectile motion (constant acceleration due to gravity)&lt;/li&gt;&lt;li&gt;Terminal velocity.&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Import the tabulated data into a spreadsheet program such as Excel&lt;/li&gt;&lt;li&gt;Use the data to plot the position as a function of time&lt;/li&gt;&lt;li&gt;Split the problem into four different stages:     a) propulsion phase (accelerating upward), b) drag (the rocket has a high velocity and drag forces are large), c) projectile motion (constant acceleration due to gravity), and d) terminal velocity&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>214</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -82,9 +71,9 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Analyze the plots for each phase and fit equations of motion to the data. Advanced classes can make use of their calculus knowledge, fitting first to 2nd order polynomials then to higher orders.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Analyze the plots for each phase and fit equations of motion to the data.&lt;/p&gt;&lt;p&gt;Note: Advanced classes can make use of their calculus knowledge, fitting first to 2nd order polynomials then to higher orders.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>114</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -93,7 +82,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Observe that during certain phases the acceleration was not constant, as it is fit by a higher order polynomial. Discuss the meaning of this and the reasons why the acceleration may not be constant (for example, changing mass and pressure, changing drag forces).&amp;nbsp;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Observe that during certain phases the acceleration was not constant, as it is fit by a higher order polynomial&lt;/li&gt;&lt;li&gt;Discuss the meaning of this and the reasons why the acceleration may not be constant (for example, changing mass and pressure, changing drag forces)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
 <isdropped>true</isdropped>

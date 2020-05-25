@@ -1,8 +1,9 @@
 <project><prname>Peerceptiv Peer Assessment</prname>
-<idnum>44</idnum>
+<idnum>116</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Peerceptiv Peer Assessment</wfname>
 <wfauthor>By Lawrence Chen</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students will be familiarized with the peer review process and learn how to accept criticism. Students will develop critical thinking, analysis, and assessment skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-peerceptiv_peer_assessment/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,26 +23,25 @@
 </column>
 <week><weekid>2</weekid>
 <weekname>Class 1</weekname>
-<node><name>Activity Instruction</name>
-<id>29</id>
+<node><name>Introduce Activity - Calibration Exercise</name>
+<id>58</id>
 <lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/eng-peerceptiv_peer_assessment/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give students a paper to review using a predefined grading &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/In-Class-Activity-PeerceptivPeer-Review-Rubrics.pdf" target="_blank"&gt;rubric&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Note: This exercise is intended to prepare students for the peer assessment process.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>108</textheight>
 <isdropped>true</isdropped>
-<noautolink>true</noautolink>
 <tagARRAY/>
 </node>
-<node><name>Assess Others' Paper based on a Rubric</name>
+<node><name>Assess Paper Based on the Rubric</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;&lt;em&gt;Class 1 (&lt;/em&gt;Peer Assessment Calibration Exercise: Get prepped on the peer assessment process)&lt;/p&gt;&lt;p&gt;Mark a paper provided to them by the instructor using a predefined grading rubric.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Mark a paper provided by the instructor using a predefined grading rubric.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>148</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -50,65 +50,76 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss students' individual scoring in groups of two&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;In pairs, discuss students' individual scoring.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Compare with Peers' Scoring</name>
 <id>4</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Use Turning Point Cloud polling software to ask the students how far apart their grading was from that of their partner (1 mark, 2 marks, 3 marks, etc.)&lt;/p&gt;&lt;p&gt;Note: Typically, students score within 1 to 2 marks of each other.&amp;nbsp;&lt;/p&gt;</textHTML>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Rate how far apart their grading was from that of their partner (1 mark, 2 marks, 3 marks, etc.) using Turning Point Cloud polling software provided by the instructor.&lt;/p&gt;&lt;p&gt;Note: Typically, expect scores within 1 to 2 marks of one another.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>128</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Compare with Instructors' Scoring</name>
+<node><name>Compare with Own Scoring</name>
 <id>5</id>
 <lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
+<righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Show how the instructor graded the paper&lt;/li&gt;&lt;li&gt;Use the polling software to ask the students how far away their marks were from that of the instructor&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Typically, student and professor scores are within 1 to 2 marks of each other.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Show own grading of the paper to students&lt;/li&gt;&lt;li&gt;Use the polling software to ask the students how far away their marks were from that of the instructor&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Typically, student and professor scores are within 1 to 2 marks of each other. &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>142</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Address Complex Ethical Issues</name>
-<id>6</id>
-<lefticon>solo</lefticon>
-<righticon>write</righticon>
-<column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read oh an ethical dilemma &lt;/li&gt;&lt;li&gt;Write a response using the six steps approach to address complex ethical issues&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The response must be justified using ethical theories and or three tests for an ethical decision.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
 <week><weekid>31</weekid>
 <weekname>Class 2</weekname>
+<node><name>Prepare for Class</name>
+<id>6</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read on an ethical dilemma&lt;/li&gt;&lt;li&gt;Write a response using the six steps approach to address complex ethical issues&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The response must be justified using ethical theories and or three tests for an ethical decision. See the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/FACC-100-Fri-Assign2-PeerceptivEthics-Peer-Review.pdf" target="_blank"&gt;student instruction&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity - Peer Assessment</name>
+<id>59</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Remind students of the peer assessment process.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
 <node><name>Review Peers' Work</name>
 <id>7</id>
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Bring two copies of their written response to class&lt;/li&gt;&lt;li&gt;Get prepped on the peer assessment process&lt;/li&gt;&lt;li&gt;Exchange written responses with their neighbours&lt;/li&gt;&lt;li&gt;Evaluate one or two of the responses using a predefined grading rubric&lt;/li&gt;&lt;li&gt;Provide feedback to the authors&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Each student reviews 5 written responses (that are assigned to them by the Peerceptiv software), using the predefined grading rubric. This peer assessment process is a doubleblind review (the student authors do not know their reviewers nor do the student reviewers know whose work they are reviewing).&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Bring two copies of their written response to class&lt;/li&gt;&lt;li&gt;Exchange written responses with their neighbours&lt;/li&gt;&lt;li&gt;Evaluate one or two of the responses using a predefined grading &lt;a href="https://www.saltise.ca/activity/eng-peerceptiv_peer_assessment/" target="_blank"&gt;rubric&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Provide feedback to the authors&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Each reviews 5 written responses (that are assigned to them by the Peerceptiv software), using the predefined grading rubric. This peer assessment process is a double-blind review (the student authors do not know their reviewers nor do the student reviewers know whose work they are reviewing).&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>300</textheight>
+<textheight>228</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Revise Work based on Peers' Feedback</name>
+<node><name>Revise Work Based on Peers' Feedback</name>
 <id>8</id>
 <lefticon>solo</lefticon>
 <righticon>practice</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Revise their written response according to the reviewer’s comments from class.&lt;/li&gt;&lt;li&gt;Submit their final draft to Peerceptiv.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: As an author, each students choose to agree or disagree with reviewer’s comments and accept or reject their suggestions.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Revise the written response according to the reviewer’s comments from class&lt;/li&gt;&lt;li&gt;Submit the final draft to Peerceptiv&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: As an author, choose to agree or disagree with reviewer’s comments and accept or reject their suggestions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
 <isdropped>true</isdropped>
@@ -119,7 +130,7 @@
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Grade (and leave comments) the reviewer who reviewed their written response.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Grade the reviewer who reviewed their written response and leave comments. &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -130,48 +141,13 @@
 <lefticon>solo</lefticon>
 <righticon>instrevaluate</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Grade students' assignments after they submitting them to the course website as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;30%: All tasks were completed on time&lt;/li&gt;&lt;li&gt;35%: Average score from 5 reviewers (weighted to minimize outliers and maximize like scores)&lt;/li&gt;&lt;li&gt;35%: How well students did as a reviewer (as evaluated by the authors who had their paper marked by the reviewer) and how accurate students' scores were compared to the group of reviewers who reviewed a particular author’s paper (as evaluated by Peerceptiv).&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Grade students' assignments after they submit them to the course website as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;30%: All tasks were completed on time&lt;/li&gt;&lt;li&gt;35%: Average score from 5 reviewers (weighted to minimize outliers and maximize like scores)&lt;/li&gt;&lt;li&gt;35%: How well students did as a reviewer (as evaluated by the authors who had their paper marked by the reviewer) and how accurate students' scores were compared to the group of reviewers who reviewed a particular author’s paper (as evaluated by Peerceptiv)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>238</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;This is two-class activity, should we use "part" to separate it?&lt;/p&gt;&lt;p&gt;added in this version&lt;/p&gt;</textHTML>
-<x>660</x>
-<y>260</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;missing a big part of introduce the activity&lt;/p&gt;</textHTML>
-<x>540</x>
-<y>270</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;this node is new added. before, these two student nodes were presented in one.&lt;/p&gt;</textHTML>
-<x>670</x>
-<y>500</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Should this node stay in teacher column or be moved to student column?&lt;/p&gt;&lt;p&gt;Or add a node in student column?&lt;/p&gt;</textHTML>
-<x>435</x>
-<y>659</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;before, the wording is passive, students are presented with ...&lt;/p&gt;&lt;p&gt;Just find that the comments can't be moved across parts.&lt;/p&gt;</textHTML>
-<x>605</x>
-<y>1175</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;changed group icon to individual icon&lt;/p&gt;&lt;p&gt;also changed discussion icon to peer review icon&lt;/p&gt;</textHTML>
-<x>592</x>
-<y>53</y>
-<commentparent>31</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;The note in this node was presented as individual nodes after the next one. I moved them up here and inserted as a note instead an independent actions&lt;/p&gt;</textHTML>
-<x>634</x>
-<y>285</y>
-<commentparent>31</commentparent>
-</comment>
 <comment><textHTML>&lt;p&gt;I moved this node from student out of class to instructor out of class&lt;/p&gt;&lt;p&gt;because it mainly talks about how students' work is evaluated which is the work of the instructor.&lt;/p&gt;</textHTML>
 <x>344</x>
 <y>889</y>

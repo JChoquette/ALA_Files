@@ -1,9 +1,10 @@
 <project><prname>Piece of Paper Question</prname>
-<idnum>27</idnum>
+<idnum>53</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Piece of Paper Question</wfname>
 <wfauthor>By Marta Cerruti
 </wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students give feedback about the course or instructor&apos;s performance with suitable survey or polling tool. The instructor assesses students&apos; understanding of concepts and facts related to course material. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-piece_of_paper_question/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,24 +23,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instruction</name>
-<id>18</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/eng-piece_of_paper_question/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Ask a Question</name>
 <id>19</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;em&gt;At the end of the lecture&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ask students a question which can be either pre-made or improvised based on the lecture. The types of questions posed are as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review a concept just discussed in class (can be a problem that has to be solved)&lt;/li&gt;&lt;li&gt;Discuss a concept or fact in the lecture that was unclear&lt;/li&gt;&lt;li&gt;Receive student feedback on course material, approaches, strategies, the instructor’s performance, etc..&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;At the end of the lecture&lt;/p&gt;&lt;p&gt;Ask students a question which can be either pre-made or improvised based on the lecture. The types of questions posed are as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review a concept just discussed in class (can be a problem that has to be solved)&lt;/li&gt;&lt;li&gt;Discuss a concept or fact in the lecture that was unclear&lt;/li&gt;&lt;li&gt;Receive student feedback on course material, approaches, strategies, the instructor’s performance, etc.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>258</textheight>
 <isdropped>true</isdropped>
@@ -61,9 +50,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;&lt;em&gt;Before the next class&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Review all of the submitted answers; if the question was based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A concept, tabulate the percentage of correct and incorrect answers&lt;/li&gt;&lt;li&gt;A concept that was unclear, prepare a quick lesson for the beginning of the class to clarify misconceptions&lt;/li&gt;&lt;li&gt;Course material, approaches, strategies or instructor performance, use the feedback to adjust how the courses is run or what the instructor is doing&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Before the next class&lt;/p&gt;&lt;p&gt;Review all of the submitted answers.&lt;/p&gt;&lt;p&gt;If the question was based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A concept: tabulate the percentage of correct and incorrect answers&lt;/li&gt;&lt;li&gt;A concept that was unclear: prepare a quick lesson for the beginning of the class to clarify misconceptions&lt;/li&gt;&lt;li&gt;Course material, approaches, strategies or instructor performance: use the feedback to adjust how the course is run or what the instructor is doing&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>214</textheight>
+<textheight>240</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -72,23 +61,13 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;em&gt;At the beginning of the next class&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Review the piece of paper question;&lt;/p&gt;&lt;p&gt;      If the question was based on a concept:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show the students the percentage of correct and incorrect answers,&lt;/li&gt;&lt;li&gt;Go over some of the student answers&lt;/li&gt;&lt;li&gt;Review why the answers were wrong or right&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;      If the question was based on a concept that was unclear:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do a quick lesson to clarify misconceptions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;At the beginning of the next class&lt;/p&gt;&lt;p&gt;Review the piece of paper question.&lt;/p&gt;&lt;p&gt;If the question was based on a concept,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show the students the percentage of correct and incorrect answers&lt;/li&gt;&lt;li&gt;Go over some of the student answers&lt;/li&gt;&lt;li&gt;Review why the answers were wrong or right&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If the question was based on a concept that was unclear,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do a quick lesson to clarify misconceptions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>276</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;delete this one as it has been moved to teacher column?&lt;/p&gt;</textHTML>
-<x>20</x>
-<y>20</y>
-<commentparent>3</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;the right icon should be teacher present. &lt;/p&gt;</textHTML>
-<x>842</x>
-<y>1161</y>
-<commentparent>2</commentparent>
-</comment>
 <wflegendx>960</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

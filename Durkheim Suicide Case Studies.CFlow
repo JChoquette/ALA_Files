@@ -1,8 +1,9 @@
 <project><prname>Durkheim Suicide: Case Studies</prname>
-<idnum>58</idnum>
+<idnum>100</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Durkheim Suicide: Case Studies</wfname>
 <wfauthor>By Anna Liisa Aunio</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students compare psychological perspectives on suicide, the types of suicide in Durkheim’s functionalist perspective, and suicide from functionalist and conflict theory perspectives. After this activity, students will be able to understand and apply different perspectives on social problems (e.g. suicide). See a full description &lt;a href=&quot;https://www.saltise.ca/activity/durkheim-suicide-functionalist-and-conflict-theory/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>10</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>9</weekid>
-<node><name>Activity Instruction</name>
-<id>44</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/durkheim-suicide-functionalist-and-conflict-theory/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read two accounts of suicide: one about soldiers (during war and during peacetime) and the second about ﬁrst nation communities (both on and oﬀ the reserve)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read two accounts of suicide: one about soldiers (during war and during peacetime) and the second about First Nation communities (both on and oﬀ the reserve).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -71,7 +60,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;On the pre-class reading:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prepare an argument and ﬁll in the chart relating to each of the four cases presented in the reading&lt;/li&gt;&lt;li&gt;Discuss about how they categorized them according to Durkheim and whether it is relevant/useful approach suicide from the perspective of societal integration&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare an argument and ﬁll in the &lt;u&gt;chart&lt;/u&gt; relating to each of the four cases presented in the reading&lt;/li&gt;&lt;li&gt;Discuss about how they categorized them according to Durkheim and whether it is a relevant/useful perspective on suicide from the viewpoint of societal integration&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>156</textheight>
 <isdropped>true</isdropped>
@@ -82,7 +71,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Identify the implied solution from Durkheim’s societal integration perspective to each kind of suicide in the case studies (ex. having strong social institutions such as residential schools).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Identify the implied solution from Durkheim’s societal integration perspective to each kind of suicide in the case studies (e.g. having strong social institutions such as residential schools).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -93,7 +82,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Ask the students to switch theoretical perspectives from functionalism to conﬂict theory and apply it to the case of suicide&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Ask the students to switch theoretical perspectives from functionalism to conﬂict theory and apply it to the case of suicide.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -115,18 +104,13 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Compare and contrast the implied solutions for each of two macro level perspectives.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Compare and contrast the implied solutions for each of two macro-level perspectives.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;right icon use present (student)&lt;/p&gt;&lt;p&gt;Add an icon for instructor present&lt;/p&gt;</textHTML>
-<x>290</x>
-<y>20</y>
-<commentparent>1</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

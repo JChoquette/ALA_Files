@@ -1,0 +1,237 @@
+<project><prname>Does X Associate with Y? </prname>
+<idnum>185</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Does X Associate with Y? </wfname>
+<wfauthor>By Madoka Gray-Mitsumune</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students research a topic of interest in which they demonstrate how a quantifiable X variable (e.g., calcium) affects a quantifiable Y variable (e.g., hip fracture rates in women) and review their peers&apos; group drafts to improve their&amp;nbsp;critical thinking skills and collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bio-x-cause-y/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<weekname>Beginning of Semester</weekname>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Beginning of semester&lt;/p&gt;&lt;p&gt;Introduce project and describe what students will be doing over the course of the semester.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Form Groups</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of their choice (4-8 students per group)&lt;/li&gt;&lt;li&gt;Come up with a group name (used as an identifier on Moodle discussion forum later)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Collect Topics</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Research possible topics.&lt;/p&gt;&lt;p&gt;Note: topics should follow guidelines in the Group Project Description pdf.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss and Choose Topics</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the topics found online &lt;/li&gt;&lt;li&gt;Select one for the project&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Guide How to Search and Cite References</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give students instructions on how to properly search and cite references.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz on Citation</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Take an online quiz through Moodle on citation to ensure they understand how to properly cite material for their project.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Project Outline</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use a Moodle discussion forum to talk with group partners&lt;/li&gt;&lt;li&gt;Create an outline of their project, including the topic and peer-reviewed research articles they will be using&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback to Project Outline</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Approve of student outlines (not graded)&lt;/li&gt;&lt;li&gt;Provide feedback to improve outline/direction of project&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>184</weekid>
+<weekname>Middle of Semester</weekname>
+<node><name>Assign Project Tasks &amp; Revise Outline</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Middle of semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meet to designate project tasks&lt;/li&gt;&lt;li&gt;Discuss instructor comments on their outlines&lt;/li&gt;&lt;li&gt;Make changes to outlines&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Work on the Project</name>
+<id>14</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work on their individual contributions to the project&lt;/li&gt;&lt;li&gt;Use the Moodle discussion forum to work on the project together&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Instruct on How to Give Feedback</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;Assign groups into supergroups (~6 groups per supergroup). These supergroups separate teams for evaluation (feedback and evaluation)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Discuss with students how to give constructive criticism in preparation for student peer reviewing on Moodle&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>146</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss the Project &amp; Write Drafts</name>
+<id>16</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Meet periodically through the semester to discuss the project&lt;/li&gt;&lt;li&gt;Write project draft 1&lt;/li&gt;&lt;li&gt;Submit group project draft online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: In person discussion helps to maintain student engagement in the project.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>17</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Give Peers Feedback on Draft 1 </name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read through the drafts of 5 other group projects&lt;/li&gt;&lt;li&gt;Provide feedback to these 5 groups through a Moodle discussion forum&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>25</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Give Groups Feedback on Draft 1</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instruct TA to provide feedback to groups on their draft.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>16</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>Repeat peer/TA review process 
+for draft 2 </linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>185</weekid>
+<weekname>End of Semester</weekname>
+<node><name>Finalize Project</name>
+<id>22</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;End of semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finalize project based on two rounds of peer and TA feedback&lt;/li&gt;&lt;li&gt;Upload finalized project to Moodle&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Peers' Work and Contributions</name>
+<id>19</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate and grade 5 projects based on criteria outlined in the Rubric pdf (Note: each group is evaluated by 30-35 students)&lt;/li&gt;&lt;li&gt;Evaluate the contribution of own group members&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>122</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Students' Contributions</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;With TA, evaluate individual students on their contribution to the group projects following the criteria listed in the Rubric pdf&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

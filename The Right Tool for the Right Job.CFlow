@@ -1,9 +1,9 @@
 <project><prname>The Right Tool for the Right Job</prname>
-<idnum>69</idnum>
+<idnum>75</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>The Right Tool for the Right Job</wfname>
 <wfauthor>By Lori Jinbachian</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students arrange a set of cards to explore the process of solving a chemistry problem and identify the tools required to obtain a solution. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/the-right-tool-for-the-right-job/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students arrange a set of cards to explore the process of solving a chemistry problem and identify the tools required to obtain a solution. Students will gain a better understanding of calorimetry, acids and bases, and how to write chemical equations. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/the-right-tool-for-the-right-job/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

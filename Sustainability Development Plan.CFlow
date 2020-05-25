@@ -1,115 +1,9 @@
 <project><prname>Sustainability</prname>
-<idnum>570</idnum>
+<idnum>951</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Sustainability (Part 1)</wfname>
+<workflow><wfname>Sustainability Development Plan</wfname>
 <wfauthor>By Anna-Liisa Aunio</wfauthor>
-<wfid>127</wfid>
-<wftype>activity</wftype>
-<usedwfARRAY></usedwfARRAY>
-<tagsetARRAY></tagsetARRAY>
-<wfdata><column><columnname>OOCI</columnname>
-<columnoutcomevisibility>undefined</columnoutcomevisibility>
-</column>
-<column><columnname>OOC</columnname>
-<columnoutcomevisibility>undefined</columnoutcomevisibility>
-</column>
-<column><columnname>ICI</columnname>
-<columnoutcomevisibility>undefined</columnoutcomevisibility>
-</column>
-<column><columnname>ICS</columnname>
-<columnimage>noinstructor</columnimage>
-<columnoutcomevisibility>undefined</columnoutcomevisibility>
-</column>
-<week><weekid>125</weekid>
-<node><name>Activity Instruction</name>
-<id>275</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/sustainability-development-plan-part-1-and-2/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
-<node><name>Prepare for Class</name>
-<id>102</id>
-<lefticon>solo</lefticon>
-<righticon>reading</righticon>
-<column>OOC</column>
-<textHTML>&lt;p&gt;Complete readings on sustainability development coals and deﬁnitions.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Introduce Activity</name>
-<id>103</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 5-7 &lt;/li&gt;&lt;li&gt;Give instructions&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Define Concepts</name>
-<id>104</id>
-<lefticon>group</lefticon>
-<righticon>discuss</righticon>
-<column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss their deﬁnitions of sustainable development and its goals&lt;/li&gt;&lt;li&gt;Write down their own deﬁnitions&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Present Concepts</name>
-<id>106</id>
-<lefticon>class</lefticon>
-<righticon>present</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;Present their deﬁnition to the class in order to ﬁnd common elements between them.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Lecture on Concepts</name>
-<id>107</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Give a lecture on sustainability and how it relates to the social sciences&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Select Project and Develop Plans</name>
-<id>108</id>
-<lefticon>group</lefticon>
-<righticon>research</righticon>
-<column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Pick a neighborhood to study &lt;/li&gt;&lt;li&gt;Prepare a sustainable development plan for their study&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-</week>
-<comment><textHTML>&lt;p&gt;change to instructor present&lt;/p&gt;</textHTML>
-<x>834</x>
-<y>906</y>
-<commentparent>125</commentparent>
-</comment>
-<wflegendx>940</wflegendx>
-<wflegendy>220</wflegendy>
-</wfdata></workflow>
-<workflow><wfname>Sustainability Case Study (Part 2)</wfname>
-<wfauthor>By Anna-Liisa Aunio</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity,&amp;nbsp;students learn to properly define sustainability and apply this to the context of Montreal and then more narrow in scope to a single neighbourhood. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/sustainability-development-plan-part-1-and-2/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>128</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -128,23 +22,80 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>126</weekid>
-<node><name>Activity Instruction</name>
-<id>491</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;This is the second part of the activity. Find an overview and the materials for the activity &lt;a href="https://www.saltise.ca/activity/sustainability-development-plan-part-1-and-2/" target="_blank"&gt;here&lt;/a&gt;. &lt;/p&gt;</textHTML>
+<node><name>Prepare for Class</name>
+<id>728</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete readings on sustainability development goals and deﬁnitions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+<node><name>Introduce Activity</name>
+<id>729</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 5-7&lt;/li&gt;&lt;li&gt;Give instructions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Define Concepts</name>
+<id>731</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss their deﬁnitions of sustainable development and its goals&lt;/li&gt;&lt;li&gt;Write down their own deﬁnitions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Concepts</name>
+<id>730</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present their deﬁnition to the class in order to ﬁnd common elements between them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Lecture on Concepts</name>
+<id>732</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give a lecture on sustainability and how it relates to the social sciences.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select Project and Develop Plans</name>
+<id>733</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pick a neighbourhood to study&lt;/li&gt;&lt;li&gt;Prepare a sustainable development plan for their study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>652</weekid>
 <node><name>Prepare for Class</name>
 <id>109</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read about deﬁnitions of sustainability and Montreal’s sustainable development plan&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read about deﬁnitions of sustainability and Montreal’s sustainable development plan.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -161,7 +112,7 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Introduce Activity - Task 1</name>
+<node><name>Introduce Case Study - Task 1</name>
 <id>111</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -177,13 +128,13 @@
 <lefticon>group</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Choose a neighbourhood or borough for case study.&lt;/li&gt;&lt;li&gt;Develop a socio-demographic and political proﬁle of their selected location&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a neighbourhood or borough for case study&lt;/li&gt;&lt;li&gt;Develop a socio-demographic and political proﬁle of their selected location&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Introduce Activity - Task 2</name>
+<node><name>Introduce Case Study - Task 2</name>
 <id>570</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -199,7 +150,7 @@
 <lefticon>group</lefticon>
 <righticon>create</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Create a sustainability plan for the neighbourhood.&lt;/li&gt;&lt;li&gt;Come up with a list of benchmarks for the neighbourhood (ex. bike path placement)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create a sustainability plan for the neighbourhood&lt;/li&gt;&lt;li&gt;Come up with a list of benchmarks for the neighbourhood (e.g. bike path placement)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -229,7 +180,7 @@
 </node>
 <node><name>Provide Feedback to Peers' Plan</name>
 <id>117</id>
-<lefticon>group</lefticon>
+<lefticon>class</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Circulate to two other groups to provide feedback on their plan.&lt;/p&gt;</textHTML>
@@ -317,34 +268,15 @@
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Complete a conﬁdential peer review to assess their teammates’ contributions to the case study&lt;/li&gt;&lt;li&gt;Submit their peer review with the group assignment.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete a conﬁdential peer review to assess their teammates’ contributions to the case study&lt;/li&gt;&lt;li&gt;Submit their peer review with the group assignment&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML/>
-<x>10</x>
-<y>1072</y>
-<commentparent>126</commentparent>
-</comment>
-<comment><textHTML/>
-<x>376</x>
-<y>2073</y>
-<commentparent>126</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;change to instructor present&lt;/p&gt;</textHTML>
-<x>800</x>
-<y>330</y>
-<commentparent>126</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;the left icon: whole class or group?&lt;/p&gt;</textHTML>
-<x>670</x>
-<y>1380</y>
-<commentparent>126</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

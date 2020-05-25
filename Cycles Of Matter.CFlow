@@ -1,0 +1,95 @@
+<project><prname>Cycles of Matter</prname>
+<idnum>11194</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Cycles of Matter</wfname>
+<wfauthor>By Suzanne Kunicki</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will compare, contrast, and describe the differences between nutrient cycling and energy flow and how trophic levels interact in an ecosystem. Through a multi-question assignment and follow-up discussion, they will predict the impact of human activity on an ecosystem. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/cycles-of-matter/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Introduce Activity</name>
+<id>11167</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 6-7&lt;/li&gt;&lt;li&gt;Assign each group a specific problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>0111</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete an assigned reading&lt;/li&gt;&lt;li&gt;Work on the assigned problem &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This problem will be compiled later in class with others.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Decide and Write Final Response </name>
+<id>11114</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Break into pre-assigned groups&lt;/li&gt;&lt;li&gt;Compare and contrast one another’s responses to the assigned question&lt;/li&gt;&lt;li&gt;Debate and come to a consensus regarding the correct answer&lt;/li&gt;&lt;li&gt;Transcribe the final response onto an interactive board or whiteboard&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Peers' Work</name>
+<id>11116</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Move from board to board, reviewing and commenting on the work completed by all other groups (i.e. peer-review/gallery walk).&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Comments and Modify Responses</name>
+<id>11122</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the comments provided by peers and decide whether or not to incorporate these comments into the final responses.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Finalize Response and Submit</name>
+<id>11125</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Compile a final response&lt;/li&gt;&lt;li&gt;Submit it to an online learning management system for assessment by the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

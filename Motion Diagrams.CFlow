@@ -1,0 +1,104 @@
+<project><prname>Motion Diagrams</prname>
+<idnum>11191</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Motion Diagrams</wfname>
+<wfauthor>By Chris Whittaker</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn to create and interpret motion diagrams using a notebook file in interactive whiteboards. Students also gain a deeper understanding of the relationships between an object’s path of motion, displacement, velocity, and acceleration. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/motion-diagrams/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Introduce Activity</name>
+<id>0111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 5-6&lt;/li&gt;&lt;li&gt;At interactive whiteboards, instruct groups to open the notebook file containing the motion problems&lt;/li&gt;&lt;li&gt;Demonstrate how to use the notebook file by modelling a simple 1D problem (either the first part or in its entirety)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Motion Diagrams</name>
+<id>11113</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch a video of an object in motion&lt;/li&gt;&lt;li&gt;Drag and drop the object in the notebook file to create a motion diagram corresponding to the object’s position at regular time intervals&lt;/li&gt;&lt;li&gt;Drag and drop the position dots onto the center of each object, then drag and drop arrows to represent the displacement and velocity over each time interval&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: At this point, it is allowed to remove the objects, leaving only the position dots.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>204</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Average Acceleration</name>
+<id>11118</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Use the velocity vectors that were drawn to determine the average acceleration at each point (using the interval before and after). Can do this by flipping vectors to make one negative and placing them tip to tail to find &lt;span class="ql-formula" data-value="v2-v1"&gt;﻿&lt;span contenteditable="false"&gt;&lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;v2-v1&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height: 0.72777em; vertical-align: -0.08333em;"&gt;&lt;/span&gt;&lt;span style="margin-right: 0.03588em;" class="mord mathdefault"&gt;v&lt;/span&gt;&lt;span class="mord"&gt;2&lt;/span&gt;&lt;span class="mspace" style="margin-right: 0.222222em;"&gt;&lt;/span&gt;&lt;span class="mbin"&gt;−&lt;/span&gt;&lt;span class="mspace" style="margin-right: 0.222222em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height: 0.64444em; vertical-align: 0em;"&gt;&lt;/span&gt;&lt;span style="margin-right: 0.03588em;" class="mord mathdefault"&gt;v&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;﻿&lt;/span&gt;.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Solutions</name>
+<id>11115</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Analyze and discuss the solutions based on the acceleration found.  Determine whether this is consistent with their knowledge of physics, and make changes accordingly.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11126</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Correct Solution</name>
+<id>11126</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the correct solution with the class, highlighting the main areas of difficulty the groups experienced.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>82</textheight>
+<isdropped>true</isdropped>
+<link><targetid>11113</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for several more problems 
+of increasing complexity</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Activity</name>
+<id>11129</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the entire activity with the class.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>56</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

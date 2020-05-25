@@ -1,0 +1,78 @@
+<project><prname>National Building Code Jeopardy</prname>
+<idnum>34</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>National Building Code Jeopardy</wfname>
+<wfauthor>By Leigh Barnett Shapiro</wfauthor>
+<wfdescription>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;I&lt;/span&gt;n this single-class activity, students compete in teams to find items in the National Building Code text in a jeopardy-like manner. Students learn how to read the code rather than memorize it, which involves deeper thinking and critical thinking skills. &lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/baas-jeopardy-code/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Do assigned readings on the National Building Code in preparation for the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Briefly review the pre-assigned readings&lt;/li&gt;&lt;li&gt;Answer any questions students have about the readings&lt;/li&gt;&lt;li&gt;Describe the jeopardy activity to the students&lt;/li&gt;&lt;li&gt;Assign Students into groups of 3-5 (chosen or pre-assigned)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Questions</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Read out a question to the class.&lt;/p&gt;&lt;p&gt;Note: Questions become increasingly difficult with each new round of questioning (from recall to deeper thinking).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work as a team to figure out the answer to each question&lt;/li&gt;&lt;li&gt;Use a book or a PDF of the National Building Code to find the specific answer to each question&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Once all the questions are presented, the group with the most correct answer wins in each round, and the group with the highest amount of correct answers at the end wins.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat until all the questions
+are answered/presented</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

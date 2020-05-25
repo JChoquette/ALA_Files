@@ -1,0 +1,150 @@
+<project><prname>Electrophilic Aromatic Substitution</prname>
+<idnum>11111201</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Electrophilic Aromatic Substitution</wfname>
+<wfauthor>By Yann Brouillette</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will sort activating and deactivating substituents, examine substituent effects in electrophilic aromatic substitution, and draw resonance structures for benzene. After rounds of peer review and annotations, students perform a gallery walk to examine and discuss all finalized reactions posted by peers. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/electrophilic-aromatic-substitution/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Introduce Activity</name>
+<id>0111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze and Sort Substituents</name>
+<id>01111</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At a whiteboard or SMART board, analyze and sort 5 substituents based on whether they are activating or deactivating groups.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask Students to Switch Boards</name>
+<id>011111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instruct students to switch boards with a second group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Discuss Group Work</name>
+<id>0111111</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Peer review and annotate the other group’s work&lt;/li&gt;&lt;li&gt;Return to their original board to assess and discuss the comments made by their peers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw Resonance Structures</name>
+<id>11111114</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each group selects one activating substituent and one deactivating substituent (from their sorted compounds) to add to the benzene ring, then draw resonance structures for both.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Discuss Group Work</name>
+<id>011111111</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Again, switch whiteboards to peer review and annotate the other group’s work&lt;/li&gt;&lt;li&gt;Once completed, assess and discuss the comments made by their peers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Different Reagents</name>
+<id>11111119</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign each group a distinct reagent to carry out an aromatic electrophilic substitution onto benzene rings attached to each of the five substituents they previously sorted.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete Reactions &amp; Review Group Work</name>
+<id>11111120</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete these five reactions&lt;/li&gt;&lt;li&gt;Again switch whiteboards to peer review and annotate the other group’s work&lt;/li&gt;&lt;li&gt;Once completed, assess and discuss the comments made by their peers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Examine and Discuss Final Work</name>
+<id>11111125</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Circulate in groups around the room and examine and discuss all finalized reactions posted by peers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compose a Final Flow Chart</name>
+<id>11111122</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Compile a flow chart outlining the steps required to solve a electrophilic aromatic substitution problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Apply, Review, and Modify Flowchart </name>
+<id>11111130</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Use own flow chart to solve related questions, modifying it until it is robust.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,118 @@
+<project><prname>Dart Gun Velocity</prname>
+<idnum>77</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Dart Gun Velocity</wfname>
+<wfauthor>By Kenneth Ragan
+</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students apply their knowledge of projectile motion and the range equation to find the muzzle velocity of a foam dart gun and predict its maximum range. Students learn to identify outliers in measurements and to calculate mean values. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/dart-gun-velocity/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity - Demonstration</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Demonstrate how to use a dart gun (which fires foam darts), by firing a few darts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Relationship Between Variables</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Find a relationship between the muzzle velocity and time taken by the projectile to return to its original position if fired directly upward, using &lt;span class="ql-formula" data-value="v = gt/2 "&gt;﻿&lt;span contenteditable="false"&gt;&lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;g&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi mathvariant="normal"&gt;/&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;v = gt/2 &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height: 0.43056em; vertical-align: 0em;"&gt;&lt;/span&gt;&lt;span class="mord mathdefault" style="margin-right: 0.03588em;"&gt;v&lt;/span&gt;&lt;span class="mspace" style="margin-right: 0.277778em;"&gt;&lt;/span&gt;&lt;span class="mrel"&gt;=&lt;/span&gt;&lt;span class="mspace" style="margin-right: 0.277778em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height: 1em; vertical-align: -0.25em;"&gt;&lt;/span&gt;&lt;span class="mord mathdefault" style="margin-right: 0.03588em;"&gt;g&lt;/span&gt;&lt;span class="mord mathdefault"&gt;t&lt;/span&gt;&lt;span class="mord"&gt;/&lt;/span&gt;&lt;span class="mord"&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;﻿&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Note: This can be done in groups, pairs, or individually.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present a mini-lecture on measurement uncertainties&lt;/li&gt;&lt;li&gt;Then, direct students to pull out stopwatches/smartphones to measure the time between the "start" and “stop”&lt;/li&gt;&lt;li&gt;Count down, “3, 2, 1, start... 3, 2, 1, stop”&lt;/li&gt;&lt;li&gt;Choose several students at random, creating a list of their results&lt;/li&gt;&lt;li&gt;Lead the class through the identification of outliers and the calculation of a mean value&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Trial</name>
+<id>33</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Count down and fire the dart gun directly upward.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Measure Time and Share Results</name>
+<id>37</id>
+<lefticon>class</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;When the dart is fired, measure the time it takes for the projectile to return to its original height&lt;/li&gt;&lt;li&gt;When chosen, share results, identifying outliers and calculating the average&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate Variables to Find Max Range</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Calculate the muzzle velocity of the dart gun (done in groups, pairs or individually)&lt;/li&gt;&lt;li&gt;Calculate the maximum range of the dart gun, and determine at what angle this max range will be achieved&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Perform New Trial to Compare Results</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Select students to measure out this distance, either by chalking out a line at the front of the class or by having a student stand at the maximum range of the dart gun&lt;/li&gt;&lt;li&gt;Fire the dart gun at a 45 degree angle near the ground, so that students can then compare their results&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Compare Results</name>
+<id>77</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Compare the theoretical result to the actual result.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

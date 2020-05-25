@@ -1,0 +1,74 @@
+<project><prname>Presentation Skills: Conveying Emotion</prname>
+<idnum>50</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Presentation Skills: Conveying Emotion</wfname>
+<wfauthor>By Rachael Marshall
+</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will be made aware of the importance of conveying emotions during a presentation. See a full description&lt;a href=&quot;https://www.saltise.ca/activity/sosci-presentation-skills_conveying_emotion/&quot; target=&quot;_blank&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into two groups&lt;/li&gt;&lt;li&gt;Ask students to pick a partner from the opposite group and present to them what he/she ate for breakfast this morning&lt;/li&gt;&lt;li&gt;Ask privately Group 1 to present in the most bummed out way and Group 2 to present in the most excited way&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>158</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Talk in Pairs</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Pair off and present to one another in the respective instructed manners.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Pair Presentations</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into a circle&lt;/li&gt;&lt;li&gt;Discuss what they think happened when they were presenting to one another&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Emotion in Presentation</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Explain what the activity asked each group to do&lt;/li&gt;&lt;li&gt;Explain how conveying moods is an important part of giving a good presentation; if people are bored, it means the presenter may be conveying a bored mood&lt;/li&gt;&lt;li&gt;Encourage students to practice picking a mood and conveying it in their presentations (e.g. inspiring, moving, funny, call to arms, etc.)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

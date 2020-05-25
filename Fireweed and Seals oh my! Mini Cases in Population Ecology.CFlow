@@ -1,8 +1,9 @@
 <project><prname>Fireweed and seals, oh my! Mini cases in Population Ecology</prname>
-<idnum>56</idnum>
+<idnum>75</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Fireweed and Seals, oh my! Mini Cases in Population Ecology</wfname>
+<workflow><wfname>Fireweed and Seals, Oh My! Mini Cases in Population Ecology</wfname>
 <wfauthor>By Edward Awad and Maxime Pelland</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are introduced to the population ecology of plants and animals via a pair of mini case studies. Students&amp;nbsp;will become familiar with cellular respiration and how it can be quantified as well as&amp;nbsp;analyze data and produce a graph. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/fireweed-and-seals-oh-my-mini-cases-in-population-ecology/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,23 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>40</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/fireweed-and-seals-oh-my-mini-cases-in-population-ecology/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Watch assigned videos relating to population ecology, R and K selection, and the Leslie Matrix in population ecology.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>66</id>
+<lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Watch assigned videos relating to population ecology, R and K selection, and the Leslie Matrix in population ecology&lt;/li&gt;&lt;li&gt;After reviewing the assigned material, perform a brief online quiz to assess knowledge before class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;After reviewing the assigned material, perform a brief online quiz to assess knowledge before class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -75,9 +75,14 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>18</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
 <tagARRAY/>
 </node>
-<node><name>If Needed, Clarify the Questions</name>
+<node><name>Clarify the Questions</name>
 <id>18</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>

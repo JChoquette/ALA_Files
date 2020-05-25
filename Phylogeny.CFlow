@@ -1,8 +1,9 @@
 <project><prname>Phylogeny </prname>
-<idnum>32</idnum>
+<idnum>78</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Phylogeny </wfname>
 <wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn how to construct phylogenetic trees based on evolutionary traits using three different example scenarios. Students learn about biological diversity and the evolution of traits, and develop autonomous critical thinking skills and collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/?s=phylogeny&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -11,39 +12,35 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>OOC</columnname>
-<columnnodetext>Out of Class</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICI</columnname>
-<columnnodetext>In Class (Instructor)</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICS</columnname>
 <columnimage>noinstructor</columnimage>
-<columnnodetext>In Class (Students)</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>28</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the materials of the activity &lt;a href="https://www.saltise.ca/activity/phylogeny/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
-<righticon>research</righticon>
+<righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Work on a sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do assigned readings and watch a video about phylogenetics&lt;/li&gt;&lt;li&gt;Do a quiz through Moodle to test what they have learned from the video and readings&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work on a sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings&lt;/li&gt;&lt;li&gt;Do assigned readings and watch a video about phylogenetics&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>55</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Do a quiz through Moodle to test what they have learned from the video and readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -52,7 +49,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Review material from the pre-assigned readings at the start of the class and answer student questions&lt;/li&gt;&lt;li&gt;Introduce the activity and describe the first phylogeny scenario&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review material from the pre-assigned readings and answer student questions&lt;/li&gt;&lt;li&gt;Introduce the activity and describe the first phylogeny scenario&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>104</textheight>
 <isdropped>true</isdropped>
@@ -72,11 +69,11 @@
 <node><name>Rethink about Construction Process</name>
 <id>10</id>
 <lefticon>group</lefticon>
-<righticon>peerreview</righticon>
+<righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Compare the phylogenetic trees with other groups in the class&lt;/li&gt;&lt;li&gt;Answer questions based on the phylogenetic trees&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Recommended time: 20 minutes for the 1st scenario, 15 minutes for the 2nd scenario, and 10 minutes for the 3rd scenario&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Compare the phylogenetic trees with other groups in the class&lt;/li&gt;&lt;li&gt;Answer questions based on the phylogenetic trees&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Recommended time:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;20 minutes for the 1st scenario&lt;/li&gt;&lt;li&gt;15 minutes for the 2nd scenario&lt;/li&gt;&lt;li&gt;10 minutes for the 3rd scenario&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>134</textheight>
+<textheight>164</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -96,31 +93,31 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Answer clicker questions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 15 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer clicker questions.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>14</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<link><targetid>15</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
 <tagARRAY/>
 </node>
-<node><name>Review and Revise Answers</name>
+<node><name>Revise Answers</name>
 <id>14</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;If the majority of the class answers incorrectly on a particular question, take up that question with the entire class.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Optional: If the majority of the class answers incorrectly on a particular question, take up that question with the entire class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>32</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
-<link><targetid>15</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<link><targetid>13</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -129,7 +126,7 @@
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Practice questions assigned by the instructor related to the entire evolution unit. &lt;/p&gt;&lt;p&gt;Answers are not assessed by the instructor.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Practice questions assigned by the instructor related to the entire evolution unit.&lt;/p&gt;&lt;p&gt;Note: Answers are not assessed by the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

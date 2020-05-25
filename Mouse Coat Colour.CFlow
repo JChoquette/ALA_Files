@@ -1,8 +1,9 @@
 <project><prname>Mouse Coat Colour</prname>
-<idnum>267</idnum>
+<idnum>506</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Mouse Coat Colour</wfname>
 <wfauthor>By Karl Laroche</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students review and link the molecular, cellular, and genetics knowledge to evolution. It is an interrupted case study where students learn to apply aforementioned concepts, link them to the big context and appreciate the effects genetics and molecular mechanics have on the phenotype. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/mouse-coat-colour/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,24 +23,12 @@
 </column>
 <week><weekid>2</weekid>
 <weekname>Module 1</weekname>
-<node><name>Activity Instructions</name>
-<id>264</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/mouse-coat-colour/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Module 1</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Review chapters related to module 1 (Biological Chemistry module)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Review chapters related to module 1 ("Biological Chemistry" ).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -50,9 +39,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Class 1&lt;/strong&gt;: Present the "Mouse Coat Colour - Biological Chemistry" review questions. This takes place during week 5 of the semester.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;p&gt;Present the "Mouse Coat Colour - Biological Chemistry" review questions.&lt;/p&gt;&lt;p&gt;Note: This takes place during week 5 of the semester.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -61,31 +50,20 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Clarify Doubts and Misconceptions</name>
+<node><name>Clarify Doubts and Discuss Answers</name>
 <id>6</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Along with TAs, clear doubts and misconceptions raised by the groups (Just-in-time teaching).&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups &lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using just-in-time teaching (JITT) strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Discuss Answers</name>
-<id>8</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using Just-in-time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>158</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -108,7 +86,7 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Review chapters related to module 2 (Cells and Cell Division module).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Review chapters related to module 2 ("Cells and Cell Division").&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -119,9 +97,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Class 2: &lt;/strong&gt;Present the "Cells and Cell Division" review questions. This takes place during week 6.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;p&gt;Present the "Cells and Cell Division" review questions. &lt;/p&gt;&lt;p&gt;Note: This takes place during week 6.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>112</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -132,29 +110,18 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students)&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Clarify Doubts and Misconceptions</name>
+<node><name>Clarify Doubts and Discuss Answers</name>
 <id>17</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Along with TAs, clear doubts and misconceptions raised by the groups (Just-in-time teaching)&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups&lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Discuss Answers   </name>
-<id>19</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using Just-In-Time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>148</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -177,9 +144,9 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Review chapters related to module 3 (Genetics module)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Review chapters related to module 3 ("Genetics").&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -188,9 +155,9 @@
 <lefticon>class</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Class 3 (week 7)&lt;/strong&gt;: Watch a truncated version of a documentary on "Mouse Coat Colour" at the beginning of the class. https://www.youtube.com/watch?v=dFx6K83ilo&amp;amp;feature=youtu.be&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 3&lt;/p&gt;&lt;p&gt;Watch a truncated version of a&lt;a href="https://www.youtube.com/watch?v=dFx61K83ilo&amp;amp;feature=youtu.be " target="_blank"&gt; documentary &lt;/a&gt;on "Mouse Coat Colour" at the beginning of the class. &lt;/p&gt;&lt;p&gt;Note: This takes place during week 7.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>144</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -201,7 +168,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Present the "Genetics" review questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -210,31 +177,20 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Clarify Doubts and Misconceptions</name>
+<node><name>Clarify Doubts and Discuss Answers</name>
 <id>28</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Along with TAs, clear doubts and misconceptions raised by the groups (Just-in-time teaching)&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups&lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Discuss Answers</name>
-<id>30</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explains concepts using Just-In-Time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>148</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -252,14 +208,14 @@
 </week>
 <week><weekid>267</weekid>
 <weekname>Module 4</weekname>
-<node><name>Prepare for Module 4-Part A</name>
+<node><name>Prepare for Module 4 - Part A</name>
 <id>40</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Prepare for 'Module 4 - part A' (Evolution - Natural Selection) by reading the assigned pages from the textbook, and examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped-classroom teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare for Module 4 - part A ("Evolution - Natural Selection") by:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reading the assigned pages from the textbook&lt;/li&gt;&lt;li&gt;Examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped-classroom teaching strategy)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>144</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -268,20 +224,20 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test understanding of the pre-class material.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer 10 multiple-choice questions (MCQs) available on Moodle to test understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part A Concepts   </name>
+<node><name>Present Module 4 - Part A Concepts   </name>
 <id>42</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Class 4: &lt;/strong&gt;Present and explain key concepts on Natural Selection, placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (Just-in-time teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;﻿&lt;/strong&gt;Present and explain key concepts on Natural Selection, placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -290,31 +246,31 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture time) in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture time).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part A Questions</name>
+<node><name>Present Module 4 - Part A Questions</name>
 <id>44</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present the 'Natural Selection' in-class activity questions&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present the "Natural Selection" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Answer Module 4-Part A Questions</name>
+<node><name>Answer Module 4 - Part A Questions</name>
 <id>45</id>
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer the questions in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -323,9 +279,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using just-in-time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>114</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -334,31 +290,20 @@
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Watch Video  </name>
-<id>55</id>
-<lefticon>solo</lefticon>
-<righticon>research</righticon>
-<column>OOC</column>
-<textHTML>&lt;p&gt;Watch the full version of the Mouse Coat Colour video on https://www.youtube.com/watch?v=5xXH6aB0DC4&amp;amp;feature=youtu.be&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Prepare for Module 4-Part B</name>
+<node><name>Prepare for Module 4 - Part B</name>
 <id>52</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Prepare for 'Module 4 - Part B' (Evolution - Population Genetics) by reading the assigned pages from the textbook, and examining the lecture slides, You Tube videos, Moodle videos and concept maps (Flipped - classroom teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch the full version of the Mouse Coat Colour &lt;a href="https://www.youtube.com/watch?v=5xXH6aB0DC4&amp;amp;feature=youtu.be." target="_blank"&gt;video.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Prepare for Module 4 - Part B ("Evolution - Population Genetics") by: a) reading the assigned pages from the textbook and b) examining the lecture slides, You Tube videos, Moodle videos and concept maps (Flipped classroom teaching strategy).&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106</textheight>
+<textheight>148</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -367,20 +312,20 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test understanding of the pre-class material&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part B Concepts   </name>
+<node><name>Present Module 4 - Part B Concepts   </name>
 <id>57</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Class 5: &lt;/strong&gt;Present and explain key concepts on Population Genetics, placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (Just-in-time teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 5&lt;/p&gt;&lt;p&gt;Present and explain key concepts on "Population Genetics", placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>134</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -389,31 +334,31 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part B Questions</name>
+<node><name>Present Module 4 - Part B Questions</name>
 <id>59</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present the 'Population Genetics' in-class activity questions&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present the "Population Genetics" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Answer Module 4-Part B Questions </name>
+<node><name>Answer Module 4 - Part B Questions </name>
 <id>60</id>
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer the questions in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -422,9 +367,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using just-in-time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>116</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -439,14 +384,14 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Prepare for Module 4-Part C   </name>
+<node><name>Prepare for Module 4 - Part C   </name>
 <id>67</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Prepare for "Module 4 - Part C" (Evolution - Speciation) by reading the assigned pages from the textbook, and examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped - classroom teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare for Module 4 - Part C ("Evolution - Speciation") by:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reading the assigned pages from the textbook&lt;/li&gt;&lt;li&gt;Examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped classroom teaching strategy)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>140</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -455,18 +400,18 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test their understanding of the pre-class material&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test their understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>72</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part C Concepts   </name>
+<node><name>Present Module 4 - Part C Concepts   </name>
 <id>69</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present and explain key concepts on Speciation, placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (just-in-time teaching strategy)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present and explain key concepts on "Speciation", placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -477,31 +422,31 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Present Module 4-Part C Questions </name>
+<node><name>Present Module 4 - Part C Questions </name>
 <id>71</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present the 'Speciation' in-class activity questions&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present the "Speciation" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Answer Module 4-Part C Questions </name>
+<node><name>Answer Module 4 - Part C Questions </name>
 <id>72</id>
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss and answer the questions in groups&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -510,7 +455,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using just-in-time teaching strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -521,7 +466,7 @@
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

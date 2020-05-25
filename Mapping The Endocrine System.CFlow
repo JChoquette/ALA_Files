@@ -1,0 +1,142 @@
+<project><prname>Mapping the Endocrine System</prname>
+<idnum>75</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Homeostasis: Mapping the Endocrine System</wfname>
+<wfauthor>By Francesca Theriault </wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students work in groups to piece together feedback loops that are related to the endocrine system to form a concept map. Students learn how to synthesize and analyze information and collaborate with peers. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bio-endocrine/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Out of Class (Student)</columntext>
+<columnnodetext>Out of Class (Student)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 4-6 based on their different strengths &lt;/p&gt;&lt;p&gt;Note: This part can happen prior to the class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Choose Roles</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Get into their groups and choose one person for each of the following roles:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Note Taker legibly writes down the group’s notes and sketches their feedback loop&lt;/li&gt;&lt;li&gt;Moderator keeps group focused and on time&lt;/li&gt;&lt;li&gt;Spokesperson presents the group’s feedback loop to the class and sketches it on the board&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Notes are not allowed to be used for this activity as it is done as a memory and synthesis exercise.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>252</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Feedback Loops</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Randomly assign a feedback loop to each group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Feedback Loops &amp; Take Notes</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the feedback loop&lt;/li&gt;&lt;li&gt;Ask the Note Taker to write down group notes and sketch the feedback loop&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Presentation Orders</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Randomly assign a presentation order.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Feedback Loops</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Spokesperson&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sketch feedback loop from group notes on the board&lt;/li&gt;&lt;li&gt;Present the feedback loop to the class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Each Spokesperson has 10 minutes to complete this part. Students continue presenting until all feedback loops have been integrated into the concept map on the board.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>166</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate &amp; Critique Loops</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take a picture of the feedback loops for grading purposes&lt;/li&gt;&lt;li&gt;Critique loops, pointing out inaccuracies or areas where more detail could be added&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Critique each loop between presentations which should take about 5 minutes per group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Consolidate System Feedback Loops</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take a picture of the completed endocrine system feedback loops&lt;/li&gt;&lt;li&gt;Summarize system feedback loops and their importance in maintaining homeostasis and proper endocrine function&lt;/li&gt;&lt;li&gt;Highlight the connections between different loops&lt;/li&gt;&lt;li&gt;Answer any student questions or misconceptions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assess Groups' Work</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Grade groups based on the photo of their feedback loops (prior to in-class correction).&lt;/p&gt;&lt;p&gt;Note: Account for differences in the level of detail/accuracy between groups that presented first and last (with respect to grade).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

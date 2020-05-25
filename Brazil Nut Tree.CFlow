@@ -1,0 +1,95 @@
+<project><prname>Brazil Nut Tree</prname>
+<idnum>92</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Brazil Nut Tree</wfname>
+<wfauthor>By Edward Awad and Maxime Pelland</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take on the role of ecologists saving the Brazil nut tree community from the effects of deforestation. Students will learn about species interactions and the different types of relationships that can be formed between species through a peer-instruction case study. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/brazil-nut-tree/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read a document with key concepts and learning objectives&lt;/li&gt;&lt;li&gt;Watch videos and read assigned material on species interaction&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a quiz through Moodle to test knowledge after the videos and readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity - Part A</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned videos, quiz, and readings (15 minutes)&lt;/li&gt;&lt;li&gt;Go over important concepts related to species interaction types and give examples of such interaction types&lt;/li&gt;&lt;li&gt;Split the students into groups of 3-4&lt;/li&gt;&lt;li&gt;Introduce Part A of the activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>192</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Fill a Table and Answer Questions</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Fill a table that describes the interaction between different organisms in the Brazil nut tree community&lt;/li&gt;&lt;li&gt;Answer two short answer type questions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can also check each other's answers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity - Part B</name>
+<id>24</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Describe the current situation faced by the Brazil nut tree.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete and Submit Answers</name>
+<id>25</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer three additional questions of the short answer type&lt;/li&gt;&lt;li&gt;Submit answers from Part A and Part B for correction&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can also check each other's answers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

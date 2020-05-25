@@ -1,0 +1,88 @@
+<project><prname>Two-stage calculus quiz</prname>
+<idnum>68</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Two-Stage Calculus Quiz</wfname>
+<wfauthor>By Andreea Panait</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students first complete&amp;nbsp;an individual test with three questions of increasing difficulty. Then, groups work together on an exam question of their choice. Students will be able to understand the purpose of this assessment as a learning process. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/mathematics-two-stage-calculus-quiz/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity	</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Explain clearly the procedure of the two-stage exam&lt;/li&gt;&lt;li&gt;Distribute the exam to each student&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Respond to Questions</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer 3 questions of increasing difficulty.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>25</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Transition to Group Work</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Collect all of the exams&lt;/li&gt;&lt;li&gt;Divide the class in groups&lt;/li&gt;&lt;li&gt;Direct each group to decide which question they want to work on and give each group a paper with their chosen question&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Chosen Question</name>
+<id>19</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Work together to solve the question.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>6-7</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Grade Individual and Group Work</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Collect these answers and grade both the individual and group sections of the exam&lt;/li&gt;&lt;li&gt;Post the correct answers on a platform shared with students (i.e. Moodle)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>910</wflegendx>
+<wflegendy>190</wflegendy>
+</wfdata></workflow>
+</project>

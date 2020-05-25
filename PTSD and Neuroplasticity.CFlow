@@ -1,9 +1,9 @@
 <project><prname>PTSD and Neuroplasticity</prname>
-<idnum>299</idnum>
+<idnum>321</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>PTSD and Neuroplasticity</wfname>
+<workflow><wfname>Ctrl + Alt + Del: PTSD and Neuroplasticity</wfname>
 <wfauthor>By Daniel Goldsmith and Véronique Brulé</wfauthor>
-<wfdescription>&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/neuoplasticity/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students debate whether mindfulness can effectively heal the brain after a traumatic experience. They will exercise critical thinking skills, learn to evaluate facts, and create counter-arguments. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/neuoplasticity/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -27,7 +27,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into two teams: Team 1: mindfulness therapy can rewire the brain to treat trauma; Team 2: mindfulness therapy cannot rewire the brain to treat trauma&lt;/li&gt;&lt;li&gt;Choose 3-5 students (depending on the size of the class/teams) to act as judges for the debate&lt;/li&gt;&lt;li&gt;Introduce the idea of physiological changes resulting from trauma using video clip 1 and 2&lt;/li&gt;&lt;li&gt;Show video clip 3 discussing mindfulness as therapy to trauma&lt;/li&gt;&lt;li&gt;Describe the debate activity to the class&lt;/li&gt;&lt;li&gt;Provide students with &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Debate-Instructions-and-answers.pdf" target="_blank"&gt;instructions&lt;/a&gt; that include the guidelines and criteria for the debate activity&lt;/li&gt;&lt;li&gt;Pose the question: "Can mindfulness therapy actually reverse physiological effects of trauma in the brain through neuroplasticity?"&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into two teams: Team 1: mindfulness therapy can rewire the brain to treat trauma; Team 2: mindfulness therapy cannot rewire the brain to treat trauma&lt;/li&gt;&lt;li&gt;Choose 3-5 students (depending on the size of the class/teams) to act as judges for the debate&lt;/li&gt;&lt;li&gt;Introduce the idea of physiological changes resulting from trauma using &lt;u&gt;video clip 1 and 2&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Show &lt;u&gt;video clip 3&lt;/u&gt; discussing mindfulness as therapy to trauma&lt;/li&gt;&lt;li&gt;Describe the debate activity to the class&lt;/li&gt;&lt;li&gt;Provide students with &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Debate-Instructions-and-answers.pdf" target="_blank"&gt;instructions&lt;/a&gt; that include the guidelines and criteria for the debate activity&lt;/li&gt;&lt;li&gt;Pose the question: "Can mindfulness therapy actually reverse physiological effects of trauma in the brain through neuroplasticity?"&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>364</textheight>
 <isdropped>true</isdropped>
@@ -49,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Choose a Note Taker, Moderator, and 2 Presenters&lt;/li&gt;&lt;li&gt;Discuss their research&lt;/li&gt;&lt;li&gt;Put together a 5-minute argument&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Roles are outlined in the instructions.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a Note Taker, Moderator, and 2 Presenters&lt;/li&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Put together a 5-minute argument&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Roles are outlined in the instructions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -74,8 +74,6 @@
 <textHTML>&lt;p&gt;First Presenter from each team&lt;/p&gt;&lt;p&gt;Start presenting the argument to the class (5 minutes each).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on arguments from each team.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>142</textheight>
-<timevalue>10</timevalue>
-<timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -106,7 +104,7 @@
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Judges&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss their notes&lt;/li&gt;&lt;li&gt;Evaluate each team’s argument&lt;/li&gt;&lt;li&gt;Choose a winning team&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Judges&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss notes&lt;/li&gt;&lt;li&gt;Evaluate each team’s argument&lt;/li&gt;&lt;li&gt;Choose a winning team&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -117,7 +115,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Summarize arguments from both teams&lt;/li&gt;&lt;li&gt;Discuss mindfulness and neuroplasticity using video clip 4 and 5&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize arguments from both teams&lt;/li&gt;&lt;li&gt;Discuss mindfulness and neuroplasticity using &lt;u&gt;video clip 4 and 5&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

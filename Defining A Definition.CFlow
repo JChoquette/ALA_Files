@@ -1,0 +1,114 @@
+<project><prname>Defining a Definition</prname>
+<idnum>104</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Defining a Definition</wfname>
+<wfauthor>By Philippe Caignon
+</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students practice problem-solving related to definitions. This activity improves their critical thinking skills, debate skills, and knowledge assimilation. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/thinkpair/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present an example problem to the class&lt;/li&gt;&lt;li&gt;Demonstrate how to analyze the problem&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This activity can be done as a follow-up to &lt;a href="https://www.saltise.ca/activity/teach4aday/" target="_blank"&gt;"Teacher for a Day"&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze and Solve a Problem</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read through a new problem&lt;/li&gt;&lt;li&gt;Attempt to answer the problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Synthesize Individual Answers</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide into groups of 2-4&lt;/li&gt;&lt;li&gt;Share answers to the problem&lt;/li&gt;&lt;li&gt;Discuss, defend, and build on answers&lt;/li&gt;&lt;li&gt;Modify individual answers based on the group discussion&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>112</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Synthesize Group Answers</name>
+<id>5</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Share answers to the problem&lt;/li&gt;&lt;li&gt;Discuss, defend, and build on answers&lt;/li&gt;&lt;li&gt;Modify individual answers based on the class discussion&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Act as a moderator for the class discussion&lt;/li&gt;&lt;li&gt;Address and clarify any misconceptions that arise during the discussion&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Approach and Solution</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Briefly go over the answer to the problem to reinforce the approach students should have used to finding a solution to the problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

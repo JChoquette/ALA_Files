@@ -1,0 +1,117 @@
+<project><prname>Battleship Clicker Questions</prname>
+<idnum>93</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Battleship Clicker Questions</wfname>
+<wfauthor>By Kenneth Ragan</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students answer a series of short conceptual clicker questions about projectile motion. They learn to distinguish between the horizontal and vertical components of projectile motion. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/battleship-clicker-questions/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>31</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare three questions.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;u&gt;Question #1&lt;/u&gt; is a simple question about projectile motion&lt;/li&gt;&lt;li&gt;&lt;u&gt;Question #2 &amp;amp; #3&lt;/u&gt; are more difficult, and are about the relationship between the height, air time, and distance of a projectile&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present a lecture on projectile motion&lt;/li&gt;&lt;li&gt;Provide one of three questions, one question per round&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>84</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Respond with Clicker</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Determine the correct response and respond using a clicker or similar device.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Decide if a Second Poll is Necessary</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Display the results, and determine whether or not an acceptable fraction of the students chose correctly (&amp;gt;75%).&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linktext> If at least 
+75% chose
+correctly</linktext>
+</link>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+<linktext> If less than 75% 
+chose correctly</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Discuss Response</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Pair up and discuss the question to determine the correct response, in order to answer the question again.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>Only repeat for a 
+second attempt</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Explain the Correct Response</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Explain the correct response to the question, displaying the results again, if needed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;For Q2, emphasize the fact that the time in the air depends entirely on the vertical velocity, and therefore is related to the maximum height achieved by the projectile&lt;/li&gt;&lt;li&gt;For Q3, compare it to the results of the second question. Highlight the key points, including the independence of the horizontal and vertical components and the relationship between time spent in the air and vertical height of a projectile&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>228</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

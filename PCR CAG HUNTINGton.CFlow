@@ -1,0 +1,124 @@
+<project><prname>PCR CAG HUNTING&apos;ton</prname>
+<idnum>91</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>PCR CAG HUNTINGton</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will gain an insight into the use of Polymerase Chain Reaction (PCR) to screen for the Huntington disease (HTT gene) and how powerful PCR can be in amplifying many copies of DNA template. Students will also learn about the mechanisms involved in DNA replication. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-pcr-cag-huntington/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch two videos; one on PCR and another on the calculations involved in PCR&lt;/li&gt;&lt;li&gt;Read assigned readings and look over key concepts&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a Moodle quiz to test their knowledge on gene mutations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the material and answer any questions the students may have about the quiz, assigned readings, and videos (15 minutes)&lt;/li&gt;&lt;li&gt;Split the class into groups of 3-4&lt;/li&gt;&lt;li&gt;Introduce the case&lt;/li&gt;&lt;li&gt;Give the students an assignment on Huntington disease and the application of PCR to complete&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Questions</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the questions in the assignment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Students' Answers</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Go over the answers to the assignment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask Clicker Questions</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pose the multiple choice clicker questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Clicker Questions</name>
+<id>22</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the series of clicker questions (approx. 3 minutes per question).&lt;/p&gt;&lt;p&gt;Optional: If less than 70% of the students answer the clicker questions correctly, discuss and re-answer them as a group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>25</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Lead a Lab on PCR</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Optional: Follow this case study with a lab on PCR which teaches students to ﬁnd/design primers and calculate how much DNA is created during their PCR cycle.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

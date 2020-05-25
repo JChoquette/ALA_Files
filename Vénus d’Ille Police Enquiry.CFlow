@@ -1,8 +1,9 @@
 <project><prname> Vénus d’Ille: Police Enquiry</prname>
-<idnum>68</idnum>
+<idnum>114</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname> Vénus d’Ille: Police Enquiry</wfname>
 <wfauthor>By Alexandre Limoges</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are&amp;nbsp;expected to identify 4 suspects to the murder in the novel which&amp;nbsp;helps them realize the tension between the rational and supernatural explanations in fantasy literature and see beyond their expectations of always finding a rational or fantastical conclusion. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/venus-dille-police-enquiry/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
 <wfid>10</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -23,30 +24,18 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>9</weekid>
-<node><name>Activity Instructions</name>
-<id>56</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/venus-dille-police-enquiry/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>1</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read the short story 'La Vénus d’Ille' at home along with a text providing context for the story, the author, as well as aspects to focus the students' attention to during their reading of the text.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read the short story "La Vénus d’Ille" at home along with a text providing context for the story, information on the author, as well as aspects to focus the attention on during reading of the text.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Introduce the Activity</name>
+<node><name>Introduce Activity</name>
 <id>2</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -62,7 +51,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Each student in a group is responsible for identifying and ﬁnding clues pointing to a suspect.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Identify and ﬁnd clues pointing to a suspect.&lt;/p&gt;&lt;p&gt;Note: Each student in a group is responsible for carrying out this task. &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -73,7 +62,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;As a group, discuss the clues and evidence pointing to each of the identiﬁed suspects.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss the clues and evidence pointing to each of the identiﬁed suspects.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -95,7 +84,7 @@
 <lefticon>group</lefticon>
 <righticon>present</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Each group presents a formal accusation to the instructor.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present a formal accusation to the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -135,11 +124,6 @@
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;Instructor Evaluation or Orchestration?&lt;/p&gt;</textHTML>
-<x>450</x>
-<y>1340</y>
-<commentparent>9</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

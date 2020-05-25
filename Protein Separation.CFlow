@@ -1,0 +1,84 @@
+<project><prname>Protein Separation</prname>
+<idnum>55</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Protein Separation</wfname>
+<wfauthor>By Madoka Gray-Mitsumune</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students review two main types of protein separation methods in a&amp;nbsp;jigsaw-based manner. Students work both as a team and individually to develop autonomous critical thinking skills as well as collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bio-pro-sep/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/BIOL_Protein_Separation_Handout.pdf" target="_blank"&gt;activity&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Assign class into 2 super-groups and ask one group to review polyacrylamide gel electrophoresis (PAGE)-based protein separation and the other group to review liquid chromatography (LC)-based protein separation&lt;/li&gt;&lt;li&gt;Separate each super-group into mini-groups (3-5 students each)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>158</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Search for Protein Separation Methods</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into mini-groups&lt;/li&gt;&lt;li&gt;Research either PAGE or LC-based &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/BIOL_Protein_Separation_Handout.pdf" target="_blank"&gt;protein separation methods&lt;/a&gt; (4 methods per group) according to the super-groups they belonged to&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Protein Separation Methods</name>
+<id>25</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss difference/similarities in separation methods and the advantages/disadvantages of each.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Teach Peers Different Methods</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pair up with another student from the opposite super-group&lt;/li&gt;&lt;li&gt;Take turns teaching each other about PAGE or LC&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Answer Quesitons</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Go over material to address any misconceptions or student questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

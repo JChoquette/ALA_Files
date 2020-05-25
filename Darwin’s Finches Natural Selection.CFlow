@@ -1,9 +1,9 @@
 <project><prname>Darwin’s Finches: Natural Selection</prname>
-<idnum>119</idnum>
+<idnum>161</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Darwin’s Finches: Natural Selection</wfname>
 <wfauthor>By Edward Awad</wfauthor>
-<wfdescription>&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-darwins-finches/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn about the mechanics of natural selection and the evolution of traits. They will be able to practice experimental data collection and analysis using the example of Darwin’s finches. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-darwins-finches/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,16 +22,19 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name/>
+<node><name>Prepare Activity</name>
 <id>68</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;List of Materials is provided in the Materials PDF&lt;/li&gt;&lt;li&gt;Descriptions of seed and beaks are provided in Instructions PDF&lt;/li&gt;&lt;li&gt;An Excel Template is provided in Data Chart PDF&lt;/li&gt;&lt;li&gt;Questions for Group Work are provided in Questions PDF&lt;/li&gt;&lt;li&gt;Questions for Clicker Section are provided in Clicker PDF&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Gather materials, as listed in the &lt;u&gt;Materials PDF&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Ensure students have access to the excel template (in&lt;u&gt; Data Chart PDF&lt;/u&gt;) and questions for Group Work and Clicker Section (in &lt;u&gt;Questions PDF&lt;/u&gt; and &lt;u&gt;Clicker PDF&lt;/u&gt;, respectively)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>134</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Prepare for Class</name>
@@ -45,7 +48,7 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Take a Quiz</name>
+<node><name>Take a Quiz to Test Knowledge</name>
 <id>118</id>
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
@@ -61,9 +64,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Review key concepts from pre-assigned material&lt;/li&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned readings, videos, or quiz&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 3 at a table with an interactive whiteboard; with  two groups at each table &lt;/li&gt;&lt;li&gt;Introduce the activity and verbally review  the instructions with the entire class&lt;/li&gt;&lt;li&gt;Hand out materials to each group&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review key concepts from pre-assigned material&lt;/li&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned readings, videos, or quiz&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 3 at a table with an interactive whiteboard with two groups at each table&lt;/li&gt;&lt;li&gt;Introduce the activity and verbally review the &lt;u&gt;instructions&lt;/u&gt; with the entire class, which describes the seeds and beaks&lt;/li&gt;&lt;li&gt;Hand out materials to each group (listed in Materials PDF)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>194</textheight>
+<textheight>214</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -72,7 +75,7 @@
 <lefticon>group</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;In only 30 seconds, collect as many seeds as possible with their beaks (tweezers or spoons), with each group member participating in seed collection&lt;/li&gt;&lt;li&gt;Count the number of each seed type they collected&lt;/li&gt;&lt;li&gt;Add data to the excel sheet on the interactive white board&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;In only 30 seconds, collect as many seeds as possible with their beaks (tweezers or spoons), with each group member participating in seed collection&lt;/li&gt;&lt;li&gt;Count the number of each seed type they collected&lt;/li&gt;&lt;li&gt;Add data to the excel template on the interactive white board&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
 <isdropped>true</isdropped>
@@ -111,22 +114,22 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Transition to Class Discussion</name>
+<node><name>Review Questions</name>
 <id>90</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Review questions with the whole class.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Transition to class discussion&lt;/li&gt;&lt;li&gt;Review questions with the whole class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>20</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
-<node><name>   Review Questions</name>
+<node><name>   Answer Questions</name>
 <id>20</id>
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
@@ -142,13 +145,13 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Pose 5 questions for students using Clickers.&lt;/p&gt;&lt;p&gt;Note: If the majority of students incorrectly answer a particular question, review question with the entire class.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Pose 5 questions, one at a time, for students using Clickers.&lt;/p&gt;&lt;p&gt;Note: If the majority of students incorrectly answer a particular question, review question with the entire class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>110</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>29</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -162,11 +165,6 @@
 <textheight>54</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>28</targetid>
-<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
-<linktext>Repeat for 
-5 questions</linktext>
-</link>
 <tagARRAY/>
 </node>
 </week>

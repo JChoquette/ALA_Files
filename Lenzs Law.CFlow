@@ -1,0 +1,80 @@
+<project><prname>Lenz&apos;s Law</prname>
+<idnum>50</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Lenz&apos;s Law</wfname>
+<wfauthor>By Phoebe Jackson
+</wfauthor>
+<wfdescription>&lt;p&gt;In this activity, students play a game to practice use of the right hand rule in Lenz&apos;s Law and they learn to recognize the direction of an induced current. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/lenz-law/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present a lecture on the theory of Lenz’s Law.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate the Game</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Initiate the game by asking students to stand&lt;/li&gt;&lt;li&gt;Show a &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/LenzLaw_Slides.pdf" target="_blank"&gt;slide&lt;/a&gt; in which the magnetic flux through a wire loop changes&lt;/li&gt;&lt;li&gt;Keep time for each round&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assess the Induced Current</name>
+<id>4</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Determine whether the induced current is clockwise, counterclockwise, or 0&lt;/li&gt;&lt;li&gt;Write a response on a mini-whiteboard&lt;/li&gt;&lt;li&gt;Reveal the answer after 30 seconds&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Each Solution</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the solution after each slide, to explain the correct answer&lt;/li&gt;&lt;li&gt;Direct students who answered incorrectly to sit down. The last student to be eliminated is the winner&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The amount of time given for each round can decrease as students progress through the game. The game is repeated several times to give the eliminated players a chance to try again.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<link><targetid>20</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat until 
+one last student
+is standing</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

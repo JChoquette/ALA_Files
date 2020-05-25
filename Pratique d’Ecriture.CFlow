@@ -1,8 +1,9 @@
 <project><prname>Pratique d’écriture</prname>
-<idnum>72</idnum>
+<idnum>122</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Pratique d’Écriture</wfname>
 <wfauthor>By Lysanne Audy</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity,&amp;nbsp;students write a story in groups of five, practicing the theory on narration and exploring parts of a short story.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/pratique-decriture/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,26 +22,14 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>59</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/pratique-decriture/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>analyze</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read a short ﬁction text in order to see the theoretical framework of a story and to understand how to create a character and an ambiance&lt;/li&gt;&lt;li&gt;Underline new vocabulary and focus on how the author uses people, places, and things to establish characteristics of the characters in the story and the ambiance&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read a short ﬁction text in order to see the theoretical framework of a story and to understand how to create a character and an ambiance&lt;/li&gt;&lt;li&gt;Underline new vocabulary &lt;/li&gt;&lt;li&gt;Focus on how the author uses people, places, and things to establish characteristics of the characters in the story and the ambiance&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>164</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -55,12 +44,12 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Revise Structure of a Story</name>
+<node><name>Do a Quiz on Structure of a Narrative</name>
 <id>12</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Give a short pop quiz to revise the theoretical structure of a story (in the form of an oral questionnaire).&lt;/p&gt;</textHTML>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Do a short pop quiz on the theoretical structure of a story (in the form of an oral questionnaire).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -80,7 +69,7 @@
 <node><name>Start Filling in the Story Grid</name>
 <id>14</id>
 <lefticon>group</lefticon>
-<righticon>write</righticon>
+<righticon>create</righticon>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Start creating a story on the theme of stealing by writing the beginning (initial situation)&lt;/li&gt;&lt;li&gt;Outline the characteristics of the protagonist and begin to ﬁll in the story grid&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
@@ -93,7 +82,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Stop the activity and ask the groups to switch whiteboards so that they are in front of a diﬀerent story and have to read and adapt to the new situation.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Stop the activity and ask the groups to switch whiteboards, so that they are in front of a diﬀerent story and have to read and adapt to the new situation.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -104,7 +93,7 @@
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;At the second board, write the "élément déclancheur” and ﬁnish ﬁlling out the grid&lt;/li&gt;&lt;li&gt;At the third board, write an action and an adjective that shows an internal point of view of the narrator (this is underlined)&lt;/li&gt;&lt;li&gt;At the fourth board, write the last action/dénoument&lt;/li&gt;&lt;li&gt;At the sixth board, write the conclusion and give the story a title&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete each of the following tasks at different boards in the following order (one task per board):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write the "élément déclancheur” and ﬁnish ﬁlling out the grid&lt;/li&gt;&lt;li&gt;Write an action and an adjective that shows an internal point of view of the narrator (this is underlined)&lt;/li&gt;&lt;li&gt;Write the last action/dénoument&lt;/li&gt;&lt;li&gt;Write the conclusion and give the story a title&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>146</textheight>
 <isdropped>true</isdropped>
@@ -126,7 +115,7 @@
 <lefticon>class</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Each group reads out one of the stories to the class&lt;/li&gt;&lt;li&gt;As a class, discuss elements that make one story more eﬀective than another, pointing out what parts of the narrative structure make it weaker, whether or not each group stayed consistent with the grammatical tense&lt;/li&gt;&lt;li&gt;Vote on which story is the best one&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Each group reads out one of the stories to the class&lt;/li&gt;&lt;li&gt;Discuss elements that make one story more eﬀective than another, pointing out what parts of the narrative structure make it weaker and whether or not each group stayed consistent with the grammatical tense&lt;/li&gt;&lt;li&gt;Vote on which story is the best one&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
 <isdropped>true</isdropped>
@@ -144,11 +133,6 @@
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;1. There is no 'fifth board'&lt;br&gt;2. Should the icon here be 'write' or 'design/create'?&lt;/p&gt;</textHTML>
-<x>690</x>
-<y>1350</y>
-<commentparent>2</commentparent>
-</comment>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>

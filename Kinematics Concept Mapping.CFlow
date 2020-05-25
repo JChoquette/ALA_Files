@@ -1,8 +1,9 @@
 <project><prname>Kinematics Concept Mapping</prname>
-<idnum>40</idnum>
+<idnum>74</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Kinematics Concept Mapping</wfname>
 <wfauthor>By Michael Dugdale</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students create a concept map representing their knowledge of kinematics using &quot;nodes&quot; and &quot;links&quot; (linking prepositions) and conceptual problems. They learn about the relationships between the various equations and concepts learned in kinematics and how the problems relate to these concepts. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/kinematics-concept-mapping/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>29</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/kinematics-concept-mapping/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>5</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Explain how ideas can be linked together in a concept map, showing examples of concept maps.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Assign groups of 3-4. &lt;/li&gt;&lt;li&gt;Give each group sheets of ‘nodes’ and ‘links’ (linking prepositions) for their concept map. Each represents concepts from kinematics.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Explain how ideas can be linked together in a concept map, showing examples of concept maps&lt;/li&gt;&lt;li&gt;Assign groups of 3-4&lt;/li&gt;&lt;li&gt;Give each group sheets of ‘nodes’ and ‘links’ (linking prepositions) for their concept map. Each linking preposition represents concepts from kinematics&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
 <isdropped>true</isdropped>
@@ -49,7 +38,7 @@
 <lefticon>group</lefticon>
 <righticon>create</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Working at whiteboards in groups, cut out the nodes and links, using clear tape to affix them to the whiteboards to create a concept map. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the provided links and nodes rather than creating own links and nodes (constraining the concept map).&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Working at whiteboards, cut out the nodes and links, using clear tape to affix them to the whiteboards to create a concept map.&lt;/p&gt;&lt;p&gt;Note: Use the provided links and nodes rather than creating own links and nodes (constraining the concept map).&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>126</textheight>
 <isdropped>true</isdropped>
@@ -60,9 +49,9 @@
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Receive a set of four conceptual questions from the instructor. Individually, answer the four questions, providing a response and written rationale.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Should Individually stay or removed because of the icon.&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer the four questions given by the instructor, providing a response and written rationale.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -71,9 +60,9 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Back in groups, discuss the responses to the conceptual questions, coming to a consensus on each.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Should back in groups stay?&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss the responses to the conceptual questions, coming to a consensus on each.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -82,13 +71,14 @@
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Groups are given the four questions as ‘nodes’ to add to the concept maps. Integrate these new nodes into the existing concept maps.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Integrate the four questions as new nodes into the existing concept maps.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>9</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -97,7 +87,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Optional: Follow with a gallery walk in which groups circulate around the whiteboards to observe and discuss — or even peer review — other groups’ work.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Optional: Follow with a gallery walk in which groups circulate around the whiteboards to observe and discuss or even peer review other groups’ work.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

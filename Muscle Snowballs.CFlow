@@ -1,0 +1,117 @@
+<project><prname>Muscle Snowballs</prname>
+<idnum>55</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Muscle Snowballs</wfname>
+<wfauthor>By Tim Miller</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students write a physiological strength and a weakness on a piece of paper, crumple it, and throw at the instructor (Snowballing). Working as groups, students propose solutions to the weaknesses identified in the snowballs and learn to use precise terminology when discussing physiology and anatomy. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/muscle-snowballs/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete required reading, acquiring necessary preliminary knowledge for completion of the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize key points from assigned reading&lt;/li&gt;&lt;li&gt;Answer any questions students may have&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Make and Throw Snowballs</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Formulate a physiological (a) strength and (b) a weakness on a piece of paper&lt;/li&gt;&lt;li&gt;Crumple the paper and throw at the instructor (Snowballing)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Snowballs to Groups</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign groups of 4-6&lt;/li&gt;&lt;li&gt;Distribute “Snowballs” among the groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Potential Solutions</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Propose potential solutions to the weaknesses identified in the “Snowballs”, writing the issues and their corresponding solutions on a whiteboard.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Potential Solutions</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present suggestions for overcoming one of the weaknesses voiced by peers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Lecture on Muscles of Upper Body</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give an interactive mini lecture on the muscles of the upper body. &lt;/p&gt;&lt;p&gt;Note: Lecture includes multimedia and question/answer exchanges. All students are required to answer at least one question.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>112</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Perform Final Online Interaction</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Following the interactive lecture, either complete an online interactive game (refer to resources for suggestions) or a peer-instruction type activity employing "Poll Everywhere".&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

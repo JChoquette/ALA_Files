@@ -1,0 +1,106 @@
+<project><prname>Home Wiring</prname>
+<idnum>11176</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Home Wiring</wfname>
+<wfauthor>By Greg Mulcair</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students draw circuit diagrams for a home appliance of their choice, a complete room, and an entire home, calculating the current, power, and power rating of circuits in all cases. Students will come to understand the need for breaker boxes to stop circuits if needed. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/home-wiring/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Prepare for Class</name>
+<id>0111</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take a photo of a breaker box, taking note of all the different rooms/areas that are listed therein. They then choose one room/area and pick one electrical device plugged in there, taking a photo of the device and its power rating information&lt;/li&gt;&lt;li&gt;Upload photos into an online collaborative platform, ensuring no other student has posted the same device. If another student has selected the same device, they choose another then repeat&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>194</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw Circuit Diagram - Selected Device</name>
+<id>011111</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw a simple circuit diagram for their selected device, calculating the current passing through the circuit when the device is being used&lt;/li&gt;&lt;li&gt;Upload a photo of their circuit diagram and calculations&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>11116</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4, based upon the room in which their selected electrical device was found.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Circuit Diagrams</name>
+<id>11117</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Evaluate the circuits posted by each of their teammates, making suggestions for improvement.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw Circuit Diagram - Entire Room</name>
+<id>11122</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Draw out a circuit for an entire room containing all of their devices&lt;/li&gt;&lt;li&gt;Calculate the current used by each device and the total current drawn by the circuit. This is completed directly into the online collaborative platform&lt;/li&gt;&lt;li&gt;Check if the total current is above 20 A. If so, they “turn off” (i.e. put a line through) one device and find the new total current. This is repeated until the current is below 20 A&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate Total Current and Power</name>
+<id>11124</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Calculate (a) total current and (b) total power consumed by entire home using consumption data posted by each group for all rooms.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate and Discuss Consumption</name>
+<id>11125</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Calculate (a) total current used and (b) total power used&lt;/li&gt;&lt;li&gt;Discuss the manner in which an electrical meter determines power consumption&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

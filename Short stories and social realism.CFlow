@@ -1,9 +1,9 @@
 <project><prname>Short stories and social realism</prname>
-<idnum>890</idnum>
+<idnum>964</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Short stories and social realism</wfname>
-<wfauthor>By Cate Payne</wfauthor>
-<wfdescription>&lt;p&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/short-stories-social-realism-toolkit/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This activity covers the length of a unit (5 classes).&lt;/p&gt;</wfdescription>
+<workflow><wfname>Short Stories and Social Realism: Building an Essay Toolkit</wfname>
+<wfauthor>By Catherine Payne</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students build a toolkit of essential essay-writing skills through reading, dissecting, and analyzing a short story text. They will be able to write an analytical essay on characterization as it relates to realism and recognize the relevance of literature to everyday life and current issues in society. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/short-stories-social-realism-toolkit/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>47</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -27,7 +27,7 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read assigned section of the short story as well as the related &lt;u&gt;PowerPoint slides&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read assigned section of the short story as well as the related PowerPoint slides.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -89,12 +89,12 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Create a Character Sketch</name>
+<node><name>Compose a Character Sketch</name>
 <id>282</id>
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Write a character sketch describing the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Physical character description&lt;/li&gt;&lt;li&gt;What the character says and doesn’t say&lt;/li&gt;&lt;li&gt;What the character does&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Write a character sketch describing the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Physical character description&lt;/li&gt;&lt;li&gt;What the character says and does not say&lt;/li&gt;&lt;li&gt;What the character does&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>154</textheight>
 <isdropped>true</isdropped>
@@ -182,7 +182,8 @@
 </link>
 <tagARRAY/>
 </node>
-<node><name>Introduce Activity Part 2: Quotes</name>
+<node><name>Introduce Activity
+Part 2: Quotes</name>
 <id>366</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -275,7 +276,8 @@
 </link>
 <tagARRAY/>
 </node>
-<node><name>Introduce Activity Part 3: Literary Devices</name>
+<node><name>Introduce Activity 
+Part 3: Literary Devices</name>
 <id>369</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -340,8 +342,8 @@
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>372</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+<link><targetid>348</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -370,6 +372,9 @@
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
+<link><targetid>372</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Moderate Discussions</name>
@@ -396,6 +401,10 @@
 <linkedwf>undefined</linkedwf>
 <textheight>78</textheight>
 <isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>402</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Discuss Analytic Questions</name>

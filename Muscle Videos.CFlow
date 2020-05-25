@@ -1,0 +1,128 @@
+<project><prname>Muscle Videos</prname>
+<idnum>1111111160</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Muscle Videos</wfname>
+<wfauthor>By Tim Miller</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students watch and analyze a video of an athlete in motion. They learn to apply their knowledge of physiology to analyze movements, determining which muscles are used and to employ precise terminology when referring to muscles and muscle groups. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/muscle-videos/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Prepare for Class</name>
+<id>0111</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete required reading, acquiring necessary preliminary knowledge for completion of the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>01111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize key points from assigned reading and answer any questions students may have&lt;/li&gt;&lt;li&gt;Assign students to groups of 4-6&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Warm up for the Activity</name>
+<id>0111111</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Warm up: Complete the “Human Knot” exercise, employing only proper anatomical terminology to instruct one another.&lt;/p&gt;&lt;p&gt;Note: Alternatively, the entire class may observe a “mock patient”, identifying muscular imbalances and drawing conclusions regarding potential pathologies associated with these imbalances.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>162</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Provide Resources and Instructions</name>
+<id>01111111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide students with a link to a relevant video they are to watch and analyze (e.g., baseball pitch, softball pitch, golf swing)&lt;/li&gt;&lt;li&gt;Provide analysis instructions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: At least two groups must obtain the same video, allowing for peer-review.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Annotate Screenshots</name>
+<id>011111111</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Watch and annotate screenshots for the assigned video clip.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Modify Analyses</name>
+<id>1111111123</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Peer-review the analyses conducted by a second group assigned to the same video, inserting missing information and suggestions for improvement.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Decide the Correct Answer</name>
+<id>1111111120</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Join forces with one other group to discuss and debate the comments/annotations each has made&lt;/li&gt;&lt;li&gt;Ultimately, together as a big group, come to a consensus regarding the correct answer&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>108</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Findings</name>
+<id>1111111117</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;As a combined group, present a summary of the findings to the entire class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Summarize Activity</name>
+<id>1111111114</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Follow up with comments, highlighting key points and answering any questions students may have.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

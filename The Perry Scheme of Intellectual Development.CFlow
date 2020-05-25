@@ -1,8 +1,9 @@
 <project><prname>The Perry Scheme of Intellectual Development</prname>
-<idnum>74</idnum>
+<idnum>126</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>The Perry Scheme of Intellectual Development</wfname>
 <wfauthor>By Cory Legassic</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are introduced&amp;nbsp;to the Perry Scheme of Student Intellectual and Ethical Development. In the process, they&amp;nbsp;develop their understanding of critical thinking through team work and group discussion. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/the-perry-scheme-of-intellectual-development/ &quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,19 +22,22 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
+<node><name>Prepare Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/the-perry-scheme-of-intellectual-development/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Before class, prepare (4-5) statements associated with each of the 4 phases of student learning development&lt;/li&gt;&lt;li&gt;Cut and place them (uncategorized) into envelopes with written instructions pasted on the front of the envelope&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Before class, prepare (4-5) statements associated with each of the 4 phases of student learning development&lt;/li&gt;&lt;li&gt;Cut and place them (uncategorized) into envelopes with written instructions pasted on the front of the envelope&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>164</textheight>
+<textheight>154</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
-<node><name>Introduce the Activity</name>
+<node><name>Introduce Activity</name>
 <id>4</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -115,7 +119,6 @@
 <noautolink>true</noautolink>
 <link><targetid>13</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -124,7 +127,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present Perry’s scheme (&lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Cory_Legassic_Perry-Scheme.pdf" target="_blank"&gt;see attached document&lt;/a&gt;).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present Perry’s scheme ( see &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Cory_Legassic_Perry-Scheme.pdf" target="_blank"&gt;attached document&lt;/a&gt;).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -146,7 +149,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Close the activity by situating the scheme within the broader goals of the course &lt;/li&gt;&lt;li&gt;Take a photo of the students work &lt;/li&gt;&lt;li&gt;Send it to the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Close the activity by situating the scheme within the broader goals of the course&lt;/li&gt;&lt;li&gt;Take a photo of the students work&lt;/li&gt;&lt;li&gt;Send the photo to the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

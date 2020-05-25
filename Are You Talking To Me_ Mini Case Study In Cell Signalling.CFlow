@@ -1,0 +1,135 @@
+<project><prname>ARe you talking to me? Mini case study in cell signalling</prname>
+<idnum>117</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>ARe You Talking to Me? Mini Case Study in Cell Signalling</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students explore the components of cell signalling, gain a better understanding of receptors, and learn how researchers build a model using acquired data through a case study. Students will understand how cells communicate and learn about the types of molecules that can be ligands. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-are-you-talking-to-me-mini-case-study-in-cell-signalling/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch two videos; one on receptor classiﬁcation and another on signal transduction&lt;/li&gt;&lt;li&gt;Read assigned readings and look over key concepts&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a Moodle quiz to test knowledge on gene mutations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the material and answers any questions the students may have about the quiz, assigned readings and videos (15 min)&lt;/li&gt;&lt;li&gt;Split the class into groups of 3-4 and introduce the case&lt;/li&gt;&lt;li&gt;Give the students an assignment on andregenic receptors to complete&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address the Questions</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the questions in the assignment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback and Provide Information</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the answers to the assignments &lt;/li&gt;&lt;li&gt;Give some additional information on receptors&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask Clicker Questions</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Go through the multiple-choice clicker questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Address Clicker Questions</name>
+<id>22</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the series of clicker questions (approx. 3 minutes per question).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>23</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Give Cell Component Assignment</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Optional:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If less than 70% of the students answer the clicker questions correctly, ask them to discuss and re-answer them as a group&lt;/li&gt;&lt;li&gt;If there is access to a smart board, use the &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Cell-signaling-communication-Part-1-and-2.ppt" target="_blank"&gt;Cell Component Assignment&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do Cell Component Assignment</name>
+<id>27</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Place the cellular component on the cell membrane using the smart board.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,128 @@
+<project><prname>From ”yum” to ”yuk”: a case in point...mutation</prname>
+<idnum>105</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>From &quot;Yum&quot; to &quot;Yuk&quot;: A Case in Point... Mutation</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will decipher the effects mutations can have on a functional gene (phenotype) by investigating the outcomes of two mutations. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/from-yum-to-yuk-a-case-in-pointmutation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch two videos; one on diﬀerent types of mutations and another on chromosomal mutations&lt;/li&gt;&lt;li&gt;Read assigned readings and look over key concepts&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a Moodle quiz to test knowledge on gene mutations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the material and answer any questions the students may have about the quiz, assigned readings, and videos (15 minutes)&lt;/li&gt;&lt;li&gt;Split the class into groups of 3-4&lt;/li&gt;&lt;li&gt;Introduce the case&lt;/li&gt;&lt;li&gt;Give the students a &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Point-mutations-review-activity.docx" target="_blank"&gt;Point Mutation Activity&lt;/a&gt; to complete&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>172</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete the Worksheet</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete the point mutation activity on a sheet of paper.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback to Peers</name>
+<id>19</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Grade each other’s point mutation activity (graded out of 10).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Grade Activity</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the answers to the activity with the class&lt;/li&gt;&lt;li&gt;Grade the activity giving an extra 5 marks based on how the students graded each other’s activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask Clicker Questions</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pose three multiple-choice clicker questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Clicker Questions</name>
+<id>28</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the series of clicker questions (approx. 3 minutes per question).&lt;/p&gt;&lt;p&gt;Optional: If less than 70% answer the clicker questions correctly, discuss and re-answer them as a group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do Practice Task</name>
+<id>30</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a practice task with key concepts and learning outcomes.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

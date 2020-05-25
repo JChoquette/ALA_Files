@@ -1,0 +1,151 @@
+<project><prname>Identity Dot Exercise</prname>
+<idnum>111</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Identity Dot Exercise</wfname>
+<wfauthor>By Mark Beauchamp</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students reflect on how identity descriptors (such as race, gender, nationality, and others) affect the way they interact with others and others interact with them. Students will reflect on the assumptions they might have based on someone’s (visible) identity before they conduct interviews for their next project. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/history-identity-dot-exercise/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>home</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Out of Class (Students)</columntext>
+<columnnodetext>Out of Class (Students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present different identity descriptors (e.g. race, class, gender, sexuality, etc.) to the class, asking students about their previous knowledge&lt;/li&gt;&lt;li&gt;Hand out a pre-prepared grid with the descriptors&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Meaning and Differences</name>
+<id>36</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Use the list of the identity descriptors to discuss their meaning and the differences between them (e.g. gender and sexuality).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Define Individual Identity</name>
+<id>38</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Use the identity descriptor list to write a few words for how they fit into each category (e.g. sexuality: bisexual, gay, straight, etc.).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>44</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Set up Grid and Organize Students</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;As students work, set up on the wall a bigger version of the grid students are already using&lt;/li&gt;&lt;li&gt;Give each student 6 stickers, 3 of one color (e.g. blue) and 3 of another (e.g. orange)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Highlight that participation is not compulsory; students should put up stickers only if they want to and feel comfortable doing so.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>176</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>38</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Categorize Invisible Identity</name>
+<id>44</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;If comfortable with the task, go up to the grid and place 3 stickers of one color on the 3 identity categories that are most important to own sense of self.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Choices</name>
+<id>49</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Briefly discuss the reason behind these choices.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Categorize Visible Identity</name>
+<id>46</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;If comfortable with the task, go up to the grid and place 3 stickers (of another color) on the 3 categories of their identity that are perceived to be the most important to others when others interact with them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss the Assumptions</name>
+<id>52</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the reason behind these choices and how the difference between "visible" (identities others would attribute to them) and "invisible" identities (the ones they identify with) can impact how one interacts with others and others with them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explore the Assumptions</name>
+<id>85</id>
+<lefticon>class</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Explore the assumptions they might hold based on others' "visible" identities and how these could impact how they will do interviews (their next project). For example:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What are the assumptions they make based on other visible identities?&lt;/li&gt;&lt;li&gt;How do these impact their actions?&lt;/li&gt;&lt;li&gt;How might what they consider important about the interviewee be different from what the interviewee considers important about themselves? What assumptions may they hold when going into the interview?&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>220</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflect on the Activity</name>
+<id>55</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Write a brief reflection on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;How they felt during the exercise&lt;/li&gt;&lt;li&gt;Why they think they did this exercise in class and its relation to the interviews they will be conducting&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1040</wflegendx>
+<wflegendy>210</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,5 +1,5 @@
 <project><prname>Managing Major Weather Hazards in Recreation</prname>
-<idnum>116</idnum>
+<idnum>125</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Managing Major Weather Hazards in Recreation</wfname>
 <wfauthor>By Heather Martin</wfauthor>
@@ -64,8 +64,8 @@
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>116</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+<link><targetid>111</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
@@ -120,9 +120,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<link><targetid>11</targetid>
-<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-</link>
 <link><targetid>114</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>

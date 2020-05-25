@@ -1,0 +1,84 @@
+<project><prname>It&apos;s all Hormonal: A class activity on Cushing&apos;s syndrome</prname>
+<idnum>72</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>It&apos;s All Hormonal: A Class Activity on Cushing&apos;s Syndrome</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn to diagnose which endocrine gland is the cause of endocrine abnormality in a patient with Cushing&apos;s syndrome. Students will learn to apply key concepts about the control mechanisms of the endocrine system. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-its-all-hormonal-a-class-activity-on-cushings-syndrome/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch videos prepared by the professor on the endocrine system and how it is working&lt;/li&gt;&lt;li&gt;Read documents on the endocrine system prepared by the professor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions to Test Knowledge</name>
+<id>6</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Answer a series of questions on the endocrine system to test knowledge before attending the class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions or interrogations students may have about the material in the videos and readings (10 minutes)&lt;/li&gt;&lt;li&gt;Introduce a case study of a syndrome related to the regulation of the endocrine system: Cushing Syndrome in a form of a power point presentation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The case study is used to engage students and bring them to use the knowledge of the endocrine system they learnt in videos and readings at home.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>192</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Clicker Questions</name>
+<id>20</id>
+<lefticon>class</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer a series of clicker questions related to the case study. &lt;/p&gt;&lt;p&gt;Note: Some questions are counted towards the final grade.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Solution to the Case Study</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Solve the case study using real data and plotting graphs with the data.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

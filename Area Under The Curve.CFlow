@@ -1,0 +1,93 @@
+<project><prname>Area Under the Curve</prname>
+<idnum>11178</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Area Under the Curve</wfname>
+<wfauthor>By Chris Whittaker</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students calculate the area under the curve and use it to calculate and plot the position as a function of time. Students learn the relationship between position and the area under a velocity-time curve and gain a more intuitive grasp of this relationship. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/area-under-the-curve/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Introduce Activity</name>
+<id>0111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present a short summary of the relationship between the velocity, position, and the area under the curve&lt;/li&gt;&lt;li&gt;Assign students to groups of 5-6&lt;/li&gt;&lt;li&gt;At interactive white boards, instruct groups to open the notebook file containing the first problem involving calculating the position as a function of time from a velocity vs. time graph&lt;/li&gt;&lt;li&gt;Model how to calculate the first few points&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate Area Under the Curve</name>
+<id>11116</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Step 1: Calculate the area under the curve in each interval, using the slider in the notebook file to highlight the desired area&lt;/p&gt;&lt;p&gt;Step 2: Determine the units of this area (which, importantly, does not have units associated with a physical area)&amp;nbsp;&lt;/p&gt;&lt;p&gt;Step 3: Copy the area data into the table, then iterate through the table to fill it out&lt;/p&gt;&lt;p&gt;Step 4: Generate a plot of the position vs. time&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>194</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Implications</name>
+<id>11121</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the physical implications of the plot and attempt to describe the motion to each other, paying close attention to the differences between the position vs. time and velocity vs. time plots.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11123</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Correct Solution</name>
+<id>11123</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the correct solution with the class, highlighting the main areas of difficulty the groups experienced.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>11116</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for several graphs 
+of increasing complexity</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Activity</name>
+<id>11126</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review the entire activity, possibly leading to the introduction of the antiderivative.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>700</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

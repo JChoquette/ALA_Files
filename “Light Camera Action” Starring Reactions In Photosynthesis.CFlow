@@ -1,0 +1,93 @@
+<project><prname>“Light, Camera, Action” Starring reactions in photosynthesis</prname>
+<idnum>99</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>“Light, Camera, Action” Starring Reactions in Photosynthesis</wfname>
+<wfauthor>By Francesca Theriault</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students examine light dependent reactions of photosynthesis by answering questions relating to the concept and considering various hypothetical scenarios. Through this activity, students develop better understanding of the reactions and appreciate the role of photosynthetic pigments and the electron transport chain. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/light-camera-action-non-cyclic-light-reactions-in-photosynthesis/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>home</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Out of Class (Students)</columntext>
+<columnnodetext>Out of Class (Students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a space in the classroom. Use green painter’s tape to delineate the thylakoid membrane&lt;/li&gt;&lt;li&gt;Prepare 2 boxes with chocolate coins – one placed in the “stroma” space, the other in the “thylakoid lumen” space&lt;/li&gt;&lt;li&gt;Prepare 16 (legal size) papers with the 16 diﬀerent “characters” of the non-cyclic light reactions on them and have them ready for students to pick out&lt;/li&gt;&lt;li&gt;Have tape ready so students can tape the papers to themselves&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>204</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Divide the students into 16 Actors and 2 Pigment Groups.&lt;/p&gt;&lt;p&gt;Optional: With student approval, video record the runs and post the resulting video as a review tool.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign and Arrange Roles - Run 1</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The Actors:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Choose and tape their roles to themselves&lt;/li&gt;&lt;li&gt;Through peer discussion and peer direction, arrange according to the roles along the thylakoid membrane, in the “stroma” space or in the “thylakoid lumen” space&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Demonstrate Light Reactions - Run 1</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;The Actors:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Through peer discussion and peer direction, act out the non-cyclic light reactions&lt;/li&gt;&lt;li&gt;Transfer electrons and move protons against their concentration gradient&lt;/li&gt;&lt;li&gt;With their concentration gradient and Pigment Groups, do a wave action when activated by photons&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Identify errors and discuss with the class.&lt;/p&gt;&lt;p&gt;Note: Repeat the process until all questions have been addressed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>84</textheight>
+<isdropped>true</isdropped>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat process after swapping Actors 
+and Pigment Group students </linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

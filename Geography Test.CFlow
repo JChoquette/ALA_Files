@@ -1,0 +1,62 @@
+<project><prname>Geography Video Test</prname>
+<idnum>62</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Geography Tests</wfname>
+<wfauthor>By Jamie Miller</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students think about facts and concepts related to rivers in the field (in real life!) by creating a&amp;nbsp;short video or labelled pictures with explanation of different concepts about a river or stream of their choice and completing a written exam. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/geo_-geography_video_test/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Collect Data on a Local River</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go and find a local river or stream (with a friend)&lt;/li&gt;&lt;li&gt;Take video and/or picture footage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: See &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Midterm_Assignment-GeogVideoTest.pdf" target="_blank"&gt;student instruction&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Identify and Explain Concepts</name>
+<id>12</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Identify and explain concepts &lt;span style="color: rgb(65, 65, 65);"&gt;about a river or stream of their choice (e.g.,&lt;/span&gt; the river location (watershed and geographically), the thalweg, bankfull, geomorphic units, human impacts, the zone (aggregation, degradation, etc.), alluvial vs non-alluvial, sediment size and provide an estimate of the river velocity&lt;/li&gt;&lt;li&gt;Edit the videos using data obtained (e.g. labeling pictures, adding subtitles, and etc.)&lt;/li&gt;&lt;li&gt;Submit video to YouTube, and then submit the video link to the course website&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;﻿&lt;/span&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>248</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete a Written Exam</name>
+<id>14</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a written exam.&lt;/p&gt;&lt;p&gt;Note: The final mark of the midterm is broken down as follows: 50% for the video and 50% for the written exam.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
