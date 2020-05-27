@@ -1,0 +1,174 @@
+<project><prname>Darwin’s Finches: Natural Selection</prname>
+<idnum>161</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Darwin’s Finches: Natural Selection</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn about the mechanics of natural selection and the evolution of traits. They will be able to practice experimental data collection and analysis using the example of Darwin’s finches. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-darwins-finches/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>68</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Gather materials, as listed in the &lt;u&gt;Materials PDF&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Ensure students have access to the excel template (in&lt;u&gt; Data Chart PDF&lt;/u&gt;) and questions for Group Work and Clicker Section (in &lt;u&gt;Questions PDF&lt;/u&gt; and &lt;u&gt;Clicker PDF&lt;/u&gt;, respectively)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review sheet with the topics to be covered, including key concepts, learning outcomes, and assigned readings&lt;/li&gt;&lt;li&gt;Complete assigned readings&lt;/li&gt;&lt;li&gt;Watch videos about evolution and natural selection&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz to Test Knowledge</name>
+<id>118</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Finish with a quiz through Moodle to test what was learned from the video and readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review key concepts from pre-assigned material&lt;/li&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned readings, videos, or quiz&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 3 at a table with an interactive whiteboard with two groups at each table&lt;/li&gt;&lt;li&gt;Introduce the activity and verbally review the &lt;u&gt;instructions&lt;/u&gt; with the entire class, which describes the seeds and beaks&lt;/li&gt;&lt;li&gt;Hand out materials to each group (listed in Materials PDF)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>214</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Data of Seed Collection</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;In only 30 seconds, collect as many seeds as possible with their beaks (tweezers or spoons), with each group member participating in seed collection&lt;/li&gt;&lt;li&gt;Count the number of each seed type they collected&lt;/li&gt;&lt;li&gt;Add data to the excel template on the interactive white board&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reorganize Class </name>
+<id>17</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide class into two sides, with students remaining in their original group of three. This represents a natural disaster that has split the finch population onto separate islands&lt;/li&gt;&lt;li&gt;Distribute new seed containers to the class; Side 1 gets a diﬀerent type of seed in their container than Side 2&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Data of Seed Collection Again</name>
+<id>18</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;In only 30 seconds, collect as many seeds as possible with their beaks (&lt;span style="color: rgb(65, 65, 65);"&gt;tweezers or spoons)&lt;/span&gt;, with each group member participating in seed collection&lt;/li&gt;&lt;li&gt;Count the number of each seed type they collected&lt;/li&gt;&lt;li&gt;Add data to the excel sheet on the interactive white board;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Respond to Questions Using Data</name>
+<id>23</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Using the data from the excel ﬁle, answer questions related to natural selection, evolution, and the class results.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Questions</name>
+<id>90</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Transition to class discussion&lt;/li&gt;&lt;li&gt;Review questions with the whole class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>20</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>   Answer Questions</name>
+<id>20</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Share answers to the questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Pose Questions</name>
+<id>28</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pose 5 questions, one at a time, for students using Clickers.&lt;/p&gt;&lt;p&gt;Note: If the majority of students incorrectly answer a particular question, review question with the entire class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>29</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Respond With Clickers</name>
+<id>29</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer Clicker questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
