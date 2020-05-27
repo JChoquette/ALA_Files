@@ -1,5 +1,5 @@
 <project><prname>Rédaction d&apos;un Paragraphe de Texte Expressif</prname>
-<idnum>72</idnum>
+<idnum>11</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Rédaction d&apos;un Paragraphe de Texte Expressif</wfname>
 <wfauthor>By Lyane Henrichon</wfauthor>
@@ -18,7 +18,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICS</columnname>
-<columnimage>noinstructor</columnimage>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
@@ -44,19 +43,19 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Write a Letter Based on the Readings</name>
+<node><name>Write a Letter Based on the Readings	</name>
 <id>5</id>
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of 4-5&lt;/li&gt;&lt;li&gt;Write a paragraph of the development section of the texte expressif in the form of the letter&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This text needs to contain components seen during readings, demonstrating comprehension of concepts such as qualifying adjectives and they way they are used in a text.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>154</textheight>
+<textheight>164</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Correct Own Work</name>
-<id>7</id>
+<id>6</id>
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
@@ -66,8 +65,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review Theory behind the Adjective   </name>
-<id>9</id>
+<node><name>Review Theory behind the Adjective</name>
+<id>7</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
@@ -78,7 +77,7 @@
 <tagARRAY/>
 </node>
 <node><name>Fill Out "Self-Correction Grid"    </name>
-<id>10</id>
+<id>8</id>
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
@@ -88,8 +87,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Annotate Student Work   </name>
-<id>11</id>
+<node><name>Annotate Student Work</name>
+<id>9</id>
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
@@ -99,8 +98,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review and Resubmit    </name>
-<id>12</id>
+<node><name>Review and Resubmit</name>
+<id>10</id>
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
@@ -111,23 +110,18 @@
 <tagARRAY/>
 </node>
 <node><name>Re-Evaluate Assignments</name>
-<id>13</id>
+<id>11</id>
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Collect and re-grade the assignments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>58</textheight>
+<textheight>48</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML/>
-<x>176</x>
-<y>-95</y>
-<commentparent>2</commentparent>
-</comment>
-<wflegendx>940</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1180</wflegendx>
+<wflegendy>400</wflegendy>
 </wfdata></workflow>
 </project>
