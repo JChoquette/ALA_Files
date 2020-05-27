@@ -1,8 +1,9 @@
 <project><prname>Action Potential Simulation</prname>
-<idnum>34</idnum>
+<idnum>47</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Action Potential Simulation</wfname>
 <wfauthor>By Joseph Dent</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students use the online simulation program, &quot;Nerve&quot;, to observe and record changes in action potential functions (initiation and propagation) and relate what&apos;s learned to concepts discussed in course lectures. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/action-potential-simulation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -20,24 +21,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>15</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/action-potential-simulation/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>74</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Perform Online Simulation</name>
 <id>8</id>
 <lefticon>solo</lefticon>
 <righticon>experiment</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Use the link in the ”Action Potential Exercise” pdf to open the online nerve simulation program.&lt;/li&gt;&lt;li&gt;Following the instructions in the pdf, perform a simulation on a virtual axon.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the link in the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Action-Potential-Exercise-1.pdf " target="_blank"&gt;Action Potential Exercise &lt;/a&gt;pdf to open the online nerve simulation program&lt;/li&gt;&lt;li&gt;Following the instructions in the pdf, perform a simulation on a virtual axon&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
 <isdropped>true</isdropped>
@@ -55,7 +44,6 @@
 <link><targetid>8</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 <linktext>Repeat with a new simulation</linktext>
-<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>

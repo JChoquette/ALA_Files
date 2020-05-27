@@ -1,0 +1,173 @@
+<project><prname>Who Am I: (Mis)conceptions of Self</prname>
+<idnum>76</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Who Am I: (Mis)conceptions of Self</wfname>
+<wfauthor>By Daniel Goldsmith</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students discover that the answer to &quot;Who am I?&quot; is neither straightforward nor simple. This activity challenges students’ self-definition to make them aware of the constraints and limitations of thinking they know who they are. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/who-am-i/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a bag of topics for students to pick from, outlined in &lt;u&gt;"Activity Details" PDF&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Review options of prompts, found in &lt;u&gt;"Typical Answers -Details" PDF&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Organize Groups</name>
+<id>3</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into 6 groups (5-6 students per group)&lt;/li&gt;&lt;li&gt;Randomly choose a topic related to the question "Who am I?" from a bag&lt;/li&gt;&lt;li&gt;Choose a Notetaker, a Moderator, and a Presenter for their group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity with a Video Clip</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Play &lt;a href="https://vimeo.com/355546124" target="_blank"&gt;Video Clip 1&lt;/a&gt; about perception of the self.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Concepts</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss meaning of the Video Clip 1&lt;/li&gt;&lt;li&gt;Provide examples of what they think are self perception and identity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Examples of Self-Perception</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Pull a topic from the bag, and discuss:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ways in which a person can define themselves by this topic&lt;/li&gt;&lt;li&gt;How this definition is lacking, false, or misleading&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Moderate student discussion&lt;/li&gt;&lt;li&gt;Prompt groups that may be having trouble with their specific topic&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Present and Create Concept Map</name>
+<id>10</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take turns presenting their topic and ideas of self&lt;/li&gt;&lt;li&gt;Add ideas to a concept map of self on the board&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Class Concept Map</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the presented ideas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What they agree/disagree with&lt;/li&gt;&lt;li&gt;What strikes them as interesting or surprising&lt;/li&gt;&lt;li&gt;What they do not understand&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>108</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>15</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Discussion</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Moderates class discussion&lt;/li&gt;&lt;li&gt;Prompt class discussion, if required&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Concept Map Ideas and </name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the concept map of self created by the students&lt;/li&gt;&lt;li&gt;Discuss the fact that there may not be an answer to the question "Who am I?"&lt;/li&gt;&lt;li&gt;Play &lt;a href="https://vimeo.com/358140568" target="_blank"&gt;Video Clip 2&lt;/a&gt; that discusses the value of not-knowing the answer to the question "Who am I?"&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

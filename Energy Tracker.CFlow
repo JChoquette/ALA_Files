@@ -1,8 +1,9 @@
 <project><prname>Energy Tracker</prname>
-<idnum>111165</idnum>
+<idnum>111182</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Energy Tracker</wfname>
 <wfauthor>By Sameer Bhatnagar</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students use the tracker software to analyze conservation of energy in projectile motion and use this data to produce tabulated data for position, velocity, and acceleration along both axes. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/energy-tracker/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>01</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>011</weekid>
-<node><name>Activity Instructions</name>
-<id>111144</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/energy-tracker/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>64</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>0111</id>
 <lefticon>undefined</lefticon>
@@ -49,7 +38,7 @@
 <lefticon>group</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Go outdoors and film a video of themselves throwing an object, ensuring that:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A distance calibration tool (such as a meter stick) is visible in the video&lt;/li&gt;&lt;li&gt;The camera is stationary throughout the video.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In the classroom, at computers, upload the video into the Tracker Software.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Go outdoors and film a video of themselves throwing an object, ensuring that:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A distance calibration tool (such as a meter stick) is visible in the video&lt;/li&gt;&lt;li&gt;The camera is stationary throughout the video&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In the classroom, at computers, upload the video into the Tracker Software.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>174</textheight>
 <isdropped>true</isdropped>
@@ -60,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;In the tracker software:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Use the calibration tool to calibrate the video and set up the axes.&amp;nbsp;&lt;/li&gt;&lt;li&gt; Track the position of the object in each frame as a point mass. The software will automatically create tabulated data for the position and velocity over time in both the &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; directions.&lt;/li&gt;&lt;li&gt; Export the tabulated data.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;In the tracker software:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the calibration tool to calibrate the video and set up the axes&lt;/li&gt;&lt;li&gt;Track the position of the object in each frame as a point mass. The software will automatically create tabulated data for the position and velocity over time in both the x and y directions&lt;/li&gt;&lt;li&gt;Export the tabulated data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
 <isdropped>true</isdropped>
@@ -71,7 +60,7 @@
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Working alone (or in pairs if computers are limited),&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Import the tabulated data into a spreadsheet program such as Excel.&lt;/li&gt;&lt;li&gt;Create three new columns in the table for potential energy, kinetic energy, and total energy.&lt;/li&gt;&lt;li&gt;Use spreadsheet formulas to populate these columns.&lt;/li&gt;&lt;li&gt;Plot all three (potential, kinetic, and total energy) on the same graph in the spreadsheet program.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Working alone (or in pairs if computers are limited):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Import the tabulated data into a spreadsheet program such as Excel&lt;/li&gt;&lt;li&gt;Create three new columns in the table for potential energy, kinetic energy, and total energy&lt;/li&gt;&lt;li&gt;Use spreadsheet formulas to populate these columns&lt;/li&gt;&lt;li&gt;Plot all three (potential, kinetic, and total energy) on the same graph in the spreadsheet program&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>204</textheight>
 <isdropped>true</isdropped>
@@ -82,7 +71,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Return to the original groups and compare the resulting graphs and discuss the implications.&lt;/p&gt;&lt;p&gt;Note: If energy was not constant over time, discuss where energy could be lost.&amp;nbsp;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Return to the original groups and compare the resulting graphs and discuss the implications.&lt;/p&gt;&lt;p&gt;Note: If energy was not constant over time, discuss where energy could have been lost.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>94</textheight>
 <isdropped>true</isdropped>

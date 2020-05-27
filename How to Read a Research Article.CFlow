@@ -1,9 +1,9 @@
 <project><prname>How to Read a Research Article</prname>
-<idnum>75</idnum>
+<idnum>96</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>How to Read a Research Article</wfname>
 <wfauthor>By Chris Gregg</wfauthor>
-<wfdescription>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/readresearch/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn what information is contained in each section of a research article to become functionally literate and to understand how a research article is set up. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/readresearch/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -62,7 +62,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;In pairs, read through the section of the assigned article again&lt;/li&gt;&lt;li&gt;Answer a set of related questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>134</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>

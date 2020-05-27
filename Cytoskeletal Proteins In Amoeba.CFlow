@@ -1,0 +1,84 @@
+<project><prname>Cytoskeletal Proteins in Amoeba</prname>
+<idnum>64</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Cytoskeletal Proteins in Amoeba</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take the role of a cell biologist tasked to determine if there is a statistically significant difference between multiple drug treatments that affect amoeba cell shape. Students will learn about cytoskeleton dynamics. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-cytoskeletal-proteins-in-amoeba/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the document with key concepts and learning objectives, as well as assigned readings from the textbook&lt;/li&gt;&lt;li&gt;Watch videos about biological cells (structure and function)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>6</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a quiz through Moodle to test their knowledge after having watched the videos and completed their assigned readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned videos, quiz and document&lt;/li&gt;&lt;li&gt;Split the students into groups of 3-4&lt;/li&gt;&lt;li&gt;Introduce the activity by explaining the objective&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Plot the Graph and Explain Findings</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Plot a graph on excel using provided cell count data for drug treatment&lt;/li&gt;&lt;li&gt;Choose an appropriate statistical test to determine whether there’s signiﬁcant diﬀerence between treatments&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students can also check each others graphs and help each other&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the role of cytoskeleton in amoeba&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback and Discuss Assignments</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the students' graphs along with their conclusions on the role of cytoskeletal proteins in amoeba&lt;/li&gt;&lt;li&gt;Discuss the answers with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

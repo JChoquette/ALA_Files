@@ -1,10 +1,10 @@
 <project><prname>Jigsaw Geography Presentation</prname>
-<idnum>93</idnum>
+<idnum>109</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Jigsaw Geography Presentation</wfname>
 <wfauthor>By Jamie Miller
 </wfauthor>
-<wfdescription>&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;In this semester-long activity,..&lt;/p&gt;&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/geo-jigsaw_geography_presentation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this semester-long activity, student groups teach the class 5 core concepts of each of 7 topics in the Fluvial Processes course. &lt;/p&gt;&lt;p&gt;They will analyze a particular topic and be able to effectively communicate and engage in higher-level conversations regarding the selected topic area. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/geo-jigsaw_geography_presentation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -28,9 +28,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Define a topic area for students to research. The 7 topics include: River channels, aquatic habitats, human impacts, river mechanics, erosion, sediment transport, and bedforms&lt;/li&gt;&lt;li&gt;Provide 2-3 primary concepts to each group for the topic&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Define a topic area for students to research.&lt;/li&gt;&lt;li&gt;Provide 2-3 primary concepts to each group for the topic&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The topics include: 1) River channels, 2) Aquatic habitats, 3) Human impacts, 4) River mechanics, 5) Erosion, 6) Sediment transport, and 7) Bedforms.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>134</textheight>
+<textheight>184</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>3</targetid>
@@ -45,7 +45,7 @@
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Form groups of 3-4&lt;/li&gt;&lt;li&gt;Research to become proficient in 1 of the 7 topics of the Fluvial Processes course and the 5 core concepts within their topic area&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can use reading materials provided by the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>114</textheight>
+<textheight>134</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -96,8 +96,7 @@
 <linktext>Repeat 
 for each 
 class over 
-the semester
-</linktext>
+the semester</linktext>
 <linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>

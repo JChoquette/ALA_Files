@@ -1,8 +1,9 @@
 <project><prname>Family HiStories of Migration</prname>
-<idnum>54</idnum>
+<idnum>81</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Family HiStories of Migration</wfname>
 <wfauthor>By Diane Shea</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students interview two members of their family to collect information about their family history and present it in class. This activity encourages student awareness of diversity and human migration through history. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/family-stories-of-migration/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,19 +22,7 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>43</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/family-stories-of-migration/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
-<node><name>Introduce the Activity</name>
+<node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -60,9 +49,9 @@
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Use the interview to reﬂect on the impact of history on families and on individual lives&lt;/li&gt;&lt;li&gt;Use the information from the interviews to write a 1000 words assignment that tells the story/ies that they discovered&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the interview to reﬂect on the impact of history on families and on individual lives&lt;/li&gt;&lt;li&gt;Use the information from the interviews to write a 1000-word assignment that tells the story/ies that they discovered&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -71,20 +60,9 @@
 <lefticon>group</lefticon>
 <righticon>present</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Bring the written assignments to class and present the summaries to each other in groups of 6-8 students. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each presentation takes about 5-8 minutes &lt;/li&gt;&lt;li&gt;Students are encouraged to ask questions following the presentation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;The presenter&lt;/p&gt;&lt;p&gt;Bring the written assignments to class and present the summaries to each other in groups of 6-8 students.&lt;/p&gt;&lt;p&gt;The other group members&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Take notes of what they ﬁnd most interesting and something new they have learned about history from this presentation &lt;/li&gt;&lt;li&gt;Ask questions following the presentation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Each presentation takes about 5-8 minutes.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Note Takeaways from Peer Presentations</name>
-<id>13</id>
-<lefticon>group</lefticon>
-<righticon>write</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;As each student presents, the other group members take notes of what they ﬁnd most interesting and something new they have learned about history from this presentation.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>164</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>

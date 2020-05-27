@@ -1,8 +1,9 @@
 <project><prname>Projectile Tracker</prname>
-<idnum>111152</idnum>
+<idnum>111171</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Projectile Tracker</wfname>
 <wfauthor>By Sameer Bhatnagar</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students use the Tracker software to analyze projectile motion and determine which equations fit the plots produced. Students learn to create and interpret kinematic plots describing an object’s motion and gain a deeper understanding of why kinematic equations successfully describe motion. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/projectile-tracker/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>01</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,12 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>011</weekid>
-<node><name>Activity Instructions</name>
-<id>111140</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and instructions for the activity &lt;a href="https://www.saltise.ca/activity/projectile-tracker/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>64</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>0111</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Instructor assigns students to groups of 3-4.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
 <isdropped>true</isdropped>
@@ -49,7 +38,7 @@
 <lefticon>group</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Go outdoors and film a video of themselves throwing an object, ensuring that:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A distance calibration tool (such as a meter stick) is visible in the video&lt;/li&gt;&lt;li&gt;The camera is stationary throughout the video.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In the classroom, at computers, upload the video into the Tracker Software.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Go outdoors and film a video of themselves throwing an object, ensuring that:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A distance calibration tool (such as a meter stick) is visible in the video&lt;/li&gt;&lt;li&gt;The camera is stationary throughout the video&lt;/li&gt;&lt;li&gt;In the classroom, at computers, upload the video into the Tracker Software&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>174</textheight>
 <isdropped>true</isdropped>
@@ -60,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;In the tracker software:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the calibration tool to calibrate their video and set up the axes&lt;/li&gt;&lt;li&gt; Track the position of their object in each frame as a point mass. The software will automatically create position-, velocity-, and acceleration-time plots in both the &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; directions.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;In the tracker software:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the calibration tool to calibrate their video and set up the axes&lt;/li&gt;&lt;li&gt;Track the position of their object in each frame as a point mass. The software will automatically create position-, velocity-, and acceleration-time plots in both the &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; directions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>154</textheight>
 <isdropped>true</isdropped>
@@ -93,7 +82,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Using another group’s plots, analyze the six plots (&lt;em&gt;x, vx, ax, y, vy, ay&lt;/em&gt;), ensuring the tracking has been completed correctly&lt;/li&gt;&lt;li&gt;Find an equation that fits each of the six plots.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Using another group’s plots, analyze the six plots (x, vx, ax, y, vy, ay), ensuring the tracking has been completed correctly&lt;/li&gt;&lt;li&gt;Find an equation that fits each of the six plots&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

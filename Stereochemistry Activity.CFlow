@@ -1,0 +1,106 @@
+<project><prname>Stereochemistry Activity</prname>
+<idnum>125</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Stereochemistry Activity</wfname>
+<wfauthor>By Alice Cherestes
+</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students practice converting organic molecules from a 3D model to a 2D drawing. They will develop a method for interconverting structural representations, learn different types of structural representations, and understand the relationships between different stereoisomers. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chem-stereochemistry/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity 
+- Lecture</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present a lecture introducing stereochemistry with the objective of understanding how to assign absolute configurations to chiral carbons&lt;/li&gt;&lt;li&gt;Cover the following topics: (1) R/S configurations on chiral centres and molecules containing 1 or 2 chiral centres, (2) an introduction to enantiomers and diastereomers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity 
+- Set up Stations</name>
+<id>6</id>
+<lefticon>solo</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;p&gt;Set up the active learning classroom:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;There are 7 tables, each with 3 wings&lt;/li&gt;&lt;li&gt;At each wing of the table, the instructor sets up a list containing the IUPAC names of 2 different molecules (for a total of 6 different molecules per table)&lt;/li&gt;&lt;li&gt;Each different table will have instructions to 1) draw a molecule using one type of drawing and then 2) convert to a different type for combinations of the following: Fisher Projection, Newman Projection, or 3D structure (6 different possibilities total); For example, at one table, students can be asked to convert from Fisher Projection to 3D structure or vice versa&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Give a mini lesson on drawing a few using 3D models (using the organic chemistry building kit).&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The lesson is done by showing the 3D model using a video recorder that is projected onto the wall&lt;/li&gt;&lt;li&gt;Fisher Projections have not yet been taught; students will teach themselves by doing this activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>460</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Build and Draw Molecules</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide into groups of 2 to 4 and sit at 1 wing of a table&lt;/li&gt;&lt;li&gt;Build a 3D model of both molecules (according to table instructions) using their organic chemistry building kits&lt;/li&gt;&lt;li&gt;Then, draw a molecule using one type of drawing and then convert it to another (according to combination assigned to the table)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Record Methodology</name>
+<id>9</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a methodology on the steps they did in order to draw the molecule for one type of drawing and how they converted to another (for example which way did they hold the molecule, which way do they turn it etc.)&lt;/li&gt;&lt;li&gt;Once complete, move with group to the next table&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: For this exercise, it is optional to take pictures of 3D models that have been built, using cell phones or laptops.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat by 
+rotating to 
+7 tables</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Activity</name>
+<id>17</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the activity&lt;/li&gt;&lt;li&gt;With the class, discuss the most challenging molecule(s) to draw or convert from one drawing type to another&lt;/li&gt;&lt;li&gt;Walk the class through one example explaining the logic behind how she solves the problem&lt;/li&gt;&lt;li&gt;Strongly encourage students to compare notes of their methodologies after class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This can be done at the beginning of Class 3 if there is not enough time after the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>230</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Fisher Projections</name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 3&lt;/p&gt;&lt;p&gt;Teach about Fisher Projections to begin this class lecture, tying it back to the Class 2 activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

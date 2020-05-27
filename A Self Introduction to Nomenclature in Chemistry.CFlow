@@ -1,8 +1,9 @@
 <project><prname>A Self Introduction to Nomenclature in Chemistry</prname>
-<idnum>43</idnum>
+<idnum>84</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>A Self Introduction to Nomenclature in Chemistry</wfname>
 <wfauthor>By Manlio Alessi</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students are&amp;nbsp;presented with the concepts of nomenclature in organic chemistry in a way that encourages self learning and frees up class time. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/a-self-introduction-to-nomenclature-in-chemistry/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,40 +22,40 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
+<node><name>Prepare Activity</name>
 <id>36</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/a-self-introduction-to-nomenclature-in-chemistry/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Using the Moodle quiz settings and questions provided, create two online quizzes, one for practice (unlimited attempts) and one to be graded. Both quizzes provide feedback for incorrect answers resulting from common errors&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Using the Moodle quiz settings and questions provided, create two online quizzes, one for practice (unlimited attempts) and one to be graded. &lt;/p&gt;&lt;p&gt;Note: Both quizzes provide feedback for incorrect answers resulting from common errors.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>144</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<tagARRAY/>
-</node>
-<node><name>Do the Practice Quiz</name>
-<id>17</id>
-<lefticon>solo</lefticon>
-<righticon>quiz</righticon>
-<column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;View two videos and review slides introducing nomenclature in chemistry&lt;/li&gt;&lt;li&gt;Take a practice quiz to practice naming (The quizzes are generated using randomly selected questions from the question bank. They are automatically corrected)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If needed, retake the practice quiz to build conﬁdence.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>128</textheight>
-<isdropped>true</isdropped>
-<link><targetid>11</targetid>
+<link><targetid>17</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
-<node><name>Take the Final Quiz</name>
-<id>8</id>
+<node><name>Watch Videos and Review Slides</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;View two videos and review slides introducing nomenclature in chemistry.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do Practice and Final Quizzes</name>
+<id>57</id>
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Once practiced enough, attempt the second quiz, which is for marks and can be taken only once.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take a practice quiz to practice naming (The quizzes are generated using randomly selected questions from the question bank. They are automatically corrected)&lt;/li&gt;&lt;li&gt;Once practiced enough, attempt the second quiz, which is for marks and can be taken only once&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If needed, retake the practice quiz to build conﬁdence.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -63,7 +64,7 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Review the answers to the quizzes. Incorrect answers resulting from misunderstanding are added to the corresponding question along with feedback.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Review the answers to the quizzes. &lt;/p&gt;&lt;p&gt;Note: Incorrect answers resulting from misunderstanding are added to the corresponding question along with feedback.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

@@ -1,8 +1,9 @@
 <project><prname>Biological Molecules</prname>
-<idnum>38</idnum>
+<idnum>83</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Biological Molecules</wfname>
 <wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students identify and compare biological molecules of a specific type (e.g., carbohydrates, lipids, etc.) based on their structure and function.&amp;nbsp;During this flipped classroom activity, students develop autonomous critical thinking skills, as well as collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biological-molecules/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -11,7 +12,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>OOC</columnname>
-<columnnodetext>Out of Class</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICI</columnname>
@@ -22,26 +22,25 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>27</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/biological-molecules/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
-<righticon>research</righticon>
+<righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Use the sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings.&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do assigned readings and watch a video about lipids&lt;/li&gt;&lt;li&gt;Do a quiz through Moodle to test what is learned from the video and readings&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Do assigned readings and watch a video about lipids.&lt;/p&gt;&lt;p&gt;Note: Use the sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz</name>
+<id>71</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Do a quiz through Moodle to test what is learned from the video and readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -61,9 +60,11 @@
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Get into groups of 2-3 and fill in the lipids table.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 20 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Get into groups of 2-3 and fill in the lipids table.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>60</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -72,9 +73,11 @@
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Read through and correct the table of another group.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 15 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read through and correct the table of another group.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>80</textheight>
+<textheight>64</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -94,9 +97,11 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Answer clicker questions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Recommended time: 15 minutes&lt;/em&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Respond to clicker questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>74</textheight>
+<textheight>54</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -105,9 +110,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;If the majority of the class answers incorrectly on a particular question, the instructor takes up that question with the entire class.&amp;nbsp;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Take up those questions with the entire class that the majority of the class answers incorrectly.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -116,9 +121,9 @@
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Return to their groups and change any incorrect answers on their table.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Change any incorrect answers on the table.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>

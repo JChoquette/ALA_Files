@@ -1,0 +1,112 @@
+<project><prname>Family Feud</prname>
+<idnum>171</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Family Feud</wfname>
+<wfauthor>By Philippe Caignon</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students compete in teams to answer questions on the course material.&amp;nbsp;Through this activity, they will be able to identify gaps in their knowledge and, by creating their own questions, think more critically of the subject material. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/feud/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>153</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Create 10-12 questions that broadly cover the course material.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Direct students to get into groups of 3-5 at a table&lt;/li&gt;&lt;li&gt;Ask 10-12 questions (with answer rounds between each)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions - Round 1</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss possible answers to each of the questions&lt;/li&gt;&lt;li&gt;Choose someone to present answers to the instructor and class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The first group to answer a question correctly gets a point.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create New Questions</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Come up with 1-2 questions.&lt;/p&gt;&lt;p&gt;Note: Questions should be more specific than those used by the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask New Questions</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Collect questions from each group&lt;/li&gt;&lt;li&gt;Ask the questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer New Questions - Round 2</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Compete to answer questions other groups have created.&lt;/p&gt;&lt;p&gt;Note: Each cannot answer their own questions. The first group to answer a question correctly gets a point.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine the Winner</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Calculate points and decide the winner. &lt;/p&gt;&lt;p&gt;Note: The group with the most points at the end wins.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

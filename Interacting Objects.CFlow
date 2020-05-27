@@ -1,0 +1,139 @@
+<project><prname>Interacting Objects</prname>
+<idnum>11188</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Interacting Objects</wfname>
+<wfauthor>By Chris Whittaker</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students find an image of interest with two or more interacting objects, prepare free body diagrams, and compare them in the accelerating and non-accelerating states to understand and identify Newton&apos;s 3rd Law force pairs. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/interacting-objects/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>01</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>011</weekid>
+<node><name>Prepare for Class</name>
+<id>0111</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Find an image of two or more objects (i.e. touching so that the motion and/or weight of one object imparts force(s) on the other and vice versa)&lt;/li&gt;&lt;li&gt;Prepare free-body diagrams (FBDs) of the objects in the image&lt;/li&gt;&lt;li&gt;Upload the image and the FBDs to an online collaborative platform (OCP)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflective Writing on Newton's Third Law</name>
+<id>011111</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Prepare and submit a reflective writing on the phrase “for every action, there is an equal and opposite reaction” and if or how it relates to the image.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>11113</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Assign groups of 3-6 students.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>58</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review and Select an Image</name>
+<id>11114</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Review each group member’s image and then select one to work with for the duration of the activity.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw FBDs for Zero Acceleration</name>
+<id>11134</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Using the selected images on OCP, draw FBDs for the objects in the image for the case when the acceleration of the objects is zero.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present FBDs</name>
+<id>11131</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present images and FBDs to the class, receiving feedback from the instructor and students.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Draw FBDs for Non-Zero Acceleration</name>
+<id>11128</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Draw FBDs for the objects in image for the case when the acceleration of the objects is not zero. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Forces Acting in FBDs</name>
+<id>11125</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In a defined space on the OCP:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prepare a short written statement, comparing and contrasting the forces (both direction and magnitude) acting in FBDs between the cases of zero and non-zero acceleration&lt;/li&gt;&lt;li&gt;Prepare a short written heuristic on identifying 3rd Law force pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Results</name>
+<id>11119</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present FBDs, force comparisons and heuristic to the class, receiving feedback from the instructor, and students.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Test on Concepts of Forces</name>
+<id>11116</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Write a short quiz on the concepts of forces on interacting objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

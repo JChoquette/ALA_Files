@@ -1,8 +1,9 @@
 <project><prname>Rock Paper Scissors Lizard</prname>
-<idnum>58</idnum>
+<idnum>109</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Rock Paper Scissors Lizard</wfname>
 <wfauthor>By Brendan Joyce</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are introduced to the concept of an evolutionary stable strategy (ESS) and cement the idea with a memorable counter example. Using self made, specially designed dice, students explore the concept of non-transitivity. See a description &lt;a href=&quot;https://www.saltise.ca/activity/rock-paper-scissors-lizard/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>11</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -23,14 +24,25 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>10</weekid>
-<node><name>Prepare for Class Activity</name>
+<node><name>Prepare for Class </name>
 <id>1</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read an article on evolutionary stable strategies&lt;/li&gt;&lt;li&gt;View a video&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>78</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz </name>
+<id>84</id>
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read an article on evolutionarily stable strategies&lt;/li&gt;&lt;li&gt;View a video &lt;/li&gt;&lt;li&gt;Complete an online quiz.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete an online quiz.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -41,7 +53,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Brieﬂy review the topics from the quiz.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>66</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -72,7 +84,7 @@
 <lefticon>group</lefticon>
 <righticon>play</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Seek out both dissimilar dice and roll against each other repeatedly. &lt;/li&gt;&lt;li&gt;Record what die it was and the outcome of each roll on a paper.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Seek out both dissimilar dice and roll against each other repeatedly&lt;/li&gt;&lt;li&gt;Record what die it was and the outcome of each roll on a paper&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -103,9 +115,9 @@
 <node><name>Watch Video</name>
 <id>8</id>
 <lefticon>class</lefticon>
-<righticon>research</righticon>
+<righticon>reading</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;View a video on Side-blotched lizards (Uta stansburiana)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;View a video on Side-blotched lizards (Uta stansburiana).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

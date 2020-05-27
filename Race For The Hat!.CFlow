@@ -1,0 +1,98 @@
+<project><prname>Race for the Hat!</prname>
+<idnum>83</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Race for the Hat!</wfname>
+<wfauthor>By Francesca Theriault</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class&amp;nbsp;activity,&amp;nbsp;students work in groups to answer increasingly difficult questions while working against the clock. With the help of this jeopardy-like activity, students will understand what they can improve with further studying. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bio-racehat/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Describe what students will be doing in the activity&lt;/li&gt;&lt;li&gt;Instruct students to get into groups of 4-5 and sit down at one of the tables in a smart classroom&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The Jeopardy rounds can be open-notebook or not (both forms are suitable for the activity).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>158</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Choose Roles and Prepare Materials</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Choose one person for each of the following roles:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Secretary: legibly writes down the group’s answers&lt;/li&gt;&lt;li&gt;Runner: takes the answers to the hat set up somewhere in the classroom&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Prepare cardstock answer squares.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Secretary: writes down the number of points for each difficulty level (5 total) in each of the 5 categories on individual pieces of cardstock&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Order cardstock squares on table by category and difficulty level.&lt;/p&gt;&lt;p&gt;Note: Each group is given a different colour of cardstock for grading purposes after the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>334</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Choose and Ask Questions</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Place answer hat somewhere in the room&lt;/li&gt;&lt;li&gt;Choose a question from a category and a level of difficulty&lt;/li&gt;&lt;li&gt;Ask the class the question&lt;/li&gt;&lt;li&gt;Give the class 30 seconds to discuss, write, and submit their answer&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Answer the Question</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Quickly discuss their answer&lt;/li&gt;&lt;li&gt;Secretary writes it down&lt;/li&gt;&lt;li&gt;Runner takes it to the hat&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat answering questions
+until there are none left</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Collect and Evaluate Students' Answers</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Collect answers from the hat to evaluate after class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;Repeat&lt;/p&gt;</textHTML>
+<x>100</x>
+<y>1080</y>
+<commentparent>2</commentparent>
+</comment>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

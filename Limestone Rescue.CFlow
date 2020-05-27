@@ -1,0 +1,117 @@
+<project><prname>Limestone Rescue</prname>
+<idnum>200</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Limestone Rescue</wfname>
+<wfauthor>By Yann Brouillette</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students rescue six researchers that have been captured and exposed to a potentially deadly chemical reaction. Through a case study, students learn to apply inductive reasoning to generate a problem-solving heuristic and learn skills of knowledge application and analysis and evaluation of solution. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/limestone-rescue/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>123</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>122</weekid>
+<node><name>Introduce Activity</name>
+<id>0111</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 3-4&lt;/li&gt;&lt;li&gt;Assign a multi-step problem. This takes the form of a rescue mission, involving captives held in an enclosed space risking asphyxiation due to a reaction between limestone (CaCO3) and acetic acid&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Problem</name>
+<id>113</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Access online resources to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collect information&lt;/li&gt;&lt;li&gt;Set up the problem&lt;/li&gt;&lt;li&gt;Make necessary unit conversions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve the Problem</name>
+<id>114</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At a whiteboard or SMART board, solve the problem step by step.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Work</name>
+<id>115</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Compare and contrast own work with that of other groups to determine the completion of the required steps. If not, correct the work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare Flow Chart</name>
+<id>116</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Prepare a flow chart on the white or SMART board for solving the multi-step problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Flow Chart</name>
+<id>117</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Peer review the flow chart of one other group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Modify and Upload Flow Chart</name>
+<id>118</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take peers' suggestions into account and finalize the flow chart&lt;/li&gt;&lt;li&gt;Upload flow charts to an online collaborative platform&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze, Apply, and Finalize Flow Chart</name>
+<id>119</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Online, compare and contrast flow charts posted by all groups and prepare a finalized version for personal use&lt;/li&gt;&lt;li&gt;Apply steps outlined in flow chart to solve questions and determine whether own procedure is robust, revising it as necessary&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Employ the flow chart for the remainder of the semester, and use it as a study guide for future examinations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

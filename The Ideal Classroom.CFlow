@@ -1,0 +1,114 @@
+<project><prname>The Ideal Classroom</prname>
+<idnum>61</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>The Ideal Classroom</wfname>
+<wfauthor>By Leigh Barnett Shapiro</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students use their knowledge of the National Building Code to examine classrooms in their school. Through this case study, students develop observational and critical thinking skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/baas-ideal-classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete assigned readings on the National Building Code.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Describe what students are expected to perform&lt;/li&gt;&lt;li&gt;Provide suggestions for the types of observation they should make when visiting a classroom&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Visit Classrooms and Summarize Notes</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a classroom to visit and go there when it’s unoccupied&lt;/li&gt;&lt;li&gt;Note the observations about classroom design, adherence to the National Building Code, etc.&lt;/li&gt;&lt;li&gt;Summarize the notes in a 5 minute presentation&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>136</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Observations</name>
+<id>6</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present a summary of the classroom they visited.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>51</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Discuss Observations</name>
+<id>51</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the design, adherence to National Code, etc. of each presented room.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Organize Groups</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Divide class into focus groups based on the similarity of their chosen classrooms.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer specific questions on National Building Code as they relate to the classroom(s) visited&amp;nbsp;&lt;/li&gt;&lt;li&gt;Submit the answers for graded evaluation by the instructor&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>152</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

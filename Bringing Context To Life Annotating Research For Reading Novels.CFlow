@@ -1,0 +1,77 @@
+<project><prname>Bringing Context to Life: Annotating Research for reading novels </prname>
+<idnum>45</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Bringing Context to Life: Annotating Research for Reading Novels </wfname>
+<wfauthor>By Jeffrey Gandell</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn to get the most out of a novel by looking up any references and/or words that they do not understand. This activity will introduce students to the components and style of the novel. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/bringing-context-to-life-annotating-and-research-activity-for-reading-novels/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Split the class into groups&lt;/li&gt;&lt;li&gt;Assign each group of students 1-2 pages from the first chapter of the novel to analyze &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Clarify and Choose Concepts to Describe</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Underline all the words/references that are unclear and need explanation&lt;/li&gt;&lt;li&gt;Look up the definitions/explanations for the underlined words&lt;/li&gt;&lt;li&gt;Pick one or two words/concepts to describe in more detail&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Make a Power Point Presentation</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Create a brief PowerPoint presentation that includes all the definitions that were looked up and the longer descriptions for the chosen words/concepts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give Feedback to Peers</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Once everyone is done, walk around to review each other's work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

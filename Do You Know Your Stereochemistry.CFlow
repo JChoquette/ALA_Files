@@ -1,0 +1,88 @@
+<project><prname>Do You Know Your Stereochemistry?</prname>
+<idnum>72</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Do You Know Your Stereochemistry?</wfname>
+<wfauthor>By Carmen Leung</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are assessed on their understanding of the relationships between different stereoisomers and their 3D visualization skills of organic molecules using a two-stage exam. Students will be able to apply different molecular 3D drawing techniques. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chem-do_you_know_your_stereochemistry/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Set up Activity	</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Just before class, set up the activity in a laboratory space:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One set of 3 different stations are set up around the classroom (setup A), while another set of 3 stations, that are slightly different are also setup around the classroom (setup B)&lt;/li&gt;&lt;li&gt;Stations from setup A are interspersed with the stations from setup B, with maximum spacing in between the stations to ensure groups working on the same set of stations cannot hear each other’s answers&lt;/li&gt;&lt;li&gt;Stations are covered and only revealed at the start of Part 2 of the two-stage exam&lt;/li&gt;&lt;li&gt;All questions to be answered for Part 2 are provided on a sheet of paper which each group is given&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>294</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Questions</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a written individual assessment which contains stereochemistry questions and submit answers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Collect the individual assessments&lt;/li&gt;&lt;li&gt;Direct students to split into small groups of 3-4 students&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Solve Questions Station-by-Station</name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Visit setup A and setup B, with half of the groups at each&lt;/li&gt;&lt;li&gt;Take 10 minutes at each station to answer the corresponding questions&lt;/li&gt;&lt;li&gt;Submit all answers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>122</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate and Post Solutions</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After class, post solutions online, including pictures of all the 3D models. Each picture will be matched up with the corresponding molecular drawings.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

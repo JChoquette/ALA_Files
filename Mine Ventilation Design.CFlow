@@ -1,0 +1,201 @@
+<project><prname>Mine Ventilation Design</prname>
+<idnum>307</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Mine Ventilation Design</wfname>
+<wfauthor>By Agus Sasmito</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students design and analyze mine ventilation systems while simultaneously learning collaboration and problem-solving skills. This culminates in a final project in which students plan, create, and evaluate a ventilation network. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/mine-ventilation-design/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Activity</name>
+<id>270</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a problem sheet for students to calculate the flow rate of air with specific parameters (diameter, excavation depth, etc.) that are different for each group.&lt;/p&gt;&lt;p&gt;Note: Students should not know that the values for the parameters are diﬀerent.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Direct students to get into groups of 6. These will be their groups for the remainder of the project&lt;/li&gt;&lt;li&gt;Assign a problem sheet to each group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>98</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Detemine the Flow Rate</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;For the problem on the worksheet, calculate the flow rate of air through a vent with specific parameters (diameter, excavation depth, etc.)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>82</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Solutions and Concepts</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Discuss problems on the worksheets with the class, drawing connections between the concepts and calculations involved in finding answers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>137</weekid>
+<node><name>Solve Mini-Design Problems</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete the following &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/11/Warm-up_Mini-Designs_Final-Project.pdf" target="_blank"&gt;Mini Designs&lt;/a&gt; (MD):&lt;/p&gt;&lt;p&gt;• MD 1 - Manual Vent Design&lt;/p&gt;&lt;p&gt;• MD 2 - Computer Vent Design&lt;/p&gt;&lt;p&gt;• MD 3 - Vent Heating/Cooling&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+<linktext>Repeat for 3 Mini Designs
+throughout the semester</linktext>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Revise and Submit Report</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Finalize the mini design report and submit it.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>78</weekid>
+<node><name>Introduce Final Project</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Describe the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/11/Warm-up_Mini-Designs_Final-Project.pdf" target="_blank"&gt;ﬁnal project&lt;/a&gt; to the class&lt;/li&gt;&lt;li&gt;Assign 1 of 3 project topics to each group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Gather Data and Build a Mine</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Research and gather necessary data for their ﬁnal project&lt;/li&gt;&lt;li&gt;Build a mine ventilation design together&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Develop Design</name>
+<id>11</id>
+<lefticon>solo</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Continue to work on the group project.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Group Progress</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;On the 5th project day&lt;/p&gt;&lt;p&gt;Meet with each group to discuss their progress.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Complete Projects</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Finalize and submit projects.&lt;/p&gt;&lt;p&gt;Note: This can happen in class or out of class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Peer Group Reports</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Peer review another group’s project design report.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Group Report</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present to the other groups with the same project topic, with the instructor as the mediator.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>20</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Provide Peer Feedback</name>
+<id>20</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Ask questions and critique the other groups’ projects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>380</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

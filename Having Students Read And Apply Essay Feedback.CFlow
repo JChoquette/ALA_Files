@@ -1,0 +1,77 @@
+<project><prname>Having Students Read and Apply Essay Feedback</prname>
+<idnum>117</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Having Students Read and Apply Essay Feedback</wfname>
+<wfauthor>By Andrew Burton</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students use a template document to understand how feedback given by the instructor can be integrated into their essays. This will help students improve their writing in future assignments. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/having-students-read-and-apply-essay-feedback/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Annotate and grade students' essays&lt;/li&gt;&lt;li&gt;Prepare to distribute template with feedback instructions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Feedback</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;After receiving the essays with the feedback (not the grade), take time to read essays and the instructor's feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>   Identify and Apply Feedback</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Fill out the template document:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify questions about the feedback&lt;/li&gt;&lt;li&gt;Identify up to 3 areas of improvement as identified by the instructor's comments&lt;/li&gt;&lt;li&gt;Give an example of each area and articulate how to improve it in the future&lt;/li&gt;&lt;li&gt;Rewrite what is thought to be the most problematic body paragraph&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Print and submit the templates.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Give out Grades</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Once students have completed, printed, and submitted their templates, give them their grade.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

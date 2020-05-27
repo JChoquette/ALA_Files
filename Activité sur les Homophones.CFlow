@@ -1,8 +1,9 @@
 <project><prname>Activité sur les Homophones</prname>
-<idnum>50</idnum>
+<idnum>86</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Activité sur les Homophones</wfname>
 <wfauthor>By Lysanne Audy</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students revise homophones and find out new tricks to&amp;nbsp;memorize&amp;nbsp;and use them. In the process, they share knowledge and strategies of recognition and gain confidence by&amp;nbsp;synthesizing knowledge into an effective 2-minute lesson.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/activite-sur-les-homophones/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>41</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/activite-sur-les-homophones/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
@@ -60,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>present</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Two students from each group get up and move to the group on their right&lt;/li&gt;&lt;li&gt;The students that stayed seated then teach the two new students their homophones&lt;/li&gt;&lt;li&gt;The ”Teachers” ask the ”Students” questions and give them examples in order to make sure that they have eﬀectively learned the homophone and can use the trick they came up with&lt;/li&gt;&lt;li&gt;The ”Students” move on to the next table until they have come to their original group and the roles reverse&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Two students from each group get up and move to the group on their right&lt;/li&gt;&lt;li&gt;The students that stayed seated then teach the two new students their homophones&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Teachers &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ask the Students questions and give them examples in order to make sure that they have eﬀectively learned the homophone and can use the trick they came up with&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Students &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Move on to the next table until they have come to their original group and the roles reverse&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>216</textheight>
 <isdropped>true</isdropped>
@@ -71,7 +60,7 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate their level after the activity by giving them a dictation with homophones at the end of class&lt;/li&gt;&lt;li&gt;Instruct the students to put their group work online for the class to have access to&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate student level after the activity by giving them a dictation with homophones at the end of class&lt;/li&gt;&lt;li&gt;Instruct them to put their group work online for the class to have access to&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

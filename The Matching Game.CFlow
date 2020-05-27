@@ -1,8 +1,9 @@
 <project><prname>The Matching Game</prname>
-<idnum>92</idnum>
+<idnum>145</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>The Matching Game</wfname>
 <wfauthor>By Lori Jinbachian</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students use a simple matching game to pair chemical compounds and their characteristics using a set of question cards. Students better understand solubility and precipitation and learn to determine the oxidation state of a molecule’s components, discern between similar compounds, and correctly name them. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/the-matching-game/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>59</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>58</weekid>
-<node><name>Activity Instruction</name>
-<id>92</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and the material for the activity &lt;a href="https://www.saltise.ca/activity/the-matching-game/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare Activity</name>
 <id>50</id>
 <lefticon>undefined</lefticon>
@@ -40,7 +29,7 @@
 <column>OOCI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Print questions and associated cards &lt;/li&gt;&lt;li&gt;Place them in ﬁle folders&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -49,9 +38,20 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 3-4 students.&lt;/li&gt;&lt;li&gt;Explain the exercise&lt;/li&gt;&lt;li&gt;Distribute question folders one per group.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the class into groups of 3-4 students&lt;/li&gt;&lt;li&gt;Explain the &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Oxidation-States_Precipitation-and-Naming.pdf" target="_blank"&gt;Oxidation, States Precipitation, and Naming&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce New Challenges</name>
+<id>56</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Distribute question folders and challenges one per group.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -60,9 +60,9 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify what they will need to know and how to ﬁnd it in order to proceed.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify what they will need to know and how to ﬁnd it in order to proceed&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>64</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -73,7 +73,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Match the group's compounds to the corresponding characteristic(s) of the compounds.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -86,28 +86,11 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Introduce a New Challenge</name>
-<id>56</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;Provide a new ﬁle to the groups&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Repeat the Process of Solving Challenges</name>
-<id>57</id>
-<lefticon>group</lefticon>
-<righticon>problem</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;Repeat the process for all remaining ﬁles.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss the problem&lt;/li&gt;&lt;li&gt;Identify what they will need to know and how to ﬁnd it in order to proceed.&lt;/li&gt;&lt;li&gt;Match the group's compounds to the corresponding characteristic(s) of the compounds.&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>152</textheight>
-<isdropped>true</isdropped>
+<link><targetid>56</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat the process for 
+all remaining ﬁles</linktext>
+</link>
 <tagARRAY/>
 </node>
 </week>

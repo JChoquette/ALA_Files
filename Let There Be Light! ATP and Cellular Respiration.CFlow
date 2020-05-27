@@ -1,8 +1,9 @@
 <project><prname>Let there be light! ATP and cellular respiration</prname>
-<idnum>50</idnum>
+<idnum>71</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Let There Be Light! ATP and Cellular Respiration</wfname>
 <wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students explore data from a study of cellular respiration to become familiar with cellular respiration and how it can be quantified as well as to analyze data and produce a graph. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/let-there-be-light-atp-and-cellular-respiration/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,24 +22,23 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>38</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/let-there-be-light-atp-and-cellular-respiration/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Watch an assigned video relating to cellular respiration&lt;/li&gt;&lt;li&gt;After reviewing the assigned material, perform a brief online quiz to assess the knowledge before class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Watch an assigned video relating to cellular respiration.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>58</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;After reviewing the assigned material, take a brief online quiz to assess the knowledge before class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -51,7 +51,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Lead a short discussion with the class answering any questions relating to the assigned material&lt;/li&gt;&lt;li&gt;Divide the class into groups of 3-4&lt;/li&gt;&lt;li&gt;Brieﬂy introduce the luciferase case study&lt;/li&gt;&lt;li&gt;Present a series of questions relating to the case study&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>142</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>

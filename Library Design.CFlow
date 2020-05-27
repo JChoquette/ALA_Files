@@ -1,0 +1,151 @@
+<project><prname>Library Design</prname>
+<idnum>99</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Interior Design - Library Design</wfname>
+<wfauthor>By Leigh Barnett Shapiro</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students work in groups to investigate local library design and present their findings to their peers. Students will able to learn about&amp;nbsp;division of labour among group members, observational skills, research skills, as well as critical thinking skills, such as analysis and evaluation. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/baas-library-design/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduce project and describe what students will be doing&lt;/li&gt;&lt;li&gt;Provide students with a list of library buildings to choose from&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Self-Organize into Groups</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of their choice (3-5 students per group)&lt;/li&gt;&lt;li&gt;Choose a library building from the assigned list&lt;/li&gt;&lt;li&gt;Assign roles to each person for the group work&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: See the &lt;a href="https://www.saltise.ca/activity/baas-library-design/" target="_blank"&gt;Interior Design Case Study Student Instructions&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Collect Data for the Chosen Library</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Research their assigned library, and collect data from the following possible sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A guided library tour&lt;/li&gt;&lt;li&gt;Photos&lt;/li&gt;&lt;li&gt;Online research&lt;/li&gt;&lt;li&gt;Skype/phone/in-person interviews&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Research</name>
+<id>29</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Classes 3 and 4&lt;/p&gt;&lt;p&gt;Pool the raw data together and discuss the research.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Students' Work</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Walk around class to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Monitor group work&lt;/li&gt;&lt;li&gt;Answer student questions&lt;/li&gt;&lt;li&gt;Guide groups with their projects&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>29</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Create a Presentation</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Using the data, create a 15-20-minute-long presentation on the assigned library building.&lt;/p&gt;&lt;p&gt;Note: The presentation should&amp;nbsp;include	factual	information	about:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Date,	time,	location	and	context	of	the	building’s	construction	(why	was	it	built?)&lt;/li&gt;&lt;li&gt;Comparison	to	interior	design	during	the	same	time	period as	the	library&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See details in Interior Design Case Study Student Instructions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>192</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Present Research and Answer Questions</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Class 5 and 6&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present the chosen library building to the class (15-20 min)&lt;/li&gt;&lt;li&gt;Answer questions from the class&lt;/li&gt;&lt;li&gt;Receive peers' constructive feedback&lt;/li&gt;&lt;li&gt;Submit presentation for evaluation by the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>138</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>15</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate the Student Presentation</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Moderate presentations and question/answer periods.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Assess Self and Peers' Contributions</name>
+<id>15</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Self-evaluate own contribution to the group project&lt;/li&gt;&lt;li&gt;Evaluate the contribution of other group members&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

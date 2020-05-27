@@ -1,0 +1,77 @@
+<project><prname>Putting the &quot;You&quot; in Education: Using Self-Reflections for Learning</prname>
+<idnum>165</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Putting the &quot;You&quot; in Education: Using Self-Reflections for learning</wfname>
+<wfauthor>By Jeffrey Gandell</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students complete five self-assessments at different points throughout the semester to reflect and take ownership of their learning. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/putting-the-you-in-education-using-self-reflection/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>noinstructor</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>In Class (Students)</columntext>
+<columnnodetext>In Class (Students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce all the assessments, making clear that they are not graded and that only they (the instructor) will be reading them&lt;/li&gt;&lt;li&gt;Outline how the assessments will be distributed throughout the year&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Self-Assessment</name>
+<id>37</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;At the appropriate time during the semester, remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Schedule:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;#1 - At the beginning of the semester&lt;/li&gt;&lt;li&gt;#2 - Before the first major assignment&lt;/li&gt;&lt;li&gt;#3 - After completing the first major assignment&lt;/li&gt;&lt;li&gt;#4 - Before the second major assignment&lt;/li&gt;&lt;li&gt;#5 - At the end of the course&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>232</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Complete Self-Assessment </name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;At a specified time during the semester, write a reflection on various topics in response to the prompts given by the instructor. Submit it via email or hard copy.&lt;/p&gt;&lt;p&gt;Topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;#1 - Course Goals&lt;/li&gt;&lt;li&gt;#2 - Assignment #1 Goals&lt;/li&gt;&lt;li&gt;#3 - Assignment Feedback&lt;/li&gt;&lt;li&gt;#4 - Assignment #2 Goals&lt;/li&gt;&lt;li&gt;#5 - Course Progress&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<timevalue>20-30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>37</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>repeat for each 
+assessment</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

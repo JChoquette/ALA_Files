@@ -1,0 +1,117 @@
+<project><prname>Engineering Poster Presentations</prname>
+<idnum>141</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Engineering Poster Presentations with Peer Assessment</wfname>
+<wfauthor>By Lawrence Chen</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, a part of students in the class choose poster presentations to work on engineering ethics-related issues. Students will develop presentation and collaborative skills and gain an appreciation for the interdisciplinary nature of engineering projects. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-engineering_poster_presentations_with_peer_assessment/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Initiate Activity </name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Direct teaching assistant to assign students to a group of 4 to 6 students.&lt;/p&gt;&lt;p&gt;Note: Only a part of students from this class will present posters while others have chosen to make a video or do a debate (See the complete &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Tutorial_Debates_Videos_and_Posters_Instructions.pdf" target="_blank"&gt;Instruction&lt;/a&gt;).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Choose Challenges &amp; Make Posters</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pick an engineering challenge identified by the National Academy of Engineering&lt;/li&gt;&lt;li&gt;Make a poster discussing their chosen topic along with describing the role of at least two engineering disciplines and two non-engineering disciplines that must work collaboratively together in this project&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;With the help of teaching assistants &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Set up the classroom placing poster numbers where the students should hang their posters&lt;/li&gt;&lt;li&gt;Divide the posters into two groups (those who will present first and those who will present second)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>176</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present and Vote for Posters</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In the first half of the class&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Students presenting posters set up their posters and all students in the class pick up a form to vote for their favourite poster&lt;/li&gt;&lt;li&gt;Half of those groups presenting a poster will present to and be evaluated by the teaching assistants and the instructor, while all students who are not presenting vote for their favourite poster&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In the second half of the class&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Those who were presenting first now go around and vote for their favourite poster while those who have posters and were voting now present&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>294</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assess Posters</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;With the help of teaching assistants&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Go around and mark all of the posters&lt;/li&gt;&lt;li&gt;Collect students' votes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The evaluation is based on the poster content, organization, and presentation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reward Top Posters</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;In the following class&lt;/p&gt;&lt;p&gt;Give a prize to the top three posters, which is based on the student votes.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Group Peer &amp; Self Evaluation </name>
+<id>13</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Fill out a &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/FACC-100-Assignment-3-Peer-Self-Evaluation-Form-2.xlsx" target="_blank"&gt;Group Peer and Self-Evaluation Form&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Submit the form to the course website&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign Final Grades for Posters</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Direct teaching assistants to compute final grade which is based on the average of three evaluations from the teaching assistants and the instructor plus the average of all peer evaluations and the self-evaluation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

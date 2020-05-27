@@ -1,0 +1,95 @@
+<project><prname>Engineering Ethics</prname>
+<idnum>55</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Engineering Ethics Debate</wfname>
+<wfauthor>By Lawrence Chen</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, a part of students in the class choose to perform a debate on engineering ethics-related issues. Students develop debating and public speaking skills as well as learn to critically assess a complex, open-ended ethical engineering issues. See a full description&amp;nbsp;&lt;a href=&quot;https://www.saltise.ca/activity/eng-debate/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign a group of four students&lt;/li&gt;&lt;li&gt;Prepare a debate question surrounding engineering, ethics and society&lt;/li&gt;&lt;li&gt;Provides the ethic question to the students three weeks prior to the debate&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Only a part of students from this class will engage in a debate while others have chosen to make a video or present posters (See the complete &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Tutorial_Debates_Videos_and_Posters_Instructions.pdf" target="_blank"&gt;instruction&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;Possible topics of the debate question include: artificial intelligence, genetically modified organisms, Canadian oil sands, space exploration and the journey to Mars, commercial and recreational use of drones, the Volkswagen emission scandal, nuclear power, cybersecurity, and the Internet of things.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>284</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a three-page document explaining the supporting and opposing view points of the debate question&lt;/li&gt;&lt;li&gt;Submit the assignment the night before to the course website&lt;/li&gt;&lt;li&gt;Divide themselves into two groups of two (the supporting and those opposed)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Documents</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Direct teaching assistant to review the document before the beginning of the debate.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Engage in a Debate </name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>debate</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Debate in the following sequence: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction of arguments (4 minutes for each side)&lt;/li&gt;&lt;li&gt;Rebuttals (3 minutes for each side)&lt;/li&gt;&lt;li&gt;Recess for both sides to discuss concluding remarks (2 minutes)&lt;/li&gt;&lt;li&gt;Concluding remarks (2 minutes each)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>148</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questions</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer questions from the teaching assistant based on their document submission or based on the debate and from the audience.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Debate and Submission</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Direct teaching assistant to mark the debate and the document submission.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

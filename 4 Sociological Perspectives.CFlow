@@ -1,9 +1,9 @@
 <project><prname>4 Sociological Perspectives</prname>
-<idnum>263</idnum>
+<idnum>279</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>4 Sociological Perspectives</wfname>
 <wfauthor>By Cory Legassic</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students explore&amp;nbsp;four&amp;nbsp;major&amp;nbsp;sociological frameworks. Given a number of statements, they engage in a creative process to&amp;nbsp;identify patterns and highlight core assumptions that group certain statements. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/4-sociological-perspectives/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students explore&amp;nbsp;four&amp;nbsp;major&amp;nbsp;sociological frameworks. Given a number of statements, they engage in a creative process to&amp;nbsp;identify patterns and highlight core assumptions to group certain statements. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/4-sociological-perspectives/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>17</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -147,7 +147,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present each of the 4 theoretical perspectives, referencing the language chosen by the groups in their discussion&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present each of the 4 theoretical perspectives, referencing the language chosen by the groups in their discussion.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
 <isdropped>true</isdropped>

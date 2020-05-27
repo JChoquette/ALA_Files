@@ -1,0 +1,103 @@
+<project><prname>Systems Ball Toss</prname>
+<idnum>84</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Systems Ball Toss</wfname>
+<wfauthor>By Rachael Marshall</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students participate in a ball toss exercise and then build a systems diagram of the ball toss guided by the instructor. In this activity, students will understand how a systems diagram is constructed and its complexity. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/sosci-systems_ball_toss/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Review System Diagrams</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Bring 3 tennis balls and a timer&lt;/li&gt;&lt;li&gt;Review system diagrams&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Free Tossing Activity</name>
+<id>5</id>
+<lefticon>class</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Round 1: Stand in a circle and each student tosses the ball to someone so that everyone gets tossed to once.&lt;/p&gt;&lt;p&gt;Round 2: Repeat Round 1, tossing to the same individual, but they are timed (this generally takes 45s and any round can have multiple tries).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Round 3: Repeat this task a few times which usually it takes approximately 25s.&lt;/p&gt;&lt;p&gt;Round 4: Add two more balls to the circle and again, each student must pass to whom they passed to in Round 1.&lt;/p&gt;&lt;p&gt;Note: Round 4 creates chaos within the circle, which demonstrates the complexity of systems with many moving parts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>288</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Challenge to Complete in 10s</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After Round 2, challenge students to perform this activity in 10s.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Provide Hints to Complete in 10s</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Tell students that there is no specific order in which this activity can be performed (but they must pass to the same individual as in Round 1)&lt;/li&gt;&lt;li&gt;Ask students to think outside the box in order to meet the 10s goal&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Round 5 - Rearrange the Circle</name>
+<id>11</id>
+<lefticon>class</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pass the ball around to each other&lt;/li&gt;&lt;li&gt;After a few tries, figure out how they can rearrange themselves in the circle so that the ball can be passed in a straight line and they then achieve the task in 10s&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflect on the Activity &amp; Draw a Diagram</name>
+<id>16</id>
+<lefticon>class</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write all of the limitations of the activity such as lag time, bottlenecks, relationships, etc. on the board&lt;/li&gt;&lt;li&gt;With guidance from the instructor, draw a systems diagram related to the ball activity on the board&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

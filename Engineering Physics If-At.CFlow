@@ -1,0 +1,99 @@
+<project><prname>Engineering Physics IF-AT</prname>
+<idnum>61</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Engineering Physics IF-AT</wfname>
+<wfauthor>By Jonathon Sumner</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students complete a two-stage exam using Immediate Feedback Assessment Technique (IF-AT) scratch cards so that they can&amp;nbsp;review the results of their test, analyze and discuss their responses. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-phys-ifat/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Complete the Test - Stage 1</name>
+<id>6</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a standard test, containing long answer and conceptual questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Grade Tests</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Grade the exams and determine the class average.&lt;/p&gt;&lt;p&gt;Note: If the overall performance was good, the instructor returns the tests as normal and the activity ends; however, if the performance was poor, the activity continues.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>122</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Prepare Materials for Stage 2</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a multiple-choice version of the test using IF-AT scratch cards.&lt;/p&gt;&lt;p&gt;Note: All questions remain the same, but the most common incorrect answers are given along with the correct one.&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity - Stage 2</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign groups of 3-4&lt;/li&gt;&lt;li&gt;Give each group a scratch card&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss and Answer Questions</name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss their solutions to each problem&lt;/li&gt;&lt;li&gt;Come to a consensus as to which is correct&lt;/li&gt;&lt;li&gt;Use a coin to scratch off the corresponding entry on the scratch card, which reveals whether or not it was the correct answer&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If an incorrect answer is revealed, attempt the question again until the correct answer is revealed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>172</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Grade Group Answers</name>
+<id>36</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Grade students with steep penalties for revealing multiple answers. &lt;/p&gt;&lt;p&gt;Note: The results of the second stage allow them to regain a portion of their lost grades.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

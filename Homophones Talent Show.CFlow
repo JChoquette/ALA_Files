@@ -1,8 +1,9 @@
 <project><prname>Homophones Talent Show</prname>
-<idnum>68</idnum>
+<idnum>136</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Homophones Talent Show</wfname>
 <wfauthor>By Laurent Duval</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students are given a homophone to work on in their groups and expected to demonstrate their understanding of the proper use of it as well as common pitfalls experienced when using the homophone. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/homophones-talent-show/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>44</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/homophones-talent-show/" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
@@ -44,7 +33,7 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>   Revise and Use Homophones </name>
+<node><name>Review and Use Homophones </name>
 <id>4</id>
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
@@ -71,7 +60,7 @@
 <lefticon>group</lefticon>
 <righticon>present</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Give a 2-3 minute presentation on the talent/trick to another group online in a video conference (ex. a video, a skit, a song...).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Give a 2-3 minute presentation on the talent/trick to another group online in a video conference (e.g. a video, a skit, a song, etc.).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -88,7 +77,7 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>    </name>
+<node><name>Administer Polls</name>
 <id>11</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>

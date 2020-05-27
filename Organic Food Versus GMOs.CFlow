@@ -1,0 +1,136 @@
+<project><prname>Organic Food Versus GMOs</prname>
+<idnum>131</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Organic Food Versus GMOs</wfname>
+<wfauthor>By Chris Gregg</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students debate whether or not there is any benefit to buying organic foods. This will encourage students to use critical thinking when reading about science in the media and to search for evidence-based claims from reliable sources. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/controversy/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduce the debate topic: Organic food versus GMOs&lt;/li&gt;&lt;li&gt;Give a lecture on key material related to the topic, including a few questions students should bring up in their debate, which are provided in the &lt;u&gt;"Organic Food versus GMOs" pdf&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Explain activity and go over the debate process, the format for which is included in the pdf handout&lt;/li&gt;&lt;li&gt;Choose 3-5 judges&lt;/li&gt;&lt;li&gt;Divide the rest of the class into two teams of 5-8 students. Team #1 will argue in favor of buying organic food. Team #2 will argue against buying organic food&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>308</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Divide Roles and Arguments</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a Notetaker(s), Moderator, and Presenters, according to roles outlined in the &lt;u&gt;"Debate Information" pdf&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Develop arguments to defend their position&lt;/li&gt;&lt;li&gt;Assign an argument to each Presenter&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Find Supporting Evidence</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Research organic food and GMOs&lt;/li&gt;&lt;li&gt;Gather peer-reviewed evidence to support their team’s arguments&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Presenters&lt;/p&gt;&lt;p&gt;Put together the presentation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Finalize Arguments and Rebuttals</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Finalize the arguments and rebuttals&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Engage in Debate</name>
+<id>11</id>
+<lefticon>class</lefticon>
+<righticon>debate</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Class 3&lt;/p&gt;&lt;p&gt;Teams&lt;/p&gt;&lt;p&gt;Take turns presenting arguments to the opposing team and the judges. Each new round of debate/rebuttal should be performed by a new presenter from each team.&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on arguments from each team.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>16</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Keep Time and Moderate</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Act as a moderator to keep the teams on time.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Determine Winner</name>
+<id>16</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At the end of the debate, Judges&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss their notes&lt;/li&gt;&lt;li&gt;Evaluate each team’s argument&lt;/li&gt;&lt;li&gt;Choose a winning team and explain their reasoning to the class; Criteria are outlined in the &lt;u&gt;"Debate Information" pdf&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Team Arguments</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize arguments from both teams&lt;/li&gt;&lt;li&gt;Address any misconceptions arising from debated material&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Write a Lay Article</name>
+<id>19</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Using information from the debate, write a lay article about organic food and submit it for evaluation by the instructor. &lt;/p&gt;&lt;p&gt;Note: Instructions are outlined in the &lt;u&gt;"Lay Article Information" pdf&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

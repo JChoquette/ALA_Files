@@ -1,8 +1,9 @@
-<project><prname>Rédaction d'un Paragraphe de Texte Expressif</prname>
-<idnum>49</idnum>
+<project><prname>Rédaction d&apos;un Paragraphe de Texte Expressif</prname>
+<idnum>11</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Rédaction d&apos;un Paragraphe de Texte Expressif</wfname>
 <wfauthor>By Lyane Henrichon</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students write a full “texte&amp;nbsp;expressif” using a case study. Students gain a better understanding of the grammatical lessons learned in class through peer-editing and two-step instructor editing processes. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/redaction-dun-paragraphe-de-texte-expressif/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -17,28 +18,15 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICS</columnname>
-<columnimage>noinstructor</columnimage>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Activity Instructions</name>
-<id>49</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Find an overview and materials of the activity &lt;a href="https://www.saltise.ca/activity/redaction-dun-paragraphe-de-texte-expressif/" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read two texts: the ﬁrst on the theory of the texte expressif in their workbook and the second is the example of the texte expressif ”Espion demande, rang´ee six”.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read two texts: the ﬁrst is on the theory of the texte expressif in their workbook and the second is the example of the texte expressif ”Espion demande, rangée six”.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -49,101 +37,91 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Give the students a printout of the assignment and asks them to write a letter from one character at a certain point in the story, creating their own version of the events and imagining how the character was feeling.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Give the students a printout of the assignment&lt;/li&gt;&lt;li&gt;Ask them to write a letter from the perspective of one character at a certain point in the story, creating their own version of the events and imagining how the character was feeling&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Write a Letter Based on the Readings</name>
+<node><name>Write a Letter Based on the Readings	</name>
 <id>5</id>
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;In groups of 4-5, write a paragraph of the development section of the texte expressif in the form of the letter. This text needs to contain components seen during readings, demonstrating comprehension of concepts such as qualifying adjectives and they way they are used in a text.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of 4-5&lt;/li&gt;&lt;li&gt;Write a paragraph of the development section of the texte expressif in the form of the letter&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This text needs to contain components seen during readings, demonstrating comprehension of concepts such as qualifying adjectives and they way they are used in a text.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>164</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Retroactive Self-Correction   </name>
-<id>7</id>
+<node><name>Correct Own Work</name>
+<id>6</id>
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Each member of the group edits each other's language and grammar while working. This is a retroactive self-corrective process that the students do while they write.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Edit language and grammar while working.&lt;/p&gt;&lt;p&gt;Note: This is a retroactive self-corrective process that is done while writing.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review Theory behind the Adjective   </name>
-<id>9</id>
+<node><name>Review Theory behind the Adjective</name>
+<id>7</id>
 <lefticon>undefined</lefticon>
-<righticon>present</righticon>
+<righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;As the groups reach the section on the ”self correction grid” relating to adverbs and qualifying adjectives, stop the activity and give a brief presentation to review the the theory behind the adjective.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;As the groups reach the section on the ”self-correction grid” relating to adverbs and qualifying adjectives, stop the activity and give a brief presentation to review the the theory behind the adjective.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Fill Out 'Self-Correction Grid'    </name>
-<id>10</id>
+<node><name>Fill Out "Self-Correction Grid"    </name>
+<id>8</id>
 <lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Fill out the ”self-correction grid” provided by the teacher, making sure that the text contains each component of a paragraphe for a texte expressif, which they saw during their theoretical reading.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Fill out the ”self-correction grid” provided by the teacher, making sure that the text contains each component of a paragraph for a texte expressif, which they saw during their theoretical reading.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Annotate Student Work   </name>
-<id>11</id>
+<node><name>Annotate Student Work</name>
+<id>9</id>
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Collect the paragraphe and grid and annotate it.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Collect the paragraphs and grids and annotate them.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>56</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review and Resubmit    </name>
-<id>12</id>
+<node><name>Review and Resubmit</name>
+<id>10</id>
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Review the texts with the instructor’s annotations.&lt;/li&gt;&lt;li&gt;Correct the mistakes and resubmit the texts.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the texts with the instructor’s annotations&lt;/li&gt;&lt;li&gt;Correct the mistakes and resubmit the texts&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Re-evaluate Assignments</name>
-<id>13</id>
+<node><name>Re-Evaluate Assignments</name>
+<id>11</id>
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Collect and re-grade the assignments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>48</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
-<comment><textHTML/>
-<x>176</x>
-<y>-95</y>
-<commentparent>2</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;instructor present icon&lt;/p&gt;</textHTML>
-<x>450</x>
-<y>1010</y>
-<commentparent>2</commentparent>
-</comment>
-<wflegendx>940</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1180</wflegendx>
+<wflegendy>400</wflegendy>
 </wfdata></workflow>
 </project>

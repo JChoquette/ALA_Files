@@ -1,0 +1,144 @@
+<project><prname>Projet Specific: Webzine </prname>
+<idnum>454</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Projet Specific: Webzine</wfname>
+<wfauthor>By Maria Popica</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students analyze the different ways to structure informative texts and&amp;nbsp;create a Webzine. These tasks&amp;nbsp;aim to test the ministerial competencies related to writing and editing an informative text with the proper language specific to students&apos; disciplines. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/projet-specific-webzine/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>20</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>18</weekid>
+<weekname>Class 1</weekname>
+<node><name>Prepare for Class</name>
+<id>103</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read four informative texts&lt;/li&gt;&lt;li&gt;Annotate the texts to see the diﬀerent ways in which people can structure their own informative texts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: At this stage, the instructor can also send helpful videos to prepare the students. See the teacher &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/10/OAS-Webzine-MOOC.pdf" target="_blank"&gt;instruction&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name> Discuss Pre-Class Reading  </name>
+<id>104</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In group of 4&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Take turns to synthesize one of the texts&lt;/li&gt;&lt;li&gt;Generally discuss the content and structure of the texts they have read&lt;/li&gt;&lt;li&gt;Ask teammates to clarify questions prepared in advance relating to the texts and test the knowledge of their peers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>105</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students a text to write on any subject linked to their program of study&lt;/li&gt;&lt;li&gt;Give a brief review of the structure of an informative text&lt;/li&gt;&lt;li&gt;Hand out a text plan, a to-do list, and a grading rubric&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>  Write an Informative Text</name>
+<id>106</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In the computer lab&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write a plan for their text&lt;/li&gt;&lt;li&gt;Edit and correct the first draft of their plan&lt;/li&gt;&lt;li&gt;Submit the plan to the instructor for commentary&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Peer's Written Texts</name>
+<id>107</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups of 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Read each other's texts&lt;/li&gt;&lt;li&gt;Negotiate changes in the content&lt;/li&gt;&lt;li&gt;Understand the errors pointed out by the instructor&lt;/li&gt;&lt;li&gt;Upload the version by the end of this peer review session on Google Docs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>108</weekid>
+<weekname>Class 2 &amp; 3</weekname>
+<node><name>Give Tutorials on Webzines</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Show examples of Webzines from past years and tutorials on how to use Madmagz (a magazine producing template)&lt;/li&gt;&lt;li&gt;Separate students into groups of 3-4 based on their programs of study&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>124</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create a Webzine</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In the computer lab&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss the content of each of their individual sections&lt;/li&gt;&lt;li&gt;Make adjustment based on group’s feedback on their texts to create a cohesive ﬁnal product&lt;/li&gt;&lt;li&gt;Write the editorial for the magazine to ﬁnd the common thread between each of their chosen subjects&lt;/li&gt;&lt;li&gt;Create the visual design, including pictures and the cover page&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>202</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Approve Groups' Webzines</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Approve the ﬁnal product before students upload their Webzines&lt;/li&gt;&lt;li&gt;Ask students to publish their Webzines, upload the link to their class forum, and then share it with a class in a high school&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>106</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate Own and Peer's Work</name>
+<id>15</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a self-evaluation and an evaluation of their ﬁrst editing partner and their webzine group partners.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Reflect on the Learning Activity</name>
+<id>16</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the diﬃculties encountered in the activity&lt;/li&gt;&lt;li&gt;Propose to the instructor ways in which to improve the activity for the next year&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>400</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

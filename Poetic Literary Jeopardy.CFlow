@@ -1,9 +1,9 @@
 <project><prname>Poetic Literary Jeopardy</prname>
-<idnum>54</idnum>
+<idnum>71</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Poetic Literary Jeopardy</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
-<wfdescription>&lt;p&gt;See a full description&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/poetic/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students work in groups to compete in Jeopardy, answering questions related to poetic and literary elements.&amp;nbsp;In doing this, students consolidate the knowledge that they have been learning and apply literary elements and devices to a variety of contexts. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/poetic/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -22,18 +22,6 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name/>
-<id>35</id>
-<lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Preparatory materials used in this class can be found on the activity page, in the "complete materials" folder.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>3</id>
 <lefticon>solo</lefticon>
@@ -50,7 +38,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into groups according to the number of smart-boards available (If using this technology)&lt;/li&gt;&lt;li&gt;Stream the Jeopardy rubric screen to all boards&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct students to divide into groups according to the number of smart-boards available (if using this technology)&lt;/li&gt;&lt;li&gt;Stream the &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/poetic-literary-jeopardy.pdf" target="_blank"&gt;Jeopardy&lt;/a&gt; rubric screen to all boards&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>118</textheight>
 <isdropped>true</isdropped>

@@ -1,10 +1,10 @@
 <project><prname>Organic Chemistry Flipped Classroom</prname>
-<idnum>83</idnum>
+<idnum>93</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Organic Chemistry Flipped Classroom</wfname>
 <wfauthor>By Caroline Cormier and Bruno Voisard
 </wfauthor>
-<wfdescription>&lt;p&gt;In this semester-long activity, the class is flipped in order for students to be more engaged and receive extra help if needed. At the end of the semester, students will have produced a portfolio containing all of their organic chemistry exercises completed throughout the semester. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chem-organic_-chemistry_flipped_classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this semester-long activity, the class is flipped in order for students to be more engaged and receive extra help if needed. By the end, students will have produced a portfolio containing all of their organic chemistry exercises completed throughout the semester. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chem-organic_-chemistry_flipped_classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

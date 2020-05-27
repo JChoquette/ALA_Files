@@ -1,5 +1,5 @@
 <project><prname>Harvard Implicit Bias Test</prname>
-<idnum>315</idnum>
+<idnum>329</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Harvard Implicit Bias Test</wfname>
 <wfauthor>By Susan Finch</wfauthor>
@@ -27,7 +27,7 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare 4 discussion questions for end-of-class discussion&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare 4 discussion questions for end-of-class discussion.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
 <isdropped>true</isdropped>
@@ -42,7 +42,7 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read a text in their course-pack pertaining to research on stigmatized populations&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read a text in their course-pack pertaining to research on stigmatized populations.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -53,7 +53,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Begin class with a lecture on stigmatized populations (obese patients, indigenous patients, and LGBTQ+ patients)&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present a lecture on stigmatized populations (obese patients, indigenous patients, and LGBTQ+ patients).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -120,7 +120,7 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss questions prompted by the instructor.&lt;/p&gt;&lt;p&gt;Ex. Would you be comfortable with your future employer knowing the results of this test, why or why not?&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss questions prompted by the instructor. For example: Would you be comfortable with your future employer knowing the results of this test, why or why not?&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -182,7 +182,7 @@ and Submit</name>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Complete a writing assignment that can be given at the end of this assignment is structured as a journal entry.&lt;/p&gt;&lt;p&gt;Note: This is an optional assignment (one of ﬁve completed throughout the course) about what the students learned about themselves and the concepts in this activity.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete a writing assignment that is structured as a journal entry.&lt;/p&gt;&lt;p&gt;Note: This is an optional assignment (one of ﬁve completed throughout the course) about what the students learned about themselves and the concepts in this activity. &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>130</textheight>
 <isdropped>true</isdropped>

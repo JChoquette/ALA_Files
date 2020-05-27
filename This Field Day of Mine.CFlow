@@ -1,0 +1,226 @@
+<project><prname>This Field Day of Mine</prname>
+<idnum>371</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>This Field Day of Mine</wfname>
+<wfauthor>By Gregor Kos</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students take an in-depth look at the environmental impact of mining and the quantification of environmental contaminants. They will be able to devise their own sampling plans, execute them in the field, and analyze their own samples and the data. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/this-field-day-of-mine/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>58</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>59</weekid>
+<node><name>Introduce Activity </name>
+<id>87</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;p&gt;Assign students to prepare a presentation on either the historical context of the field site or how practices at the mine relate to health and the environment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare the Presentations</name>
+<id>108</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Research and prepare a 20-minute presentation on their assigned topic.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>58</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present Findings</name>
+<id>145</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present the findings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>32</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Lecture on Sampling Plan</name>
+<id>214</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain how to devise a sampling plan&lt;/li&gt;&lt;li&gt;Assign students to groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create the Sampling Plans</name>
+<id>243</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Devise a sampling plan for the field day&lt;/li&gt;&lt;li&gt;Discuss sampling sites, supplies, and materials required for the day and, based on the research, select 10 elements to quantify&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Evaluate the Sampling Plans</name>
+<id>244</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Correct the sampling plans.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>293</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Tour the Mine and Collect Samples</name>
+<id>293</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Tour the mine site, along with the class&lt;/li&gt;&lt;li&gt;Take soil and water samples from around the mine and several points down-slope from the outflow&lt;/li&gt;&lt;li&gt;Take pH measurements on site&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce ICP-MS</name>
+<id>295</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 4&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on inductively coupled plasma mass spectrometry (ICP-MS)&lt;/li&gt;&lt;li&gt;Demonstrate ICP-MS in the Lab&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Analyze Samples </name>
+<id>297</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Analyze Samples.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>44</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Explain the Mapping Exercise</name>
+<id>298</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 5&lt;/p&gt;&lt;p&gt;Explain the &lt;u&gt;Mapping Exercise&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Perform a Sample Mapping Exercise</name>
+<id>301</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Map the sample locations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>44</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Explain Basic Statistics</name>
+<id>299</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Explain how to perform basic statistics using Excel.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>44</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Calculate Basic Statistics</name>
+<id>303</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Calculate the mean and SD of the students' samples using Excel.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>304</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Explain How to Plot the Data</name>
+<id>304</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Class 6&lt;/p&gt;&lt;p&gt;Explain how to plot the data in Excel.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Plot Data in Excel</name>
+<id>305</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Use Excel to graphically represent the findings for selected elements.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Prepare Summary Presentation</name>
+<id>328</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Prepare a final summary presentation for selected elements.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Results and Conclusions</name>
+<id>327</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Summarize the findings from statistical analysis and visualization&lt;/li&gt;&lt;li&gt;Discuss the results&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

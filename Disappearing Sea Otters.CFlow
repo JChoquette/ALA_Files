@@ -1,0 +1,95 @@
+<project><prname>Disappearing Sea Otters</prname>
+<idnum>56</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Disappearing Sea Otters</wfname>
+<wfauthor>By Karl Laroche</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take the role of an ecologist and try to analyze and predict population change and interactions between various species based on a case study. Students will also review graph interpretations. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-disappearing-sea-otters/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review Ecology chapters and examine key concepts&lt;/li&gt;&lt;li&gt;Watch one documentary video on the behaviour of sea otters (around 45 minutes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The video may instead be watched after class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name> Introduce Activity</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Split the class into groups of 3-4 &lt;/li&gt;&lt;li&gt;Present the case and questions to be completed&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss and Answer the Questions </name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the case&lt;/li&gt;&lt;li&gt;Answer the questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Clarify Any Issues and Questions</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;With the help of a TA, answer questions and clear misconceptions that are raised within each group&lt;/li&gt;&lt;li&gt;Give the correct answers, explain them, and respond to questions from students&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Ask Remaining Questions</name>
+<id>11</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Continue to work through the remaining (not discussed in class) questions&lt;/li&gt;&lt;li&gt;Ask questions and clear misconceptions with the instructor regarding the questions not discussed in class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Remaining Questions</name>
+<id>38</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide answers to questions not discussed in class due to time constraints.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

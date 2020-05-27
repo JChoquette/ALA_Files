@@ -1,0 +1,83 @@
+<project><prname>Chemicards</prname>
+<idnum>46</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Chemicards</wfname>
+<wfauthor>By Yann Brouillette and Adam Petosa </wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students create ionic compounds following the rules from cards in a &quot;Chemicard&quot; deck to maximize their point score. Students learn how to determine which ionic compounds are most likely to form and peer review each other&apos;s work. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/chemicards/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create groups of 3-6 students&lt;/li&gt;&lt;li&gt;Assign each group of students 10 randomly selected cards from the &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/08/Chemicards_Cards.pdf" target="_blank"&gt;Chemicard (Anions+Cations) deck&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Compounds by Sorting Cards</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Sort the cards to create ionic compounds, attempting to maximize the number of points obtained (according to the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Chemicards_Instructions.pdf" target="_blank"&gt;"IONIC!" card rules&lt;/a&gt; developed by Petosa &amp;amp; Brouillette)&lt;/li&gt;&lt;li&gt;Post a photo of the sorted card into an online collaborative platform (e.g. Visual Classrooms)&lt;/li&gt;&lt;li&gt;Below the photo, write a paragraph indicating the number of points obtained and what ion pairs result in points&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Review Two Other Teams' Work</name>
+<id>16</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;On the online collaborative platform, peer review the work completed by two other teams, verifying whether the ion pairs created are correct and whether the points were maximized&lt;/li&gt;&lt;li&gt;Based on the review, post comments below the work completed by other teams, making suggestions for increasing the number of points obtained&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Report Final Results</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Comment on the suggestions/revisions posted by peers, reporting the final set of ionic compounds generated and the total points obtained.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Assign 10 New Cards</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Shuffle cards, providing each group with a new set of 10 cards to sort.&lt;/p&gt;&lt;p&gt;Note: Students can repeat the exercise outside class as deemed necessary.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>88</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

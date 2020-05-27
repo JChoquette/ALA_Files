@@ -1,9 +1,9 @@
 <project><prname>Museum Simulation</prname>
-<idnum>58</idnum>
+<idnum>72</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Museum Simulation</wfname>
 <wfauthor>By Philippe Caignon</wfauthor>
-<wfdescription>&lt;p&gt;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/museum-2/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students create mind maps, showcase them in the classroom, and peer-review each other&apos;s mind maps. They will be able to think deeply about the material and to identify relationships between the different concepts presented in their maps. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/museum-2/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

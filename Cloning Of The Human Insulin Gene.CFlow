@@ -1,0 +1,104 @@
+<project><prname>Cloning of the Human Insulin Gene</prname>
+<idnum>97</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Cloning of the Human Insulin Gene</wfname>
+<wfauthor>By Edward Awad</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students will learn how to clone the human insulin gene into bacteria using the tools of recombinant DNA technology through a peer-instruction case study. Students will learn about experiments in molecular biology and the tools used in recombinant DNA technology&amp;nbsp;. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/cloning-of-the-human-insulin-gene/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read a document with key concepts and learning objectives&lt;/li&gt;&lt;li&gt;Watch videos about the growth hormone gene and restriction enzymes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Do a Quiz to Test Knowledge</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a quiz through Moodle to test knowledge after the videos and reading.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned videos, quiz, and document (15 minutes)&lt;/li&gt;&lt;li&gt;Split the students into groups of 3-4&lt;/li&gt;&lt;li&gt;Introduce the activity by explaining the objective&lt;/li&gt;&lt;li&gt;Go through eleven questions which are comprised of short-answer and clicker-type questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>172</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Clicker Questions</name>
+<id>17</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer the series of questions (approx. 3 minutes per question) either on a computer or paper.&lt;/p&gt;&lt;p&gt;Note: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Can also check each other's answers; this applies to the questions that involve drawing and some of the short answer questions&lt;/li&gt;&lt;li&gt;If less than 70% of the students answer the clicker questions correctly, discuss and re-answer them as a group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>224</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>21</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<link><targetid>28</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Present the Slides with Answers</name>
+<id>21</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the slides with potential answers if the students are having issues answering the questions&lt;/li&gt;&lt;li&gt;Repeat this process for the remainder of the case study&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Fill in the Steps to Gene Cloning Chart</name>
+<id>28</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a ﬂowchart that depicts the main steps involved in cloning the human insulin gene.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

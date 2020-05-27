@@ -1,0 +1,166 @@
+<project><prname>Photo Concept Maps </prname>
+<idnum>124</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Photo Concept Maps </wfname>
+<wfauthor>By Michael Dugdale</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students are instructed to take photos that demonstrate the concepts or scenarios related to kinematics, which are used to create a concept map. Students find real-world examples of the concepts they have learned and how they relate to each other. See a full description here: (need to create a merged link from the website)&lt;/p&gt;</wfdescription>
+<wfid>8</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>7</weekid>
+<node><name>Prepare for Class</name>
+<id>1</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Receive a list of 4 concepts or scenarios related to kinematics from the instructor&lt;/li&gt;&lt;li&gt;Take photos which clearly demonstrate those concepts (one for each)&lt;/li&gt;&lt;li&gt;Import the photos to a PowerPoint (or equivalent) file&lt;/li&gt;&lt;li&gt;Write a brief explanation of each photo’s connection to the topic&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to pairs or groups of 3-4 &lt;/li&gt;&lt;li&gt;Give a brief description of concept maps, showing examples&lt;/li&gt;&lt;li&gt;Instruct students to create a concept map and incorporate their photos as well as a given list of words (either as nodes or links)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select Best Photo for Each Topic</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Look over the photos taken by each group member, determining which photo best exemplifies each required topic.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create and Submit Final Concept Map</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create a concept map incorporating the required words and the chosen photos&lt;/li&gt;&lt;li&gt;Compile into a Powerpoint (or equivalent) file&lt;/li&gt;&lt;li&gt;Send the completed concept map (and files with individual work) to the instructor for grading or upload into an online collaborative platform to be discussed or even peer reviewed by other groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>48</weekid>
+<node><name>Prepare for Class</name>
+<id>71</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take photos which clearly demonstrate each of 10 assigned concepts or scenarios related to kinematics and dynamics (6 new topics, and the 4 from Photo Concepts Part 1)&lt;/li&gt;&lt;li&gt;Import the photos to a PowerPoint (or equivalent) file, writing a brief explanation of each photo’s connection to the topic(s)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Meet these conditions for this part:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Accomplish this with only 7 photos; some photos must demonstrate more than one topic&lt;/li&gt;&lt;li&gt;Photos from Part 1 may be reused&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>264</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>65</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to pairs or groups of 3-4&lt;/li&gt;&lt;li&gt;Give a brief description of concept maps, showing examples&lt;/li&gt;&lt;li&gt;Instruct students to create a concept map and incorporate their photos as well as a given list of words (either as nodes or links)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select Best Photo for Each Topic</name>
+<id>56</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Look over the photos taken by each group member, determining which photo best exemplifies each required topic.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create and Submit Final Concept Map</name>
+<id>53</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create a concept map incorporating the required words and the chosen photos&lt;/li&gt;&lt;li&gt;Compile into a PowerPoint (or equivalent) file&lt;/li&gt;&lt;li&gt;Send the completed concept map (and files with individual work) to the instructor for grading or upload into an online collaborative platform to be discussed or even peer reviewed by other groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>47</weekid>
+<node><name>Prepare for Class</name>
+<id>68</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take photos which clearly demonstrate each of 16 assigned concepts or scenarios related to kinematics, dynamics, and energy (6 new topics, and the 10 from Part 1 and Part 2)&lt;/li&gt;&lt;li&gt;Import the photos to a PowerPoint (or equivalent) file, writing a brief explanation of each photo’s connection to the topic(s)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Meet these conditions for this part:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Accomplish this with only 10 photos; some photos must demonstrate more than one topic&lt;/li&gt;&lt;li&gt;Photos from parts 1 and 2 may be reused&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>294</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>62</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to pairs or groups of 3-4&lt;/li&gt;&lt;li&gt;Give a brief description of concept maps, showing examples&lt;/li&gt;&lt;li&gt;Instruct students to create a concept map and incorporate their photos as well as a given list of words (either as nodes or links)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Select Best Photo for Each Topic</name>
+<id>59</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Look over the photos taken by each group member, determining which photo best exemplifies each required topic.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create and Submit Final Concept Map</name>
+<id>50</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create a concept map incorporating the required words and the chosen photos&lt;/li&gt;&lt;li&gt;Compile into a PowerPoint (or equivalent) file&lt;/li&gt;&lt;li&gt;Send the completed concept map (and files with individual work) to the instructor for grading or upload into an online collaborative platform to be discussed or even peer reviewed by other groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>178</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

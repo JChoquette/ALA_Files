@@ -1,0 +1,101 @@
+<project><prname>Time Ripple</prname>
+<idnum>67</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Time Ripple </wfname>
+<wfauthor>By Leigh Barnett Shapiro</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students create a time ripple concept map showing the connections between the designs of different furniture pieces over time, influenced by various factors such as geography, lifestyle, and economy. Students will be able to identify patterns of styles in the furniture. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/baas-time-ripple/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity </name>
+<id>29</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Provide students with the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Time_Ripple_Student_Instructions.pdf" target="_blank"&gt;Student Instructions Timeline&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete required readings through Moodle related to the activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>64</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Research the Chosen furniture</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a piece of furniture from the folder&lt;/li&gt;&lt;li&gt;Research chosen piece of furniture&lt;/li&gt;&lt;li&gt;Write 1-2 paragraphs summarizing research (style name, distinguishing style features, etc.)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Take the summary, furniture (for low-tech classrooms only; otherwise, SMART amp is used and a digital image is provided),&amp;nbsp;and a coloured 2x2-inch image of their chosen piece to class.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Place Furniture on Concept Map</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Place the pieces of furniture on the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Time_Ripple_Completed_Example.pdf" target="_blank"&gt;Time Ripple Concept Map&lt;/a&gt; (on white board for low-tech classrooms or in SMART amp for high-tech classrooms)&lt;/li&gt;&lt;li&gt;Rationalize the time period and location of placement&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss the Map and Placement </name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the correctness of placement based on various influencing factors (e.g., economy, style, geography)&lt;/li&gt;&lt;li&gt;Continue to add pieces of furniture onto the map until they are all placed&lt;/li&gt;&lt;li&gt;Discuss the map as a whole, looking at style patterns based on various influencing factors&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Throughout the rest of the semester, continue to add pieces of furniture and architectural examples to the time ripple concept map. Use the time ripple concept map to study for future assessments.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>222</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>14</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz</name>
+<id>14</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Perform a quiz to test the understanding of the key concepts presented in the time ripple concept map.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

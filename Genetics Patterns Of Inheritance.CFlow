@@ -1,0 +1,150 @@
+<project><prname>Genetics:Patterns of Inheritance</prname>
+<idnum>101</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Genetics: Patterns of Inheritance</wfname>
+<wfauthor>By Karl Laroche
+</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students analyze a pedigree chart to identify which individuals are carriers of the disease Alkaptonuria (ALK). Students will gain a better understanding of concepts and be able to analyze displayed patterns and genetic relationships. &lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See a full description &lt;/span&gt;&lt;a href=&quot;https://www.saltise.ca/activity/bio-pedigree/&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;here&lt;/a&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Provide students with topics to be covered, key concepts, learning outcomes, and assigned readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete assigned readings and watch videos about inheritance patterns.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz</name>
+<id>88</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a quiz through Moodle to test what was learned from the videos and readings.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review questions students performed poorly on from pre-class quiz&lt;/li&gt;&lt;li&gt;Review material and answer any questions students might have from the assigned readings&lt;/li&gt;&lt;li&gt;Initiate Moodle Quiz for students&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Recommended time for review and active quiz: 35 minutes&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>162</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>90</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Take a Quiz</name>
+<id>90</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a Moodle quiz.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>58</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Activity</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Describe what students will be doing&lt;/li&gt;&lt;li&gt;Direct students to get into their pre-assigned groups of 4&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>78</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Answer Pedigree Analysis, Part A</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Using Moodle, work through Part A of the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Patterns-of-Inheritance-In-Class-Questions-1.pdf" target="_blank"&gt;"Pedigree Analysis"&lt;/a&gt; to answer 6 questions about the individuals in the pedigree.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Facilitate Moodle Activity</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;With TAs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Walk around the room answering questions&lt;/li&gt;&lt;li&gt;Encourage students to think more deeply about the trait(s) being analyzed&lt;/li&gt;&lt;li&gt;Ensure students are correctly inputting answers into Moodle&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Activity and Learning Outcomes</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Regroup class to review the activity&lt;/li&gt;&lt;li&gt;Indicate what students should have learned from the activity&lt;/li&gt;&lt;li&gt;Discuss how the activity illustrates what students will be expected to know for summative assessments&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If students finish early, direct them to start Part B and Part C. Remind students that B &amp;amp; C are extra pedigree charts and questions to be used as material for practice and can be accessed through Moodle.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>960</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

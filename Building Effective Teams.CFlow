@@ -1,8 +1,9 @@
 <project><prname>Building Effective Teams</prname>
-<idnum>121</idnum>
+<idnum>202</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Building Effective Teams</wfname>
 <wfauthor>By Meghan Marshall</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students build teamwork skills on an individual level using&amp;nbsp;an adapted version of team based learning and improve performance at a group level. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/building-effective-teams/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>16</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,16 +22,19 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>15</weekid>
-<node><name>Activity Instructions</name>
+<node><name>Prepare Activity</name>
 <id>1</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Find an overview and materials for the activity &lt;a href="https://www.saltise.ca/activity/building-effective-teams/" target="_blank"&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;This is a semester-long activity&lt;/li&gt;&lt;li&gt;Review the paper 'Turning Student Groups into Eﬀective Teams' (provided)&lt;/li&gt;&lt;li&gt;Adapt the forms contained in the appendix as needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the paper &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/Turning-Student-Groups-into-Effective-Teams.pdf" target="_blank"&gt;Turning Student Groups into Eﬀective Teams&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Adapt the forms contained in the appendix as needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
+<link><targetid>2</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 <tagARRAY/>
 </node>
 <node><name>Collect Student Information</name>
@@ -38,7 +42,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;On the ﬁrst day,  gather the information necessary for forming teams by distributing the ’Getting to Know You” form adapted from the example in the paper.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;On the ﬁrst day of semester&lt;/p&gt;&lt;p&gt;Gather the information necessary for forming teams by distributing the "Getting to Know You" form adapted from the example available &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/Turning-Student-Groups-into-Effective-Teams.pdf" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -60,7 +64,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Using the information provided in the forms, divide the class into teams - focusing on considerations such as diversity, gender, and shared periods of available time outside class.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Using the information provided in the forms, divide the class into teams focusing on considerations such as diversity, gender, and shared periods of available time outside class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -82,9 +86,9 @@
 <lefticon>group</lefticon>
 <righticon>reading</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;In this workshop:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Perform team-building exercises&lt;/li&gt;&lt;li&gt;Read the following documents: 'Team Expectations Agreement', 'Coping with Hitchhikers and Couch Potatoes', 'Team Policies Statement', and the 'Guiding Questions for the Team Contract'&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;In this workshop:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Perform team-building exercises&lt;/li&gt;&lt;li&gt;Read the following documents: "Team Expectations Agreement", "Coping with Hitchhikers and Couch Potatoes", "Team Policies Statement", and the "Guiding Questions for the Team Contract" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
@@ -93,18 +97,7 @@
 <lefticon>group</lefticon>
 <righticon>create</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Develop Team Contracts in google docs &lt;/li&gt;&lt;li&gt;Share the work with the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Address Potential Issues</name>
-<id>7</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
-<textHTML>&lt;p&gt;At the beginning of team work, circulate to resolve any issues.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Develop Team Contracts in google docs&lt;/li&gt;&lt;li&gt;Share the work with the instructor&lt;/li&gt;&lt;li&gt;Resolve any issues with the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -115,7 +108,7 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;1/3 into the semester, &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the 'Evaluation of Progress Towards Eﬀective Team Functioning'&lt;/li&gt;&lt;li&gt;Discuss what they have written with their team Discuss any issues that may be arising with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;1/3 into the semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the "Evaluation of Progress Towards Eﬀective Team Functioning" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Discuss what they have written with their team Discuss any issues that may be arising with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -126,7 +119,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Based on the evaluations, decide what, if any, intervention the teams might require.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Based on the evaluations, decide what intervention the teams might require, if any.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -137,7 +130,7 @@
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Half way through the semester, perform team and peer evaluation using the 'Team Member Evaluation Form'.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;1/2 into the semester&lt;/p&gt;&lt;p&gt;Perform team and peer evaluation using the "Team Member Evaluation Form" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -148,7 +141,7 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Determine a student peer and self evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Determine a peer- and self-evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -159,7 +152,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;2/3 into the semester, &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the 'Evaluation of Progress towards Eﬀective Team Functioning' &lt;/li&gt;&lt;li&gt;Discuss what they have written with their team&lt;/li&gt;&lt;li&gt;Discuss any issues that may be arising&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;2/3 into the semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the "Evaluation of Progress towards Eﬀective Team Functioning" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Discuss what they have written with their team&lt;/li&gt;&lt;li&gt;Discuss any issues that may be arising&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -170,7 +163,7 @@
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;At the end of the semester, team and peer evaluation is performed using the 'Team Member Evaluation Form'.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;At the end of the semester&lt;/p&gt;&lt;p&gt;Perform team and peer evaluation using the "Team Member Evaluation Form" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -181,7 +174,7 @@
 <lefticon>undefined</lefticon>
 <righticon>instrevaluate</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Determine a student peer and self evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Determine a peer- and self-evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
