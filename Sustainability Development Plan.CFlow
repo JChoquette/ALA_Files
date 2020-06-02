@@ -1,5 +1,5 @@
 <project><prname>Sustainability</prname>
-<idnum>951</idnum>
+<idnum>978</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Sustainability Development Plan</wfname>
 <wfauthor>By Anna-Liisa Aunio</wfauthor>
@@ -22,6 +22,7 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>126</weekid>
+<weekname>Class 1</weekname>
 <node><name>Prepare for Class</name>
 <id>728</id>
 <lefticon>solo</lefticon>
@@ -90,6 +91,7 @@
 </node>
 </week>
 <week><weekid>652</weekid>
+<weekname>Class 2</weekname>
 <node><name>Prepare for Class</name>
 <id>109</id>
 <lefticon>solo</lefticon>
@@ -156,6 +158,9 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>978</weekid>
+<weekname>Class 3</weekname>
 <node><name>Prepare for Group Presentation</name>
 <id>115</id>
 <lefticon>group</lefticon>
@@ -219,6 +224,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>977</weekid>
 <node><name>Read Reports</name>
 <id>120</id>
 <lefticon>solo</lefticon>

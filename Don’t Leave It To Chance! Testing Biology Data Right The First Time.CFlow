@@ -1,9 +1,9 @@
 <project><prname>Don’t leave it to chance! Testing Biology data right the first time</prname>
-<idnum>81</idnum>
+<idnum>89</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Don’t Leave It to Chance! Testing Biology Data Right the First Time</wfname>
 <wfauthor>By Edward Awad</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students will explore the use of three biostatistical tests and relate them to four different biological data sets to infer whether or not the represented data is significant. Through a series of mini case studies, students will learn how to apply statistics to biological data. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/dont-leave-it-to-chance-alone-choosing-the-right-testing-biology-data/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students will explore the use of three biostatistical tests and relate them to four different biological data sets to infer whether or not the represented data is significant. Through a series of mini case studies, students will learn how to apply statistics to biological data. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/dont-leave-it-to-chance-alone-choosing-the-right-testing-biology-data/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -55,6 +55,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>89</weekid>
 <node><name>Tackle the Fourth Case</name>
 <id>17</id>
 <lefticon>solo</lefticon>
@@ -80,5 +82,6 @@
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>
