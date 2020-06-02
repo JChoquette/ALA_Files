@@ -1,5 +1,5 @@
 <project><prname>Family HiStories of Migration</prname>
-<idnum>81</idnum>
+<idnum>90</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Family HiStories of Migration</wfname>
 <wfauthor>By Diane Shea</wfauthor>
@@ -55,6 +55,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>90</weekid>
 <node><name>Present Reflection Summaries to Peers</name>
 <id>11</id>
 <lefticon>group</lefticon>
@@ -91,5 +93,6 @@
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

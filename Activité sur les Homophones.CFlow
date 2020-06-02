@@ -1,9 +1,9 @@
 <project><prname>Activité sur les Homophones</prname>
-<idnum>86</idnum>
+<idnum>93</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Activité sur les Homophones</wfname>
 <wfauthor>By Lysanne Audy</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students revise homophones and find out new tricks to&amp;nbsp;memorize&amp;nbsp;and use them. In the process, they share knowledge and strategies of recognition and gain confidence by&amp;nbsp;synthesizing knowledge into an effective 2-minute lesson.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/activite-sur-les-homophones/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students revise homophones and find out new tricks to&amp;nbsp;memorize&amp;nbsp;and use them. In the process, they share knowledge and strategies of recognition and gain confidence by&amp;nbsp;synthesizing knowledge into an effective 2-minute lesson.&amp;nbsp;See a full description &lt;a href=&quot;https://www.saltise.ca/activity/activite-sur-les-homophones/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

@@ -1,5 +1,5 @@
 <project><prname>PTSD and Neuroplasticity</prname>
-<idnum>321</idnum>
+<idnum>332</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Ctrl + Alt + Del: PTSD and Neuroplasticity</wfname>
 <wfauthor>By Daniel Goldsmith and Véronique Brulé</wfauthor>
@@ -49,7 +49,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Choose a Note Taker, Moderator, and 2 Presenters&lt;/li&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Put together a 5-minute argument&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Roles are outlined in the instructions.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Choose a Note Taker, Moderator, and 2 Presenters&lt;/li&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Put together a 5-minute argument&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Roles are outlined in the instructions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

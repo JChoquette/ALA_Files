@@ -1,5 +1,5 @@
 <project><prname>Organic Food Versus GMOs</prname>
-<idnum>131</idnum>
+<idnum>144</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Organic Food Versus GMOs</wfname>
 <wfauthor>By Chris Gregg</wfauthor>
@@ -22,12 +22,13 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
+<weekname>Class 1</weekname>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduce the debate topic: Organic food versus GMOs&lt;/li&gt;&lt;li&gt;Give a lecture on key material related to the topic, including a few questions students should bring up in their debate, which are provided in the &lt;u&gt;"Organic Food versus GMOs" pdf&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Explain activity and go over the debate process, the format for which is included in the pdf handout&lt;/li&gt;&lt;li&gt;Choose 3-5 judges&lt;/li&gt;&lt;li&gt;Divide the rest of the class into two teams of 5-8 students. Team #1 will argue in favor of buying organic food. Team #2 will argue against buying organic food&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the debate topic: Organic food versus GMOs&lt;/li&gt;&lt;li&gt;Give a lecture on key material related to the topic, including a few questions students should bring up in their debate, which are provided in the &lt;u&gt;"Organic Food versus GMOs" pdf&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Explain activity and go over the debate process, the format for which is included in the pdf handout&lt;/li&gt;&lt;li&gt;Choose 3-5 judges&lt;/li&gt;&lt;li&gt;Divide the rest of the class into two teams of 5-8 students. Team #1 will argue in favor of buying organic food. Team #2 will argue against buying organic food&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>308</textheight>
 <isdropped>true</isdropped>
@@ -44,6 +45,9 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>143</weekid>
+<weekname>Class 2</weekname>
 <node><name>Find Supporting Evidence</name>
 <id>8</id>
 <lefticon>solo</lefticon>
@@ -60,18 +64,21 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Finalize the arguments and rebuttals&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the research&lt;/li&gt;&lt;li&gt;Finalize the arguments and rebuttals&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>94</textheight>
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>144</weekid>
+<weekname>Class 3</weekname>
 <node><name>Engage in Debate</name>
 <id>11</id>
 <lefticon>class</lefticon>
 <righticon>debate</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Class 3&lt;/p&gt;&lt;p&gt;Teams&lt;/p&gt;&lt;p&gt;Take turns presenting arguments to the opposing team and the judges. Each new round of debate/rebuttal should be performed by a new presenter from each team.&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on arguments from each team.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Teams&lt;/p&gt;&lt;p&gt;Take turns presenting arguments to the opposing team and the judges. Each new round of debate/rebuttal should be performed by a new presenter from each team.&lt;/p&gt;&lt;p&gt;Judges&lt;/p&gt;&lt;p&gt;Take notes on arguments from each team.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>184</textheight>
 <isdropped>true</isdropped>
@@ -132,5 +139,6 @@
 </week>
 <wflegendx>960</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

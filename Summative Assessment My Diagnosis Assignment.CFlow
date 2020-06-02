@@ -1,5 +1,5 @@
 <project><prname>Summative Assessment: My Diagnosis Assignment</prname>
-<idnum>47</idnum>
+<idnum>57</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Summative Assessment: My Diagnosis Assignment</wfname>
 <wfauthor>By Susan Finch</wfauthor>
@@ -12,16 +12,13 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>OOC</columnname>
-<columnnodetext>Out of Class (Students)</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICI</columnname>
-<columnnodetext>In Class (Instructor)</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>ICS</columnname>
 <columnimage>noinstructor</columnimage>
-<columnnodetext>In Class (Students)</columnnodetext>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>10</weekid>
@@ -69,6 +66,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>57</weekid>
 <node><name>Write an Essay on the 6 Questions</name>
 <id>7</id>
 <lefticon>solo</lefticon>
@@ -105,5 +104,6 @@
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

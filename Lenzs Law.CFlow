@@ -1,10 +1,10 @@
 <project><prname>Lenz&apos;s Law</prname>
-<idnum>50</idnum>
+<idnum>56</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Lenz&apos;s Law</wfname>
 <wfauthor>By Phoebe Jackson
 </wfauthor>
-<wfdescription>&lt;p&gt;In this activity, students play a game to practice use of the right hand rule in Lenz&apos;s Law and they learn to recognize the direction of an induced current. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/lenz-law/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students play a game to practice use of the right hand rule in Lenz&apos;s Law and they learn to recognize the direction of an induced current. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/lenz-law/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

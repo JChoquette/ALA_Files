@@ -1,5 +1,5 @@
 <project><prname>Jigsaw Geography Presentation</prname>
-<idnum>109</idnum>
+<idnum>117</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Jigsaw Geography Presentation</wfname>
 <wfauthor>By Jamie Miller
@@ -97,7 +97,6 @@
 for each 
 class over 
 the semester</linktext>
-<linkstyle>dashed</linkstyle>
 </link>
 <tagARRAY/>
 </node>

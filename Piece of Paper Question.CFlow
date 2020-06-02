@@ -1,10 +1,10 @@
 <project><prname>Piece of Paper Question</prname>
-<idnum>53</idnum>
+<idnum>59</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Piece of Paper Question</wfname>
 <wfauthor>By Marta Cerruti
 </wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students give feedback about the course or instructor&apos;s performance with suitable survey or polling tool. The instructor assesses students&apos; understanding of concepts and facts related to course material. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-piece_of_paper_question/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students give feedback about the course or instructor&apos;s performance with suitable survey or polling tool. The instructor assesses students&apos; understanding of concepts and facts related to course material. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/eng-piece_of_paper_question/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>

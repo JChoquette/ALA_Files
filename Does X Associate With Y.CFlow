@@ -1,5 +1,5 @@
 <project><prname>Does X Associate with Y? </prname>
-<idnum>185</idnum>
+<idnum>206</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Does X Associate with Y? </wfname>
 <wfauthor>By Madoka Gray-Mitsumune</wfauthor>
@@ -28,7 +28,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Beginning of semester&lt;/p&gt;&lt;p&gt;Introduce project and describe what students will be doing over the course of the semester.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Introduce project and describe what students will be doing over the course of the semester.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -119,7 +119,7 @@
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Middle of semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meet to designate project tasks&lt;/li&gt;&lt;li&gt;Discuss instructor comments on their outlines&lt;/li&gt;&lt;li&gt;Make changes to outlines&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Meet to designate project tasks&lt;/li&gt;&lt;li&gt;Discuss instructor comments on their outlines&lt;/li&gt;&lt;li&gt;Make changes to outlines&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
@@ -201,7 +201,7 @@ for draft 2 </linktext>
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;End of semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finalize project based on two rounds of peer and TA feedback&lt;/li&gt;&lt;li&gt;Upload finalized project to Moodle&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finalize project based on two rounds of peer and TA feedback&lt;/li&gt;&lt;li&gt;Upload finalized project to Moodle&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>

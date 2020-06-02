@@ -1,9 +1,9 @@
 <project><prname>Disappearing Sea Otters</prname>
-<idnum>56</idnum>
+<idnum>65</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Disappearing Sea Otters</wfname>
 <wfauthor>By Karl Laroche</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students take the role of an ecologist and try to analyze and predict population change and interactions between various species based on a case study. Students will also review graph interpretations. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-disappearing-sea-otters/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students take the role of an ecologist and try to analyze and predict population change and interactions between various species based on a case study. Students will also review graph interpretations. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/biology-disappearing-sea-otters/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -66,6 +66,8 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>65</weekid>
 <node><name>Ask Remaining Questions</name>
 <id>11</id>
 <lefticon>solo</lefticon>
@@ -91,5 +93,6 @@
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

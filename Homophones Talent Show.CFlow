@@ -1,5 +1,5 @@
 <project><prname>Homophones Talent Show</prname>
-<idnum>136</idnum>
+<idnum>148</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Homophones Talent Show</wfname>
 <wfauthor>By Laurent Duval</wfauthor>
@@ -22,6 +22,7 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
+<weekname>Class 1</weekname>
 <node><name>Introduce Activity</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
@@ -44,6 +45,9 @@
 <isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>148</weekid>
+<weekname>Class 2</weekname>
 <node><name>Find Trick to Explain Use of Homophones</name>
 <id>5</id>
 <lefticon>group</lefticon>
@@ -124,5 +128,6 @@
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

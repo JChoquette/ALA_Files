@@ -1,9 +1,9 @@
 <project><prname>The Ideal Classroom</prname>
-<idnum>61</idnum>
+<idnum>70</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>The Ideal Classroom</wfname>
 <wfauthor>By Leigh Barnett Shapiro</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students use their knowledge of the National Building Code to examine classrooms in their school. Through this case study, students develop observational and critical thinking skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/baas-ideal-classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students use their knowledge of the National Building Code to examine classrooms in their school. Through this case study, students develop observational and critical thinking skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/baas-ideal-classroom/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
