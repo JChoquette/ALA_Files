@@ -32,7 +32,12 @@ The Matching Game,1,"(I)","(Group Discuss I,Group Problem Solve I)","(Discuss,Pr
 Action Learning Sets,1,"O-I-(O-I)","Individual Write O-Group Analyze I,Group Create/Design I-(Individual Game O-Group Revise/Improve I)","Write-Analyze,Create/Design-(Game-Revise/Improve)","Individual-Group,Group-(Individual-Group)","Individual Write","-Group Analyze,Group Create/Design","None Instr. Eval. I,None Orchestration I()","","None Instr. Eval.,None Orchestration"
 Area Under The Curve,1,"(I)","(Group Problem Solve I,Group Discuss I)","(Problem Solve,Discuss)","(Group,Group)","","Group Problem Solve,Group Discuss","None Orchestration I,(None Orchestration I),None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Engineering Ethics Debate,1,"O-I","Group Write O-Group Debate I,Class Discuss I","Write-Debate,Discuss","Group-Group,Class","Group Write","-Group Debate,Class Discuss","None Orchestration O,None Orchestration O,None Instr. Eval. O","None Orchestration,None Orchestration,None Instr. Eval.",""
-Summative Assessment My Diagnosis Assignment,1,"I-O-I","Class Analyze I,Group Discuss I,Individual Write I-Individual Write O-Individual Revise/Improve I","Analyze,Discuss,Write-Write-Revise/Improve","Class,Group,Individual-Individual-Individual","-Individual Write","Class Analyze,Group Discuss,Individual Write","None Orchestration I,None Instr. Eval. I","","None Orchestration,None Instr. Eval."
+Summative Assessment My Diagnosis Assignment,2,"I
+O-I","Class Analyze I,Group Discuss I,Individual Write I
+Individual Write O-Individual Revise/Improve I","Analyze,Discuss,Write
+Write-Revise/Improve","Class,Group,Individual
+Individual-Individual","-Individual Write","Class Analyze,Group Discuss,Individual Write","None Orchestration I
+None Instr. Eval. I","","None Orchestration,None Instr. Eval."
 Understanding Agro-Ecosystems by Observing Writing and Discussing,1,"(I-O-I-O)","(Class Gather Information I-Group Create/Design O-Class Discuss I-Group Write O)","(Gather Information-Create/Design-Discuss-Write)","(Class-Group-Class-Group)","-Group Create/Design","Class Gather Information","(None Curation O)","None Curation",""
 Bottle Rocket Tracker,1,"I","Class Gather Information I,Group Problem Solve I,Group Gather Information I,Group Analyze I,Group Discuss I","Gather Information,Problem Solve,Gather Information,Analyze,Discuss","Class,Group,Group,Group,Group","","Class Gather Information,Group Problem Solve,Group Gather Information,Group Analyze,Group Discuss","None Orchestration I","","None Orchestration"
 Protein Separation,1,"I","Group Gather Information I,Group Analyze I,Group Discuss I","Gather Information,Analyze,Discuss","Group,Group,Group","","Group Gather Information,Group Analyze,Group Discuss","None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration"
@@ -68,7 +73,12 @@ Durkheim Suicide Case Studies,1,"O-I","Individual Read O-Class Discuss I,Group A
 If You’re Not Part Of The Solution You’re Part Of The Precipitate,1,"I","Group Problem Solve I,Group Assess/Review Peers I","Problem Solve,Assess/Review Peers","Group,Group","","Group Problem Solve,Group Assess/Review Peers","None Curation O-None Orchestration I,None Instr. Eval. I","None Curation","-None Orchestration,None Instr. Eval."
 Identity Dot Exercise,1,"I","Class Discuss I,Individual Write I,Individual Analyze I,Class Discuss I,Individual Analyze I,Class Discuss I,Class Analyze I,Individual Write I","Discuss,Write,Analyze,Discuss,Analyze,Discuss,Analyze,Write","Class,Individual,Individual,Class,Individual,Class,Class,Individual","","Class Discuss,Individual Write,Individual Analyze,Class Discuss,Individual Analyze,Class Discuss,Class Analyze,Individual Write","None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration"
 This Field Day of Mine,1,"O-I-O-I-O-I","Group Create/Design O-Class Present I,Group Create/Design I-Group Gather Information O-Group Analyze I,Group Experiment I,Group Analyze I,Group Analyze I-Group Create/Design O-Class Discuss I","Create/Design-Present,Create/Design-Gather Information-Analyze,Experiment,Analyze,Analyze-Create/Design-Discuss","Group-Class,Group-Group-Group,Group,Group,Group-Group-Class","Group Create/Design","-Class Present,Group Create/Design","None Orchestration I,None Orchestration I,None Instr. Eval. I,None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Instr. Eval.,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
-Family HiStories of Migration,1,"O-I-O","Individual Gather Information O,Individual Write O-Group Present I-Individual Revise/Improve O","Gather Information,Write-Present-Revise/Improve","Individual,Individual-Group-Individual","Individual Gather Information,Individual Write","-Group Present","None Orchestration I-None Orchestration O","-None Orchestration","None Orchestration"
+Family HiStories of Migration,2,"O
+I-O","Individual Gather Information O,Individual Write O
+Group Present I-Individual Revise/Improve O","Gather Information,Write
+Present-Revise/Improve","Individual,Individual
+Group-Individual","Individual Gather Information,Individual Write","-Group Present","None Orchestration I
+None Orchestration O","-None Orchestration","None Orchestration"
 Having Students Read And Apply Essay Feedback,1,"I","Individual Read I,Individual Analyze I","Read,Analyze","Individual,Individual","","Individual Read,Individual Analyze","None Curation O-None Orchestration I","None Curation","-None Orchestration"
 Its All Hormonal A Class Activity On Cushings Syndrome,1,"O-I","Individual Read O,Individual Quiz O-Class Quiz I,Individual Problem Solve I","Read,Quiz-Quiz,Problem Solve","Individual,Individual-Class,Individual","Individual Read,Individual Quiz","-Class Quiz,Individual Problem Solve","None Orchestration I","","None Orchestration"
 What Numbers Tell Us About Enzyme Inhibition,1,"O-I-O","Individual Read O,Individual Quiz O-Group Analyze I,Individual Quiz I-Individual Analyze O","Read,Quiz-Analyze,Quiz-Analyze","Individual,Individual-Group,Individual-Individual","Individual Read,Individual Quiz","-Group Analyze,Individual Quiz","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
@@ -130,18 +140,39 @@ Class","Individual Problem Solve,Group Create/Design","-Class Discuss","None Orc
 None Orchestration I-None Orchestration O","None Orchestration,None Orchestration","-None Orchestration"
 Limestone Rescue,1,"I-O","Group Gather Information I,Group Problem Solve I,Group Analyze I,Group Write I,Group Assess/Review Peers I,Group Revise/Improve I-Individual Revise/Improve O","Gather Information,Problem Solve,Analyze,Write,Assess/Review Peers,Revise/Improve-Revise/Improve","Group,Group,Group,Group,Group,Group-Individual","-Individual Revise/Improve","Group Gather Information,Group Problem Solve,Group Analyze,Group Write,Group Assess/Review Peers,Group Revise/Improve","None Orchestration I","","None Orchestration"
 Lets Role Play the French Revolution!,1,"O-I","Individual Read O-Group Analyze I,Group Present I,Class Discuss I,Class Discuss I","Read-Analyze,Present,Discuss,Discuss","Individual-Group,Group,Class,Class","Individual Read","-Group Analyze,Group Present,Class Discuss,Class Discuss","None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration"
+Museum Tour,1,"O-I-O","Individual Create/Design O-Class Present I,Individual Assess/Review Peers I-Individual Revise/Improve O","Create/Design-Present,Assess/Review Peers-Revise/Improve","Individual-Class,Individual-Individual","Individual Create/Design","-Class Present,Individual Assess/Review Peers","None Orchestration I","","None Orchestration"
 Who Am I (Mis)Conceptions Of Self,1,"I","Group Discuss I,Group Discuss I,Group Discuss I,Class Present I,Class Discuss I","Discuss,Discuss,Discuss,Present,Discuss","Group,Group,Group,Class,Class","","Group Discuss,Group Discuss,Group Discuss,Class Present,Class Discuss","None Curation O-None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Problem Sorting Review,1,"I","Group Analyze I,Group Write I,Class Assess/Review Peers I,Group Revise/Improve I","Analyze,Write,Assess/Review Peers,Revise/Improve","Group,Group,Class,Group","","Group Analyze,Group Write,Class Assess/Review Peers,Group Revise/Improve","None Orchestration I","","None Orchestration"
 Fireweed and Seals oh my! Mini Cases in Population Ecology,1,"O-I","Individual Read O,Individual Quiz O-Group Discuss I","Read,Quiz-Discuss","Individual,Individual-Group","Individual Read,Individual Quiz","-Group Discuss","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Pratique d’Ecriture,1,"O-I","Individual Analyze O-Individual Quiz I,Group Create/Design I,Group Write I,Class Assess/Review Peers I","Analyze-Quiz,Create/Design,Write,Assess/Review Peers","Individual-Individual,Group,Group,Class","Individual Analyze","-Individual Quiz,Group Create/Design,Group Write,Class Assess/Review Peers","None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
-Organic Food Versus GMOs,1,"I-O-I-O","Group Discuss I-Individual Gather Information O-Group Discuss I,Class Debate I,Group Discuss I-Individual Write O","Discuss-Gather Information-Discuss,Debate,Discuss-Write","Group-Individual-Group,Class,Group-Individual","-Individual Gather Information","Group Discuss","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
+Organic Food Versus GMOs,3,"I
+O-I
+I-O","Group Discuss I
+Individual Gather Information O-Group Discuss I
+Class Debate I,Group Discuss I-Individual Write O","Discuss
+Gather Information-Discuss
+Debate,Discuss-Write","Group
+Individual-Group
+Class,Group-Individual","-Individual Gather Information","Group Discuss","None Orchestration I
+
+None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Stereochemistry Activity,1,"(I)","(Group Problem Solve I,Individual Write I)","(Problem Solve,Write)","(Group,Individual)","","Group Problem Solve,Individual Write","None Orchestration I,Individual Orchestration I,()None Orchestration I,None Orchestration I","","None Orchestration,Individual Orchestration,None Orchestration,None Orchestration"
-Sustainability Development Plan,2,"O-I
-O-I-O-I-O-I-O","Individual Read O-Group Discuss I,Class Present I,Group Gather Information I
-Individual Read O-Group Gather Information I,Group Create/Design I-Group Create/Design O-Class Present I,Class Assess/Review Peers I-Group Revise/Improve O,Individual Read O-Group Discuss I,Group Analyze I-Group Write O,Individual Assess/Review Peers O","Read-Discuss,Present,Gather Information
-Read-Gather Information,Create/Design-Create/Design-Present,Assess/Review Peers-Revise/Improve,Read-Discuss,Analyze-Write,Assess/Review Peers","Individual-Group,Class,Group
-Individual-Group,Group-Group-Class,Class-Group,Individual-Group,Group-Group,Individual","Individual Read","-Group Discuss,Class Present,Group Gather Information","None Orchestration I,None Orchestration I
-None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
+Sustainability Development Plan,4,"O-I
+O-I
+O-I-O
+O-I-O","Individual Read O-Group Discuss I,Class Present I,Group Gather Information I
+Individual Read O-Group Gather Information I,Group Create/Design I
+Group Create/Design O-Class Present I,Class Assess/Review Peers I-Group Revise/Improve O
+Individual Read O-Group Discuss I,Group Analyze I-Group Write O,Individual Assess/Review Peers O","Read-Discuss,Present,Gather Information
+Read-Gather Information,Create/Design
+Create/Design-Present,Assess/Review Peers-Revise/Improve
+Read-Discuss,Analyze-Write,Assess/Review Peers","Individual-Group,Class,Group
+Individual-Group,Group
+Group-Class,Class-Group
+Individual-Group,Group-Group,Individual","Individual Read","-Group Discuss,Class Present,Group Gather Information","None Orchestration I,None Orchestration I
+None Orchestration I,None Orchestration I,None Orchestration I
+None Orchestration I
+","","None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Where In The Cell Is Carmen Sandiego,1,"I","Group Problem Solve I","Problem Solve","Group","","Group Problem Solve","None Curation O-None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration"
 Harvard Implicit Bias Test,1,"O-I-O","Individual Read O-Class Discuss I,Individual Quiz I,Group Discuss I,Class Discuss I,Individual Write I,Class Discuss I-Individual Write O","Read-Discuss,Quiz,Discuss,Discuss,Write,Discuss-Write","Individual-Class,Individual,Group,Class,Individual,Class-Individual","Individual Read","-Class Discuss,Individual Quiz,Group Discuss,Class Discuss,Individual Write,Class Discuss","None Curation O-None Orchestration I,None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration"
 Photo Concept Maps,3,"O-I
@@ -181,7 +212,12 @@ Cytoskeletal Proteins In Amoeba,1,"O-I","Individual Read O,Individual Quiz O-Gro
 Motion Diagrams,1,"(I)","(Group Analyze I,Group Problem Solve I,Group Discuss I)","(Analyze,Problem Solve,Discuss)","(Group,Group,Group)","","Group Analyze,Group Problem Solve,Group Discuss","None Orchestration I,(None Orchestration I),None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 PTSD and Neuroplasticity,1,"O-I","Individual Gather Information O-Group Discuss I,Class Debate I,Group Discuss I,Class Debate I,Group Assess/Review Peers I","Gather Information-Discuss,Debate,Discuss,Debate,Assess/Review Peers","Individual-Group,Class,Group,Class,Group","Individual Gather Information","-Group Discuss,Class Debate,Group Discuss,Class Debate,Group Assess/Review Peers","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Race For The Hat!,1,"I,(I)","Group Create/Design I,(Group Quiz I)","Create/Design,(Quiz)","Group,(Group)","","Group Create/Design,Group Quiz","None Orchestration I,(None Orchestration I),None Instr. Eval. I","","None Orchestration,None Orchestration,None Instr. Eval."
-Disappearing Sea Otters,1,"O-I-O","Individual Read O-Group Discuss I-Individual Problem Solve O","Read-Discuss-Problem Solve","Individual-Group-Individual","Individual Read","-Group Discuss","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
+Disappearing Sea Otters,2,"O-I
+O","Individual Read O-Group Discuss I
+Individual Problem Solve O","Read-Discuss
+Problem Solve","Individual-Group
+Individual","Individual Read","-Group Discuss","None Orchestration I,None Orchestration I
+None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Dark Lords IF-AT,1,"I","Individual Problem Solve I,Group Discuss I","Problem Solve,Discuss","Individual,Group","","Individual Problem Solve,Group Discuss","None Orchestration I,None Orchestration I,None Instr. Eval. I","","None Orchestration,None Orchestration,None Instr. Eval."
 Jigsaw Geography Presentation,1,"O,(O-I)","Group Gather Information O,(Group Create/Design O-Group Present I,Group Quiz I)","Gather Information,(Create/Design-Present,Quiz)","Group,(Group-Group,Group)","Group Gather Information,Group Create/Design","-Group Present,Group Quiz","None Orchestration O-(None Orchestration I)","None Orchestration","-None Orchestration"
 Mine Ventilation Design,3,"I
@@ -205,11 +241,21 @@ Brazil Nut Tree,1,"O-I","Individual Read O,Individual Quiz O-Group Problem Solve
 Energy Tracker,1,"I","Group Gather Information I,Group Problem Solve I,Individual Problem Solve I,Group Analyze I","Gather Information,Problem Solve,Problem Solve,Analyze","Group,Group,Individual,Group","","Group Gather Information,Group Problem Solve,Individual Problem Solve,Group Analyze","None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration"
 Gender and Job Inequality,1,"O-I","Individual Read O,Individual Analyze O,Individual Read O-Group Analyze I,Group Discuss I,Group Gather Information I,Group Analyze I,Group Write I,Class Present I,Class Discuss I","Read,Analyze,Read-Analyze,Discuss,Gather Information,Analyze,Write,Present,Discuss","Individual,Individual,Individual-Group,Group,Group,Group,Group,Class,Class","Individual Read,Individual Analyze,Individual Read","-Group Analyze,Group Discuss,Group Gather Information,Group Analyze,Group Write,Class Present,Class Discuss","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
 Teacher For A Day,1,"I","Class Discuss I,Group Discuss I,Group Present I,Group Problem Solve I","Discuss,Discuss,Present,Problem Solve","Class,Group,Group,Group","","Class Discuss,Group Discuss,Group Present,Group Problem Solve","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
-Don’t Leave It To Chance! Testing Biology Data Right The First Time,1,"I-O","Class Experiment I,Group Problem Solve I-Individual Problem Solve O","Experiment,Problem Solve-Problem Solve","Class,Group-Individual","-Individual Problem Solve","Class Experiment,Group Problem Solve","None Orchestration I,None Instr. Eval. I","","None Orchestration,None Instr. Eval."
+Don’t Leave It To Chance! Testing Biology Data Right The First Time,2,"I
+O","Class Experiment I,Group Problem Solve I
+Individual Problem Solve O","Experiment,Problem Solve
+Problem Solve","Class,Group
+Individual","-Individual Problem Solve","Class Experiment,Group Problem Solve","None Orchestration I
+None Instr. Eval. I","","None Orchestration,None Instr. Eval."
 PCR CAG HUNTINGton,1,"O-I","Individual Read O,Individual Quiz O-Group Problem Solve I,Individual Quiz I","Read,Quiz-Problem Solve,Quiz","Individual,Individual-Group,Individual","Individual Read,Individual Quiz","-Group Problem Solve,Individual Quiz","None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Genetics Patterns Of Inheritance,1,"O-I","Individual Read O,Individual Quiz O-Individual Quiz I,Group Analyze I","Read,Quiz-Quiz,Analyze","Individual,Individual-Individual,Group","Individual Read,Individual Quiz","-Individual Quiz,Group Analyze","None Curation O-None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Explosives Detective,1,"I","Group Problem Solve I,Group Problem Solve I,Group Discuss I,Class Discuss I","Problem Solve,Problem Solve,Discuss,Discuss","Group,Group,Group,Class","","Group Problem Solve,Group Problem Solve,Group Discuss,Class Discuss","None Orchestration I,None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration,None Orchestration"
-Homophones Talent Show,1,"I-O-I-O","Group Problem Solve I-Group Problem Solve O-Group Present I,Class Create/Design I,Class Analyze I-Individual Problem Solve O,Individual Write O","Problem Solve-Problem Solve-Present,Create/Design,Analyze-Problem Solve,Write","Group-Group-Group,Class,Class-Individual,Individual","-Group Problem Solve","Group Problem Solve","None Orchestration I,None Orchestration I","","None Orchestration,None Orchestration"
+Homophones Talent Show,2,"I
+O-I-O","Group Problem Solve I
+Group Problem Solve O-Group Present I,Class Create/Design I,Class Analyze I-Individual Problem Solve O,Individual Write O","Problem Solve
+Problem Solve-Present,Create/Design,Analyze-Problem Solve,Write","Group
+Group-Group,Class,Class-Individual,Individual","-Group Problem Solve","Group Problem Solve","None Orchestration I
+None Orchestration I","","None Orchestration,None Orchestration"
 The Index of Hydrogen Deﬁciency,1,"I","Group Problem Solve I,Group Analyze I,Class Discuss I","Problem Solve,Analyze,Discuss","Group,Group,Class","","Group Problem Solve,Group Analyze,Class Discuss","None Curation O-None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Peerceptiv Peer Assessment,2,"I
 O-I-O","Individual Assess/Review Peers I,Group Discuss I,Individual Analyze I
@@ -223,7 +269,17 @@ Sketching The Graph Of A Curve,1,"I","Individual Problem Solve I,Group Problem S
 The Genetics Of PTC Tasting And Tongue Rolling,1,"O-I","Individual Read O,Individual Quiz O-Individual Quiz I,Individual Problem Solve I,Group Discuss I","Read,Quiz-Quiz,Problem Solve,Discuss","Individual,Individual-Individual,Individual,Group","Individual Read,Individual Quiz","-Individual Quiz,Individual Problem Solve,Group Discuss","None Orchestration I,None Orchestration I-None Instr. Eval. O","-None Instr. Eval.","None Orchestration,None Orchestration"
 The Perry Scheme of Intellectual Development,1,"I","Group Problem Solve I,Group Create/Design I,Group Write I,Class Discuss I,Class Discuss I","Problem Solve,Create/Design,Write,Discuss,Discuss","Group,Group,Group,Class,Class","","Group Problem Solve,Group Create/Design,Group Write,Class Discuss,Class Discuss","None Curation O-None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
 Elemental Superhero,1,"O","Individual Create/Design O,Class Assess/Review Peers O,Individual Revise/Improve O,Individual Write O,Individual Revise/Improve O","Create/Design,Assess/Review Peers,Revise/Improve,Write,Revise/Improve","Individual,Class,Individual,Individual,Individual","Individual Create/Design,Class Assess/Review Peers,Individual Revise/Improve,Individual Write,Individual Revise/Improve","","None Orchestration O","None Orchestration",""
-Three Tiered Writing,1,"I-O-I-O-I","Individual Write I-Individual Revise/Improve O-Individual Write I,Individual Analyze I-Individual Revise/Improve O-Individual Write I","Write-Revise/Improve-Write,Analyze-Revise/Improve-Write","Individual-Individual-Individual,Individual-Individual-Individual","-Individual Revise/Improve","Individual Write","None Orchestration I,None Orchestration I,None Orchestration I,None Instr. Eval. I,None Orchestration I,None Instr. Eval. I","","None Orchestration,None Orchestration,None Orchestration,None Instr. Eval.,None Orchestration,None Instr. Eval."
+Three Tiered Writing,3,"I-O
+I-O
+I","Individual Write I-Individual Revise/Improve O
+Individual Write I,Individual Analyze I-Individual Revise/Improve O
+Individual Write I","Write-Revise/Improve
+Write,Analyze-Revise/Improve
+Write","Individual-Individual
+Individual,Individual-Individual
+Individual","-Individual Revise/Improve","Individual Write","None Orchestration I,None Orchestration I
+None Orchestration I,None Instr. Eval. I
+None Orchestration I,None Instr. Eval. I","","None Orchestration,None Orchestration,None Orchestration,None Instr. Eval.,None Orchestration,None Instr. Eval."
 Rédaction dun Paragraphe de Texte Expressif,1,"O-I","Individual Read O-Group Write I,Group Assess/Review Peers I,Group Write I,Group Revise/Improve I","Read-Write,Assess/Review Peers,Write,Revise/Improve","Individual-Group,Group,Group,Group","Individual Read","-Group Write,Group Assess/Review Peers,Group Write,Group Revise/Improve","None Orchestration I,None Orchestration I,None Instr. Eval. I,None Instr. Eval. I","","None Orchestration,None Orchestration,None Instr. Eval.,None Instr. Eval."
 Test File,1,"I","Group Gather Information I,Group Problem Solve I,Individual Problem Solve I,Group Analyze I","Gather Information,Problem Solve,Problem Solve,Analyze","Group,Group,Individual,Group","","Group Gather Information,Group Problem Solve,Individual Problem Solve,Group Analyze","None Curation O-None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration"
 Geography Test,1,"O-I","Individual Gather Information O,Individual Create/Design O-Individual Quiz I","Gather Information,Create/Design-Quiz","Individual,Individual-Individual","Individual Gather Information,Individual Create/Design","-Individual Quiz","","",""
@@ -251,7 +307,6 @@ Reflective Reading on Islam,1,"O-I","Individual Analyze O-Group Discuss I,Class 
 The Right Tool for the Right Job,1,"(I)","(Group Problem Solve I)","(Problem Solve)","(Group)","","Group Problem Solve","None Curation O-None Orchestration I,(None Orchestration I)","None Curation","-None Orchestration,None Orchestration"
 Falling Object Tracker,1,"I,(I),I","Group Gather Information I,(Group Gather Information I,Group Analyze I),Group Analyze I,Group Discuss I","Gather Information,(Gather Information,Analyze),Analyze,Discuss","Group,(Group,Group),Group,Group","","Group Gather Information,Group Gather Information,Group Analyze,Group Analyze,Group Discuss","None Orchestration I,None Orchestration I()","","None Orchestration,None Orchestration"
 Bringing Context To Life Annotating Research For Reading Novels,1,"I","Group Problem Solve I,Group Create/Design I,Group Assess/Review Peers I","Problem Solve,Create/Design,Assess/Review Peers","Group,Group,Group","","Group Problem Solve,Group Create/Design,Group Assess/Review Peers","None Orchestration I","","None Orchestration"
-Museum Simulation,1,"O-I-O","Individual Create/Design O-Class Present I,Individual Assess/Review Peers I-Individual Revise/Improve O","Create/Design-Present,Assess/Review Peers-Revise/Improve","Individual-Class,Individual-Individual","Individual Create/Design","-Class Present,Individual Assess/Review Peers","None Orchestration I","","None Orchestration"
 How to Read a Research Article,1,"O-(I)","Individual Read O-(Group Analyze I,Class Discuss I)","Read-(Analyze,Discuss)","Individual-(Group,Class)","Individual Read","-Group Analyze,Class Discuss","None Orchestration I,(None Orchestration I)","","None Orchestration,None Orchestration"
 Poetic Literary Jeopardy,1,"O-(I),I","Individual Read O-(Group Problem Solve I,Class Discuss I),Individual Quiz I","Read-(Problem Solve,Discuss),Quiz","Individual-(Group,Class),Individual","Individual Read","-Group Problem Solve,Class Discuss,Individual Quiz","None Orchestration I,(None Orchestration I)","","None Orchestration,None Orchestration"
 4 Sociological Perspectives,1,"I,(I),I","Group Discuss I,Group Problem Solve I,Group Create/Design I,Group Write I,(Class Present I),Class Discuss I,Class Analyze I","Discuss,Problem Solve,Create/Design,Write,(Present),Discuss,Analyze","Group,Group,Group,Group,(Class),Class,Class","","Group Discuss,Group Problem Solve,Group Create/Design,Group Write,Class Present,Class Discuss,Class Analyze","None Curation O-None Orchestration I,None Orchestration I,(None Orchestration I,None Orchestration I),None Orchestration I,None Orchestration I","None Curation","-None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration,None Orchestration"
