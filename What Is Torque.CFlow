@@ -1,5 +1,5 @@
 <project><prname>Reflective Writing on Torque</prname>
-<idnum>65</idnum>
+<idnum>74</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>What is Torque?</wfname>
 <wfauthor>By Phoebe Jackson</wfauthor>
@@ -27,27 +27,25 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Assign groups.&lt;/p&gt;&lt;p&gt;Note: Ideally this activity would be done multiple times throughout the year, with the same groups of 8-10.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assign groups in online collaborative annotation platform (e.g., Perusall).&lt;/p&gt;&lt;p&gt;Note: Ideally this activity would be done multiple times throughout the year, with the same groups of 8-10.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>11</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Prepare for Class</name>
 <id>11</id>
-<lefticon>solo</lefticon>
+<lefticon>group</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Before the first lecture of the week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Complete an assigned reading on torque&lt;/li&gt;&lt;li&gt;Complete a reflective writing responding to three prompts. Refer &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/ReflectiveWritingOnTorque_SampleThreadWithResponses.pdf" target="_blank"&gt;here&lt;/a&gt; for sample prompts&lt;/li&gt;&lt;li&gt;Upload into an online collaborative platform the day before the first class of the week, where it can be seen by their group&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Before the first lecture of the week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Complete an assigned reading on torque in Perusall&lt;/li&gt;&lt;li&gt;Complete a reflective writing responding to three prompts. Refer &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/ReflectiveWritingOnTorque_SampleThreadWithResponses.pdf" target="_blank"&gt;here&lt;/a&gt; for sample prompts&lt;/li&gt;&lt;li&gt;Upload into an online collaborative platform the day before the first class of the week, where it can be seen by their group&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
+</week>
+<week><weekid>74</weekid>
 <node><name>Prepare for Class Activity</name>
 <id>13</id>
 <lefticon>undefined</lefticon>
@@ -56,8 +54,6 @@
 <textHTML>&lt;p&gt;Read through a sample of the reflective writings to determine what parts of the readings should be highlighted in lectures or assigned problems.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>18</id>
@@ -67,12 +63,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign students to new groups of 4 for the in-class part of the activity&lt;/li&gt;&lt;li&gt;Present a series of mini-lectures recapping the material and interspersed with &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/ReflectiveWritingOnTorque_InClassProblemsExample.pdf" target="_blank"&gt;problems&lt;/a&gt; for students to complete&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>98</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>20</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Complete Problems</name>
 <id>20</id>
@@ -82,8 +76,6 @@
 <textHTML>&lt;p&gt;Complete relevant problems in small groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Respond to Reflective Writings &amp; Comments</name>
 <id>21</id>
@@ -93,11 +85,10 @@
 <textHTML>&lt;p&gt;Before the end of the week&lt;/p&gt;&lt;p&gt;Read and respond to the reflective writings of at least two other students in the original groups (using a forum or a tool such as Perusall).&lt;/p&gt;&lt;p&gt;Note: These should be insightful responses to ask questions, clarify, or explain points.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

@@ -1,5 +1,5 @@
 <project><prname>It&apos;s all Hormonal: A class activity on Cushing&apos;s syndrome</prname>
-<idnum>72</idnum>
+<idnum>79</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>It&apos;s All Hormonal: A Class Activity on Cushing&apos;s Syndrome</wfname>
 <wfauthor>By Edward Awad</wfauthor>
@@ -30,8 +30,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Watch videos prepared by the professor on the endocrine system and how it is working&lt;/li&gt;&lt;li&gt;Read documents on the endocrine system prepared by the professor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Questions to Test Knowledge</name>
 <id>6</id>
@@ -41,8 +39,6 @@
 <textHTML>&lt;p&gt;Answer a series of questions on the endocrine system to test knowledge before attending the class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>13</id>
@@ -52,19 +48,15 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions or interrogations students may have about the material in the videos and readings (10 minutes)&lt;/li&gt;&lt;li&gt;Introduce a case study of a syndrome related to the regulation of the endocrine system: Cushing Syndrome in a form of a power point presentation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The case study is used to engage students and bring them to use the knowledge of the endocrine system they learnt in videos and readings at home.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>192</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Clicker Questions</name>
 <id>20</id>
-<lefticon>class</lefticon>
+<lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Answer a series of clicker questions related to the case study. &lt;/p&gt;&lt;p&gt;Note: Some questions are counted towards the final grade.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Find Solution to the Case Study</name>
 <id>17</id>
@@ -74,8 +66,6 @@
 <textHTML>&lt;p&gt;Solve the case study using real data and plotting graphs with the data.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>960</wflegendx>

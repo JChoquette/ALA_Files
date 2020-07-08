@@ -1,5 +1,5 @@
 <project><prname>Piece of Paper Question</prname>
-<idnum>59</idnum>
+<idnum>65</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Piece of Paper Question</wfname>
 <wfauthor>By Marta Cerruti
@@ -23,7 +23,7 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Ask a Question</name>
+<node><name>Pose a Problem / Question</name>
 <id>19</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -31,10 +31,9 @@
 <textHTML>&lt;p&gt;At the end of the lecture&lt;/p&gt;&lt;p&gt;Ask students a question which can be either pre-made or improvised based on the lecture. The types of questions posed are as follows:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review a concept just discussed in class (can be a problem that has to be solved)&lt;/li&gt;&lt;li&gt;Discuss a concept or fact in the lecture that was unclear&lt;/li&gt;&lt;li&gt;Receive student feedback on course material, approaches, strategies, the instructor’s performance, etc.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>258</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Answer the Question</name>
+<node><name>Reflect and Write Solution / Answer</name>
 <id>5</id>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
@@ -42,10 +41,9 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Take a few minutes to answer the problem on a piece of scrap paper  &lt;/li&gt;&lt;li&gt;Hand the answers in to the instructor&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: This activity is done anonymously, handing in the answer is not required, and it is not graded.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review Students' Answers</name>
+<node><name>Review Students' Solutions / Answers</name>
 <id>7</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -53,10 +51,9 @@
 <textHTML>&lt;p&gt;Before the next class&lt;/p&gt;&lt;p&gt;Review all of the submitted answers.&lt;/p&gt;&lt;p&gt;If the question was based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A concept: tabulate the percentage of correct and incorrect answers&lt;/li&gt;&lt;li&gt;A concept that was unclear: prepare a quick lesson for the beginning of the class to clarify misconceptions&lt;/li&gt;&lt;li&gt;Course material, approaches, strategies or instructor performance: use the feedback to adjust how the course is run or what the instructor is doing&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>240</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review Questions with Students</name>
+<node><name>Review Solutions / Answers with Students</name>
 <id>8</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -64,7 +61,6 @@
 <textHTML>&lt;p&gt;At the beginning of the next class&lt;/p&gt;&lt;p&gt;Review the piece of paper question.&lt;/p&gt;&lt;p&gt;If the question was based on a concept,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show the students the percentage of correct and incorrect answers&lt;/li&gt;&lt;li&gt;Go over some of the student answers&lt;/li&gt;&lt;li&gt;Review why the answers were wrong or right&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If the question was based on a concept that was unclear,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do a quick lesson to clarify misconceptions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>276</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>

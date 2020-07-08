@@ -1,5 +1,5 @@
 <project><prname>Geography Video Test</prname>
-<idnum>62</idnum>
+<idnum>69</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Geography Tests</wfname>
 <wfauthor>By Jamie Miller</wfauthor>
@@ -30,9 +30,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Go and find a local river or stream (with a friend)&lt;/li&gt;&lt;li&gt;Take video and/or picture footage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: See &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Midterm_Assignment-GeogVideoTest.pdf" target="_blank"&gt;student instruction&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>69</weekid>
 <node><name>Identify and Explain Concepts</name>
 <id>12</id>
 <lefticon>solo</lefticon>
@@ -41,9 +42,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Identify and explain concepts &lt;span style="color: rgb(65, 65, 65);"&gt;about a river or stream of their choice (e.g.,&lt;/span&gt; the river location (watershed and geographically), the thalweg, bankfull, geomorphic units, human impacts, the zone (aggregation, degradation, etc.), alluvial vs non-alluvial, sediment size and provide an estimate of the river velocity&lt;/li&gt;&lt;li&gt;Edit the videos using data obtained (e.g. labeling pictures, adding subtitles, and etc.)&lt;/li&gt;&lt;li&gt;Submit video to YouTube, and then submit the video link to the course website&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: rgb(65, 65, 65);"&gt;﻿&lt;/span&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>248</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>68</weekid>
 <node><name>Complete a Written Exam</name>
 <id>14</id>
 <lefticon>solo</lefticon>
@@ -52,11 +54,11 @@
 <textHTML>&lt;p&gt;Complete a written exam.&lt;/p&gt;&lt;p&gt;Note: The final mark of the midterm is broken down as follows: 50% for the video and 50% for the written exam.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
 <wflegendx>960</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

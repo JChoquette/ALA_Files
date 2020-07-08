@@ -1,5 +1,5 @@
 <project><prname>Don’t leave it to chance! Testing Biology data right the first time</prname>
-<idnum>89</idnum>
+<idnum>97</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Don’t Leave It to Chance! Testing Biology Data Right the First Time</wfname>
 <wfauthor>By Edward Awad</wfauthor>
@@ -27,22 +27,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Run a hands-on practice session to acquire data to run statistical tests on (approx. 2 hours)&lt;/li&gt;&lt;li&gt;Demonstrate how to use Excel to run statistical tests&lt;/li&gt;&lt;li&gt;Give out three diﬀerent statistical cases&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Run a hands-on practice session to acquire data to run statistical tests on (approx. 2 hours)&lt;/li&gt;&lt;li&gt;Demonstrate how to use Excel to run statistical tests&lt;/li&gt;&lt;li&gt;Give out three diﬀerent statistical cases&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Choose one of the two options:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lab Example: Weigh diﬀerent candies and apply a student’s t test to the data&lt;/li&gt;&lt;li&gt;In-class Example: Apply a student’s t test on diﬀering heights between males and females in the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Conduct Example Experiments</name>
-<id>14</id>
-<lefticon>class</lefticon>
-<righticon>experiment</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;Lab Example:&lt;/p&gt;&lt;p&gt;Weigh diﬀerent candies and apply a student’s t test to the data.&lt;/p&gt;&lt;p&gt;In-class Example: &lt;/p&gt;&lt;p&gt;Apply a student’s t test on diﬀering heights between males and females in the class.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>174</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Complete Three Cases and Assign Tests </name>
 <id>16</id>
@@ -52,8 +39,6 @@
 <textHTML>&lt;p&gt;Read/complete the cases and decide which statistical test to apply to each case (approx. 15 minutes per case).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>89</weekid>
@@ -65,8 +50,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Complete the fourth case which has data on levels of atmospheric CO2 and its eﬀects on Earth’s global surface temperature&lt;/li&gt;&lt;li&gt;Decide on which statistical test to use to complete the case&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Give Feedback on All Four Cases</name>
 <id>18</id>
@@ -76,8 +59,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Go over the three cases from the previous week&lt;/li&gt;&lt;li&gt;Grade the take-home case&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

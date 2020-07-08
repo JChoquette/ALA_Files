@@ -1,5 +1,5 @@
 <project><prname>Family Feud</prname>
-<idnum>171</idnum>
+<idnum>180</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Family Feud</wfname>
 <wfauthor>By Philippe Caignon</wfauthor>
@@ -30,7 +30,6 @@
 <textHTML>&lt;p&gt;Create 10-12 questions that broadly cover the course material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
@@ -41,7 +40,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Direct students to get into groups of 3-5 at a table&lt;/li&gt;&lt;li&gt;Ask 10-12 questions (with answer rounds between each)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Answer Questions - Round 1</name>
@@ -54,7 +52,6 @@
 <textheight>118</textheight>
 <timevalue>15</timevalue>
 <timeunit>min</timeunit>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Create New Questions</name>
@@ -67,10 +64,9 @@
 <textheight>100</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Ask New Questions</name>
+<node><name>Collect and Distribute Student Questions </name>
 <id>9</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -78,7 +74,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Collect questions from each group&lt;/li&gt;&lt;li&gt;Ask the questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Answer New Questions - Round 2</name>
@@ -91,7 +86,6 @@
 <textheight>100</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Determine the Winner</name>
@@ -102,7 +96,6 @@
 <textHTML>&lt;p&gt;Calculate points and decide the winner. &lt;/p&gt;&lt;p&gt;Note: The group with the most points at the end wins.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>

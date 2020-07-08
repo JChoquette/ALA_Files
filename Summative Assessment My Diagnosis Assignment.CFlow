@@ -1,9 +1,9 @@
 <project><prname>Summative Assessment: My Diagnosis Assignment</prname>
-<idnum>57</idnum>
+<idnum>67</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Summative Assessment: My Diagnosis Assignment</wfname>
 <wfauthor>By Susan Finch</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students are asked to analyze 5 characters from a film to diagnose them using the techniques learned over the course of the semester. This activity broadens students&apos; perspectives and prepares them to look at formative feature to illnesses. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/summative-assessment-my-diagnosis-assignment/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students are asked to analyze 5 characters from a film to diagnose them using the techniques learned over the course of the semester. This activity broadens students&apos; perspectives and prepares them to look at formative feature to illnesses. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/summative-assessment-my-diagnosis-assignment/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>11</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -30,8 +30,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Hand out the list of questions to the students&lt;/li&gt;&lt;li&gt;Show a ﬁlm&lt;/li&gt;&lt;li&gt;Stop the film at key moments to analyze what each of the 5 characters is doing to point students in the right direction for their analyses&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss &amp; Analyze the Characters</name>
 <id>3</id>
@@ -41,8 +39,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Discuss the important points of the ﬁlm, going through each of the 5 characters&lt;/li&gt;&lt;li&gt;Analyze the characters, trying to identify the 4 D’s of diagnosis (i.e. deviance, dysfunction, distress, and danger) in order to ascertain whether or not the character is ill or abnormal&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>154</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Answers</name>
 <id>5</id>
@@ -52,8 +48,6 @@
 <textHTML>&lt;p&gt;Discuss the answers to the questions in small groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Take Notes from Discussion</name>
 <id>6</id>
@@ -63,32 +57,15 @@
 <textHTML>&lt;p&gt;Write rough notes from the discussion and the pointers given by the teacher to be handed in at the end of the assignment.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
-</week>
-<week><weekid>57</weekid>
 <node><name>Write an Essay on the 6 Questions</name>
 <id>7</id>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Prepare a written response to each of the 6 questions in the form of an essay, limiting their sources to the textbook and the movie itself.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare a written response to each of the 6 questions in the form of an essay, limiting their sources to the textbook and the movie itself.&lt;/p&gt;&lt;p&gt;Note: In the next class, consult the teacher if there is any trouble with the diagnoses.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Troubleshoot Diagnoses</name>
-<id>8</id>
-<lefticon>solo</lefticon>
-<righticon>practice</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;In the next class&lt;/p&gt;&lt;p&gt;Consult the teacher if there is any trouble with the diagnoses.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Collect &amp; Grade Assignments</name>
 <id>9</id>
@@ -98,12 +75,9 @@
 <textHTML>&lt;p&gt;After two weeks&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collect students' essays and notes on the ﬁlm &lt;/li&gt;&lt;li&gt;Grade the assignments&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
-<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

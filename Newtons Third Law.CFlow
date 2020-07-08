@@ -1,5 +1,5 @@
 <project><prname>Newton&apos;s Third Law</prname>
-<idnum>111</idnum>
+<idnum>132</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Newton&apos;s Third Law</wfname>
 <wfauthor>By Jean-François Brière</wfauthor>
@@ -30,8 +30,6 @@
 <textHTML>&lt;p&gt;Complete a reading on Newton’s third law.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Photograph Objects</name>
 <id>2</id>
@@ -41,8 +39,6 @@
 <textHTML>&lt;p&gt;Take a photo of two static interacting objects.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The photo must showcase specific features from a list&lt;/li&gt;&lt;li&gt;Collectively each pre-assigned group must exhaust the full list&lt;/li&gt;&lt;li&gt;The photos are uploaded into a Visual Classrooms space limited to the group members&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>168</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Draw Free Body Diagrams for Objects</name>
 <id>3</id>
@@ -52,8 +48,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Draw free body diagrams for both objects&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;li&gt;Upload the work to Visual Classrooms&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>4</id>
@@ -63,8 +57,6 @@
 <textHTML>&lt;p&gt;Instruct students to split into their pre-assigned groups.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Free Body Diagrams</name>
 <id>5</id>
@@ -74,8 +66,6 @@
 <textHTML>&lt;p&gt;In pairs within their group, compare their FBDs and photos and assess them for correctness.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Explain Horizontal Pushing</name>
 <id>6</id>
@@ -85,19 +75,24 @@
 <textHTML>&lt;p&gt;Model two examples of horizontal pushing:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A static problem&lt;/li&gt;&lt;li&gt;A dynamic problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create Free Body Diagrams</name>
 <id>7</id>
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Analyze three scenarios (two dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Analyze one of the three scenarios (two dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
+</node>
+<node><name>Switch Problems with Other Group</name>
+<id>128</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Before finishing, switch whiteboards or SMART boards with a group working on the other problem&lt;/li&gt;&lt;li&gt;Identify the difference and determine how it will alter the way in which the problem must be approached&lt;/li&gt;&lt;li&gt;Evaluate the other group's work, correcting any errors, and complete the second problem&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If time permits, return to the original problem and determine whether or not agree with the second group's solution. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
 </node>
 <node><name>Review Exercise</name>
 <id>8</id>
@@ -107,8 +102,6 @@
 <textHTML>&lt;p&gt;Review the exercise, emphasizing the characteristics of action-reaction pairs.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>62</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Explain Vertically Stacked Objects</name>
 <id>9</id>
@@ -118,19 +111,24 @@
 <textHTML>&lt;p&gt;Model an example of vertically stacked objects.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create Free Body Diagrams</name>
 <id>10</id>
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Analyze two scenarios (one dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Analyze one of the two scenarios (one dynamic and one static) distributed by the instructor to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create a pair of FBDs&lt;/li&gt;&lt;li&gt;Identify action-reaction pairs&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
+</node>
+<node><name>Switch Problems with Other Group</name>
+<id>131</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Before finishing, switch whiteboards or SMART boards with a group working on the other problem&lt;/li&gt;&lt;li&gt;Identify the difference and determine how it will alter the way in which the problem must be approached&lt;/li&gt;&lt;li&gt;Evaluate the other group's work, correcting any errors, and complete the second problem&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If time permits, return to the original problem and determine whether or not agree with the second group's solution. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
 </node>
 <node><name>Review Exercise</name>
 <id>11</id>
@@ -140,8 +138,6 @@
 <textHTML>&lt;p&gt;Review the exercise, emphasizing the characteristics of action-reaction pairs.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Edit Diagrams</name>
 <id>12</id>
@@ -151,8 +147,6 @@
 <textHTML>&lt;p&gt;In Visual Classrooms:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rework the original diagrams&lt;/li&gt;&lt;li&gt;Explain in writing the changes made&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Group Work and Submit</name>
 <id>13</id>
@@ -162,8 +156,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Provide feedback on the work of their group members, revising their own work as many times as necessary based on feedback they receive&lt;/li&gt;&lt;li&gt;Submit a final version&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

@@ -1,5 +1,5 @@
 <project><prname>Short stories and social realism</prname>
-<idnum>1001</idnum>
+<idnum>1038</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Short Stories and Social Realism: Building an Essay Toolkit</wfname>
 <wfauthor>By Catherine Payne</wfauthor>
@@ -30,8 +30,6 @@
 <textHTML>&lt;p&gt;Read assigned section of the short story as well as the related PowerPoint slides.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Assigned Reading and Slides</name>
 <id>117</id>
@@ -41,12 +39,10 @@
 <textHTML>&lt;p&gt;Go over the main themes of the slides and summarize what happened in the story section they were supposed to read.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>118</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Discuss Reading and Slides</name>
 <id>118</id>
@@ -56,12 +52,10 @@
 <textHTML>&lt;p&gt;Discuss themes and concept.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>50</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>281</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Moderate Discussions</name>
 <id>149</id>
@@ -71,12 +65,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Act as a moderator to guide the discussion&lt;/li&gt;&lt;li&gt;Only intervene to address any misconceptions that may arise&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>118</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity Part 1: Character Sketch</name>
 <id>281</id>
@@ -86,8 +78,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Explain group work for the day&lt;/li&gt;&lt;li&gt;Direct students to get into groups (3-4)&lt;/li&gt;&lt;li&gt;Assign each group one of three characters from the short story - at least two groups in the class will be working on the same character&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Compose a Character Sketch</name>
 <id>282</id>
@@ -97,8 +87,6 @@
 <textHTML>&lt;p&gt;Write a character sketch describing the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Physical character description&lt;/li&gt;&lt;li&gt;What the character says and does not say&lt;/li&gt;&lt;li&gt;What the character does&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>154</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Compare Character Sketches</name>
 <id>321</id>
@@ -108,8 +96,6 @@
 <textHTML>&lt;p&gt;Discuss and compare character sketches.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>84</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Write a Reflection</name>
 <id>301</id>
@@ -119,13 +105,11 @@
 <textHTML>&lt;p&gt;Complete a reflective writing on the assigned character of the group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>330</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 <linkstyle>dashed</linkstyle>
 </link>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>323</weekid>
@@ -138,8 +122,6 @@
 <textHTML>&lt;p&gt;Read assigned section of the short story as well as the related PowerPoint slides.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Assigned Reading and Slides</name>
 <id>339</id>
@@ -149,12 +131,10 @@
 <textHTML>&lt;p&gt;Go over the main themes of the slides and summarize what happened in the story section they were supposed to read.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>354</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Discuss Reading and Slides</name>
 <id>354</id>
@@ -164,12 +144,10 @@
 <textHTML>&lt;p&gt;Discuss themes and concept.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>366</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Moderate Discussions</name>
 <id>342</id>
@@ -179,12 +157,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Act as a moderator to guide the discussion&lt;/li&gt;&lt;li&gt;Only intervene to address any misconceptions that may arise&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>354</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity
 Part 2: Quotes</name>
@@ -195,8 +171,6 @@ Part 2: Quotes</name>
 <textHTML>&lt;ul&gt;&lt;li&gt;Explain group work for the day&lt;/li&gt;&lt;li&gt;Show examples of how to annotate and manage quotes&lt;/li&gt;&lt;li&gt;Assign a different passage to each group&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>84</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Find Quotes</name>
 <id>375</id>
@@ -206,8 +180,6 @@ Part 2: Quotes</name>
 <textHTML>&lt;p&gt;Review assigned passage and come up with 6 quotes.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Revise Reflection Using Quotes</name>
 <id>387</id>
@@ -217,13 +189,11 @@ Part 2: Quotes</name>
 <textHTML>&lt;p&gt;Revise reflection from Class 1 and add two quotes as evidence or character description.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>333</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 <linkstyle>dashed</linkstyle>
 </link>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>324</weekid>
@@ -236,8 +206,6 @@ Part 2: Quotes</name>
 <textHTML>&lt;p&gt;Read assigned section of the short story as well as the related PowerPoint slides.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Assigned Reading and Slides</name>
 <id>345</id>
@@ -247,12 +215,10 @@ Part 2: Quotes</name>
 <textHTML>&lt;p&gt;Go over the main themes of the slides and summarize what happened in the story section they were supposed to read.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>357</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Discuss Reading and Slides</name>
 <id>357</id>
@@ -262,12 +228,10 @@ Part 2: Quotes</name>
 <textHTML>&lt;p&gt;Discuss themes and concept.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>369</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Moderate Discussions</name>
 <id>351</id>
@@ -277,12 +241,10 @@ Part 2: Quotes</name>
 <textHTML>&lt;ul&gt;&lt;li&gt;Act as a moderator to guide the discussion&lt;/li&gt;&lt;li&gt;Only intervene to address any misconceptions that may arise&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>357</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity 
 Part 3: Literary Devices</name>
@@ -293,8 +255,6 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Explain group work for the day.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>44</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Analyze Quotes</name>
 <id>378</id>
@@ -304,8 +264,6 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Analyze quotes from class 2 using a list of literary devices given by the instructor earlier in the course.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>84</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Revise the Reflection Using Literary Devices</name>
 <id>390</id>
@@ -315,12 +273,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Write a paragraph building on the character and quote analysis from the last class and integrating literary devices.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>399</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Generate Analytical Questions</name>
 <id>399</id>
@@ -330,7 +286,6 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Come up with at least two analytical questions related to the story.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>61</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -339,7 +294,6 @@ Part 3: Literary Devices</name>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 <linkstyle>dashed</linkstyle>
 </link>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>325</weekid>
@@ -352,12 +306,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Read through the analytical questions generated by students in Class 3.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>372</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Review Assigned Reading and Slides</name>
 <id>348</id>
@@ -367,12 +319,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Go over the main themes of the slides and summarize what happened in the story section they were supposed to read.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>360</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Discuss Reading and Slides</name>
 <id>360</id>
@@ -382,12 +332,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Discuss themes and concept.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>372</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Moderate Discussions</name>
 <id>363</id>
@@ -397,12 +345,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;ul&gt;&lt;li&gt;Act as a moderator to guide the discussion&lt;/li&gt;&lt;li&gt;Only intervene to address any misconceptions that may arise&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>360</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity Part 4: Analytical Questions</name>
 <id>372</id>
@@ -412,12 +358,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Show examples of strong and weak analytical questions, from those provided by students.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>78</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>402</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Discuss Analytic Questions</name>
 <id>402</id>
@@ -427,8 +371,6 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;ul&gt;&lt;li&gt;Discuss answers to strong questions&lt;/li&gt;&lt;li&gt;Discuss what makes questions weak suggest improvements&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Toolkit to Prepare for Class 5</name>
 <id>393</id>
@@ -438,12 +380,10 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Review techniques learned in the last three classes to correct misconceptions and describe the toolkit students have built, which will be used to write an essay in the next class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>396</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>395</weekid>
@@ -456,8 +396,6 @@ Part 3: Literary Devices</name>
 <textHTML>&lt;p&gt;Write an essay analyzing the text and incorporating the tools and concepts that were explored in the previous classes.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>1180</wflegendx>

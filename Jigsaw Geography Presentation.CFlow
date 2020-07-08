@@ -1,5 +1,5 @@
 <project><prname>Jigsaw Geography Presentation</prname>
-<idnum>117</idnum>
+<idnum>141</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Jigsaw Geography Presentation</wfname>
 <wfauthor>By Jamie Miller
@@ -31,12 +31,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Define a topic area for students to research.&lt;/li&gt;&lt;li&gt;Provide 2-3 primary concepts to each group for the topic&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The topics include: 1) River channels, 2) Aquatic habitats, 3) Human impacts, 4) River mechanics, 5) Erosion, 6) Sediment transport, and 7) Bedforms.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>184</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>3</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Research Topic and Core Concepts</name>
 <id>3</id>
@@ -46,8 +44,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Form groups of 3-4&lt;/li&gt;&lt;li&gt;Research to become proficient in 1 of the 7 topics of the Fluvial Processes course and the 5 core concepts within their topic area&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can use reading materials provided by the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Prepare Presentation and Quiz</name>
 <id>5</id>
@@ -57,8 +53,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Construct a 45-min presentation of their choice (for example: a video, an oral presentation, or a field trip) to deliver an overview of their topic and teach 5 core concepts within their topic area&lt;/li&gt;&lt;li&gt;Develop a 5-question quiz&lt;/li&gt;&lt;li&gt;Submit the presentation materials and quiz the day prior to their presentation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Office hours are available to discuss what and how will they will teach the class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>192</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Topic</name>
 <id>10</id>
@@ -68,8 +62,6 @@
 <textHTML>&lt;p&gt;Present the topic, 1 group per class.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: There will not be a group presentation in the final class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>76</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Clear Misconceptions and Evaluate Group</name>
 <id>11</id>
@@ -79,8 +71,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;After the presentation, clarify any misconceptions from the presentation or its materials&lt;/li&gt;&lt;li&gt;Evaluate presenting group based on: creativity, proficiency, engagement / presentation skills&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It is optional to present PowerPoint slides prepared before the class, based on the material submitted.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Complete Quiz</name>
 <id>12</id>
@@ -90,18 +80,83 @@
 <textHTML>&lt;p&gt;In the following class, take the quiz from the group who presented in the previous class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<link><targetid>5</targetid>
-<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-<linktext>Repeat 
-for each 
-class over 
-the semester</linktext>
+</node>
+</week>
+<week><weekid>134</weekid>
+<weekname>Repeat for each class of the semester</weekname>
+<node><name>Introduce Activity</name>
+<id>128</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Define a topic area for students to research.&lt;/li&gt;&lt;li&gt;Provide 2-3 primary concepts to each group for the topic&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The topics include: 1) River channels, 2) Aquatic habitats, 3) Human impacts, 4) River mechanics, 5) Erosion, 6) Sediment transport, and 7) Bedforms.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<noautolink>true</noautolink>
+<link><targetid>129</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
+</node>
+<node><name>Research Topic and Core Concepts</name>
+<id>129</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Form groups of 3-4&lt;/li&gt;&lt;li&gt;Research to become proficient in 1 of the 7 topics of the Fluvial Processes course and the 5 core concepts within their topic area&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can use reading materials provided by the instructor.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>134</textheight>
+<link><targetid>130</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Prepare Presentation and Quiz</name>
+<id>130</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Construct a 45-min presentation of their choice (for example: a video, an oral presentation, or a field trip) to deliver an overview of their topic and teach 5 core concepts within their topic area&lt;/li&gt;&lt;li&gt;Develop a 5-question quiz&lt;/li&gt;&lt;li&gt;Submit the presentation materials and quiz the day prior to their presentation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Office hours are available to discuss what and how will they will teach the class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>192</textheight>
+<link><targetid>131</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Present Topic</name>
+<id>131</id>
+<lefticon>group</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present the topic, 1 group per class.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: There will not be a group presentation in the final class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<link><targetid>132</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Clear Misconceptions and Evaluate Group</name>
+<id>132</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;After the presentation, clarify any misconceptions from the presentation or its materials&lt;/li&gt;&lt;li&gt;Evaluate presenting group based on: creativity, proficiency, engagement / presentation skills&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It is optional to present PowerPoint slides prepared before the class, based on the material submitted.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>164</textheight>
+<link><targetid>133</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Complete Quiz</name>
+<id>133</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In the following class, take the quiz from the group who presented in the previous class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
 </node>
 </week>
 <wflegendx>960</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

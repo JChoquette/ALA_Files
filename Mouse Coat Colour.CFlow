@@ -1,5 +1,5 @@
 <project><prname>Mouse Coat Colour</prname>
-<idnum>506</idnum>
+<idnum>551</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Mouse Coat Colour</wfname>
 <wfauthor>By Karl Laroche</wfauthor>
@@ -31,8 +31,6 @@
 <textHTML>&lt;p&gt;Review chapters related to module 1 ("Biological Chemistry" ).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity </name>
 <id>4</id>
@@ -42,8 +40,6 @@
 <textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;p&gt;Present the "Mouse Coat Colour - Biological Chemistry" review questions.&lt;/p&gt;&lt;p&gt;Note: This takes place during week 5 of the semester.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>128</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Review Questions   </name>
 <id>5</id>
@@ -53,8 +49,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Clarify Doubts and Discuss Answers</name>
 <id>6</id>
@@ -64,8 +58,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups &lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using just-in-time teaching (JITT) strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>158</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class</name>
 <id>10</id>
@@ -75,8 +67,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>265</weekid>
@@ -89,8 +79,6 @@
 <textHTML>&lt;p&gt;Review chapters related to module 2 ("Cells and Cell Division").&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 2 Questions   </name>
 <id>14</id>
@@ -100,8 +88,6 @@
 <textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;p&gt;Present the "Cells and Cell Division" review questions. &lt;/p&gt;&lt;p&gt;Note: This takes place during week 6.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>112</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Module 2 Questions   </name>
 <id>15</id>
@@ -111,8 +97,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students)&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>60</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Clarify Doubts and Discuss Answers</name>
 <id>17</id>
@@ -122,8 +106,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups&lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class  </name>
 <id>21</id>
@@ -133,8 +115,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>266</weekid>
@@ -147,19 +127,15 @@
 <textHTML>&lt;p&gt;Review chapters related to module 3 ("Genetics").&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Watch Documentary   </name>
 <id>25</id>
-<lefticon>class</lefticon>
+<lefticon>solo</lefticon>
 <righticon>research</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Class 3&lt;/p&gt;&lt;p&gt;Watch a truncated version of a&lt;a href="https://www.youtube.com/watch?v=dFx61K83ilo&amp;amp;feature=youtu.be " target="_blank"&gt; documentary &lt;/a&gt;on "Mouse Coat Colour" at the beginning of the class. &lt;/p&gt;&lt;p&gt;Note: This takes place during week 7.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 3 Questions  </name>
 <id>26</id>
@@ -169,8 +145,6 @@
 <textHTML>&lt;p&gt;Present the "Genetics" review questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Module 3 Questions   </name>
 <id>27</id>
@@ -180,8 +154,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups (3-4 students).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Clarify Doubts and Discuss Answers</name>
 <id>28</id>
@@ -191,8 +163,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Along with TAs, clear doubts and misconceptions raised by the groups&lt;/li&gt;&lt;li&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. Also, provide answers to the questions left unanswered in-class due to time constraints.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class   </name>
 <id>32</id>
@@ -202,8 +172,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>267</weekid>
@@ -216,8 +184,6 @@
 <textHTML>&lt;p&gt;Prepare for Module 4 - part A ("Evolution - Natural Selection") by:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reading the assigned pages from the textbook&lt;/li&gt;&lt;li&gt;Examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped-classroom teaching strategy)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Take Moodle Quiz   </name>
 <id>37</id>
@@ -227,8 +193,6 @@
 <textHTML>&lt;p&gt;Answer 10 multiple-choice questions (MCQs) available on Moodle to test understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part A Concepts   </name>
 <id>42</id>
@@ -238,8 +202,6 @@
 <textHTML>&lt;p&gt;Class 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;﻿&lt;/strong&gt;Present and explain key concepts on Natural Selection, placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>128</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer iClicker Questions   </name>
 <id>43</id>
@@ -249,8 +211,6 @@
 <textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture time).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part A Questions</name>
 <id>44</id>
@@ -260,8 +220,6 @@
 <textHTML>&lt;p&gt;Present the "Natural Selection" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Module 4 - Part A Questions</name>
 <id>45</id>
@@ -271,8 +229,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Answers   </name>
 <id>46</id>
@@ -282,8 +238,6 @@
 <textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class   </name>
 <id>47</id>
@@ -293,8 +247,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Prepare for Module 4 - Part B</name>
 <id>52</id>
@@ -304,8 +256,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Watch the full version of the Mouse Coat Colour &lt;a href="https://www.youtube.com/watch?v=5xXH6aB0DC4&amp;amp;feature=youtu.be." target="_blank"&gt;video.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Prepare for Module 4 - Part B ("Evolution - Population Genetics") by: a) reading the assigned pages from the textbook and b) examining the lecture slides, You Tube videos, Moodle videos and concept maps (Flipped classroom teaching strategy).&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Take Moodle Quiz    </name>
 <id>49</id>
@@ -315,8 +265,6 @@
 <textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part B Concepts   </name>
 <id>57</id>
@@ -326,8 +274,6 @@
 <textHTML>&lt;p&gt;Class 5&lt;/p&gt;&lt;p&gt;Present and explain key concepts on "Population Genetics", placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer iClicker Questions    </name>
 <id>58</id>
@@ -337,8 +283,6 @@
 <textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part B Questions</name>
 <id>59</id>
@@ -348,8 +292,6 @@
 <textHTML>&lt;p&gt;Present the "Population Genetics" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Module 4 - Part B Questions </name>
 <id>60</id>
@@ -359,8 +301,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Answers   </name>
 <id>61</id>
@@ -370,8 +310,6 @@
 <textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT strategy. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>116</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class   </name>
 <id>62</id>
@@ -381,8 +319,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with thepeers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Prepare for Module 4 - Part C   </name>
 <id>67</id>
@@ -392,8 +328,6 @@
 <textHTML>&lt;p&gt;Prepare for Module 4 - Part C ("Evolution - Speciation") by:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reading the assigned pages from the textbook&lt;/li&gt;&lt;li&gt;Examining the lecture slides, YouTube videos, Moodle videos and concept maps (Flipped classroom teaching strategy)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>140</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Take Moodle Quiz   </name>
 <id>64</id>
@@ -403,8 +337,6 @@
 <textHTML>&lt;p&gt;Answer 10 MCQs available on Moodle to test their understanding of the pre-class material.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>72</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part C Concepts   </name>
 <id>69</id>
@@ -414,8 +346,6 @@
 <textHTML>&lt;p&gt;Present and explain key concepts on "Speciation", placing great emphasis on the areas students struggle with the most using the pre-class MCQs as examples (JITT).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer iClicker Questions   </name>
 <id>70</id>
@@ -425,8 +355,6 @@
 <textHTML>&lt;p&gt;Discuss and answer iClicker questions (presented during the lecture) in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Module 4 - Part C Questions </name>
 <id>71</id>
@@ -436,8 +364,6 @@
 <textHTML>&lt;p&gt;Present the "Speciation" in-class activity questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Module 4 - Part C Questions </name>
 <id>72</id>
@@ -447,8 +373,6 @@
 <textHTML>&lt;p&gt;Discuss and answer the questions in groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Answers</name>
 <id>73</id>
@@ -458,8 +382,6 @@
 <textHTML>&lt;p&gt;Discuss the answers with the entire class (if needed) and explain concepts using JITT. &lt;/p&gt;&lt;p&gt;Note: Provide answers to the questions left unanswered in-class due to time constraints.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Solve Questions and Discuss in Class   </name>
 <id>74</id>
@@ -469,8 +391,6 @@
 <textHTML>&lt;p&gt;Solve the unanswered questions and discuss the answers with the peers or ask the instructor for explanation if needed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

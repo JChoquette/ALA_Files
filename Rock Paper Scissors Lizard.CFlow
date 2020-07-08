@@ -1,5 +1,5 @@
 <project><prname>Rock Paper Scissors Lizard</prname>
-<idnum>109</idnum>
+<idnum>121</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Rock Paper Scissors Lizard</wfname>
 <wfauthor>By Brendan Joyce</wfauthor>
@@ -24,7 +24,7 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>10</weekid>
-<node><name>Prepare for Class </name>
+<node><name>Complete Readings</name>
 <id>1</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
@@ -32,7 +32,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Read an article on evolutionary stable strategies&lt;/li&gt;&lt;li&gt;View a video&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>78</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Take a Quiz </name>
@@ -43,7 +42,6 @@
 <textHTML>&lt;p&gt;Complete an online quiz.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>62</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Review Quiz Topics</name>
@@ -54,7 +52,6 @@
 <textHTML>&lt;p&gt;Brieﬂy review the topics from the quiz.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>66</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Introduce Activity </name>
@@ -65,7 +62,6 @@
 <textHTML>&lt;p&gt;Distribute either non-transitive dice, or templates and materials for making dice, to the students. Divide class into three groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Prepare: Select or Create Die</name>
@@ -76,7 +72,6 @@
 <textHTML>&lt;p&gt;Select or create an A, B or C die following the Grimes Dice template for 3 dice.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Record Dice Outcomes</name>
@@ -87,7 +82,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Seek out both dissimilar dice and roll against each other repeatedly&lt;/li&gt;&lt;li&gt;Record what die it was and the outcome of each roll on a paper&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Make a Die Choice</name>
@@ -98,10 +92,9 @@
 <textHTML>&lt;p&gt;Pool the data and vote by group for which die they’d rather roll against.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Review Selection of Best Die</name>
+<node><name>Discuss Selection of Best Die</name>
 <id>7</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
@@ -109,18 +102,16 @@
 <textHTML>&lt;p&gt;Share tally counts for each group. Initiate the whole class discussion on "Which is the best die?”&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Watch Video</name>
+<node><name>Watch Video and Discuss</name>
 <id>8</id>
 <lefticon>class</lefticon>
-<righticon>reading</righticon>
+<righticon>discuss</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;View a video on Side-blotched lizards (Uta stansburiana).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Summarize and Clear Misconceptions</name>
@@ -131,7 +122,6 @@
 <textHTML>&lt;p&gt;Finally, discuss about unstable evolutionary strategies and the misconceptions that evolution is linear or that there is always a single best strategy.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>

@@ -1,5 +1,5 @@
 <project><prname>Putting the &quot;You&quot; in Education: Using Self-Reflections for Learning</prname>
-<idnum>165</idnum>
+<idnum>198</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Putting the &quot;You&quot; in Education: Using Self-Reflections for learning</wfname>
 <wfauthor>By Jeffrey Gandell</wfauthor>
@@ -33,45 +33,154 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Introduce all the assessments, making clear that they are not graded and that only they (the instructor) will be reading them&lt;/li&gt;&lt;li&gt;Outline how the assessments will be distributed throughout the year&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
-<node><name>Initiate Self-Assessment</name>
+<node><name>Initiate Self-Assessment #1</name>
 <id>37</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;At the appropriate time during the semester, remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Schedule:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;#1 - At the beginning of the semester&lt;/li&gt;&lt;li&gt;#2 - Before the first major assignment&lt;/li&gt;&lt;li&gt;#3 - After completing the first major assignment&lt;/li&gt;&lt;li&gt;#4 - Before the second major assignment&lt;/li&gt;&lt;li&gt;#5 - At the end of the course&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;At the beginning of the semester&lt;/p&gt;&lt;p&gt;Remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>232</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>5</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
 </link>
 <tagARRAY/>
 </node>
-<node><name>Complete Self-Assessment </name>
+<node><name>Complete Self-Assessment #1</name>
 <id>5</id>
 <lefticon>solo</lefticon>
 <righticon>write</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;At a specified time during the semester, write a reflection on various topics in response to the prompts given by the instructor. Submit it via email or hard copy.&lt;/p&gt;&lt;p&gt;Topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;#1 - Course Goals&lt;/li&gt;&lt;li&gt;#2 - Assignment #1 Goals&lt;/li&gt;&lt;li&gt;#3 - Assignment Feedback&lt;/li&gt;&lt;li&gt;#4 - Assignment #2 Goals&lt;/li&gt;&lt;li&gt;#5 - Course Progress&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a reflection on the course goals in response to the prompts given by the instructor&lt;/li&gt;&lt;li&gt;Submit the reflection via email or hard copy&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>184</textheight>
 <timevalue>20-30</timevalue>
 <timeunit>min</timeunit>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>37</targetid>
-<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
-<linktext>repeat for each 
-assessment</linktext>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>198</weekid>
+<node><name>Initiate Self-Assessment #2</name>
+<id>182</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Before the first major assignment&lt;/p&gt;&lt;p&gt;Remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>232</textheight>
+<noautolink>true</noautolink>
+<link><targetid>191</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<tagARRAY/>
+</node>
+<node><name>Complete Self-Assessment #2</name>
+<id>191</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a reflection on the goals for Assignment #1 in response to the prompts given by the instructor&lt;/li&gt;&lt;li&gt;Submit the reflection via email or hard copy&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<timevalue>20-30</timevalue>
+<timeunit>min</timeunit>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>197</weekid>
+<node><name>Initiate Self-Assessment #3</name>
+<id>179</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;After completing the first major assignment&lt;/p&gt;&lt;p&gt;Remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>232</textheight>
+<noautolink>true</noautolink>
+<link><targetid>194</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Complete Self-Assessment #3</name>
+<id>194</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a reflection on the feedback received for Assignment #1 in response to the prompts given by the instructor&lt;/li&gt;&lt;li&gt;Submit the reflection via email or hard copy&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<timevalue>20-30</timevalue>
+<timeunit>min</timeunit>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>196</weekid>
+<node><name>Initiate Self-Assessment #4</name>
+<id>176</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Before the second major assignment&lt;/p&gt;&lt;p&gt;Remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>232</textheight>
+<noautolink>true</noautolink>
+<link><targetid>188</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Complete Self-Assessment #4</name>
+<id>188</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a reflection on the goals of Assignment #2 in response to the prompts given by the instructor&lt;/li&gt;&lt;li&gt;Submit the reflection via email or hard copy&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<timevalue>20-30</timevalue>
+<timeunit>min</timeunit>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<week><weekid>171</weekid>
+<node><name>Initiate Self-Assessment #5</name>
+<id>173</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;At the end of the course&lt;/p&gt;&lt;p&gt;Remind students to complete the self-assessment.&lt;/p&gt;&lt;p&gt;Note: Modify the assignment instructions based on student feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<noautolink>true</noautolink>
+<link><targetid>185</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Complete Self-Assessment #5</name>
+<id>185</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a reflection on the course progress in response to the prompts given by the instructor&lt;/li&gt;&lt;li&gt;Submit the reflection via email or hard copy&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<timevalue>20-30</timevalue>
+<timeunit>min</timeunit>
+<noautolink>true</noautolink>
 <tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

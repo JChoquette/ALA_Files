@@ -1,5 +1,5 @@
 <project><prname>The Sailing Iguanas: A Mini Case in Speciation</prname>
-<idnum>114</idnum>
+<idnum>124</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>The Sailing Iguanas: A Mini Case in Speciation</wfname>
 <wfauthor>By Edward Awad</wfauthor>
@@ -22,31 +22,14 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Initiate Activity</name>
-<id>60</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>OOCI</column>
-<textHTML>&lt;p&gt;Give students a document with key concepts and learning objectives, and assign readings from the textbook.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<link><targetid>8</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
-<tagARRAY/>
-</node>
 <node><name>Prepare for Class</name>
 <id>8</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read assigned readings&lt;/li&gt;&lt;li&gt;Watch videos about the concepts of species and speciation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read assigned readings (from textbook) taking into consideration key concepts and learning objectives as defined by the instructor&lt;/li&gt;&lt;li&gt;Watch videos about the concepts of species and speciation&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Do a Quiz to Test Knowledge</name>
 <id>83</id>
@@ -56,8 +39,6 @@
 <textHTML>&lt;p&gt;Complete a quiz through Moodle to test knowledge after having watched the videos and completed the assigned readings.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name> Introduce Activity</name>
 <id>10</id>
@@ -67,8 +48,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions students might have from the pre-assigned videos, quiz and document&lt;/li&gt;&lt;li&gt;Split the students into groups of 3-4, then introduce the activity by explaining the objective&lt;/li&gt;&lt;li&gt;Ask students to predict the evolutionary forces that will act on a group of iguanas that drifted from Guadalupe island to Anguilla island&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create a Study and an Experiment</name>
 <id>19</id>
@@ -78,30 +57,24 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Design a study to test their predictions that the evolutionary agent(s) they identiﬁed in the previous question produced allele frequency diﬀerences in the 2 populations of iguanas&lt;/li&gt;&lt;li&gt;Then, design an experiment that would test whether the 2 populations of iguanas in the year 2050 have diverged into 2 separate species. The experiment should identify the species deﬁnition(s) used and should include all components of good scientiﬁc inquiry (hypothesis, prediction, controls, replication, variables, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Check each other’s answers and help each other.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>260</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Ask Clicker-Type Questions</name>
 <id>24</id>
-<lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
-<column>ICI</column>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
 <textHTML>&lt;p&gt;Go through seven clicker-type questions.&lt;/p&gt;&lt;p&gt;Note: If less than 70% of the students answer the clicker questions correctly, they can discuss and re-answer them as a group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
-<node><name>Hand in the Answers</name>
+<node><name>Revise and Hand in the Answers</name>
 <id>26</id>
 <lefticon>solo</lefticon>
-<righticon>problem</righticon>
+<righticon>practice</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete and submit the answers which should include the predictions, study to test allele frequency changes, and experiment to test iguanas speciation.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss the Answers with Class</name>
 <id>62</id>
@@ -111,8 +84,6 @@
 <textHTML>&lt;p&gt;Review the answers with the class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

@@ -1,5 +1,5 @@
 <project><prname>Elemental Superhero</prname>
-<idnum>111111111177</idnum>
+<idnum>111111111189</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Elemental Superhero</wfname>
 <wfauthor>By Yann Brouillette</wfauthor>
@@ -30,9 +30,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Conceive a superhero whose characteristics are based on an element from the periodic table&lt;/li&gt;&lt;li&gt;Illustrate the hero&lt;/li&gt;&lt;li&gt;Write a short description&lt;/li&gt;&lt;li&gt;Post these materials in an online collaborative platform&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>111111111189</weekid>
 <node><name>Analyze and Review Superheroes</name>
 <id>011111111</id>
 <lefticon>class</lefticon>
@@ -41,9 +42,10 @@
 <textHTML>&lt;p&gt;Analyze and comment on the superheroes posted by peers and make suggestions for improvement.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>111111111187</weekid>
 <node><name>Incorporate Peer-Review Suggestions</name>
 <id>011111</id>
 <lefticon>solo</lefticon>
@@ -52,7 +54,6 @@
 <textHTML>&lt;p&gt;Analyze the comments/suggestions made by peers and modify/improve their work.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: If not satisfied with own superhero and description, should go through this iteration at least once more.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Write and Submit Creative Piece Draft</name>
@@ -63,9 +64,10 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Prepare a more advanced draft of a creative piece (i.e. story) incorporating own superhero as the primary character&lt;/li&gt;&lt;li&gt;Submit this draft to the instructor for feedback&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
+</week>
+<week><weekid>111111111186</weekid>
 <node><name>Review Student Drafts</name>
 <id>0111111111</id>
 <lefticon>undefined</lefticon>
@@ -74,7 +76,6 @@
 <textHTML>&lt;p&gt;Comment on the draft submitted and return it to the students.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>62</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Revise Draft and Resubmit</name>
@@ -85,11 +86,11 @@
 <textHTML>&lt;p&gt;Address the instructor’s comments and resubmit the work when it meets necessary criteria.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: If work doesn't meet criteria, modify  until it meets the criteria.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
 <wflegendx>700</wflegendx>
 <wflegendy>220</wflegendy>
+<simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

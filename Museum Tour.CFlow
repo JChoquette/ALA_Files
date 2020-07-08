@@ -1,5 +1,5 @@
 <project><prname>Museum Tour</prname>
-<idnum>85</idnum>
+<idnum>92</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Museum Tour</wfname>
 <wfauthor>By Philippe Caignon</wfauthor>
@@ -30,8 +30,6 @@
 <textHTML>&lt;p&gt;Class 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Help students pick topics for their mind maps&lt;/li&gt;&lt;li&gt;Introduce the mind map and museum walk&lt;/li&gt;&lt;li&gt;Describe what a mind map is and how to build one&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>134</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create and Fill Out Mind Maps</name>
 <id>57</id>
@@ -41,8 +39,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Research the topic&lt;/li&gt;&lt;li&gt;Generate a mind map that summarizes the key points &lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Maps to Peers</name>
 <id>5</id>
@@ -52,21 +48,17 @@
 <textHTML>&lt;p&gt;Class 2&lt;/p&gt;&lt;p&gt;Bring mind maps to class and put them on the walls around the classroom.&lt;/p&gt;&lt;p&gt;Presenters&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present their mind map to multiple small groups of their peers&lt;/li&gt;&lt;li&gt;Answer any questions that peers have regarding the mind map or topic&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>178</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
-<node><name>Review Peers' Work</name>
+<node><name>Peer Review and Feedback </name>
 <id>7</id>
-<lefticon>solo</lefticon>
+<lefticon>class</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Peer reviewers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Listen to their peers present mind maps&lt;/li&gt;&lt;li&gt;Ask questions to probe peers’ knowledge&lt;/li&gt;&lt;li&gt;Write comments, suggestions, and feedback on sticky notes and place it beside each student's mind map they have visited&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>174</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
-<node><name>Incorporate Peer Feedback</name>
+<node><name>Incorporate Feedback and Revise</name>
 <id>12</id>
 <lefticon>solo</lefticon>
 <righticon>practice</righticon>
@@ -74,8 +66,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Read through all the sticky notes of comments from their peers&lt;/li&gt;&lt;li&gt;Revise their mind maps according to the feedback&lt;/li&gt;&lt;li&gt;Submit Mind Maps for evaluation (submission can be done in the following class)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>960</wflegendx>

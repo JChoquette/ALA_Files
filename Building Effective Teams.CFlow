@@ -1,5 +1,5 @@
 <project><prname>Building Effective Teams</prname>
-<idnum>202</idnum>
+<idnum>218</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Building Effective Teams</wfname>
 <wfauthor>By Meghan Marshall</wfauthor>
@@ -30,7 +30,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Review the paper &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/Turning-Student-Groups-into-Effective-Teams.pdf" target="_blank"&gt;Turning Student Groups into Eﬀective Teams&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Adapt the forms contained in the appendix as needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
-<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>2</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -45,7 +44,6 @@
 <textHTML>&lt;p&gt;On the ﬁrst day of semester&lt;/p&gt;&lt;p&gt;Gather the information necessary for forming teams by distributing the "Getting to Know You" form adapted from the example available &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/Turning-Student-Groups-into-Effective-Teams.pdf" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Fill in and Submit the Form</name>
@@ -56,7 +54,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Complete the form &lt;/li&gt;&lt;li&gt;Submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
@@ -67,7 +64,6 @@
 <textHTML>&lt;p&gt;Using the information provided in the forms, divide the class into teams focusing on considerations such as diversity, gender, and shared periods of available time outside class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Give a Workshop on Teamwork</name>
@@ -78,7 +74,6 @@
 <textHTML>&lt;p&gt;Run a workshop on teamwork guided by the teamwork power point.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>150</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Read to Prepare for Team Contracts</name>
@@ -89,7 +84,6 @@
 <textHTML>&lt;p&gt;In this workshop:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Perform team-building exercises&lt;/li&gt;&lt;li&gt;Read the following documents: "Team Expectations Agreement", "Coping with Hitchhikers and Couch Potatoes", "Team Policies Statement", and the "Guiding Questions for the Team Contract" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>170</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Create and Share Team Contracts</name>
@@ -100,7 +94,6 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Develop Team Contracts in google docs&lt;/li&gt;&lt;li&gt;Share the work with the instructor&lt;/li&gt;&lt;li&gt;Resolve any issues with the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Discuss Work and Further Issues</name>
@@ -111,7 +104,6 @@
 <textHTML>&lt;p&gt;1/3 into the semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the "Evaluation of Progress Towards Eﬀective Team Functioning" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Discuss what they have written with their team Discuss any issues that may be arising with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Decide on Necessary Interventions</name>
@@ -122,7 +114,6 @@
 <textHTML>&lt;p&gt;Based on the evaluations, decide what intervention the teams might require, if any.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Evaluate Self and Peers Using the Form</name>
@@ -133,7 +124,6 @@
 <textHTML>&lt;p&gt;1/2 into the semester&lt;/p&gt;&lt;p&gt;Perform team and peer evaluation using the "Team Member Evaluation Form" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Mark Students Based on Evaluation Form</name>
@@ -144,7 +134,6 @@
 <textHTML>&lt;p&gt;Determine a peer- and self-evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Discuss Work and Issues</name>
@@ -155,7 +144,6 @@
 <textHTML>&lt;p&gt;2/3 into the semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fill out the "Evaluation of Progress towards Eﬀective Team Functioning" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Discuss what they have written with their team&lt;/li&gt;&lt;li&gt;Discuss any issues that may be arising&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Evaluate Self and Peers Using the Form</name>
@@ -166,7 +154,6 @@
 <textHTML>&lt;p&gt;At the end of the semester&lt;/p&gt;&lt;p&gt;Perform team and peer evaluation using the "Team Member Evaluation Form" available in &lt;a href="https://www.saltise.ca/wp-content/uploads/2019/11/BuildingEffectiveTeamsReosurces.zip" target="_blank"&gt;Student Resources&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 <node><name>Mark Students Based on Evaluation Form</name>
@@ -177,7 +164,6 @@
 <textHTML>&lt;p&gt;Determine a peer- and self-evaluation grade based on the submitted evaluation form.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<isdropped>true</isdropped>
 <tagARRAY/>
 </node>
 </week>
