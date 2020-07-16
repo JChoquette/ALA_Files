@@ -1,0 +1,110 @@
+<project><prname>CLAW At-Home Experiments: The Rate Law in Chemical Kinetics Using Blue Food Dye</prname>
+<idnum>34</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: The Rate Law in Chemical Kinetics Using Blue Food Dye</wfname>
+<wfauthor>By Yann Brouillette, Carmen Leung, and Nadia Schoonhoven</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to demonstrate how the rate law and rate constant can be determined for the reaction of blue food dye with sodium hypochlorite found in bleach. See a full description here.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the &lt;u&gt;protocol&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk through the procedure synchronously, or by sharing a pre-recorded video assynchronously&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Dilute Beach
+- Trials 1 &amp; 2</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Set up your experiment, paying close attention to the instructions in the protocol&lt;/li&gt;&lt;li&gt;Prepare bleach solution with 1 teaspoon of bleach and measure its temperature&lt;/li&gt;&lt;li&gt;Add blue dye into the solution&lt;/li&gt;&lt;li&gt;Record RGB value of the solution every 30 secs, using the data table, until the red colour value no longer changes&lt;/li&gt;&lt;li&gt;Repeat the experiment once more with a solution using 1 teaspoon of bleach&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>180</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Dilute Beach
+- Trials 3 &amp; 4</name>
+<id>21</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Repeat the experiment for two more trials with a solution using 2 teaspoons of bleach&lt;/li&gt;&lt;li&gt;Record the RGB value every 15 secs, using the data table, until the red colour value no longer changes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Calculate and Analyze Data</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Plot graphs in Excel&lt;/li&gt;&lt;li&gt;Analyze the data and calculate values&lt;/li&gt;&lt;li&gt;Complete the data table&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Complete Lab Report</name>
+<id>33</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a lab report for the experiment, including a picture of the set-up&lt;/li&gt;&lt;li&gt;Submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>23</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Optional: Reverse Dyeing</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Remove the colour that is already in the shirt.&lt;/p&gt;&lt;p&gt;Note: The four most common techniques for reverse tie dye are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Submerging textile in bleach&lt;/li&gt;&lt;li&gt;Spraying bleach onto fabric with spray bottle&lt;/li&gt;&lt;li&gt;Pouring bleach directly on fabric&lt;/li&gt;&lt;li&gt;Using bleach pen directly on fabric&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>170</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

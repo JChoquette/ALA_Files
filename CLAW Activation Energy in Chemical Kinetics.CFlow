@@ -1,0 +1,121 @@
+<project><prname>CLAW At-Home Experiments: Activation Energy in Chemical Kinetics</prname>
+<idnum>55</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: Activation Energy in Chemical Kinetics</wfname>
+<wfauthor>By Yann Brouillette, Carmen Leung, and Nadia Schoonhoven</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to demonstrate how the rate of a chemical reaction&lt;/p&gt;&lt;p&gt;is temperature dependent. See a full description here.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the protocol&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk-through of the procedure synchronously, or by sharing a pre-recorded video asynchronously&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Perform Reaction at Room Temperature</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare bleach solution and measure its temperature&lt;/li&gt;&lt;li&gt;Add blue dye into the solution&lt;/li&gt;&lt;li&gt;Record RGB value of the solution every 30 secs, using the data table, until the value no longer changes.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Perform Reaction at Cooler Temperature</name>
+<id>15</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare bleach solution. Before adding bleach, measure water temperature (it should be 5 - 8 &lt;sup&gt;o&lt;/sup&gt;C lower than room temperature)&lt;/li&gt;&lt;li&gt;Add blue dye into the solution&lt;/li&gt;&lt;li&gt;Record RGB value of the solution every 30 secs&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Perform Reactions at Elevated Temperature</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare bleach solution Before adding bleach, measure water temperature (it should be 5 - 8 &lt;sup&gt;o&lt;/sup&gt;C, higher than the room temperature, but lower than 45 &lt;sup&gt;o&lt;/sup&gt;C)&lt;/li&gt;&lt;li&gt;Add blue dye into the solution&lt;/li&gt;&lt;li&gt;Record RGB value of the solution every 30 secs&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Repeat the reaction two more times. The temperatures for the three elevated-temperature reactions should be between room temperature and 45 &lt;sup&gt;o&lt;/sup&gt;C, with 5 - 8&lt;sup&gt;o&lt;/sup&gt;C, difference between each run (e.g., 30 &lt;sup&gt;o&lt;/sup&gt;C, 37 &lt;sup&gt;o&lt;/sup&gt;C, and 45 &lt;sup&gt;o&lt;/sup&gt;C).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>220</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Calculate and Analyze Data</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Plot graphs in Excel&lt;/li&gt;&lt;li&gt;Analyze the data and calculate values&lt;/li&gt;&lt;li&gt;Complete data table&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>43</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Complete Lab Report</name>
+<id>43</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a lab report, including a picture of the experimental setup&lt;/li&gt;&lt;li&gt;Submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<link><targetid>45</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Optional: Help Flower Bouquets</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Fill a vase with bleach and sugar in water before adding the flowers. The bleach and sugar not only helps the freshly cut flowers last longer, but it also prevents harmful bacteria from growing in the water and keeps the water clearer.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>45</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>50</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

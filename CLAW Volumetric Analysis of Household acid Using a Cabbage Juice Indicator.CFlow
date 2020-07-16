@@ -1,0 +1,101 @@
+<project><prname>CLAW At-Home Experiments: Volumetric Analysis of Household acid Using a Cabbage Juice Indicator</prname>
+<idnum>76</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: Volumetric Analysis of Household acid Using a Cabbage Juice Indicator</wfname>
+<wfauthor>By Yann Brouillette, Carmen Leung, and Nadia Schoonhoven</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to learn to determine the concentration of an acid found in a household product by titration using cabbage juice as the acid-base indicator. See a full description here.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the &lt;u&gt;protocol&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk through the procedure synchronously, or by sharing a pre-recorded video assynchronously&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare the Stationary Phase and Samples</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare the indicator with one of the three options: red cabbage, blueberries, or blueberry jam&lt;/li&gt;&lt;li&gt;Prepare the titrant solution of sodium bicarbonate with baking soda&lt;/li&gt;&lt;li&gt;Prepare the household acid with vinegar, Aspirin, vitamin C, and lemon juice&lt;/li&gt;&lt;li&gt;Start the titration of all four household acid solutions&lt;/li&gt;&lt;li&gt;Record the volume of the baking soda solution used to reach the endpoint on the data sheet&lt;/li&gt;&lt;li&gt;Repeat the titration steps until 3 consistent results are obtained (i.e. the volume at the endpoint for each trial should not differ by more than a few mL)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>250</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Calculate and Analyze Data</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Calculate values and analyze the data&lt;/li&gt;&lt;li&gt;Complete the data sheets&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>67</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Complete Lab Report</name>
+<id>67</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a lab report for the experiment, including a picture of the set-up&lt;/li&gt;&lt;li&gt;Submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>68</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Optional: Cook Red Cabbage Soup </name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;With the leftover cabbage, cook red cabbage soup.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>68</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

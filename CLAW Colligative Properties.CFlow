@@ -1,0 +1,97 @@
+<project><prname>CLAW At-Home Experiments: Colligative Properties</prname>
+<idnum>36</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: Colligative Properties</wfname>
+<wfauthor>By Yann Brouillette, Carmen Leung, and Nadia Schoonhoven</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to demonstrate how the rate law and rate constant can be determined for the reaction of blue food dye with sodium hypochlorite found in bleach. See a full description here. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the &lt;u&gt;protocol&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk through the procedure synchronously, or by sharing a pre-recorded video assynchronously&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Solutions and Carry out Experiment</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare 3 sucrose solutions and Leave them overnight ( &amp;gt; 8hrs)&lt;/li&gt;&lt;li&gt;Prepare the ice/salt bath and record its temperature&lt;/li&gt;&lt;li&gt;Put water and the three sucrose solutions in the ice/salt bath&lt;/li&gt;&lt;li&gt;Document the temperature every 30 secs until it stabilizes, using the provided data sheet&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Clean the tubes before repeating the process for each of the sucrose solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>200</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Calculate and Analyze Data</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Plot graphs in Excel&lt;/li&gt;&lt;li&gt;Analyze the data and calculate values&lt;/li&gt;&lt;li&gt;Complete the data table&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>80</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>27</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Complete Lab Report</name>
+<id>27</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare a lab report for the experiment&lt;/li&gt;&lt;li&gt;Submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Optional: Prepare Homemade Ice Cream</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Make own ice cream at home using the same principle of freezing point depression examined in this experiment, “Ice Cream in a Bag” (Delish.com).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>28</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>60</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>
