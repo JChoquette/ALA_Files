@@ -1,5 +1,5 @@
 <project><prname>Problem Set Using Lightboard Video Recordings</prname>
-<idnum>93</idnum>
+<idnum>103</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Problem Set Using Lightboard Video Recordings</wfname>
 <wfauthor>By Christopher Moraes</wfauthor>
@@ -28,11 +28,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Post the problem set to the course website which includes numerical answers&lt;/li&gt;&lt;li&gt;Assign a group of four students to make a video in their medium of choice (lightboard recording, blackboard recording with cell phone, etc.) which will include a short lesson providing hints to the solution of one of the problems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The material in the problem set has NOT yet been covered in class but will be covered over the course of the week. The&amp;nbsp;professor may clarify misconceptions or issues students may have.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Post the problem set to the course website which includes numerical answers&lt;/li&gt;&lt;li&gt;Assign a group of four students to make a video in their medium of choice (lightboard recording, blackboard recording with cell phone, etc.) which will include a short lesson providing hints to the solution of one of the problems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The material in the problem set has NOT yet been covered in class but will be covered over the course of the week. The&amp;nbsp;professor may clarify misconceptions or issues students have.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>284</textheight>
+<textheight>240</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Work on Problem Set</name>
 <id>10</id>
@@ -43,18 +42,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Record Lessons for Students to View</name>
 <id>5</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Wednesday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct three TAs to perform a short lesson involving the problem set, using a lightboard&lt;/li&gt;&lt;li&gt;Ask TAs to Video record the lesson and post the videos to an unlisted YouTube Channel for students to view&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Wednesday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Direct three teaching assistants (TAs) to perform a short lesson involving the problem set, using a lightboard&lt;/li&gt;&lt;li&gt;Ask TAs to Video record the lesson and post the videos to an unlisted YouTube Channel for students to view&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>144</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Post Videos</name>
 <id>11</id>
@@ -63,9 +60,8 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Friday&lt;/p&gt;&lt;p&gt;Create videos and post their video to the unlisted YouTube Channel.&lt;/p&gt;&lt;p&gt;Note: This video is not graded, but rather a participation mark is awarded for completion (2 percent of the final grade).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>134</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <week><weekid>38</weekid>
@@ -75,37 +71,34 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Monday&lt;/p&gt;&lt;p&gt;Work throughout the tutorial to develop strategies for the problem set (along with the assistance of the teaching assistant).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Monday&lt;/p&gt;&lt;p&gt;Work throughout the tutorial to develop strategies for the problem set (along with the assistance of the TA).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>90</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Mini Lecture on the Problem Set</name>
 <id>39</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Direct teaching assistant to give mini lessons on the problem set.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Direct TA to give mini lessons on the problem set.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>54</textheight>
+<textheight>50</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Post Solutions to the Problem Set</name>
 <id>16</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;After Wednesday&lt;/p&gt;&lt;p&gt;Direct teaching assistant to post the solutions to one or two of the problem(s) in the form of a lightboard video recording to the unlisted YouTube Channel.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: One or two of the problems are randomly selected for grading from the problem set.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;After Wednesday&lt;/p&gt;&lt;p&gt;Direct TA to post the solutions to one or two of the problem(s) in the form of a lightboard video recording to the unlisted YouTube Channel.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Note: One or two of the problems are randomly selected for grading from the problem set.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>148</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<wflegendx>960</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 <simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

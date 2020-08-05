@@ -1,0 +1,125 @@
+<project><prname>Solving World Issues One Smartphone at a Time</prname>
+<idnum>145</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Solving World Issues One Smartphone at a Time</wfname>
+<wfauthor>By Laura King, Alex Lussier, and Alice Havel </wfauthor>
+<wfdescription>&lt;p&gt;The purpose of this activity is to familiarize students with the potential of online tools for problem-solving.&lt;/p&gt;</wfdescription>
+<wfid>71</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>70</weekid>
+<node><name>Prepare Activity</name>
+<id>63</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Choose an open innovation theme.&lt;/p&gt;&lt;p&gt;Note: This theme should reflect a complex problem and require students to work together to find creative ways to solve it. The chosen theme should be divided into sub-problems to be assigned to groups of students to jump-start the problem-solving in class. See t&lt;u&gt;he Open Innovation Activity Template (to be linked)&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>154</textheight>
+<timevalue>3</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Research the Open Innovation Theme</name>
+<id>64</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Research the open innovation theme&lt;/li&gt;&lt;li&gt;Choose three sources to take to class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>1</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>65</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present the open innovation activity and the platform that will be used&lt;/li&gt;&lt;li&gt;Instruct students to work in teams&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Solutions to the Problem</name>
+<id>66</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the theme&lt;/li&gt;&lt;li&gt;Present their preliminary research (the three sources they had to find at home)&lt;/li&gt;&lt;li&gt;Come up with creative solutions to the problem&lt;/li&gt;&lt;li&gt;Share information on the open innovation platform for other teams to see&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<timevalue>1</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Finalize and Prepare Presentations</name>
+<id>67</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finalize the section on the online innovation platform &lt;/li&gt;&lt;li&gt;Decide how to present the solution&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present Different Solutions</name>
+<id>68</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present the solutions. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Different Solutions</name>
+<id>133</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the different solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>44</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>69</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Evaluate Students' Work</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Optional: Evaluate the students' research skills, presentation skills, or creativity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,5 +1,5 @@
 <project><prname>Race for the Hat!</prname>
-<idnum>83</idnum>
+<idnum>90</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Race for the Hat!</wfname>
 <wfauthor>By Francesca Theriault</wfauthor>
@@ -31,7 +31,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>158</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Choose Roles and Prepare Materials</name>
 <id>5</id>
@@ -42,7 +41,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>334</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Choose and Ask Questions</name>
 <id>9</id>
@@ -57,7 +55,6 @@
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Answer the Question</name>
 <id>10</id>
@@ -73,7 +70,6 @@
 <linktext>Repeat answering questions
 until there are none left</linktext>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Collect and Evaluate Students' Answers</name>
 <id>14</id>
@@ -84,15 +80,9 @@ until there are none left</linktext>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;Repeat&lt;/p&gt;</textHTML>
-<x>100</x>
-<y>1080</y>
-<commentparent>2</commentparent>
-</comment>
-<wflegendx>960</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

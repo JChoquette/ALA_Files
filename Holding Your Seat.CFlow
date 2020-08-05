@@ -1,5 +1,5 @@
 <project><prname>Holding Your Seat</prname>
-<idnum>177</idnum>
+<idnum>187</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Holding Your Seat</wfname>
 <wfauthor>By Daniel Goldsmith
@@ -28,11 +28,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the potential occupational hazards that can put a person at risk of becoming traumatized&lt;/li&gt;&lt;li&gt;Show &lt;u&gt;Video Clip 1&lt;/u&gt; discussing exposure to trauma&lt;/li&gt;&lt;li&gt;Show&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;Video Clip 2&lt;/u&gt; discussing what a traumatized person experiences. Video Clip 2 also provides a conceptual introduction for the meditation exercise later during the class&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 3-4&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Meditation steps are included in &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Guided-Mindfulness-Meditation-Handout.pdf" target="_blank"&gt;Guided Mindfulness&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss the potential occupational hazards that can put a person at risk of becoming traumatized&lt;/li&gt;&lt;li&gt;Show &lt;a href="https://vimeo.com/355545266" target="_blank"&gt;Video Clip 1&lt;/a&gt; discussing exposure to trauma&lt;/li&gt;&lt;li&gt;Show&lt;strong&gt; &lt;/strong&gt;&lt;a href="https://vimeo.com/355545500" target="_blank"&gt;Video Clip 2&lt;/a&gt; discussing what a traumatized person experiences. Video Clip 2 also provides a conceptual introduction for the meditation exercise later during the class&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 3-4&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Meditation steps are included in &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Guided-Mindfulness-Meditation-Handout.pdf" target="_blank"&gt;Guided Mindfulness&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>234</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Videos</name>
 <id>6</id>
@@ -43,7 +42,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>44</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Videos as a Class</name>
 <id>4</id>
@@ -54,18 +52,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>58</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Meditation </name>
 <id>5</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;To prepare for the meditation exercise,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show &lt;u&gt;Video Clip 3&lt;/u&gt;, discussing a metaphor for meditation&lt;/li&gt;&lt;li&gt;Describe the type of meditation students will be performing&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;To prepare for the meditation exercise,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show &lt;a href="https://vimeo.com/355545779" target="_blank"&gt;Video Clip 3&lt;/a&gt;, discussing a metaphor for meditation&lt;/li&gt;&lt;li&gt;Describe the type of meditation students will be performing&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>110</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Practice and Reflect on Meditation</name>
 <id>7</id>
@@ -76,7 +72,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Experience</name>
 <id>15</id>
@@ -87,7 +82,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Experience as a Class</name>
 <id>12</id>
@@ -98,21 +92,19 @@
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Meditation as a Practice</name>
 <id>20</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Address common misconceptions during class discussion&lt;/li&gt;&lt;li&gt;Answer any student questions. Use &lt;u&gt;Video Clip 4&lt;/u&gt; to address misconceptions if needed&lt;/li&gt;&lt;li&gt;Discuss how meditation can be used as a tool to cope with everyday stressful situations in student life or in professional life&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It is optional to discuss the meditation FAQ found in the Guided Mindfulness pdf.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Address common misconceptions during class discussion&lt;/li&gt;&lt;li&gt;Answer any student questions. Use &lt;a href="https://vimeo.com/355545891" target="_blank"&gt;Video Clip 4&lt;/a&gt; to address misconceptions if needed&lt;/li&gt;&lt;li&gt;Discuss how meditation can be used as a tool to cope with everyday stressful situations in student life or in professional life&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It is optional to discuss the meditation FAQ found in the Guided Mindfulness pdf.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>188</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<wflegendx>960</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
