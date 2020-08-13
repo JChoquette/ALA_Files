@@ -1,5 +1,5 @@
 <project><prname>Engineering Poster Presentations</prname>
-<idnum>141</idnum>
+<idnum>151</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Engineering Poster Presentations with Peer Assessment</wfname>
 <wfauthor>By Lawrence Chen</wfauthor>
@@ -27,11 +27,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Direct teaching assistant to assign students to a group of 4 to 6 students.&lt;/p&gt;&lt;p&gt;Note: Only a part of students from this class will present posters while others have chosen to make a video or do a debate (See the complete &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Tutorial_Debates_Videos_and_Posters_Instructions.pdf" target="_blank"&gt;Instruction&lt;/a&gt;).&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Direct teaching assistant to assign students to a group of 4 to 6 students.&lt;/p&gt;&lt;p&gt;Note: Only a part of students from this class will present posters while others have chosen to make a video or do a debate (See the complete &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Tutorial_Debates_Videos_and_Posters_Instructions.pdf" target="_blank"&gt;Instructions&lt;/a&gt;).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>128</textheight>
+<textheight>140</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Choose Challenges &amp; Make Posters</name>
 <id>6</id>
@@ -40,9 +39,8 @@
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Pick an engineering challenge identified by the National Academy of Engineering&lt;/li&gt;&lt;li&gt;Make a poster discussing their chosen topic along with describing the role of at least two engineering disciplines and two non-engineering disciplines that must work collaboratively together in this project&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>142</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>7</id>
@@ -53,7 +51,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>176</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present and Vote for Posters</name>
 <id>8</id>
@@ -64,7 +61,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>294</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Assess Posters</name>
 <id>9</id>
@@ -75,7 +71,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Reward Top Posters</name>
 <id>11</id>
@@ -84,9 +79,8 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;In the following class&lt;/p&gt;&lt;p&gt;Give a prize to the top three posters, which is based on the student votes.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>104</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Group Peer &amp; Self Evaluation </name>
 <id>13</id>
@@ -97,7 +91,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Assign Final Grades for Posters</name>
 <id>14</id>
@@ -108,10 +101,9 @@
 <linkedwf>undefined</linkedwf>
 <textheight>132</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<wflegendx>960</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

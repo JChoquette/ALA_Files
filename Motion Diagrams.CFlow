@@ -1,5 +1,5 @@
 <project><prname>Motion Diagrams</prname>
-<idnum>11191</idnum>
+<idnum>11206</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Motion Diagrams</wfname>
 <wfauthor>By Chris Whittaker</wfauthor>
@@ -27,11 +27,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 5-6&lt;/li&gt;&lt;li&gt;At interactive whiteboards, instruct groups to open the notebook file containing the motion problems&lt;/li&gt;&lt;li&gt;Demonstrate how to use the notebook file by modelling a simple 1D problem (either the first part or in its entirety)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign students to groups of 5-6&lt;/li&gt;&lt;li&gt;At interactive whiteboards, instruct groups to open the notebook file (see the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Motion-Diagram_Notebook-Printout.pdf" target="_blank"&gt;PDF&lt;/a&gt;) containing the motion problems&lt;/li&gt;&lt;li&gt;Demonstrate how to use the notebook file by modelling a simple 1D problem (either the first part or in its entirety)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>154</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create Motion Diagrams</name>
 <id>11113</id>
@@ -42,7 +41,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>204</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Find Average Acceleration</name>
 <id>11118</id>
@@ -53,7 +51,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Analyze Solutions</name>
 <id>11115</id>
@@ -68,7 +65,6 @@
 <link><targetid>11126</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Review Correct Solution</name>
 <id>11126</id>
@@ -84,7 +80,6 @@
 <linktext>Repeat for several more problems 
 of increasing complexity</linktext>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Review Activity</name>
 <id>11129</id>
@@ -95,7 +90,6 @@ of increasing complexity</linktext>
 <linkedwf>undefined</linkedwf>
 <textheight>56</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>700</wflegendx>

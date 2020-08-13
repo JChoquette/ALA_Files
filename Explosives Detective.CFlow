@@ -1,5 +1,5 @@
 <project><prname>Explosives Detective</prname>
-<idnum>11111172</idnum>
+<idnum>11111181</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Explosives Detective</wfname>
 <wfauthor>By Adamo R. Petosa</wfauthor>
@@ -30,6 +30,7 @@
 <textHTML>&lt;p&gt;Instruct students to break into pairs.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review Concepts</name>
 <id>01111</id>
@@ -39,15 +40,17 @@
 <textHTML>&lt;p&gt;In pairs, review the concepts of (a) molar mass, (b) % mass composition, and (c) empirical/molecular formulas by solving 1-2 sample problems.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Reveal the Mystery and Clues</name>
 <id>011111</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Present mystery and clues to the entire class&lt;/li&gt;&lt;li&gt;Instruct students to take necessary notes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/ExplosivesDetective_Presentation.pdf" target="_blank"&gt;mystery and clues&lt;/a&gt; to the entire class&lt;/li&gt;&lt;li&gt;Instruct students to take necessary notes&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Identify Explosive and Vote on the Culprit</name>
 <id>0111111</id>
@@ -57,6 +60,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Pay close attention to the information presented, taking note of (a) suspect names, (b) explosives names, (c) explosive molecular formulae, and (d) clues&lt;/li&gt;&lt;li&gt;Organize the information provided and solve multiple problems with the aim of identifying the compound responsible for the explosion&lt;/li&gt;&lt;li&gt;Vote on the culprit based on the work completed&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>192</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Discuss Reasoning for Voting</name>
 <id>11111114</id>
@@ -66,6 +70,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Teams that voted for different suspects join forces, forming groups of 4-6 students&lt;/li&gt;&lt;li&gt;Discuss why they voted for one suspect versus another, presenting their findings to one another&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Vote again on the Culprit</name>
 <id>011111111</id>
@@ -75,6 +80,7 @@
 <textHTML>&lt;p&gt;Again, vote on the culprit based on the group discussions.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Identify the Culprit and Discuss Errors</name>
 <id>11111122</id>
@@ -84,6 +90,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Identify the guilty party&lt;/li&gt;&lt;li&gt;Ensure that groups that identified the wrong suspect discuss their errors with the entire class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 </week>
 <wflegendx>700</wflegendx>

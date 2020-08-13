@@ -1,9 +1,9 @@
 <project><prname>Phylogeny </prname>
-<idnum>78</idnum>
+<idnum>89</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Phylogeny </wfname>
 <wfauthor>By Edward Awad</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students learn how to construct phylogenetic trees based on evolutionary traits using three different example scenarios. Students learn about biological diversity and the evolution of traits, and develop autonomous critical thinking skills and collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/?s=phylogeny&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students learn how to construct phylogenetic trees based on evolutionary traits using three different example scenarios. Students learn about biological diversity and the evolution of traits, and develop autonomous critical thinking skills and collaborative skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/phylogeny/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -27,11 +27,10 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Work on a sheet provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings&lt;/li&gt;&lt;li&gt;Do assigned readings and watch a video about phylogenetics&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review a &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Phylogeny_Concepts_Learning-Outcomes_EAwad.pdf" target="_blank"&gt;handout&lt;/a&gt; provided by the instructor with the topics to be covered, including key concepts, learning outcomes, and assigned readings&lt;/li&gt;&lt;li&gt;Do assigned readings and watch a video about phylogenetics&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Do a Quiz to Test Knowledge</name>
 <id>55</id>
@@ -42,7 +41,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>70</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>7</id>
@@ -53,18 +51,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>104</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Construct Phylogenic Tree</name>
 <id>8</id>
 <lefticon>group</lefticon>
 <righticon>create</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of 2-3 &lt;/li&gt;&lt;li&gt;Analyze the scenario information on the 		handout&lt;/li&gt;&lt;li&gt;Construct the phylogenetic tree on a Smartboard&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Get into groups of 2-3&lt;/li&gt;&lt;li&gt;Analyze the scenario information on the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Phylogeny_Student-Handout.pdf" target="_blank"&gt;activity handout&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Construct the phylogenetic tree on a Smartboard&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>94</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Rethink about Construction Process</name>
 <id>10</id>
@@ -75,18 +71,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>164</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Student Questions</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Regroup the class to answer student questions&lt;/li&gt;&lt;li&gt;Proceed with clicker questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Regroup the class to answer student questions&lt;/li&gt;&lt;li&gt;Proceed with clicker questions (find questions and answers in &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Phylogeny_Class_Activity_Answers.pdf" target="_blank"&gt;teacher guide&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>74</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Clicker Questions</name>
 <id>13</id>
@@ -103,7 +97,6 @@
 <link><targetid>15</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Revise Answers</name>
 <id>14</id>
@@ -119,7 +112,6 @@
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 <linkstyle>dashed</linkstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Practice More Questions</name>
 <id>15</id>
@@ -130,7 +122,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

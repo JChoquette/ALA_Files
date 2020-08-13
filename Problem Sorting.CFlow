@@ -1,5 +1,5 @@
 <project><prname>Problem Sorting</prname>
-<idnum>64</idnum>
+<idnum>71</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Problem Sorting</wfname>
 <wfauthor>By Sameer Bhatnagar</wfauthor>
@@ -30,17 +30,17 @@
 <textHTML>&lt;p&gt;Students are assigned to groups of 3-4.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>44</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Analyze Problems and Write Rationale</name>
 <id>4</id>
 <lefticon>solo</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Work on three problems given by the instructor.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Determine which of the three problems is least like the others. This decision should be made based on the physics in the problem, not on superficial grounds&lt;/li&gt;&lt;li&gt;Provide a written rationale for the response&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Work on three problems (on &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Problem-Sorting_Sorting-Tasks.pdf" target="_blank"&gt;Dynamics or Kinematics&lt;/a&gt;) given by the instructor.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Determine which of the three problems is least like the others. This decision should be made based on the physics in the problem, not on superficial grounds&lt;/li&gt;&lt;li&gt;Provide a written rationale for the response&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>144</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Decide on a Correct Solution</name>
 <id>18</id>
@@ -50,12 +50,13 @@
 <textHTML>&lt;p&gt;Discuss and debate each other's work, coming to a consensus on the correct solution.&lt;/p&gt;&lt;p&gt;Note: May choose to alter the response based on the discussion (using a different coloured pen).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
+<isdropped>true</isdropped>
 <link><targetid>4</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 <linktext>Repeat 3 times - 
 for a total of 9 problems</linktext>
+<linklabelx>-0.0563</linklabelx>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Review the Three Correct Solutions</name>
 <id>20</id>
@@ -65,7 +66,7 @@ for a total of 9 problems</linktext>
 <textHTML>&lt;p&gt;Review the three correct solutions and explain the underlying similarities.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review Problems and Write Rationale</name>
 <id>21</id>
@@ -75,7 +76,7 @@ for a total of 9 problems</linktext>
 <textHTML>&lt;ul&gt;&lt;li&gt;Review all 9 problems, and select the 4 which feel most similar&lt;/li&gt;&lt;li&gt;Provide a written rationale for why these 4 were selected&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 </week>
 <wflegendx>700</wflegendx>

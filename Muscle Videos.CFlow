@@ -1,5 +1,5 @@
 <project><prname>Muscle Videos</prname>
-<idnum>1111111160</idnum>
+<idnum>1111111181</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Muscle Videos</wfname>
 <wfauthor>By Tim Miller</wfauthor>
@@ -31,7 +31,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>01111</id>
@@ -42,7 +41,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Warm up for the Activity</name>
 <id>0111111</id>
@@ -53,18 +51,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>162</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Provide Resources and Instructions</name>
 <id>01111111</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Provide students with a link to a relevant video they are to watch and analyze (e.g., baseball pitch, softball pitch, golf swing)&lt;/li&gt;&lt;li&gt;Provide analysis instructions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: At least two groups must obtain the same video, allowing for peer-review.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide students with a link to a relevant video they are to watch and analyze (e.g., baseball pitch, softball pitch, golf swing)&lt;/li&gt;&lt;li&gt;Provide &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Muscle_Instructions.pdf" target="_blank"&gt;analysis instructions&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: At least two groups must obtain the same video, allowing for peer-review.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Annotate Screenshots</name>
 <id>011111111</id>
@@ -75,7 +71,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review and Modify Analyses</name>
 <id>1111111123</id>
@@ -86,7 +81,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Decide the Correct Answer</name>
 <id>1111111120</id>
@@ -97,7 +91,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>108</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present Findings</name>
 <id>1111111117</id>
@@ -108,7 +101,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Summarize Activity</name>
 <id>1111111114</id>
@@ -119,7 +111,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>940</wflegendx>

@@ -1,5 +1,5 @@
 <project><prname>Teacher for a Day</prname>
-<idnum>192</idnum>
+<idnum>201</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Teacher for a Day</wfname>
 <wfauthor>By Philippe Caignon
@@ -34,7 +34,6 @@
 <timevalue>15</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>29</id>
@@ -45,7 +44,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>140</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Topic</name>
 <id>8</id>
@@ -62,7 +60,6 @@
 <link><targetid>13</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Facilitate Discussions </name>
 <id>10</id>
@@ -77,7 +74,6 @@
 <link><targetid>8</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Present Material as Experts</name>
 <id>13</id>
@@ -90,7 +86,6 @@
 <timevalue>25</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review All Topics</name>
 <id>15</id>
@@ -101,20 +96,18 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Share and Complete Exercise</name>
 <id>16</id>
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Using the knowledge they learned from their peers, perform a think-pair-share problem-solving exercise, outlined in &lt;u&gt;”Structure of a Definition” activity&lt;/u&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Using the knowledge they learned from their peers, perform a think-pair-share problem-solving exercise, outlined in &lt;a href="https://www.saltise.ca/activity/thinkpair/" target="_blank"&gt;"Defining a Definition"&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>960</wflegendx>

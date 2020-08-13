@@ -1,5 +1,5 @@
 <project><prname>Kinematics Concept Mapping</prname>
-<idnum>74</idnum>
+<idnum>82</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Kinematics Concept Mapping</wfname>
 <wfauthor>By Michael Dugdale</wfauthor>
@@ -27,11 +27,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Explain how ideas can be linked together in a concept map, showing examples of concept maps&lt;/li&gt;&lt;li&gt;Assign groups of 3-4&lt;/li&gt;&lt;li&gt;Give each group sheets of ‘nodes’ and ‘links’ (linking prepositions) for their concept map. Each linking preposition represents concepts from kinematics&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Explain how ideas can be linked together in a concept map, showing &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Examples_Kinematics-Concept-Mapping.pdf" target="_blank"&gt;examples&lt;/a&gt; of concept maps&lt;/li&gt;&lt;li&gt;Assign groups of 3-4&lt;/li&gt;&lt;li&gt;Give each group sheets of &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Nodes-and-Links_Kinematics-Concept-Mapping.pdf" target="_blank"&gt;‘nodes’ and ‘links’&lt;/a&gt; (linking prepositions) for their concept map. Each linking preposition represents concepts from kinematics&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>148</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Create Concept Maps</name>
 <id>7</id>
@@ -42,18 +41,16 @@
 <linkedwf>undefined</linkedwf>
 <textheight>126</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Answer Conceptual Questions</name>
 <id>18</id>
 <lefticon>solo</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Answer the four questions given by the instructor, providing a response and written rationale.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Kinematics-Concept-Mapping_Quiz-and-Question-Nodes.pdf" target="_blank"&gt;four questions&lt;/a&gt; given by the instructor, providing a response and written rationale.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>68</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Finalize Responses</name>
 <id>15</id>
@@ -64,14 +61,13 @@
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Revise Concept Maps</name>
 <id>12</id>
 <lefticon>group</lefticon>
 <righticon>practice</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Integrate the four questions as new nodes into the existing concept maps.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Integrate the &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Kinematics-Concept-Mapping_Quiz-and-Question-Nodes.pdf" target="_blank"&gt;four questions&lt;/a&gt; as new nodes into the existing concept maps.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
 <isdropped>true</isdropped>
@@ -80,7 +76,6 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 <linkstyle>dashed</linkstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Gallery Walk</name>
 <id>9</id>
@@ -91,7 +86,6 @@
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>700</wflegendx>

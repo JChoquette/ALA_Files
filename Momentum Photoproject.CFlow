@@ -1,5 +1,5 @@
 <project><prname>Momentum Photoproject</prname>
-<idnum>11236</idnum>
+<idnum>11254</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Momentum Photoproject</wfname>
 <wfauthor>By Rhys Adams</wfauthor>
@@ -31,6 +31,7 @@
 <textHTML>&lt;p&gt;Preassign students to groups (4-6 students) prior to the activity.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Obtain and Classify Photos/Video </name>
 <id>11117</id>
@@ -40,6 +41,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Either (a) find photos or a video online or (b) take own photos or videos of two interacting objects&lt;/li&gt;&lt;li&gt;Isolate photos/screenshots of the before, during, and after states of the interaction&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>114</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Draw FBDs &amp; Identify Interaction Features</name>
 <id>11114</id>
@@ -49,6 +51,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Draw free-body diagrams (FBDs) for the two interacting objects (using the “during” image)&lt;/li&gt;&lt;li&gt;Prepare a written explanation identifying the key features (e.g. duration) of the interaction and the relative magnitudes of forces on objects&amp;nbsp;&lt;/li&gt;&lt;li&gt;Upload images, FBDs, and explanations into an online collaborative platform (e.g. Visual Classroom) for sharing with group members and instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>194</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review and Modify FBDs</name>
 <id>11119</id>
@@ -58,6 +61,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Peer-review each other’s work&lt;/li&gt;&lt;li&gt;Discuss the accuracy of their FBDs, making any necessary changes&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>74</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review FBDs</name>
 <id>11120</id>
@@ -67,15 +71,17 @@
 <textHTML>&lt;p&gt;Determine whether FBDs and explanations meet necessary criteria.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Present Questions</name>
 <id>11177</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Present the class with clicker type questions (e.g. Ohio State questions) relating to momentum.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present the class with &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/MomentumPhotoproject_ClickerQuestions.pdf" target="_blank"&gt;clicker type questions&lt;/a&gt; (e.g. Ohio State questions) relating to momentum.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Answer Clicker Questions</name>
 <id>11121</id>
@@ -85,6 +91,7 @@
 <textHTML>&lt;p&gt;At a dry-erase whiteboard or interactive whiteboard, answer the questions, providing a written rationale for responses.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Examine Concept Questions and FBDs</name>
 <id>11123</id>
@@ -94,6 +101,7 @@
 <textHTML>&lt;p&gt;Compare and contrast (a) answers to the concept questions and (b) the FBDs for their own interacting objects and identify similarities between the two.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 <link><targetid>11133</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
 <linktext>Choose one Option</linktext>
@@ -111,6 +119,7 @@
 <textHTML>&lt;p&gt;Using an online collaborative platform, correct the FBDs, indicating what is changed.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>72</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review FBDs</name>
 <id>11139</id>
@@ -120,6 +129,7 @@
 <textHTML>&lt;p&gt;Assess/peer-review groupmates’ FBDs and explanations, suggesting potential improvements.&lt;/p&gt;&lt;p&gt;Note: The instructor may also comment during the peer review if desired.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>106</textheight>
+<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>11180</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -133,6 +143,7 @@
 <textHTML>&lt;p&gt;Submit final FBD and an updated rationale using an online collaborative platform.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>64</textheight>
+<isdropped>true</isdropped>
 <noautolink>true</noautolink>
 </node>
 </week>
@@ -146,6 +157,7 @@
 <textHTML>&lt;ul&gt;&lt;li&gt;Prepare own test question based on the selected photos/screenshots&lt;/li&gt;&lt;li&gt;Post it into an online collaborative platform&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Select Student Questions &amp; Present</name>
 <id>11130</id>
@@ -155,6 +167,7 @@
 <textHTML>&lt;p&gt;Select the most interesting student-designed questions and present/assign them to the class.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>Solve Questions and Submit</name>
 <id>11127</id>
@@ -164,6 +177,7 @@
 <textHTML>&lt;p&gt;Solve the questions and submit responses to the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>70</textheight>
+<isdropped>true</isdropped>
 </node>
 </week>
 <wflegendx>940</wflegendx>

@@ -1,5 +1,5 @@
 <project><prname>Problem Sorting Review</prname>
-<idnum>52</idnum>
+<idnum>59</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Problem Sorting Review</wfname>
 <wfauthor>By Sameer Bhatnagar</wfauthor>
@@ -27,10 +27,10 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Give each group 27 cards, each of which has a problem on it&lt;/li&gt;&lt;li&gt;These cards correspond to the three sets of problems (9 each) used in the Problem Sorting activity&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Ideally these cards are provided on interactive whiteboards in a notebook file, however physical printed cards can also work.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assign students to groups of 3-4.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Give each group 27 &lt;a href="https://www.saltise.ca/wp-content/uploads/2018/09/Problem-Sorting_Questions.pdf" target="_blank"&gt;cards&lt;/a&gt;, each of which has a problem on it&lt;/li&gt;&lt;li&gt;These cards correspond to the three sets of problems (9 each) used in the &lt;a href="https://www.saltise.ca/activity/problem-sorting/" target="_blank"&gt;Problem Sorting&lt;/a&gt; activity&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Ideally these cards are provided on interactive whiteboards in a notebook file, however physical printed cards can also work.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>184</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Categorize Problems</name>
 <id>4</id>
@@ -40,7 +40,7 @@
 <textHTML>&lt;p&gt;Sort the problems into categories of own choosing.&lt;/p&gt;&lt;p&gt;Note: This decision should be made based on the physics in the problem, not on superficial grounds. There is no correct answer here: the justification is more important.&amp;nbsp;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>124</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Justify Categorization</name>
 <id>12</id>
@@ -50,7 +50,7 @@
 <textHTML>&lt;p&gt;Provide a written rationale for the chosen groupings, explaining why these particular categories are chosen and why they are physically significant.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Peer Review and Feedback</name>
 <id>9</id>
@@ -60,7 +60,7 @@
 <textHTML>&lt;p&gt;Perform a &lt;a href="https://www.saltise.ca/strategy/gallery-walk/" target="_blank"&gt;Gallery Walk&lt;/a&gt;:&lt;/p&gt;&lt;p&gt;Move from one workstation to the next to review and discuss each other's work.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 <node><name>Review and Revise Categories </name>
 <id>6</id>
@@ -70,7 +70,7 @@
 <textHTML>&lt;p&gt;Re-evaluate own categories and sorting method, and  write a new rationale if required after re-evaluation.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<tagARRAY/>
+<isdropped>true</isdropped>
 </node>
 </week>
 <wflegendx>700</wflegendx>
