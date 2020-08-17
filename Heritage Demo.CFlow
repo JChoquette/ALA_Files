@@ -1,0 +1,107 @@
+<project><prname>Heritage Demo</prname>
+<idnum>10</idnum>
+<terminologyset>cegep</terminologyset>
+<workflow><wfname>Heritage Demo</wfname>
+<wfauthor>SALITE</wfauthor>
+<wfdescription>&lt;p&gt;This is a demonstration for the Heritage Workshop, Aug 17th, 2020&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>2</weekid>
+<node><name>Lesson 1_date [day/month]</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;This is the first day of classes. It will be an introduction of students and the course outline.&lt;/p&gt;&lt;p&gt;Here's what the students might be asked to read&lt;/p&gt;&lt;p&gt;&lt;a href="https://docs.google.com/document/d/11vGzTW7Mxv9Did7NvgdnYQ3VwuExTwqTFHFFMZgGX7Y/edit" target="_blank"&gt;link&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://docs.google.com/document/d/11vGzTW7Mxv9Did7NvgdnYQ3VwuExTwqTFHFFMZgGX7Y/edit" target="_blank"&gt;https://docs.google.com/document/d/11vGzTW7Mxv9Did7NvgdnYQ3VwuExTwqTFHFFMZgGX7Y/edit&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Chap 1_ reading</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;This is a reading to prepare for Lesson 2&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1xH3Rv3bqb8lvX8zJ-JNENSDdyMDNZ84I" target="_blank"&gt;https://drive.google.com/drive/folders/1xH3Rv3bqb8lvX8zJ-JNENSDdyMDNZ84I&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 2_date [day/month]</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Class discussion of the reading....&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>End of lesson 2_mini quiz</name>
+<id>8</id>
+<lefticon>exercise</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Ask students to answer the following question.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/strategy/one-minute-paper/" target="_blank"&gt;&lt;strong&gt;One-minute paper&lt;/strong&gt;&lt;/a&gt;: Explain what you understood from the reading about [INSERT THE TOPIC]&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/1wwr2gG4dc3pQgFxqIVhvvzvZqBn6bWEgV3nQhn_TEIU/edit" target="_blank"&gt;https://docs.google.com/forms/d/1wwr2gG4dc3pQgFxqIVhvvzvZqBn6bWEgV3nQhn_TEIU/edit&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>1</timevalue>
+<timeunit>min</timeunit>
+</node>
+</week>
+<week><weekid>6</weekid>
+<node><name>Chap 2_reading</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 3_date....</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>New Competency</tagname>
+<tagid>10</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</project>
