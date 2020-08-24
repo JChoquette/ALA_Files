@@ -1,0 +1,157 @@
+<project><prname>Group Problem Solving with Show and Tell</prname>
+<idnum>175</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Group Problem Solving with Show and Tell</wfname>
+<wfauthor>Rhys Adams</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, student teams solve physics problems with complete solutions. Students learn to build a conceptual model describing a Mechanics-based situation and practice mathematical problem-solving. See a full description here.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Out of Class (Student</columntext>
+<columnnodetext>Out of Class (Student</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare 5 questions for teams to solve related to the given topic - three easy questions and two difficult questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>52</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide class into groups, each with a white board to collaborate to solve problems. &lt;/li&gt;&lt;li&gt;Assign each group one of the easy questions, so that there are multiple group working on the same questions.&lt;/li&gt;&lt;li&gt;Announce that they will have 15-20min to work on the problem, which is the expected length of time for individuals to complete a single problem.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Determine Approach and Solution</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Works at the board and discuss the best approach to solve the problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Facilitate Group Work</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Along with class TAs, wander from group to group to observe and answer questions without addressing errors.&lt;/p&gt;&lt;p&gt;Note: If there is a common mistake, there is a timeout in the problem solving and the instructor takes a few minutes to address the error.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>99</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Review Solutions</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Explain the approach and solution to the problem.&lt;/p&gt;&lt;p&gt;Note: One group presents for each of the three questions. Other teams with the same question are given the opportunity to give feedback first. Then the rest of the class is given a chance to offer a different approach or solution.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>113</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>35</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Address Questions</name>
+<id>150</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Respond to questions or address common errors.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Assign Difficult Problems</name>
+<id>35</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;After each of three questions have been discussed, offer the groups the chance to try more difficult questions.&lt;/li&gt;&lt;li&gt;Assign last two questions to the teams, with candy and bragging rights as a reward to the group that finishes first.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Determine the solution</name>
+<id>36</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Determine the answer to this second problem. &lt;/li&gt;&lt;li&gt;Prepare to discuss the approach to the problem.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Solutions</name>
+<id>39</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Explain the approach and solution to the problem.&lt;/p&gt;&lt;p&gt;Note: A group presents for each of the three questions. The team with the same question is given the opportunity to review first, then the rest of the class is given a chance to offer a different approach or solution.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>113</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Facilitate a discussion where students openly respond, providing the steps to approach this type of problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>52</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Homework Assignment</name>
+<id>41</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Utilize notes to complete the homework assignment, which includes all five questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>
