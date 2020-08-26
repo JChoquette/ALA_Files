@@ -1,0 +1,125 @@
+<project><prname>Acid Base Equilibrium</prname>
+<idnum>89</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Acid Base Equilibrium</wfname>
+<wfauthor>By Pallavi Sirjoosingh</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare 8 questions, printed on different sheets of paper and labeled 1-8. Every question is different but every two questions are related to one of four cases.&lt;/p&gt;&lt;p&gt;- Case 1: Strong Acid / Base (Concentrated)&lt;/p&gt;&lt;p&gt;- Case 2: Strong Acid / Base (Dilute)&lt;/p&gt;&lt;p&gt;- Case 3: Weak Acid / Base (Concentrated)&lt;/p&gt;&lt;p&gt;- Case 4: Weak Acid / Base (Dilute)&lt;/p&gt;&lt;p&gt;Note: Given that this activity occurs in a large class of 200-300 students, it's important to consider how many groups will be needed based on an estimation of who is present the day of.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>264</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+<node><name>Prepare for Class</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Read assigned chapters on Acid-based equilibrium.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present PowerPoint on Acids, Bases, pH, and the four different cases, which students will see within the activity. Begin the day of the activity with a lecture on the same content.&lt;/li&gt;&lt;li&gt;With the help of TAs, split up the class into groups of 5 to 6 members.&lt;/li&gt;&lt;li&gt;Equip each TA with questions to hand each group, as well as the answer sheet for their own reference.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>194</textheight>
+<timevalue>2-3</timevalue>
+<timeunit>day</timeunit>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Determine case and Calculate pH</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Analyze the question and determine which of four cases the question fits. &lt;/li&gt;&lt;li&gt;Once the case is determined, calculate the pH.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>17</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Match groups</name>
+<id>17</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Facilitate and answer questions, if needed. &lt;/li&gt;&lt;li&gt;Help students identify a group with a similar case for them to exchange their work.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>16</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Peer Group Answers</name>
+<id>16</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Check the work of another group who had a question of the same case.&lt;/li&gt;&lt;li&gt;Confirm the groups determination of the case and their calculation.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>19</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Review Answers</name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Question by question, as time allows, review the answers for the whole class.&lt;/p&gt;&lt;p&gt;Note: it is helpful to post questions and answers for each student to have access to the other problems with different cases to try at home.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
