@@ -1,5 +1,5 @@
 <project><prname>Acid Base Equilibrium</prname>
-<idnum>129</idnum>
+<idnum>141</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Acid Base Equilibrium</wfname>
 <wfauthor>By Pallavi Sirjoosingh</wfauthor>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare 8 problems, printed on different sheets of paper and labeled 1-8. Account for the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each question should have one multiple choice version and one short answer or draw your answer version. &lt;/li&gt;&lt;li&gt;Each question has an amino acid with multiple acidic hydrogens, and their pKas listed. Students must either identify among multiple choice or draw the most prominent ionization state at a particular pH or pOH.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each group gets a set of two similar questions. For example, one group gets draw the most prominent ionization state at pH = 4.00, and their second question is identify the most prominent ionization state at pOH = 13.00. The question that asks them to draw the structure should be given first to assess their understanding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: Given that this activity occurs in a large class of 200-300 students, it's important to consider how many groups will be needed based on an estimation of who is present the day of. Also, consider creating more questions depending on the size.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare 8 problems, printed on different sheets of paper and labeled 1-8. Account for the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Each question should have one multiple choice version and one short answer or draw your answer version.&lt;/li&gt;&lt;li&gt;Each question has an amino acid with multiple acidic hydrogens, and their pKas listed. Students must either identify among multiple choice or draw the most prominent ionization state at a particular pH or pOH.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Each group gets a set of two similar questions. For example, one group gets draw the most prominent ionization state at pH = 4.00, and their second question is identify the most prominent ionization state at pOH = 13.00. The question that asks them to draw the structure should be given first to assess their understanding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Given that this activity occurs in a large class of 200-300 students, it's important to consider how many groups will be needed based on an estimation of who is present the day of. Also, consider creating more questions depending on the size.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>440</textheight>
+<textheight>420</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>3</targetid>
@@ -42,7 +42,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Read assigned chapters on Acid Base Equilibrium.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>43</textheight>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity - Lecture</name>
@@ -52,7 +52,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Present a short lecture focusing on the Henderson-Hasselbalch equation&lt;/li&gt;&lt;li&gt;Provide students with a question for group work&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students should have covered basic principles of acid-base chemistry already including pH/pOH calculation, conjugate acid-base pairs, polyprotic acids, acid/base strength, and pKa's relevance in previous lectures.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Apply Equation</name>
@@ -62,7 +62,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Self-organize in groups&lt;/li&gt;&lt;li&gt;Determine which ionization state of a polyproptic acid is the most prominent at a particular pH&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>110</textheight>
 <timevalue>15</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -78,7 +78,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;With the help of TAs, split up the class into groups of 5 to 6 members&lt;/li&gt;&lt;li&gt;Equip each TA with questions to hand each group, as well as the &lt;u&gt;answer sheet&lt;/u&gt; for their own reference&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Determine case and Calculate pH</name>
@@ -88,7 +88,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Analyze the question and determine which of four cases the question fits&lt;/li&gt;&lt;li&gt;Once the case is determined, calculate the pH, by applying the Henderson-Hasselbalch equation&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>130</textheight>
 <timevalue>15</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -104,7 +104,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Answer questions, if needed&lt;/li&gt;&lt;li&gt;Help students identify a group with a similar case for them to exchange their work&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>110</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>16</targetid>
@@ -118,7 +118,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Check the work of another group who had a question of the same case.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>57</textheight>
+<textheight>90</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -134,7 +134,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Question by question, review the answers for the whole class&lt;/li&gt;&lt;li&gt;Hand out challenge question&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It is helpful to post questions and answers for each student to have access to the other problems with different cases to try at home.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>105</targetid>
@@ -148,11 +148,11 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Attempt to solve the challenge question.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>390</wflegendy>
 </wfdata></workflow>
 </project>
