@@ -1,0 +1,150 @@
+<project><prname>Discovering the Structure of DNA</prname>
+<idnum>1532</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Discovering the Structure of DNA</wfname>
+<wfauthor>By Jason Lapointe</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>597</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>605</weekid>
+<node><name>Prepare Activity</name>
+<id>1402</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: 1) The handout with a historical brief ; 2) In-Class Activity Instructions; 3) Images of Nucleotide Parts and Photo 51.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>66</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>618</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the handout, "Assignment, Discovering the Structure of DNA".&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and a story to engage students in a certain context.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare for Class</name>
+<id>619</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the story context.&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to biomolecules, specifically the nucleic acids and their monomers, and the central dogma of biology.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Parts of a Nucleotide</name>
+<id>620</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Identify the monomers of a nucleic acid and discuss answers to the assigned questions&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Nucleotides</name>
+<id>621</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pause to review the parts of a nucleotide as well as discuss the responses to the questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Create and Label Polynucleotides</name>
+<id>914</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create four nucleotides: one with a purine base and three with pyrimidine bases. &lt;/li&gt;&lt;li&gt;Discuss the questions for that section.&lt;/li&gt;&lt;li&gt;Using a dry-erase marker, identify adenine, thymine, and two cytosines among the four bases by writing their abbreviation (A, T, or C) on the appropriate purine or pyrimidine token.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>146</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Polynucleotides</name>
+<id>917</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pauses the activity to review the polynucleotides as well as discuss the responses to the questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Questions and Build a DNA Molecule</name>
+<id>920</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss related questions for this section &lt;/li&gt;&lt;li&gt;Using Photo 51, make a double-stranded DNA molecule.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Responses and Initiate Assessment </name>
+<id>923</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause to discuss the responses to the questions and review the DNA molecules. &lt;/li&gt;&lt;li&gt;Initiate the final section of questions that will be graded.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Solve case</name>
+<id>622</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss questions to address the initial patient case, applying lessons learned at each step of the activity to solve it.&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<timevalue>30-40</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluate Responses</name>
+<id>1418</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Responses</name>
+<id>623</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Engage in an instructor-led discussion about the patient case and the responses to the assessment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>52</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>

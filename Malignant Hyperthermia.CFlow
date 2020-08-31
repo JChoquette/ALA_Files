@@ -1,0 +1,154 @@
+<project><prname>Malignant hyperthermia</prname>
+<idnum>1546</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Malignant hyperthermia</wfname>
+<wfauthor>By Jason Lapointe</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>81</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>82</weekid>
+<node><name>Prepare Activity</name>
+<id>1184</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: 1) The Case Study handout with Patient Brief; 2) In-Class Activity Instructions; 3) Muscle Fiber and Contraction Images&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>66</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>1186</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the handout, "Case Study: Malignant hyperthermia.".&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and the patient brief with follow-up questions.The patient's story draws on realistic nursing experiences and the questions allow for deeper reflection on the case.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare for Class</name>
+<id>1189</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the Patient Story.&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to Metabolism, anatomy of a muscle organ and muscle fiber, neuromuscular junction, muscle contraction, and muscle cell metabolism.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Mutation in the Coding Channel</name>
+<id>107</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Fill in the portions of the coding and template strands based on the transcript sequence given in the handout. Assume the transcript is in frame and translate it using the genetic code. &lt;/li&gt;&lt;li&gt;Discuss a set of questions.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Coding and Translation</name>
+<id>108</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the coding and translation and to discuss the responses to the questions. &lt;/li&gt;&lt;li&gt;Hand out the images to be used during the discussion on muscle anatomy. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The first image, a model of a muscle fiber with its arrangement of myofibrils, cellular structures, organelles, and the neuromuscular junction. The other 10 images represent steps of a muscle contraction.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Identify Structures of a Muscle Cell</name>
+<id>217</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the first image of a muscle fiber to identify the structures listed in the handout&lt;/li&gt;&lt;li&gt;Mark where they expect to find the endomysium with an asterisk.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Anatomy and Answers</name>
+<id>220</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Pause to review the anatomy of a muscle cell and discuss the responses to the questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Map a Muscle Contraction &amp; Discuss</name>
+<id>412</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use the remaining 10 images to place them in the order in which they occur during a muscle contraction. &lt;/li&gt;&lt;li&gt;Then, discuss questions.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Contraction &amp; Initiate Assessment</name>
+<id>415</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the steps of the contraction&lt;/li&gt;&lt;li&gt;Discuss the responses to the questions &lt;/li&gt;&lt;li&gt;Initiate the final section of questions that will be graded. &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Solve Patient case</name>
+<id>109</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss questions to address the initial patient case, applying lessons learned at each step of the activity to solve it.&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<timevalue>30-40</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>223</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Evaluate Responses</name>
+<id>223</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Responses</name>
+<id>110</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Engage in an instructor-led discussion about the patient case and the responses to the assessment.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>52</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>220</wflegendy>
+</wfdata></workflow>
+</project>
