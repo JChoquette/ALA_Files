@@ -1,9 +1,9 @@
 <project><prname>Call Me By My Organelle</prname>
-<idnum>1516</idnum>
+<idnum>1528</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Call Me By My Organelle</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>undefined</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students use cards to match cells with their organelles and functions. Students will better understand the internal organization of a cell, how organelles affect cell function, and be able to illustrate and explain different cell types. See a full description here.&lt;/p&gt;</wfdescription>
 <wfid>601</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: 1) The Assignment handout with the Introduction; 2) In-Class Activity Instructions; 3) Assessment Page&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The review handout that introduces the activity&lt;/li&gt;&lt;li&gt;In-class assessment handout&lt;/li&gt;&lt;li&gt;Bags of Cards&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>66</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -36,9 +36,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the handout, "Assignment: Call Me By My Organelle"&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and an introduction to the activity.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the first page of the review handout, "Assignment: Call Me By My Organelle"&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and an introduction to the activity.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -46,19 +46,19 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Review the information provided in the handout.&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to the internal organization of the cell, specifically the organelles making up the endomembrane system, mitochondria, and cytoskeleton&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the information provided in the review handout&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to the internal organization of the cell, specifically the organelles making up the endomembrane system, mitochondria, and cytoskeleton&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>132</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>Match Organelles and Functions</name>
+<node><name>Match Organelles with Names and Functions</name>
 <id>1425</id>
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Collect the green cards with the names of organelles from the bag and match the 5 major organelles with their corresponding green card. &lt;/li&gt;&lt;li&gt;Collect the red cards with organelle functions and match them with the correct organelle.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete Part B:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collect the green cards with the names of organelles from the bag and match the 5 major organelles with their corresponding green card&lt;/li&gt;&lt;li&gt;Collect the red cards with organelle functions and match them with the correct organelle&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>146</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Organelles</name>
@@ -66,9 +66,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Pause to review organelles and their functions&lt;/li&gt;&lt;li&gt;Distribute the second page of the handout&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause to review organelles and their functions&lt;/li&gt;&lt;li&gt;Distribute the second page of the review handout and the assessment handout&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>76</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Identify Cell Types and Organelles</name>
@@ -76,9 +76,9 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Identify each cell type listed in the table on the second page of the handout.&lt;/li&gt;&lt;li&gt;Considering their generalized functions (listed in the second column), predict the types of organelles and how predominant they are relative to the other cells.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete Part C and D:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify each cell type in the cards given, according to those listed in the table in Part D (on the second page)&lt;/li&gt;&lt;li&gt;Considering their generalized functions, listed in the second column, predict the types of organelles and how predominant they are relative to the other cells&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>174</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Cell Types and Initiate Assessment</name>
@@ -86,7 +86,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the cell types, their functions and organelles.&lt;/li&gt;&lt;li&gt;Initiate the final section of questions, which will be graded.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the cell types, their functions and organelles&lt;/li&gt;&lt;li&gt;Initiate the final section of questions, which will be graded&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>90</textheight>
 <isdropped>true</isdropped>
@@ -96,9 +96,9 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Draw each cell type&lt;/li&gt;&lt;li&gt;Provide a justification for organelles that are included, according to its generalized function&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete the assessment handout :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Draw each cell type&lt;/li&gt;&lt;li&gt;Provide a justification for organelles that are included, according to its generalized function&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>150</textheight>
 <timevalue>30-40</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -110,7 +110,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>68</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Responses</name>
@@ -120,7 +120,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Engage in an instructor-led discussion about the assignment and the responses to the assessment.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
