@@ -1,5 +1,5 @@
-<project><prname>A Jigsaw with Group Roles</prname>
-<idnum>31</idnum>
+<project><prname>Jigsaw with Group Roles</prname>
+<idnum>45</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Jigsaw with Group Roles</wfname>
 <wfauthor>By Corey Legassic</wfauthor>
@@ -72,7 +72,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Consolidate expertise (e.g., what are the top 2-3 strengths and weaknesses of this source)&lt;/li&gt;&lt;li&gt;Create a resource that includes discussion questions. Each group member becomes an expert and should have access to the record for their individual presentation during their stage 2 group work.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students can collaborate and consolidate with online collaborative tools: Google doc, Span workspace canvas, or &lt;a href="https://maasd.edublogs.org/smart-board/jigsaw/" target="_blank"&gt;Smart Notebook&lt;/a&gt;).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>205</textheight>
+<textheight>188</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Feedback and reassign new groups </name>
@@ -102,7 +102,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Reconvene the class to facilitate students sharing&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>26</textheight>
+<textheight>42</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Share and Debrief</name>
