@@ -1,7 +1,7 @@
 <project><prname>A Jigsaw with Group Roles</prname>
-<idnum>29</idnum>
+<idnum>31</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>A Jigsaw with Group Roles</wfname>
+<workflow><wfname>Jigsaw with Group Roles</wfname>
 <wfauthor>By Corey Legassic</wfauthor>
 <wfdescription>&lt;p&gt;This is a Group Work Lesson Script to actively engage students with course material within an online format. Critical thinking involves multiple simultaneous tasks (selecting, evaluating, contextualizing, etc.) and this activity breaks down those tasks and organizes them into roles that will help students better understand and analyze assigned material.&amp;nbsp;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
@@ -95,14 +95,34 @@
 <textheight>160</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>Debrief, Review, and Consolidate</name>
+<node><name>Facilitate a Debrief</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Reconvene the class&lt;/li&gt;&lt;li&gt;Facilitate students sharing and debriefing highlights, conclusions, challenges or further questions&lt;/li&gt;&lt;li&gt;Review material, connect back to learning goals, draw important links and consolidate the top 3-4 central ideas that students are expected to walk away with from the lesson.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Option: Using a &lt;a href="https://www.saltise.ca/strategy/concept-mapping/" target="_blank"&gt;concept map&lt;/a&gt; could visually help bring together all of the ideas emerging from the groups.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Reconvene the class to facilitate students sharing&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202</textheight>
+<textheight>26</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Share and Debrief</name>
+<id>30</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Share and debrief highlights, conclusions, challenges or further questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review and Consolidate Material</name>
+<id>31</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review material, connect back to learning goals, draw important links and consolidate the top 3-4 central ideas that students are expected to walk away with from the lesson.&lt;/p&gt;&lt;p&gt;Option: Using a &lt;a href="https://www.saltise.ca/strategy/concept-mapping/" target="_blank"&gt;concept map&lt;/a&gt; could visually help bring together all of the ideas emerging from the groups.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>113</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -119,8 +139,8 @@
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 <simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>
