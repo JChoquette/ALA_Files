@@ -1,0 +1,141 @@
+<project><prname>Flipped Class with Group Work</prname>
+<idnum>30</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Flipped Class with Group Work</wfname>
+<wfauthor>By Chris Whitaker</wfauthor>
+<wfdescription>&lt;p&gt;This is a Group Work Lesson Script to actively engage students with course material within an online format. This script can serve as a helpful guide to engage students using a flipped classroom design that gets students doing pre-class
+work, engages them in small-group work during class, and follows up with a post class activity.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<weekname>Pre-class asynchronous </weekname>
+<node><name>Prepare and Assign Material</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare and assign material (text, video, etc.) for students to review before synchronous class.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9Z7dWD4DjDs" target="_blank"&gt;Moodle &lt;/a&gt;easily allows reflections to be done on-line&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?reload=9&amp;amp;v=yaGL0oQ2u9M&amp;amp;t=0s&amp;amp;ab_channel=SALTISE" target="_blank"&gt;MyDALITE &lt;/a&gt;easily allows reflections to be done on-line but it adds a component of interactivity that allows students to see and reflect on each other’s reflections&lt;/li&gt;&lt;li&gt;Both Moodle and MyDALITE also allow you to add multiple choice questions to the reflections&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>260</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Read and Review Material</name>
+<id>15</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the assigned material, without formally studying it&lt;/li&gt;&lt;li&gt;Write reflections on the things that were confusing/difficult, using the detailed &lt;a href="https://docs.google.com/document/d/190BMM992xC4cigkxgQhd1uhU5K4RV75f3mJ8H5iQusc/edit?usp=drive_open&amp;amp;ouid=114858286146124777919" target="_blank"&gt;Reflective Writing Instructions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Submit the written reflection&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>150</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Student Reflections</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Review a sub-set of the reflection submissions and use this to guide the preparation for the online class. &lt;/p&gt;&lt;p&gt;Note: Refer to this &lt;a href="https://drive.google.com/file/d/1eh_a5Al8lFDvBwQa7DNSgoMoFRjkyt-q/view" target="_blank"&gt;example&lt;/a&gt; of how you might use reflections to start your in-class mini-lecture.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>150</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Reflections and Give Mini-lecture</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Begin your class with a review of student reflections&lt;/li&gt;&lt;li&gt;Give a mini lecture that addresses with what students found confusing/difficult&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130</textheight>
+<timevalue>Recommended: 20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>14</weekid>
+<weekname>Online class synchronous activity</weekname>
+<node><name>Divide Groups and Facilitate</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Explain and specify:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;what you want students to do&lt;/li&gt;&lt;li&gt;what artifact you want them to generate (i.e. Google doc, scanned sketches etc.)&lt;/li&gt;&lt;li&gt;how much time they have&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Split students in groups and monitor as they work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>159</textheight>
+<timevalue>Recommended: 30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Work on Collaborative Task</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Work cooperatively on task(s)/problem(s) &lt;/li&gt;&lt;li&gt;Produce the artifact(s) requested&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>117</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review &amp; Consolidate Material</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the task(s) along with the student generated artifacts&lt;/li&gt;&lt;li&gt;End the online class by consolidating what you want them to take away from the activity&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jsnswNCx334" target="_blank"&gt;See how Zoom&lt;/a&gt; easily allows for the creation of breakout rooms where students can talk, use the chat and write on a shared canvas&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=FAYwXW7R8V8" target="_blank"&gt;See how Span&lt;/a&gt; easily allows students to work on a shared canvas that is dynamic and accessed through a web browser&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>240</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>13</weekid>
+<weekname>Post-class asynchronous </weekname>
+<node><name>Post Notes or Solutions</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide students with proper notes/ solutions so that there are no mistaken ideas/elements from the group work that you might have missed.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Moodle easily allows this to be done on-line and then Mio or email can be used for the following student reflections and instructor feedback steps&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ODE6v4YOo0E" target="_blank"&gt;See how Perusall&lt;/a&gt; allows this step to be done on-line in a dynamic and interactive way. Post PDF versions of documents on Perusall and have students collectively annotate them. Students can even help each other, and the instructor gets to see and manage it all through a web browser or Moodle module&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>257</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review and Submit Comments/Questions</name>
+<id>11</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review notes/solutions&lt;/li&gt;&lt;li&gt;Submit questions, reflections or ask for clarifications&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>129</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Follow-up on Student Submissions</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide students with feedback on common/persistent questions, reflections &lt;/li&gt;&lt;li&gt;Provide clarification to the most important points&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>

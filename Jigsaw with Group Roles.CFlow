@@ -25,11 +25,11 @@
 <node><name>Prepare and Assign Material</name>
 <id>14</id>
 <lefticon>undefined</lefticon>
-<righticon>orchestration</righticon>
+<righticon>curation</righticon>
 <column>OOCI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Prepare and assign material for students to complete prior to the synchronous class.&lt;/li&gt;&lt;li&gt;Assign students to groups of 4-6. Each group will be assigned a different role. Refer to a &lt;a href="https://docs.google.com/document/d/1Zk7eFjRUfLblpkro9OsbsQfIG3bvBeY-BPbwy05Sl2c/edit?usp=sharing" target="_blank"&gt;list of possible roles&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Optional: Consider group dynamics when assigning groups. This is a great opportunity to get different students working together.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Read or Watch Assigned Material</name>
@@ -39,7 +39,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Read or watch assigned material to prepare for online class, while focusing on instructions for the assigned role.&lt;/p&gt;&lt;p&gt;Note: To communicate and assign material, use your course page (i.e., course management system e.g., &lt;a href="https://www.dawsoncollege.qc.ca/information-systems-and-technology/articles/lea/" target="_blank"&gt;LEA&lt;/a&gt;, Moodle)&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>99</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -52,7 +52,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Begin class with a mini lecture: What you want students to do and what type of resource you want them to generate.&lt;/li&gt;&lt;li&gt;Divide class into their pre-assigned groups, based on their pre-assigned roles.&lt;/li&gt;&lt;li&gt;During group work (stage 1) check in with each group to facilitate progress and group discussion (where needed).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use a web conferencing tool (i.e .Zoom). Zoom can work as a stand alone or within a LMS (e.g., Moodle, LEA). Students can be assigned to breakout rooms for group work.&lt;/li&gt;&lt;li&gt;Use a whiteboard to create a concept map with your students (e.g. Zoom whiteboard feature)&lt;/li&gt;&lt;li&gt;If assigning PDF materials, consider using &lt;a href="https://perusall.com/" target="_blank"&gt;Persusall&lt;/a&gt;--a free online tool allows groups to collaboratively annotate a PDF&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>338</textheight>
+<textheight>350</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Insights</name>
@@ -62,7 +62,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Stage 1&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review instructions and discuss the role their group has been assigned (e.g. role of source evaluator).&lt;/li&gt;&lt;li&gt;Share, in a go-around, one insight about the material (e.g., as source evaluators, one student comments on author's credibility, another student comments on methodologies used to collect data, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Option: Do a second go-around to see if there are more insights that were not mentioned.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>188</textheight>
+<textheight>202</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Create Resource</name>
@@ -72,7 +72,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Consolidate expertise (e.g., what are the top 2-3 strengths and weaknesses of this source)&lt;/li&gt;&lt;li&gt;Create a resource that includes discussion questions. Each group member becomes an expert and should have access to the record for their individual presentation during their stage 2 group work.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Students can collaborate and consolidate with online collaborative tools: Google doc, Span workspace canvas, or &lt;a href="https://maasd.edublogs.org/smart-board/jigsaw/" target="_blank"&gt;Smart Notebook&lt;/a&gt;).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>188</textheight>
+<textheight>210</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Feedback and reassign new groups </name>
@@ -92,7 +92,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Stage 2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain, in a go-around, the role and present consolidated expertise on the material&lt;/li&gt;&lt;li&gt;Discuss material as a group. Experts take turns posing questions to the rest of the group&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Option: Each group chooses an ambassador to report during the debrief.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>183</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Facilitate a Debrief</name>
@@ -112,7 +112,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Share and debrief highlights, conclusions, challenges or further questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>58</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review and Consolidate Material</name>
@@ -122,7 +122,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Review material, connect back to learning goals, draw important links and consolidate the top 3-4 central ideas that students are expected to walk away with from the lesson.&lt;/p&gt;&lt;p&gt;Option: Using a &lt;a href="https://www.saltise.ca/strategy/concept-mapping/" target="_blank"&gt;concept map&lt;/a&gt; could visually help bring together all of the ideas emerging from the groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>113</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -135,7 +135,7 @@
 <column>OOCI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Compile all created resources by Stage 1 groups into one master resource &lt;/li&gt;&lt;li&gt;Post it on the course management system for students to review and use for study&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>110</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
