@@ -1,0 +1,151 @@
+<project><prname>Half  and  Half: Lecture and Practice</prname>
+<idnum>14</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Half &amp; Half: Lecture and Practice</wfname>
+<wfauthor>Concordia CTL</wfauthor>
+<wfdescription>&lt;p&gt;This is a general Group Work Lesson Script, if you are not sure how to adapt your course. Consider using the model below to help you plan your own course.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<weekname>Pre-class asynchronous</weekname>
+<node><name>Assigned Videos and Readings</name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOCI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare 2-4 video mini lectures, 7-20 min. each&lt;/li&gt;&lt;li&gt;Assign readings on the topic&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>70</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare &amp; Participate in Discussion</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Watch provided video mini lectures&lt;/li&gt;&lt;li&gt;Read selected readings&lt;/li&gt;&lt;li&gt;Participate on the discussion Forum, providing a summary, reaction or analysis, as assigned&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>3</weekid>
+<weekname>Online Class synchronous activity</weekname>
+<node><name>Review Fuzzy Concepts</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Clarify concepts and ideas from the video/readings that students found difficult&lt;/li&gt;&lt;li&gt;Elaborate on these points and provide feedback&lt;/li&gt;&lt;li&gt;Answer student questions using your whiteboard or an empty PowerPoint slide&lt;/li&gt;&lt;li&gt;Provide feedback (e.g. affirmation, elaboration, correction)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Use screen share and chat functions on a web conferencing tool (i.e .Zoom)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188</textheight>
+<timevalue>10-15</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Engage in Q&amp;A</name>
+<id>10</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Ask questions by typing in the chat box.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>32</textheight>
+<timevalue>Additional 5-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Provide Practice Problem(s)</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present students with a problem or scenario or discussion based on the content&lt;/li&gt;&lt;li&gt;Provide examples or model problem solving&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Notes: Divide students in groups using an online collaborative tool (i.e. Zoom Breakout Rooms)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Practice</name>
+<id>14</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Practice assigned problem or scenario.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>43</textheight>
+<timevalue>15-20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present</name>
+<id>12</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Summarize answer to the entire class.&lt;/p&gt;&lt;p&gt;Note: Instructor selects some groups and provides time for each representative to present.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>75</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Provide Feedback and Closure</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;React to students answers&lt;/li&gt;&lt;li&gt;Identify concepts that need to be attended to again&lt;/li&gt;&lt;li&gt;Expand on or clarify an important fuzzy point&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Use screen share with Zoom.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>123</textheight>
+<timevalue>5-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>6</weekid>
+<weekname>Post-class asynchronous</weekname>
+<node><name>Work on Group Activity</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Collaborate in Group Activity using the discussion forum or collaborative online tool.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>67</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Optional: Reflect or Apply</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Write a reflection or do a follow-up application activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>49</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>
