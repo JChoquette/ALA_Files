@@ -1,0 +1,219 @@
+<project><prname>Urban Planning Project</prname>
+<idnum>64</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Urban Planning Two-Part Project</wfname>
+<wfauthor>Anna Liisa Aunio</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students explore a chosen neighborhood in Montreal and investigate significant social issues. The process of research and the development of a local action plan strengthens valuable skills.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<weekname>Class 1
+Intro Assignment</weekname>
+<node><name>Introduce Activity</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide a lecture about the sociology of food in Montreal&lt;/li&gt;&lt;li&gt;Introduce Neighborhoods assignment and an overview of course projects&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The &lt;u&gt;Neighborhoods&lt;/u&gt; assignment could be replaced by another that introduces students to the boroughs of Montreal, and provides an introduction to using the online canvas.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Neighborhoods Assignment</name>
+<id>24</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Create sticky note labels using online canvas&lt;/li&gt;&lt;li&gt;Identify the neighborhoods on the Montreal Map, using the provided list&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>51</weekid>
+<weekname>Class 3-9
+Project 1</weekname>
+<node><name>Distribute Instructions - Project 1</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Hand out assignment &lt;u&gt;instructions&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Select a Neighborhood</name>
+<id>3</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Choose a neighborhood in Montreal&lt;/li&gt;&lt;li&gt;Add a map of the neighborhood to the class canvas&lt;/li&gt;&lt;li&gt;Plan research, divide roles, and set group goals&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Research the Neighborhood</name>
+<id>28</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Research and collect information related to the sociodemographics, politics, history, and the food system&lt;/li&gt;&lt;li&gt;Display information on the class canvas&lt;/li&gt;&lt;li&gt;Identify top three issues to a sustainable food system&lt;/li&gt;&lt;li&gt;Include citations and links to all sources&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>25</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>41</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>37</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Present Research and Issues</name>
+<id>37</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present the neighborhood to the class, 5 minutes each.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>19</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Provide Feedback</name>
+<id>49</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Address Feedback &amp; Prepare to Submit</name>
+<id>39</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review and use feedback to revise&lt;/li&gt;&lt;li&gt;Respond to each note given by other groups&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Submit project with revisions in the following class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Peer Assessments</name>
+<id>57</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Assess peers using &lt;u&gt;google form and rubric&lt;/u&gt; provided by instructor &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluate Project 1</name>
+<id>61</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>53</weekid>
+<weekname>Classes 10-15
+Project 2</weekname>
+<node><name>Distribute Instructions - Project 2</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Hand out assignment &lt;u&gt;instructions&lt;/u&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Create a Local Action Plan </name>
+<id>34</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Acting as Mayor of the neighborhood, develop a local food policy plan, adding this to the online canvas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Describe the food policy council and rationale for including them&lt;/li&gt;&lt;li&gt;Write a food charter with those actors, including a vision and goals for your plan&lt;/li&gt;&lt;li&gt;Propose actions to improve the neighborhood and meet the objectives of the city’s plan&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present Local Action Plan</name>
+<id>43</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present your plan to the class, 5 minutes each.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>5</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Provide Feedback</name>
+<id>30</id>
+<lefticon>class</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Address Feedback &amp; Prepare to Submit</name>
+<id>31</id>
+<lefticon>group</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review feedback and revise plan.&lt;/li&gt;&lt;li&gt;Respond to each note given by other groups&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Submit project with revisions in the following class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>118</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Peer Assessments</name>
+<id>59</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Assess peers using &lt;u&gt;google form and rubric&lt;/u&gt; provided by instructor &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluate Project 2</name>
+<id>63</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>
