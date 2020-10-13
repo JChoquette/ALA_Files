@@ -1,5 +1,5 @@
 <project><prname>Urban Planning Project</prname>
-<idnum>64</idnum>
+<idnum>85</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Urban Planning Two-Part Project</wfname>
 <wfauthor>Anna Liisa Aunio</wfauthor>
@@ -54,7 +54,7 @@ Project 1</weekname>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Hand out assignment &lt;u&gt;instructions&lt;/u&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>50</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Select a Neighborhood</name>
@@ -77,12 +77,6 @@ Project 1</weekname>
 <textheight>160</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>25</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
-<link><targetid>41</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
 <link><targetid>37</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -94,7 +88,7 @@ Project 1</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Present the neighborhood to the class, 5 minutes each.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>19</textheight>
+<textheight>66</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Provide Feedback</name>
@@ -104,7 +98,7 @@ Project 1</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Address Feedback &amp; Prepare to Submit</name>
@@ -124,7 +118,7 @@ Project 1</weekname>
 <column>OOC</column>
 <textHTML>&lt;p&gt;Assess peers using &lt;u&gt;google form and rubric&lt;/u&gt; provided by instructor &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>56</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Evaluate Project 1</name>
@@ -134,7 +128,7 @@ Project 1</weekname>
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>78</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -148,7 +142,7 @@ Project 2</weekname>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Hand out assignment &lt;u&gt;instructions&lt;/u&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Create a Local Action Plan </name>
@@ -168,7 +162,7 @@ Project 2</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Present your plan to the class, 5 minutes each.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>5</textheight>
+<textheight>52</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Provide Feedback</name>
@@ -178,7 +172,7 @@ Project 2</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Address Feedback &amp; Prepare to Submit</name>
@@ -198,7 +192,7 @@ Project 2</weekname>
 <column>OOC</column>
 <textHTML>&lt;p&gt;Assess peers using &lt;u&gt;google form and rubric&lt;/u&gt; provided by instructor &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>54</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Evaluate Project 2</name>
@@ -208,7 +202,7 @@ Project 2</weekname>
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>74</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
