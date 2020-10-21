@@ -1,10 +1,10 @@
-<project><prname>Card-Sorting with Multiple Representations (E and M)</prname>
-<idnum>261</idnum>
+<project><prname>Circuits: Card-Sorting with Multiple Representations (E and M)</prname>
+<idnum>292</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Electrostatics: Card-Sorting with Multiple Representations (E&amp;M)</wfname>
+<workflow><wfname>Circuits: Card-Sorting with Multiple Representations (E&amp;M)</wfname>
 <wfauthor>Patrick Rogers</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students work in groups to sort cards containing different charge configurations, graphs, words, and other representations. The aim is for students to develop their model-building skills by focusing on abstract concepts, making connections between these concepts, and using multiple representations.&lt;/p&gt;</wfdescription>
-<wfid>1</wfid>
+<wfdescription>&lt;p&gt;In this single-class activity, students work in groups to sort cards containing different circuit diagrams, graphs, words, and other representations for RC, LR, and LC circuits. The aim is for students to develop their model-building skills by focusing on abstract concepts, making connections between these concepts, and using multiple representations.&lt;/p&gt;</wfdescription>
+<wfid>106</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
 <tagsetARRAY></tagsetARRAY>
@@ -20,108 +20,100 @@
 <column><columnname>ICS</columnname>
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
-<week><weekid>2</weekid>
+<week><weekid>103</weekid>
 <node><name>Prepare Activity</name>
-<id>3</id>
+<id>94</id>
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Print and cut out cards for the activity and separate the 2 subsets into ziploc bags to keep them organized:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Setup cards: Charge setup, initial velocity, speeding up / slowing down&lt;/li&gt;&lt;li&gt;Analysis cards: the remaining cards&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;p&gt;Print and cut out cards for the activity and separate the 3 subsets into ziploc bags to keep them organized:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Setup cards: Circuit, current direction, storing / releasing energy and oscillating&lt;/li&gt;&lt;li&gt;Graph cards&lt;/li&gt;&lt;li&gt;Remaining cards&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: See Instructor &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/08/Circuits_Instructor-Instructions-and-Cards.pdf" target="_blank"&gt;instructions&lt;/a&gt; for more details.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>200</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
-<id>4</id>
+<id>95</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Provide clear student instructions using the PowerPoint and explain the charge situations with an example of what to do by using the proton between parallel plates setup.&lt;/li&gt;&lt;li&gt;After the presentation, divide students into groups of 4 and pass out the setup cards to each group.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide clear &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/08/CardSorting_Circuits_Instructions-Intro.pdf" target="_blank"&gt;student instructions&lt;/a&gt; using the PowerPoint and explain the circuit situations with an example of what to do by using the charging RC circuit setup&amp;nbsp;&lt;/li&gt;&lt;li&gt;After the presentation, divide students into groups of 4 and pass out the setup cards to each group.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>154</textheight>
+<textheight>150</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
-<node><name>Set up Charge Configurations</name>
-<id>5</id>
+<node><name>Set Up Circuit Situations</name>
+<id>96</id>
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;For each charge configuration, following the example, choose the appropriate setup.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Choose one initial velocity card.&lt;/li&gt;&lt;li&gt;Answer: Is the test charge speeding up / slowing down?&lt;/li&gt;&lt;li&gt;Describe the motion in words.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;For each circuit, following the example, set up the charge situations using setup cards.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Determine the direction of the current in the resistor.&lt;/li&gt;&lt;li&gt;Determine whether the circuit is storing / releasing energy or oscillating.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>140</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Distribute Cards</name>
-<id>6</id>
+<id>97</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Once the setups are complete, distribute the graphs and the remaining cards.&lt;/li&gt;&lt;li&gt;Circulate during task to answer questions and monitor progress.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Once the setups are complete, the instructor distributes the graphs and the remaining cards.&lt;/li&gt;&lt;li&gt;During this task, circulate to answer questions and monitor progress.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>84</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Sort Cards</name>
-<id>7</id>
+<id>98</id>
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Determine which cards, containing different graphs, words, and other representations, correspond to each setup.&lt;/li&gt;&lt;li&gt;Choose the appropriate labels for the graphs.&lt;/li&gt;&lt;li&gt;Optional: Sketch &lt;em&gt;s(t)&lt;/em&gt; for the motion.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Determine which cards, containing different graphs, words, and other representations, correspond to each setup.&lt;/li&gt;&lt;li&gt;Choose the appropriate labels for the &lt;em&gt;∆V(t)&lt;/em&gt; graphs (e.g. &lt;em&gt;∆V(t)&lt;/em&gt; for resistor).&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>130</textheight>
 <timevalue>20</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>11</targetid>
+<link><targetid>100</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Pair Groups</name>
-<id>11</id>
+<id>100</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Ensure groups have identified a pair group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>44</textheight>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Solutions</name>
-<id>9</id>
+<id>101</id>
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
 <textHTML>&lt;p&gt;With a pair group, compare and discuss final solutions.&lt;/p&gt;&lt;p&gt;Optional: The pairs come up with 3 questions for the other group to discuss.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>94</textheight>
+<textheight>120</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Concepts</name>
-<id>10</id>
+<id>102</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Wrap up the activity in one these ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ask the students about questions that came up.&lt;/li&gt;&lt;li&gt;Ask them which cards depend on: 1) only the source charge; 2) the test charge; 3) the test charge's initial velocity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Wrap up the activity in one these ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ask students to give an example of what confused them and go over these examples.&lt;/li&gt;&lt;li&gt;Ask how students see Kirchoff's laws in the circuit&lt;/li&gt;&lt;li&gt;Emphasize the process: thinking about the current, drawing a graph, looking at the limits, and thinking about which equation matches.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: See &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/08/CardSorting_Circuits_Instructions-Wrap-Up-and-Review.pdf" target="_blank"&gt;Class Review slides&lt;/a&gt; for answers.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>144</textheight>
+<textheight>230</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>1180</wflegendx>
