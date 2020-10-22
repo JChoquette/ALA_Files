@@ -1,9 +1,9 @@
 <project><prname>Malignant hyperthermia</prname>
-<idnum>1546</idnum>
+<idnum>1560</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Malignant hyperthermia</wfname>
+<workflow><wfname>Malignant Hyperthermia</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>undefined</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study of a realistic teenager&apos;s experience with the disorder to answer the patients questions. Through this activity, students will translate the gene variants, describe molecular events during a muscle contraction, and gain an understanding of the neuromuscular junction. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/case-study-malignant-hyperthermia/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>81</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: 1) The Case Study handout with Patient Brief; 2) In-Class Activity Instructions; 3) Muscle Fiber and Contraction Images&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_-Malignant-hyperthermia_REVIEW.pdf" target="_blank"&gt;Review Handout&lt;/a&gt; with Patient Brief&lt;/li&gt;&lt;li&gt;In-Class &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Malignant-hyperthermia_PRINT.pdf" target="_blank"&gt;Activity Instructions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Muscle Fiber and Contraction &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Malignant-hyperthermia_IMAGES.pdf" target="_blank"&gt;Images&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>66</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the handout, "Case Study: Malignant hyperthermia.".&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and the patient brief with follow-up questions.The patient's story draws on realistic nursing experiences and the questions allow for deeper reflection on the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>200</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -68,7 +68,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the coding and translation and to discuss the responses to the questions. &lt;/li&gt;&lt;li&gt;Hand out the images to be used during the discussion on muscle anatomy. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The first image, a model of a muscle fiber with its arrangement of myofibrils, cellular structures, organelles, and the neuromuscular junction. The other 10 images represent steps of a muscle contraction.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>174</textheight>
+<textheight>184</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Identify Structures of a Muscle Cell</name>
@@ -88,7 +88,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Pause to review the anatomy of a muscle cell and discuss the responses to the questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Map a Muscle Contraction &amp; Discuss</name>
@@ -134,7 +134,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>78</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Responses</name>
@@ -144,11 +144,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Engage in an instructor-led discussion about the patient case and the responses to the assessment.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>52</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
