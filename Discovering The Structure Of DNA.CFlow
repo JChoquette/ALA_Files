@@ -1,5 +1,5 @@
 <project><prname>Discovering the Structure of DNA</prname>
-<idnum>1546</idnum>
+<idnum>1560</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Discovering the Structure of DNA</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
@@ -26,7 +26,7 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The handout with a historical brief &lt;/li&gt;&lt;li&gt;In-Class Activity Instructions&lt;/li&gt;&lt;li&gt;Images of Nucleotide Parts &lt;/li&gt;&lt;li&gt;Photo 51&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Assignment_-Discovering-the-structure-of-DNA_REVIEW.pdf" target="_blank"&gt;Review Handout&lt;/a&gt; with a historical brief&lt;/li&gt;&lt;li&gt;In-Class &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Assignment_-Discovering-the-structure-of-DNA_PRINT.pdf" target="_blank"&gt;Activity Instructions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Assignment_-Discovering-the-structure-of-DNA_IMAGES.pdf" target="_blank"&gt;Images&lt;/a&gt; of Nucleotide Parts &amp;amp; Photo 51&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>120</textheight>
 <isdropped>true</isdropped>
@@ -78,7 +78,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete Part B:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Create four nucleotides: one with a purine base and three with pyrimidine bases&lt;/li&gt;&lt;li&gt;Discuss the questions for that section&lt;/li&gt;&lt;li&gt;Using a dry-erase marker, identify adenine, thymine, and two cytosines among the four bases by writing their abbreviation (A, T, or C) on the appropriate purine or pyrimidine token&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>190</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Polynucleotides</name>
@@ -88,7 +88,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Pauses the activity to review the polynucleotides as well as discuss the responses to the questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Questions and Build a DNA Molecule</name>
@@ -144,7 +144,7 @@
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

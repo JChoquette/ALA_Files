@@ -1,5 +1,5 @@
 <project><prname>Anophthalmia</prname>
-<idnum>1614</idnum>
+<idnum>1630</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Anophthalmia</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
@@ -28,7 +28,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Prepare to distribute the following materials to students: &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The Case Study handout with Patient Brief&lt;/li&gt;&lt;li&gt;In-Class Activity Instructions&lt;/li&gt;&lt;li&gt;Laminated brain puzzle worksheet with velcro attachments&lt;/li&gt;&lt;li&gt;Dry-erase Markers&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin &lt;/li&gt;&lt;li&gt;Distribute the handout, "Case Study: Anophthalmia".&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and the patient brief with follow-up questions.The patient's story draws on realistic nursing experiences and the questions allow for deeper reflection on the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -48,7 +48,7 @@
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Read the Patient Story and answer the questions that follow.&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to the organization of the nervous system, white matter fibers, anatomy and functions of the forebrain, midbrain, and hindbrain, and the cortical areas.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>140</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Identify Deep Structures</name>
@@ -58,7 +58,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;On the activity handout, work on Part A:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify the structures, as listed in the handout, that make up the hindbrain, midbrain, and forebrain&lt;/li&gt;&lt;li&gt;Place these structures to their appropriate velcro spots on the laminated brain worksheet.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>148</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Structures</name>
@@ -68,7 +68,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Pauses to review the placement of structures before students discuss functions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Match Structures with Functions</name>
@@ -78,7 +78,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete Part A:&lt;/p&gt;&lt;p&gt;Use a dry-erase marker to label the structures of the diencephalon, mesencephalon, and rhombencephalon with their associated function(s).&lt;/p&gt;&lt;p&gt;Note: The list of functions include a number in brackets to describe how many structures perform a particular function.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Labels and Functions</name>
@@ -88,7 +88,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Pause to review the functions of Deep Structures before students move on to discuss Superficial Structures.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>52</textheight>
+<textheight>78</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Identify and Discuss Superficial Structures</name>
@@ -98,7 +98,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete Part B:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify the structures, as listed in the handout, that make up the forebrain.&lt;/li&gt;&lt;li&gt;Using the same laminated skull, place these structures in the appropriate spot over the structures that were already placed, making sure to anchor them to the velcro spots.&lt;/li&gt;&lt;li&gt;Discuss the associated questions.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Functions</name>
@@ -118,7 +118,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete Part C:&lt;/p&gt;&lt;p&gt;Fill in the scenario grid with the appropriate sensory, motor, and association area appropriate to the information given in the “Scenario” and middle columns.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>85</textheight>
+<textheight>118</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Scenarios &amp; Initiate Assessment</name>
@@ -154,7 +154,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>72</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Responses</name>
@@ -164,11 +164,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Engage in an instructor-led discussion about the patient case and the responses to the assessment.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>52</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
