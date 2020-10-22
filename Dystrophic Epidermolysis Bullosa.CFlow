@@ -1,9 +1,9 @@
 <project><prname>Dystrophic epidermolysis bullosa</prname>
-<idnum>1518</idnum>
+<idnum>1532</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>Dystrophic epidermolysis bullosa</wfname>
+<workflow><wfname>Dystrophic Epidermolysis Bullosa</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>undefined</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study where they explain to a patient how a mutation in a single gene is responsible for their symptoms.&amp;nbsp;Through this activity, students will translate gene variants, solve a tarsia puzzle and develop an understanding of the integumentary system. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/case-study-dystrophic-epidermolysis-bullosa/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>599</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: 1) The Case Study handout with Patient Brief; 2) In-Class Activity Instructions; 3) Puzzle; 4) Image of skin cross-section.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_-Dystrophic-epidermolysis-bullosa_REVIEW.pdf" target="_blank"&gt;Review Handout&lt;/a&gt; with Patient Brief&lt;/li&gt;&lt;li&gt;In-Class &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Dystrophic-epidermolysis-bullosa_PRINT.pdf" target="_blank"&gt;Activity Instructions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Dystrophic-epidermolysis-bullosa_PUZZLE-and-BOARD.pdf" target="_blank"&gt;Puzzle &amp;amp; Board&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/CaseStudy_Dystrophic-epidermolysis-bullosa_-skin-cross-section.jpg" target="_blank"&gt;Image&lt;/a&gt; of skin cross-section&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>66</textheight>
+<textheight>140</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Distribute Case</name>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the handout, "Case Study: Dystrophic epidermolysis bullosa"&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and the patient brief with follow-up questions.The patient's story draws on realistic nursing experiences and the questions allow for deeper reflection on the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -46,9 +46,9 @@
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read the Patient Story&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to Transcription and translation, organelles involved in protein synthesis, primary tissue types, and integumentary system.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the Patient Story&lt;/li&gt;&lt;li&gt;Review chapters and lecture notes related to Transcription and translation, organelles involved in protein synthesis, primary tissue types, and integumentary system&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>110</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Fill in Genetic Code and Discuss</name>
@@ -58,7 +58,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Draw in portions of the template strand and their resulting transcripts. Assume the transcript is in frame and translate it using the genetic code&lt;/li&gt;&lt;li&gt;Answer the related questions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>137</textheight>
+<textheight>100</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Gene Transcription</name>
@@ -66,9 +66,9 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Pause the activity to review the transcripts and answers to the questions&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Pause the activity to review the transcripts and answers to the questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>65</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Solve Puzzle</name>
@@ -78,7 +78,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Solve the puzzle using the template in the handout to understand the layout. Match the tissue type or cellular junction on the edges of each piece with their appropriate description on the edge of another.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>80</textheight>
+<textheight>95</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Puzzle </name>
@@ -86,9 +86,9 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Pause the activity to review the solution to the puzzle&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Pause the activity to review the solution to the puzzle.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Label Structures</name>
@@ -96,7 +96,7 @@
 <lefticon>group</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Using the second image, which represents a cross-section of the skin, identify the structures, as listed in the handout.&lt;/li&gt;&lt;li&gt;Mark with an asterisk where you expect to find the basement membrane.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Using the second image, which represents a cross-section of the skin, identify the structures, as listed in the handout&lt;/li&gt;&lt;li&gt;Mark with an asterisk where you expect to find the basement membrane&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>104</textheight>
 <isdropped>true</isdropped>
@@ -106,7 +106,7 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the structures in the skin&lt;/li&gt;&lt;li&gt;Initiate the final section of questions, which will be graded.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Pause the activity to review the structures in the skin&lt;/li&gt;&lt;li&gt;Initiate the final section of questions, which will be graded&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>90</textheight>
 <isdropped>true</isdropped>
@@ -116,7 +116,7 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss questions to address the initial patient case, applying lessons learned at each step of the activity to solve it.&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss questions to address the initial patient case, applying lessons learned at each step of the activity to solve it&lt;/li&gt;&lt;li&gt;Record their answers on the handout and submit it to the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>104</textheight>
 <timevalue>30-40</timevalue>
@@ -130,7 +130,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate the responses and prepare to review the questions at the start of the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Responses</name>
@@ -140,11 +140,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Engage in an instructor-led discussion about the patient case and the responses to the assessment.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>52</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
