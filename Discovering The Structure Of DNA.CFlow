@@ -1,9 +1,9 @@
 <project><prname>Discovering the Structure of DNA</prname>
-<idnum>1574</idnum>
+<idnum>1588</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Discovering the Structure of DNA</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study representing a realistic historical story about the scientific discovery of DNA. Through this activity, students will create a 2D DNA model and better understand molecular components of the body. See a full description here.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study representing a realistic historical story about the scientific discovery of DNA. Through this activity, students will create a 2D DNA model and better understand molecular components of the body. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/case-study-discovering-the-structure-of-dna/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>597</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
