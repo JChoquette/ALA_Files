@@ -1,9 +1,9 @@
 <project><prname>Call Me By My Organelle</prname>
-<idnum>1528</idnum>
+<idnum>1540</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Call Me By My Organelle</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students use cards to match cells with their organelles and functions. Students will better understand the internal organization of a cell, how organelles affect cell function, and be able to illustrate and explain different cell types. See a full description here.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students use cards to match cells with their organelles and functions. Students will better understand the internal organization of a cell, how organelles affect cell function, and be able to illustrate and explain different cell types. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/call-me-by-my-organelle/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>601</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The review handout that introduces the activity&lt;/li&gt;&lt;li&gt;In-class assessment handout&lt;/li&gt;&lt;li&gt;Bags of Cards&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Call-Me-by-My-Organelle_REVIEW.pdf" target="_blank"&gt;review handout&lt;/a&gt; that introduces the activity&lt;/li&gt;&lt;li&gt;In-class &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Call-Me-by-My-Organelle_PRINT.pdf" target="_blank"&gt;assessment handout&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Bags of &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_Call-Me-by-My-Organelle_CARDS.pdf" target="_blank"&gt;cards&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120</textheight>
+<textheight>130</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin&lt;/li&gt;&lt;li&gt;Distribute the first page of the review handout, "Assignment: Call Me By My Organelle"&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and an introduction to the activity.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>150</textheight>
+<textheight>160</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -58,7 +58,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete Part B:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collect the green cards with the names of organelles from the bag and match the 5 major organelles with their corresponding green card&lt;/li&gt;&lt;li&gt;Collect the red cards with organelle functions and match them with the correct organelle&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>146</textheight>
+<textheight>158</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Organelles</name>
@@ -68,7 +68,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Pause to review organelles and their functions&lt;/li&gt;&lt;li&gt;Distribute the second page of the review handout and the assessment handout&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>80</textheight>
+<textheight>90</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Identify Cell Types and Organelles</name>
@@ -124,7 +124,7 @@
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>1070</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
