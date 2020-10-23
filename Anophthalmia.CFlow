@@ -1,9 +1,9 @@
 <project><prname>Anophthalmia</prname>
-<idnum>1630</idnum>
+<idnum>1646</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Anophthalmia</wfname>
 <wfauthor>By Jason Lapointe</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study representing a realistic nursing experience, in which a blind patient with Anophthalmia is asking questions about the brain. Through this activity, students will better understand the functions of the brain, its sensory and motor pathways, and be able to explain it. See a full description here.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a case study representing a realistic nursing experience, in which a blind patient with Anophthalmia is asking questions about the brain. Through this activity, students will better understand the functions of the brain, its sensory and motor pathways, and be able to explain it. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/case-study-anophthalmia/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,7 +26,7 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to distribute the following materials to students: &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The Case Study handout with Patient Brief&lt;/li&gt;&lt;li&gt;In-Class Activity Instructions&lt;/li&gt;&lt;li&gt;Laminated brain puzzle worksheet with velcro attachments&lt;/li&gt;&lt;li&gt;Dry-erase Markers&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to distribute the following materials to students:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_-Anophthalmia_REVIEW.pdf" target="_blank"&gt;Review Handout&lt;/a&gt; with Patient Brief&lt;/li&gt;&lt;li&gt;In-Class &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-Study_Anophthalmia_PRINT.pdf" target="_blank"&gt;Activity Instructions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Laminated brain &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_-Anophthalmia_PUZZLE.pdf" target="_blank"&gt;puzzle worksheet with velcro attachments&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The patient's &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/10/Case-study_-Anophthalmia_fMRI.pdf" target="_blank"&gt;fMRI images&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Dry-erase Markers&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>150</textheight>
 <isdropped>true</isdropped>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Assign new groups at least three days before the in-class tasks begin &lt;/li&gt;&lt;li&gt;Distribute the handout, "Case Study: Anophthalmia".&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The handout lists the learning objectives, topics for students to review, and the patient brief with follow-up questions.The patient's story draws on realistic nursing experiences and the questions allow for deeper reflection on the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>180</textheight>
+<textheight>190</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare for Class</name>
@@ -68,7 +68,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Pauses to review the placement of structures before students discuss functions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>76</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Match Structures with Functions</name>
