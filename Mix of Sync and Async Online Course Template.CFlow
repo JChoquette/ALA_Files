@@ -1,0 +1,253 @@
+<project><prname>Mix of Sync  and   Async Online Course Template </prname>
+<idnum>122</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Mix_Sync &amp; Async online course template
+</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>&lt;p&gt;This is a template of an online course that uses a &lt;strong&gt;mix of synchronous and asynchronous &lt;/strong&gt;instructional approaches. Note the difference between sync and async lessons (green boxes). Async do &lt;strong&gt;not&lt;/strong&gt; have a scheduled day and time, instead, it involves materials that you send your students via your LMS (e.g., LEA, Moodle); assignments or practice exercises are distributed with a deadline to be collected at some future date.&lt;/p&gt;&lt;p&gt;[Note that you can change any of the sequences and content of these boxes]&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columntext>Sync lesson</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>FA</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instruct</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Async lesson</columntext>
+<columnnodetext>Async lesson</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>2</weekid>
+<node><name>Sync class meeting
+lesson 1 - introduction to course</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>distributed-problem-solving</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;[insert the content you plan to address using URL links. You might even want to plan out how you want your students to engage during this synchronous online class. If yes, check out the "Activity level" of the CourseFlow.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>6</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 1 - solutions/ drafts/ etc.</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;[link to a document you wish your students to work on outside of class, or one they started to work on in-class of the synchronous class  - e.g., a Google doc, a document in Teams]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+</node>
+<node><name>Async lesson (no class meeting)
+Lesson 2 - introduce topic</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;[insert the link to your lesson material - e.g., a slide presentation, reading materials, etc.]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>39</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Mini-quiz</name>
+<id>39</id>
+<lefticon>exercise</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;[insert a small formative assessment that allows students to get a feel for where they stand. Also allows you to get to know your students]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+</node>
+</week>
+<week><weekid>14</weekid>
+<node><name>Preparation for Lesson 3 &amp; 4 - reading</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;[insert a link to the reading you've assigned]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>11</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Questions related to readings</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;[a few questions related to the readings to help draw attention to the main concepts/ideas from the reading]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10-15</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>9</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>sync class meeting
+Lesson 3 - continue topic</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>distributed-problem-solving</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;[insert the content you plan to address using URL links. You might even want to plan out how you want your students to engage during this synchronous online class. If yes, check out the "Activity level" of the CourseFlow.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>22</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 3 - solutions/ drafts/ etc.</name>
+<id>22</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;[link to a document you wish your students to work on outside of class, or one they started to work on in-class of the synchronous class  - e.g., a Google doc, a document in Teams]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+</node>
+<node><name>Async lesson (no class meeting)
+Lesson 4 - continue topic </name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;[insert the link to your lesson material - e.g., a slide presentation, reading materials, etc.]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>56</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>43</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Mini-quiz</name>
+<id>56</id>
+<lefticon>exercise</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;[insert a small formative assessment that allows students to get a feel for where they stand. Also allows you to get to know your students]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>15</timevalue>
+<timeunit>min</timeunit>
+</node>
+</week>
+<week><weekid>47</weekid>
+<node><name>Preparation for Lesson 5 &amp; 6- reading</name>
+<id>41</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;[insert a link to the reading you've assigned]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>42</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Questions related to readings</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;[a few questions related to the readings to help draw attention to the main concepts/ideas from the reading]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>10-15</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>43</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>sync class meeting
+Lesson 5 - New topic</name>
+<id>43</id>
+<lefticon>undefined</lefticon>
+<righticon>distributed-problem-solving</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;[insert the content you plan to address using URL links. You might even want to plan out how you want your students to engage during this synchronous online class. If yes, check out the "Activity level" of the CourseFlow.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>45</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Async lesson (no class meeting)
+Lesson 6 - continue topic </name>
+<id>45</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;[insert the link to your lesson material - e.g., a slide presentation, reading materials, etc.]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>58</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Graded Assignment</name>
+<id>58</id>
+<lefticon>exercise</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;[graded assignment or quiz that takes into account the first three weeks]&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
