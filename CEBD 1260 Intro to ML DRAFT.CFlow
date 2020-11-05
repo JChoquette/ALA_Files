@@ -1,0 +1,721 @@
+<project><prname> CEBD 1260 –Introduction to machine learning</prname>
+<idnum>738</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CEBD 1260 –Introduction to machine learning --</wfname>
+<wfauthor>Instructor: Yimin Nie</wfauthor>
+<wfdescription>&lt;p&gt;This course is the introduction todata analysis and machine learning (ML) algorithms/models/methodologies. Based on the applications in machine learning /AI in multiple businesses (i.e. finance, user behavior analysis, retailer services, etc.), the detailed models using ML to solve these practical questions will be presented and the implementation of the code will be guided step by step. &lt;/p&gt;&lt;p&gt;The following topics related to general machine learning techniques will be covered: common-used data analysis/machine learning programming tools, exploratory data analysis, feature engineering, supervised/unsupervised learning, regression, classification, tree-based models, boosting and ensemble methods, time series, data visualization, clustering, dimensionality reduction and their applications in various business cases.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>541,559</tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columntext>Preparation (students)</columntext>
+<columnnodetext>Preparation (students)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columntext>Lecture </columntext>
+<columnnodetext>Lecture </columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+<columntext>Assignments</columntext>
+<columnnodetext>Assignments</columnnodetext>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>lesson</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Self-review </columntext>
+<columnnodetext>Self-review </columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>solo</columnimage>
+<columncolour>#a3b9df</columncolour>
+<columntext>Tutorial (Korbit)</columntext>
+<columnnodetext>Tutorial (Korbit)</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>278</weekid>
+<weekname>Pre-requisite knowledge</weekname>
+<node><name>1: Linear Algebra Basics</name>
+<id>279</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Why Learn Linear Algebra?&lt;/p&gt;&lt;p&gt;Vectors and Matrices and Scalars&lt;/p&gt;&lt;p&gt;Addition and Scalar Multiplication and Transpose&lt;/p&gt;&lt;p&gt;Dot Product&lt;/p&gt;&lt;p&gt;Norm and Euclidean Distance&lt;/p&gt;&lt;p&gt;Matrix Multiplication&lt;/p&gt;&lt;p&gt;Identity Matrix&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>171</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>2: Probability Basics	</name>
+<id>280</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Introduction to Probability&lt;/p&gt;&lt;p&gt;Discrete vs. Continuous Random Variables&lt;/p&gt;&lt;p&gt;Expected Value vs. Sample Mean&lt;/p&gt;&lt;p&gt;Variance and Standard Deviation&lt;/p&gt;&lt;p&gt;Binomial Distribution&lt;/p&gt;&lt;p&gt;Normal Distribution&lt;/p&gt;&lt;p&gt;Joint and Marginal Probability Distributions&lt;/p&gt;&lt;p&gt;Conditional Probability&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>176</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>2</weekid>
+<weekname>Week 1 - Basic introduction to machine learning/data science/AI </weekname>
+<node><name>Basic introduction </name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Provide an introduction to the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data analysis/science, machine learning and AI concept warmup&lt;/li&gt;&lt;li&gt;Job roles, career path and learning plan discussion&lt;/li&gt;&lt;li&gt;Introduction and overview for toolkits in ML /AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discuss various aspects of class organization:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction of multiple projects in class&lt;/li&gt;&lt;li&gt;Project description, detailed weights, and team assignment (at most 3 people)&lt;/li&gt;&lt;li&gt;Reading references and way of working (zoom, Yuja, ....)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Quick introduction to Python, pandas and sklearn toolkit&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>348</textheight>
+<isdropped>true</isdropped>
+<link><targetid>146</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>564</nodetagid>
+</nodetag>
+<nodetag><nodetagid>561</nodetagid>
+</nodetag>
+</node>
+<node><name>6: Introduction to Neural Networks</name>
+<id>282</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An Artificial Neuron&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An Artificial Neuron&lt;/p&gt;&lt;p&gt;Example: 'OR' Neuron Using Sigmoid Activation&lt;/p&gt;&lt;p&gt;Example: Neuron with Rectified Linear Function&lt;/p&gt;&lt;p&gt;One-Layer Neural Network&lt;/p&gt;&lt;p&gt;Example: 'XOR' Neural Network&lt;/p&gt;&lt;p&gt;Deep Training Neural Networks&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Training Neural Networks&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>256</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>4</weekid>
+<weekname>Week 2 - General concepts and methodologies in ML/DS/AI </weekname>
+<node><name>undefined</name>
+<id>146</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Each team / group selects a dataset of interest  and comfort. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;This dataset will be used to apply techniques taught during the course to solve the problem on the dataset. &lt;/li&gt;&lt;li&gt;There are different levels of datasets to choose. However, the project has difficulty score that will give more weights for harder projects.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>General Concepts and Methodologies </name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture includes the following concepts &amp;amp; topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Machine learning basic concepts: supervised/unsupervised learning, regression /classification, learning and learning rule, objective function,...&lt;/li&gt;&lt;li&gt;Methodologies in ML: training, testing, validation, cross validation&lt;/li&gt;&lt;li&gt;Battle with overfitting and often used techniques&lt;/li&gt;&lt;li&gt;Optimization strategies in ML&lt;/li&gt;&lt;li&gt;Learning and parameter tuning in ML&lt;/li&gt;&lt;li&gt;Life cycle of ML/DS&lt;/li&gt;&lt;li&gt;Pipeline building and product delivery of ML/DS projects&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Split data set&lt;/li&gt;&lt;li&gt;Data input and output, evaluation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>329</textheight>
+<isdropped>true</isdropped>
+<link><targetid>138</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>560</nodetagid>
+</nodetag>
+<nodetag><nodetagid>561</nodetagid>
+</nodetag>
+</node>
+<node><name>undefined</name>
+<id>138</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Identify overall property of your project data set&lt;/li&gt;&lt;li&gt;Identify validation strategy&lt;/li&gt;&lt;li&gt;Identify input and target&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+<link><targetid>23</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>3: Data Preprocessing</name>
+<id>88</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Descriptive Statistics&lt;/p&gt;&lt;p&gt;Introduction to Graphs&lt;/p&gt;&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;One-Hot Encoding&lt;/p&gt;&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;&lt;p&gt;Feature Engineering&lt;/p&gt;&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>290</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>4: Machine Learning Models</name>
+<id>75</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is Machine Learning? (coming soon)&lt;/p&gt;&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is Machine Learning? (coming soon)&lt;/p&gt;&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;ClusteringParameters vs. Hyperparameters&lt;/p&gt;&lt;p&gt;Hyperparameter Tuning&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>290</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>5</weekid>
+<weekname>Week 3 - Data analysis and preprocessing 1: Data IO/Operation</weekname>
+<node><name>Data Analysis and Preprocessing 1</name>
+<id>23</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Data IO/Operation, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pandas for data I/O&lt;/li&gt;&lt;li&gt;Data preprocessing: missing data, nan data, join, merge, split, loc…&lt;/li&gt;&lt;li&gt;Validation split and ready for modeling&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on Data Wrangling, Data Cleaning, Data operation, Exploratory Data Analysis.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>217</textheight>
+<isdropped>true</isdropped>
+<link><targetid>139</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>563</nodetagid>
+</nodetag>
+</node>
+<node><name>undefined</name>
+<id>139</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Perform data preprocessing&lt;/li&gt;&lt;li&gt;Loading, reading, cleaning data&lt;/li&gt;&lt;li&gt; Basic statistical analysis&lt;/li&gt;&lt;li&gt;Basic preprocessing pipelines&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+<link><targetid>101</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>148</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>148</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Project / coding activity for data preprocessing. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>71</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>3: Data Preprocessing</name>
+<id>293</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Descriptive Statistics&lt;/p&gt;&lt;p&gt;Introduction to Graphs&lt;/p&gt;&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;One-Hot Encoding&lt;/p&gt;&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;&lt;p&gt;Feature Engineering&lt;/p&gt;&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>328</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>6</weekid>
+<weekname>Week 4 - Data analysis and preprocessing 2: feature engineering</weekname>
+<node><name>Data Analysis and Preprocessing 2</name>
+<id>101</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Feature Engineering, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Processing time related features&lt;/li&gt;&lt;li&gt;Processing categorical and numerical features&lt;/li&gt;&lt;li&gt;Processing target variables&lt;/li&gt;&lt;li&gt;Business-oriented / customized feature engineering&lt;/li&gt;&lt;li&gt;Feature selection strategies&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on complex data preprocessing and feature engineering on special features in real business.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259</textheight>
+<isdropped>true</isdropped>
+<link><targetid>140</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>563</nodetagid>
+</nodetag>
+</node>
+<node><name>undefined</name>
+<id>140</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Feature engineering your data&lt;/li&gt;&lt;li&gt;Validate your new features&lt;/li&gt;&lt;li&gt;Analyze and select features&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+<link><targetid>150</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>121</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>150</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Project / coding activity for feature engineering ( in-class guide for feature engineering )&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>85</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>3: Data Preprocessing</name>
+<id>284</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;&lt;p&gt;Feature Engineering&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Descriptive Statistics&lt;/p&gt;&lt;p&gt;Introduction to Graphs&lt;/p&gt;&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;One-Hot Encoding&lt;/p&gt;&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;&lt;p&gt;Feature Engineering&lt;/p&gt;&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>347</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>21</weekid>
+<weekname>Week 5 - Supervised learning 1: 
+Regression</weekname>
+<node><name>Supervised learning (SL-I)</name>
+<id>121</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Regression, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression: a) Regular Linear regression and its insights; b) Regularization; c) Linear regression with regularization;&lt;/li&gt;&lt;li&gt;Polynomial regression&lt;/li&gt;&lt;li&gt;Evaluate regression performance by mean squared error&lt;/li&gt;&lt;li&gt;Non-linear regression: a) Tree-based approach; b) Regression tree; c) Entropy and Gini-index; d) Information gain; e) Boosting method for regression&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on Machine Learning Models for Regression (Examples: Linear Regression, Logistic Regression, Random Forest, etc)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>343</textheight>
+<isdropped>true</isdropped>
+<link><targetid>141</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>562</nodetagid>
+</nodetag>
+</node>
+<node><name>4: Machine Learning Models</name>
+<id>296</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;Clustering&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is Machine Learning? (coming soon)&lt;/p&gt;&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;Clustering&lt;/p&gt;&lt;p&gt;Parameters vs. Hyperparameters&lt;/p&gt;&lt;p&gt;Hyperparameter Tuning&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>404</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>5: Machine Learning Overview</name>
+<id>173</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May Align With:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Supervised Learning&lt;/p&gt;&lt;p&gt;Linear Approximators&lt;/p&gt;&lt;p&gt;Generalized Linear Approximators&lt;/p&gt;&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Gradient Descent&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motivation&lt;/p&gt;&lt;p&gt;Supervised Learning&lt;/p&gt;&lt;p&gt;Linear Approximators&lt;/p&gt;&lt;p&gt;Generalized Linear Approximators&lt;/p&gt;&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Bias-Variance Decomposition&lt;/p&gt;&lt;p&gt;Overview of Logistic Regression&lt;/p&gt;&lt;p&gt;Gradient Descent&lt;/p&gt;&lt;p&gt;Regularization for Logistic Regression&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Machine Learning&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>399</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>6: Introduction to Neural Networks</name>
+<id>287</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Deep Training Neural Networks&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An Artificial Neuron&lt;/p&gt;&lt;p&gt;Example: 'OR' Neuron Using Sigmoid Activation&lt;/p&gt;&lt;p&gt;Example: Neuron with Rectified Linear Function&lt;/p&gt;&lt;p&gt;One-Layer Neural Network&lt;/p&gt;&lt;p&gt;Example: 'XOR' Neural Network&lt;/p&gt;&lt;p&gt;Deep Training Neural Networks&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Training Neural Networks&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>256</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>141</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Build baseline model for your project&lt;/li&gt;&lt;li&gt;Be able to run the benchmark model&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<link><targetid>124</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Project Coding 
+Practice / Activity</name>
+<id>153</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Project coding practice/ activity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>57</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>115</weekid>
+<weekname>Week 6 - Supervised learning 2: 
+Classification</weekname>
+<node><name>Supervised learning (SL-II)</name>
+<id>124</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Classification, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Classification as probability perspective, probability quick catch-up&lt;/li&gt;&lt;li&gt;Bayes theorem and naïve Bayes for classification&lt;/li&gt;&lt;li&gt;Binary classification&lt;/li&gt;&lt;li&gt;Logistic Regression as binary classification&lt;/li&gt;&lt;li&gt;Multi-class classification: softmax&lt;/li&gt;&lt;li&gt;Imbalanced data set, upper sample / undersampling and its practical issues&lt;/li&gt;&lt;li&gt;Evaluation metrics for classification: f1 score, precision and recall, roc_auc score&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;u&gt;&lt;span class="ql-cursor"&gt;﻿&lt;/span&gt;&lt;/u&gt;&lt;/em&gt;Lecture on Machine Learning Models for Classification (Examples: Decision Trees, K Nearest Neighbors, Random Forest, etc).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>324</textheight>
+<isdropped>true</isdropped>
+<link><targetid>142</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>562</nodetagid>
+</nodetag>
+</node>
+<node><name>4: Machine Learning Models</name>
+<id>299</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What is Machine Learning? (coming soon)&lt;/p&gt;&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;Clustering&lt;/p&gt;&lt;p&gt;Parameters vs. Hyperparameters&lt;/p&gt;&lt;p&gt;Hyperparameter Tuning&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>271</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>5: Machine Learning Overview</name>
+<id>290</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;May align with:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motivation&lt;/p&gt;&lt;p&gt;Supervised Learning&lt;/p&gt;&lt;p&gt;Linear Approximators&lt;/p&gt;&lt;p&gt;Generalized Linear Approximators&lt;/p&gt;&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Bias-Variance Decomposition&lt;/p&gt;&lt;p&gt;Overview of Logistic Regression&lt;/p&gt;&lt;p&gt;Gradient Descent&lt;/p&gt;&lt;p&gt;Regularization for Logistic Regression&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Machine Learning&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>285</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>142</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Build baseline model for Classification&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<isdropped>true</isdropped>
+<link><targetid>127</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>156</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Project Coding 
+Practice / Activity</name>
+<id>156</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Project coding practice; The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>52</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>119</weekid>
+<weekname>Week 7 - Supervised learning 3: 
+Boosting machine APIs and data visualization</weekname>
+<node><name>Supervised learning (SL-III)</name>
+<id>127</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Fast Boosting Machine (industrial-level APIs) &amp;amp; Data Visualization, including the following machines and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Xgboost: fast high-performance boosting machine&lt;/li&gt;&lt;li&gt;Lightgbm: light and fast boosting machine&lt;/li&gt;&lt;li&gt;Catboost: high-performance boosting machine (optional)&lt;/li&gt;&lt;li&gt;Data visualization review&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Seaborn&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>226</textheight>
+<isdropped>true</isdropped>
+<link><targetid>143</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>564</nodetagid>
+</nodetag>
+</node>
+<node><name>undefined</name>
+<id>143</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;be able to run at least one boosting model &lt;/li&gt;&lt;li&gt;can finetune these models &lt;/li&gt;&lt;li&gt;can visualize results&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+<link><targetid>159</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>130</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Project Coding 
+Practice / Activity</name>
+<id>159</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Coding practice / activity: explore different boosting machines. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>71</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>118</weekid>
+<weekname>Week 8 - Machine learning pipeline integration</weekname>
+<node><name>ML pipeline in-class practice</name>
+<id>130</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Students:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate work code into project structure&lt;/li&gt;&lt;li&gt;Enhance the pipeline and evaluation strategy&lt;/li&gt;&lt;li&gt;Open discussion of advanced feature engineering&lt;/li&gt;&lt;li&gt;Trouble shooting for individual team&lt;/li&gt;&lt;li&gt;Data visualization of your results and discussion session&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Evaluation of model in-class&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>226</textheight>
+<isdropped>true</isdropped>
+<link><targetid>144</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>144</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Be able to finalize project structure&lt;/li&gt;&lt;li&gt;Advanced tuning and evaluation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<link><targetid>133</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>176</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<week><weekid>117</weekid>
+<weekname>Week 9 - Ensemble, Unsupervised learning 
+and dimensionality reduction</weekname>
+<node><name>UL, Ensemble Method &amp; Dimensionality Reduction</name>
+<id>133</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture on Ensemble Method &amp;amp; Dimensionality Reduction, including the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why do we need ensemble methods?&lt;/li&gt;&lt;li&gt;Different skills using ensemble methods&lt;/li&gt;&lt;li&gt;Dimensionality reduction introduction&lt;/li&gt;&lt;li&gt;PCA analysis introduction&lt;/li&gt;&lt;li&gt;Clustering: K-means&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160</textheight>
+<isdropped>true</isdropped>
+<link><targetid>145</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>145</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Demo for clustering&lt;/li&gt;&lt;li&gt;Demo for PCA using images&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<link><targetid>147</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>164</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Project Coding 
+Practice / Activity</name>
+<id>164</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>57</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>116</weekid>
+<weekname>Week 10 - Final test</weekname>
+<node><name>Finalize Project Components</name>
+<id>147</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;The final project should contain &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses &lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>146</textheight>
+<isdropped>true</isdropped>
+<link><targetid>136</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Comprehensive Project Practice</name>
+<id>136</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Use selected small data set for final in-class evaluation and competition&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>281</weekid>
+<weekname>Post-course Learning</weekname>
+<node><name>7: Training Neural Networks</name>
+<id>177</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stochastic Gradient Descent&lt;/p&gt;&lt;p&gt;The Backpropagation Algorithm&lt;/p&gt;&lt;p&gt;Optimization Difficulties&lt;/p&gt;&lt;p&gt;Optimization Algorithms&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Example: Data Preprocessing&lt;/p&gt;&lt;p&gt;Overview of Model Selection&lt;/p&gt;&lt;p&gt;Lecture Summary: Training Neural Networks&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>8: Convolutional and Recurrent Neural Networks</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Object Detection Task&lt;/p&gt;&lt;p&gt;Overview of Convolutional Training Neural Networks&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: Convolutional Layers&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: Pooling Layers&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: A Complete Object Detection Model&lt;/p&gt;&lt;p&gt;Sentiment Classification Task&lt;/p&gt;&lt;p&gt;Recurrent Neural Networks&lt;/p&gt;&lt;p&gt;Deep Recurrent Neural Networks&lt;/p&gt;&lt;p&gt;Lecture Summary: Convolutional and Recurrent Training Neural Networks&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>5</textheight>
+</node>
+<node><name>9: Data Science for Marketing/Financial Analytics</name>
+<id>302</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Korbit's complete section:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Prioritizing Sales Leads&lt;/p&gt;&lt;p&gt;Predicting Credit Card Fraud with Logistic Regression&lt;/p&gt;&lt;p&gt;Estimating Porfolio Risk&lt;/p&gt;&lt;p&gt;Prioritizing Accounts Receivable&lt;/p&gt;&lt;p&gt;RFM Analysis for Customer Segmentation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: this could be relevant to the examples of career paths, applications and industries presented in Week 1&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>5</textheight>
+</node>
+</week>
+<week><weekid>166</weekid>
+<weekname>Disregard this section - It's an overview of the structure of the course</weekname>
+<node><name>undefined</name>
+<id>167</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;The whole course will be taught online through Zoom platform with practical examples involving real datasets provided by the instructor. Each session will be video recorded and delivered on Yuja platform via Concordia portal. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>94</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>168</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Each assignment and offline practice will be assigned from moodle. Students’ final project submission is also expected to be delivered via these platforms.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>66</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>169</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Offline practice will be assigned from moodle.&lt;/li&gt;&lt;li&gt;Students are expected to spend at least 10 - 15 hours on homework / review / extending knowledge&lt;/li&gt;&lt;li&gt;Instructor will ensure one offline trouble-shooting session each week.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>Competency Mapping</tagname>
+<tagid>541</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Manipulate data structures and implement algorithms</tagname>
+<tagid>542</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Install libraries and programming tools </tagname>
+<tagid>543</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Import data in programing environment</tagname>
+<tagid>544</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Design and implement simple algorithms </tagname>
+<tagid>549</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Apply existing libraries to data</tagname>
+<tagid>550</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Visualize data and models</tagname>
+<tagid>551</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Use best practices for software development</tagname>
+<tagid>545</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Version code with Git</tagname>
+<tagid>546</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Push / pull code from GitHub</tagname>
+<tagid>552</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Data analysis and modelling competencies</tagname>
+<tagid>547</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Formulate relevant questions about datasets</tagname>
+<tagid>553</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Select data modelling techniques to answer a question</tagname>
+<tagid>554</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Prepare data for analysis (feature extraction, missing values, train-test-validation sets)</tagname>
+<tagid>555</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Apply classification, regression, and clustering to existing data</tagname>
+<tagid>556</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Interpersonal and Leadership competencies </tagname>
+<tagid>548</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Present critical information to team</tagname>
+<tagid>557</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Find resources to solve a technical problem</tagname>
+<tagid>558</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</tag>
+<tag><tagname>Course Objectives</tagname>
+<tagid>559</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Understand the broad classes of methods to address machine learning models and data science challenges</tagname>
+<tagid>560</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Understand machine learning workflow/pipeline design and integration as product</tagname>
+<tagid>561</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Understand basic theoretical insights behind ML models/algorithms with some minor math in order to have longer potential for deeper topics in ML</tagname>
+<tagid>562</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Understand how to link the main algorithms to coding and implement thesemethods in machine learning and data analysis, feature engineering and visualization</tagname>
+<tagid>563</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Apply these algorithms on realistic problems using existing software libraries, toolkits or ecosystems in machine learning community</tagname>
+<tagid>564</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</project>
