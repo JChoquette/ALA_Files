@@ -663,29 +663,29 @@ and dimensionality reduction</weekname>
 <wflegendy>400</wflegendy>
 <wfoutcomesorttype>week</wfoutcomesorttype>
 </wfdata></workflow>
-<tag><tagname>CEBD Course Competencies</tagname>
+<tag><tagname>CCE Competencies</tagname>
 <tagid>541</tagid>
 <iscollapsed>false</iscollapsed>
 <tag><tagname>Manipulate data structures and implement algorithms</tagname>
 <tagid>542</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Install libraries and programming tools </tagname>
+<tag><tagname>C - Install libraries and programming tools </tagname>
 <tagid>543</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Import data in programing environment</tagname>
+<tag><tagname>C - Import data in programing environment</tagname>
 <tagid>544</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Design and implement simple algorithms </tagname>
+<tag><tagname>C - Design and implement simple algorithms </tagname>
 <tagid>549</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Apply existing libraries to data</tagname>
+<tag><tagname>C - Apply existing libraries to data</tagname>
 <tagid>550</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Visualize data and models</tagname>
+<tag><tagname>C - Visualize data and models</tagname>
 <tagid>551</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -693,11 +693,11 @@ and dimensionality reduction</weekname>
 <tag><tagname>Use best practices for software development</tagname>
 <tagid>545</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Version code with Git</tagname>
+<tag><tagname>C - Version code with Git</tagname>
 <tagid>546</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Push / pull code from GitHub</tagname>
+<tag><tagname>C - Push / pull code from GitHub</tagname>
 <tagid>552</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -705,19 +705,19 @@ and dimensionality reduction</weekname>
 <tag><tagname>Data analysis and modelling competencies</tagname>
 <tagid>547</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Formulate relevant questions about datasets</tagname>
+<tag><tagname>C - Formulate relevant questions about datasets</tagname>
 <tagid>553</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Select data modelling techniques to answer a question</tagname>
+<tag><tagname>C - Select data modelling techniques to answer a question</tagname>
 <tagid>554</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Prepare data for analysis (feature extraction, missing values, train-test-validation sets)</tagname>
+<tag><tagname>C - Prepare data for analysis (feature extraction, missing values, train-test-validation sets)</tagname>
 <tagid>555</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Apply classification, regression, and clustering to existing data</tagname>
+<tag><tagname>C - Apply classification, regression, and clustering to existing data</tagname>
 <tagid>556</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -725,11 +725,11 @@ and dimensionality reduction</weekname>
 <tag><tagname>Interpersonal and Leadership competencies </tagname>
 <tagid>548</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Present critical information to team</tagname>
+<tag><tagname>C - Present critical information to team</tagname>
 <tagid>557</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Find resources to solve a technical problem</tagname>
+<tag><tagname>C - Find resources to solve a technical problem</tagname>
 <tagid>558</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -765,15 +765,15 @@ and dimensionality reduction</weekname>
 <tag><tagname>Probability Basics</tagname>
 <tagid>2455</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Normal Distribution</tagname>
+<tag><tagname>K - Normal Distribution</tagname>
 <tagid>2456</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Joint and Marginal Probability Distributions</tagname>
+<tag><tagname>K - Joint and Marginal Probability Distributions</tagname>
 <tagid>2457</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Conditional Probability</tagname>
+<tag><tagname>K - Conditional Probability</tagname>
 <tagid>2459</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -781,39 +781,39 @@ and dimensionality reduction</weekname>
 <tag><tagname>Data Preprocessing</tagname>
 <tagid>2458</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>What is a Dataset?</tagname>
+<tag><tagname>K - What is a Dataset?</tagname>
 <tagid>2460</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Exploratory Data Analysis</tagname>
+<tag><tagname>K - Exploratory Data Analysis</tagname>
 <tagid>2461</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Overview of Data Preprocessing</tagname>
+<tag><tagname>K - Overview of Data Preprocessing</tagname>
 <tagid>2462</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>One-Hot Encoding</tagname>
+<tag><tagname>K - One-Hot Encoding</tagname>
 <tagid>2463</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Feature Importance</tagname>
+<tag><tagname>K - Feature Importance</tagname>
 <tagid>2464</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Feature Selection</tagname>
+<tag><tagname>K - Feature Selection</tagname>
 <tagid>2465</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Feature Scaling</tagname>
+<tag><tagname>K - Feature Scaling</tagname>
 <tagid>2466</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Feature Engineering</tagname>
+<tag><tagname>K - Feature Engineering</tagname>
 <tagid>2467</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Principal Component Analysis</tagname>
+<tag><tagname>K - Principal Component Analysis</tagname>
 <tagid>2468</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -821,43 +821,43 @@ and dimensionality reduction</weekname>
 <tag><tagname>Machine Learning Models</tagname>
 <tagid>2470</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Logistic Regression Basic</tagname>
+<tag><tagname>K - Logistic Regression Basic</tagname>
 <tagid>2472</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Sigmoid Function</tagname>
+<tag><tagname>K - Sigmoid Function</tagname>
 <tagid>2473</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Binary Classification</tagname>
+<tag><tagname>K - Binary Classification</tagname>
 <tagid>2474</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Binary Classification for Imbalanced Classes</tagname>
+<tag><tagname>K - Binary Classification for Imbalanced Classes</tagname>
 <tagid>2475</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Evaluation Metrics (Classification)</tagname>
+<tag><tagname>K - Evaluation Metrics (Classification)</tagname>
 <tagid>2476</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Linear Regression</tagname>
+<tag><tagname>K - Linear Regression</tagname>
 <tagid>2477</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Evaluation Metrics (Regression)</tagname>
+<tag><tagname>K - Evaluation Metrics (Regression)</tagname>
 <tagid>2478</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Clustering</tagname>
+<tag><tagname>K - Clustering</tagname>
 <tagid>2479</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Parameters vs. Hyperparameters</tagname>
+<tag><tagname>K - Parameters vs. Hyperparameters</tagname>
 <tagid>2480</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Hyperparameter Tuning</tagname>
+<tag><tagname>K - Hyperparameter Tuning</tagname>
 <tagid>2481</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -865,47 +865,47 @@ and dimensionality reduction</weekname>
 <tag><tagname>Machine Learning Overview</tagname>
 <tagid>2482</tagid>
 <iscollapsed>false</iscollapsed>
-<tag><tagname>Motivation</tagname>
+<tag><tagname>K - Motivation</tagname>
 <tagid>2483</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Supervised Learning</tagname>
+<tag><tagname>K - Supervised Learning</tagname>
 <tagid>2484</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Linear Approximators</tagname>
+<tag><tagname>K - Linear Approximators</tagname>
 <tagid>2485</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Generalized Linear Approximators</tagname>
+<tag><tagname>K - Generalized Linear Approximators</tagname>
 <tagid>2486</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Overfitting and Underfitting</tagname>
+<tag><tagname>K - Overfitting and Underfitting</tagname>
 <tagid>2487</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Overview of Cross-Validation</tagname>
+<tag><tagname>K - Overview of Cross-Validation</tagname>
 <tagid>2488</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Bias-Variance Decomposition</tagname>
+<tag><tagname>K - Bias-Variance Decomposition</tagname>
 <tagid>2489</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Overview of Logistic Regression</tagname>
+<tag><tagname>K - Overview of Logistic Regression</tagname>
 <tagid>2490</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Gradient Descent</tagname>
+<tag><tagname>K - Gradient Descent</tagname>
 <tagid>2491</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Regularization for Logistic Regression</tagname>
+<tag><tagname>K - Regularization for Logistic Regression</tagname>
 <tagid>2492</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>Lecture Summary: Introduction to Machine Learning</tagname>
+<tag><tagname>K - Lecture Summary: Introduction to Machine Learning</tagname>
 <tagid>2493</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
