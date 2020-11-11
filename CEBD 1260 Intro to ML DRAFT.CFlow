@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>3240</idnum>
+<idnum>3468</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -21,21 +21,20 @@
 <column><columnname>SA</columnname>
 <columntext>In Class Practice</columntext>
 <columnnodetext>In Class Practice</columnnodetext>
-<columnoutcomevisibility>false</columnoutcomevisibility>
 </column>
 <column><columnname>CUS2</columnname>
 <columnimage>lesson</columnimage>
 <columncolour>#a3b9df</columncolour>
 <columntext>Offline Assignments</columntext>
 <columnnodetext>Offline Assignments</columnnodetext>
-<columnoutcomevisibility>undefined</columnoutcomevisibility>
+<columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <column><columnname>CUS1</columnname>
 <columnimage>solo</columnimage>
 <columncolour>#a3b9df</columncolour>
 <columntext>Tutorial (Korbit)</columntext>
 <columnnodetext>Tutorial (Korbit)</columnnodetext>
-<columnoutcomevisibility>true</columnoutcomevisibility>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>278</weekid>
 <weekname>Pre-requisite knowledge (probably)</weekname>
@@ -86,6 +85,14 @@
 </nodetag>
 <nodetag><nodetagid>543</nodetagid>
 </nodetag>
+<nodetag><nodetagid>2455</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2483</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2484</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2493</nodetagid>
+</nodetag>
 </node>
 <node><name>2: Probability Basics	</name>
 <id>2428</id>
@@ -95,8 +102,6 @@
 <textHTML>&lt;p&gt;Normal Distribution&lt;/p&gt;&lt;p&gt;Joint and Marginal Probability Distributions&lt;/p&gt;&lt;p&gt;Conditional Probability&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>63</textheight>
-<nodetag><nodetagid>2455</nodetagid>
-</nodetag>
 </node>
 <node><name>5: Machine Learning Overview (Week 1)</name>
 <id>173</id>
@@ -105,14 +110,8 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Motivation&lt;/p&gt;&lt;p&gt;Supervised Learning&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Machine Learning&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77</textheight>
+<textheight>77.60000610351562</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2483</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2484</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2493</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>4</weekid>
@@ -124,7 +123,7 @@
 <column>HW</column>
 <textHTML>&lt;p&gt;Each team / group selects a dataset of interest and comfort.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This dataset will be used to apply techniques taught during the course to solve the problem on the dataset.&lt;/li&gt;&lt;li&gt;There are different levels of datasets to choose. However, the project has difficulty score that will give more weights for harder projects.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Is there any work expected of this group outside of class or does this group only work together for the in-class activities?﻿&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>206</textheight>
+<textheight>206.80001831054688</textheight>
 <isdropped>true</isdropped>
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -148,6 +147,22 @@
 <nodetag><nodetagid>544</nodetagid>
 </nodetag>
 <nodetag><nodetagid>556</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2460</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2461</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2462</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2463</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2466</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2487</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2489</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2488</nodetagid>
 </nodetag>
 </node>
 <node><name>2: Dataset Practice</name>
@@ -173,18 +188,8 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;One-Hot Encoding&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>102</textheight>
+<textheight>102.00000762939453</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2460</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2461</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2462</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2463</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2466</nodetagid>
-</nodetag>
 </node>
 <node><name>5: Machine Learning Overview (Week 2)</name>
 <id>2449</id>
@@ -193,14 +198,8 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Bias-Variance Decomposition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63</textheight>
+<textheight>63.20000457763672</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2487</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2488</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2489</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>5</weekid>
@@ -217,6 +216,8 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>563</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2467</nodetagid>
 </nodetag>
 </node>
 <node><name>3: Preprocessing Practice</name>
@@ -250,10 +251,8 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Feature Engineering&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.400001525878906</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2467</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>6</weekid>
@@ -313,6 +312,32 @@ Regression</weekname>
 </link>
 <nodetag><nodetagid>562</nodetagid>
 </nodetag>
+<nodetag><nodetagid>2472</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2473</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2474</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2475</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2476</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2477</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2478</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2481</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2480</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2485</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2486</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2490</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2491</nodetagid>
+</nodetag>
 </node>
 <node><name>5: Baseline &amp; Benchmark</name>
 <id>141</id>
@@ -346,24 +371,6 @@ Regression</weekname>
 <textHTML>&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;Parameters vs. Hyperparameters&lt;/p&gt;&lt;p&gt;Hyperparameter Tuning&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>179</textheight>
-<nodetag><nodetagid>2472</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2473</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2474</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2475</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2476</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2477</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2478</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2480</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2481</nodetagid>
-</nodetag>
 </node>
 <node><name>5: Machine Learning Overview (Week 5)</name>
 <id>2446</id>
@@ -373,14 +380,6 @@ Regression</weekname>
 <textHTML>&lt;p&gt;Linear Approximators&lt;/p&gt;&lt;p&gt;Generalized Linear Approximators&lt;/p&gt;&lt;p&gt;Overview of Logistic Regression&lt;/p&gt;&lt;p&gt;Gradient Descent&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>63</textheight>
-<nodetag><nodetagid>2485</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2486</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2490</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2491</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>115</weekid>
@@ -398,6 +397,12 @@ Classification</weekname>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>562</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2492</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2464</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2465</nodetagid>
 </nodetag>
 </node>
 <node><name>6: Classification Model</name>
@@ -433,12 +438,8 @@ Classification</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>43</textheight>
+<textheight>43.80000305175781</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2464</nodetagid>
-</nodetag>
-<nodetag><nodetagid>2465</nodetagid>
-</nodetag>
 </node>
 <node><name>5: Machine Learning Overview (Week 6)</name>
 <id>2452</id>
@@ -448,8 +449,6 @@ Classification</weekname>
 <textHTML>&lt;p&gt;Regularization for Logistic Regression&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>5</textheight>
-<nodetag><nodetagid>2492</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>119</weekid>
@@ -509,6 +508,10 @@ Boosting machine APIs and data visualization</weekname>
 <link><targetid>144</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<nodetag><nodetagid>2479</nodetagid>
+</nodetag>
+<nodetag><nodetagid>2468</nodetagid>
+</nodetag>
 </node>
 <node><name>8: Finalize Project</name>
 <id>144</id>
@@ -529,10 +532,8 @@ Boosting machine APIs and data visualization</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.400001525878906</textheight>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>2468</nodetagid>
-</nodetag>
 </node>
 <node><name>4: Machine Learning Models (Week 8)</name>
 <id>2443</id>
@@ -542,8 +543,6 @@ Boosting machine APIs and data visualization</weekname>
 <textHTML>&lt;p&gt;Clustering&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>5</textheight>
-<nodetag><nodetagid>2479</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>117</weekid>
@@ -665,7 +664,7 @@ and dimensionality reduction</weekname>
 </wfdata></workflow>
 <tag><tagname>CCE Competencies</tagname>
 <tagid>541</tagid>
-<iscollapsed>false</iscollapsed>
+<iscollapsed>true</iscollapsed>
 <tag><tagname>Manipulate data structures and implement algorithms</tagname>
 <tagid>542</tagid>
 <iscollapsed>false</iscollapsed>
