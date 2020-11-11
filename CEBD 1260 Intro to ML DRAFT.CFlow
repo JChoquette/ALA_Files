@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>2778</idnum>
+<idnum>3240</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -529,7 +529,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>5</textheight>
+<textheight>24</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>2468</nodetagid>
 </nodetag>
@@ -663,9 +663,9 @@ and dimensionality reduction</weekname>
 <wflegendy>400</wflegendy>
 <wfoutcomesorttype>week</wfoutcomesorttype>
 </wfdata></workflow>
-<tag><tagname>Competency Mapping</tagname>
+<tag><tagname>CEBD Course Competencies</tagname>
 <tagid>541</tagid>
-<iscollapsed>true</iscollapsed>
+<iscollapsed>false</iscollapsed>
 <tag><tagname>Manipulate data structures and implement algorithms</tagname>
 <tagid>542</tagid>
 <iscollapsed>false</iscollapsed>
@@ -764,148 +764,148 @@ and dimensionality reduction</weekname>
 <iscollapsed>false</iscollapsed>
 <tag><tagname>Probability Basics</tagname>
 <tagid>2455</tagid>
-<iscollapsed>true</iscollapsed>
-<tag><tagname>D - Normal Distribution</tagname>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Normal Distribution</tagname>
 <tagid>2456</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Joint and Marginal Probability Distributions</tagname>
+<tag><tagname>Joint and Marginal Probability Distributions</tagname>
 <tagid>2457</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Conditional Probability</tagname>
+<tag><tagname>Conditional Probability</tagname>
 <tagid>2459</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
 </tag>
 <tag><tagname>Data Preprocessing</tagname>
 <tagid>2458</tagid>
-<iscollapsed>true</iscollapsed>
-<tag><tagname>D - What is a Dataset?</tagname>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>What is a Dataset?</tagname>
 <tagid>2460</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Exploratory Data Analysis</tagname>
+<tag><tagname>Exploratory Data Analysis</tagname>
 <tagid>2461</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Overview of Data Preprocessing</tagname>
+<tag><tagname>Overview of Data Preprocessing</tagname>
 <tagid>2462</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - One-Hot Encoding</tagname>
+<tag><tagname>One-Hot Encoding</tagname>
 <tagid>2463</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Feature Importance</tagname>
+<tag><tagname>Feature Importance</tagname>
 <tagid>2464</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Feature Selection</tagname>
+<tag><tagname>Feature Selection</tagname>
 <tagid>2465</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Feature Scaling</tagname>
+<tag><tagname>Feature Scaling</tagname>
 <tagid>2466</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Feature Engineering</tagname>
+<tag><tagname>Feature Engineering</tagname>
 <tagid>2467</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Principal Component Analysis</tagname>
+<tag><tagname>Principal Component Analysis</tagname>
 <tagid>2468</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
 </tag>
 <tag><tagname>Machine Learning Models</tagname>
 <tagid>2470</tagid>
-<iscollapsed>true</iscollapsed>
-<tag><tagname>D - Logistic Regression Basic</tagname>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Logistic Regression Basic</tagname>
 <tagid>2472</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Sigmoid Function</tagname>
+<tag><tagname>Sigmoid Function</tagname>
 <tagid>2473</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Binary Classification</tagname>
+<tag><tagname>Binary Classification</tagname>
 <tagid>2474</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Binary Classification for Imbalanced Classes</tagname>
+<tag><tagname>Binary Classification for Imbalanced Classes</tagname>
 <tagid>2475</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Evaluation Metrics (Classification)</tagname>
+<tag><tagname>Evaluation Metrics (Classification)</tagname>
 <tagid>2476</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Linear Regression</tagname>
+<tag><tagname>Linear Regression</tagname>
 <tagid>2477</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Evaluation Metrics (Regression)</tagname>
+<tag><tagname>Evaluation Metrics (Regression)</tagname>
 <tagid>2478</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Clustering</tagname>
+<tag><tagname>Clustering</tagname>
 <tagid>2479</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Parameters vs. Hyperparameters</tagname>
+<tag><tagname>Parameters vs. Hyperparameters</tagname>
 <tagid>2480</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Hyperparameter Tuning</tagname>
+<tag><tagname>Hyperparameter Tuning</tagname>
 <tagid>2481</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
 </tag>
 <tag><tagname>Machine Learning Overview</tagname>
 <tagid>2482</tagid>
-<iscollapsed>true</iscollapsed>
-<tag><tagname>D - Motivation</tagname>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Motivation</tagname>
 <tagid>2483</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Supervised Learning</tagname>
+<tag><tagname>Supervised Learning</tagname>
 <tagid>2484</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Linear Approximators</tagname>
+<tag><tagname>Linear Approximators</tagname>
 <tagid>2485</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Generalized Linear Approximators</tagname>
+<tag><tagname>Generalized Linear Approximators</tagname>
 <tagid>2486</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Overfitting and Underfitting</tagname>
+<tag><tagname>Overfitting and Underfitting</tagname>
 <tagid>2487</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>HD - Overview of Cross-Validation</tagname>
+<tag><tagname>Overview of Cross-Validation</tagname>
 <tagid>2488</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Bias-Variance Decomposition</tagname>
+<tag><tagname>Bias-Variance Decomposition</tagname>
 <tagid>2489</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Overview of Logistic Regression</tagname>
+<tag><tagname>Overview of Logistic Regression</tagname>
 <tagid>2490</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Gradient Descent</tagname>
+<tag><tagname>Gradient Descent</tagname>
 <tagid>2491</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>I - Regularization for Logistic Regression</tagname>
+<tag><tagname>Regularization for Logistic Regression</tagname>
 <tagid>2492</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>D - Lecture Summary: Introduction to Machine Learning</tagname>
+<tag><tagname>Lecture Summary: Introduction to Machine Learning</tagname>
 <tagid>2493</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
