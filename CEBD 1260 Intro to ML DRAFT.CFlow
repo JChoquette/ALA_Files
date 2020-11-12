@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>3468</idnum>
+<idnum>3702</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -21,13 +21,14 @@
 <column><columnname>SA</columnname>
 <columntext>In Class Practice</columntext>
 <columnnodetext>In Class Practice</columnnodetext>
+<columnoutcomevisibility>false</columnoutcomevisibility>
 </column>
 <column><columnname>CUS2</columnname>
 <columnimage>lesson</columnimage>
 <columncolour>#a3b9df</columncolour>
 <columntext>Offline Assignments</columntext>
 <columnnodetext>Offline Assignments</columnnodetext>
-<columnoutcomevisibility>true</columnoutcomevisibility>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <column><columnname>CUS1</columnname>
 <columnimage>solo</columnimage>
@@ -45,7 +46,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Why Learn Linear Algebra?&lt;/p&gt;&lt;p&gt;Vectors and Matrices and Scalars&lt;/p&gt;&lt;p&gt;Addition and Scalar Multiplication and Transpose&lt;/p&gt;&lt;p&gt;Dot Product&lt;/p&gt;&lt;p&gt;Norm and Euclidean Distance&lt;/p&gt;&lt;p&gt;Matrix Multiplication&lt;/p&gt;&lt;p&gt;Identity Matrix&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>135</textheight>
+<textheight>155.09999084472656</textheight>
 </node>
 <node><name>2: Probability Basics	</name>
 <id>280</id>
@@ -54,7 +55,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Introduction to Probability&lt;/p&gt;&lt;p&gt;Discrete vs. Continuous Random Variables&lt;/p&gt;&lt;p&gt;Expected Value vs. Sample Mean&lt;/p&gt;&lt;p&gt;Variance and Standard Deviation&lt;/p&gt;&lt;p&gt;Binomial Distribution&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>140</textheight>
+<textheight>101.92499542236328</textheight>
 </node>
 <node><name>3: Data Preprocessing</name>
 <id>88</id>
@@ -63,7 +64,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Descriptive Statistics&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.374998092651367</textheight>
 </node>
 </week>
 <week><weekid>2</weekid>
@@ -75,7 +76,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Provide an introduction to the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data analysis/science, machine learning and AI concept warmup&lt;/li&gt;&lt;li&gt;Job roles, career path and learning plan discussion&lt;/li&gt;&lt;li&gt;Introduction and overview for toolkits in ML /AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discuss various aspects of class organization:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction of multiple projects in class&lt;/li&gt;&lt;li&gt;Project description, detailed weights, and team assignment (at most 3 people)&lt;/li&gt;&lt;li&gt;Reading references and way of working (zoom, Yuja, ....)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Quick introduction to Python, pandas and sklearn toolkit&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>355</textheight>
+<textheight>355.5749816894531</textheight>
 <link><targetid>146</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -93,6 +94,8 @@
 </nodetag>
 <nodetag><nodetagid>2493</nodetagid>
 </nodetag>
+<nodetag><nodetagid>550</nodetagid>
+</nodetag>
 </node>
 <node><name>2: Probability Basics	</name>
 <id>2428</id>
@@ -101,7 +104,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Normal Distribution&lt;/p&gt;&lt;p&gt;Joint and Marginal Probability Distributions&lt;/p&gt;&lt;p&gt;Conditional Probability&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63</textheight>
+<textheight>63.14999771118164</textheight>
 </node>
 <node><name>5: Machine Learning Overview (Week 1)</name>
 <id>173</id>
@@ -110,8 +113,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Motivation&lt;/p&gt;&lt;p&gt;Supervised Learning&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Machine Learning&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77.60000610351562</textheight>
-<isdropped>true</isdropped>
+<textheight>77.54999542236328</textheight>
 </node>
 </week>
 <week><weekid>4</weekid>
@@ -123,8 +125,7 @@
 <column>HW</column>
 <textHTML>&lt;p&gt;Each team / group selects a dataset of interest and comfort.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This dataset will be used to apply techniques taught during the course to solve the problem on the dataset.&lt;/li&gt;&lt;li&gt;There are different levels of datasets to choose. However, the project has difficulty score that will give more weights for harder projects.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Is there any work expected of this group outside of class or does this group only work together for the in-class activities?﻿&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>206.80001831054688</textheight>
-<isdropped>true</isdropped>
+<textheight>206.77499389648438</textheight>
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -136,7 +137,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture includes the following concepts &amp;amp; topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Machine learning basic concepts: supervised/unsupervised learning, regression /classification, learning and learning rule, objective function,...&lt;/li&gt;&lt;li&gt;Methodologies in ML: training, testing, validation, cross validation&lt;/li&gt;&lt;li&gt;Battle with overfitting and often used techniques&lt;/li&gt;&lt;li&gt;Optimization strategies in ML&lt;/li&gt;&lt;li&gt;Learning and parameter tuning in ML&lt;/li&gt;&lt;li&gt;Life cycle of ML/DS&lt;/li&gt;&lt;li&gt;Pipeline building and product delivery of ML/DS projects&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Split data set&lt;/li&gt;&lt;li&gt;Data input and output, evaluation&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>317</textheight>
+<textheight>317.17498779296875</textheight>
 <link><targetid>138</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -145,8 +146,6 @@
 <nodetag><nodetagid>561</nodetagid>
 </nodetag>
 <nodetag><nodetagid>544</nodetagid>
-</nodetag>
-<nodetag><nodetagid>556</nodetagid>
 </nodetag>
 <nodetag><nodetagid>2460</nodetagid>
 </nodetag>
@@ -164,6 +163,8 @@
 </nodetag>
 <nodetag><nodetagid>2488</nodetagid>
 </nodetag>
+<nodetag><nodetagid>553</nodetagid>
+</nodetag>
 </node>
 <node><name>2: Dataset Practice</name>
 <id>138</id>
@@ -172,13 +173,13 @@
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Identify overall property of your project data set&lt;/li&gt;&lt;li&gt;Identify validation strategy&lt;/li&gt;&lt;li&gt;Identify input and target&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>91</textheight>
+<textheight>91.57499694824219</textheight>
 <link><targetid>23</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>544</nodetagid>
 </nodetag>
-<nodetag><nodetagid>549</nodetagid>
+<nodetag><nodetagid>553</nodetagid>
 </nodetag>
 </node>
 <node><name>3: Data Preprocessing (Week 2)</name>
@@ -188,8 +189,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;What is a Dataset?&lt;/p&gt;&lt;p&gt;Exploratory Data Analysis&lt;/p&gt;&lt;p&gt;Overview of Data Preprocessing&lt;/p&gt;&lt;p&gt;One-Hot Encoding&lt;/p&gt;&lt;p&gt;Feature Scaling&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>102.00000762939453</textheight>
-<isdropped>true</isdropped>
+<textheight>101.92499542236328</textheight>
 </node>
 <node><name>5: Machine Learning Overview (Week 2)</name>
 <id>2449</id>
@@ -198,8 +198,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Bias-Variance Decomposition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
-<isdropped>true</isdropped>
+<textheight>63.14999771118164</textheight>
 </node>
 </week>
 <week><weekid>5</weekid>
@@ -211,13 +210,19 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Data IO/Operation, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pandas for data I/O&lt;/li&gt;&lt;li&gt;Data preprocessing: missing data, nan data, join, merge, split, loc…&lt;/li&gt;&lt;li&gt;Validation split and ready for modeling&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on Data Wrangling, Data Cleaning, Data operation, Exploratory Data Analysis.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>221</textheight>
+<textheight>221.36248779296875</textheight>
 <link><targetid>139</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>563</nodetagid>
 </nodetag>
 <nodetag><nodetagid>2467</nodetagid>
+</nodetag>
+<nodetag><nodetagid>555</nodetagid>
+</nodetag>
+<nodetag><nodetagid>544</nodetagid>
+</nodetag>
+<nodetag><nodetagid>550</nodetagid>
 </nodetag>
 </node>
 <node><name>3: Preprocessing Practice</name>
@@ -227,13 +232,19 @@
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Perform data preprocessing&lt;/li&gt;&lt;li&gt;Loading, reading, cleaning data&lt;/li&gt;&lt;li&gt; Basic statistical analysis&lt;/li&gt;&lt;li&gt;Basic preprocessing pipelines&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>91</textheight>
+<textheight>91.57499694824219</textheight>
 <link><targetid>101</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <link><targetid>148</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<nodetag><nodetagid>544</nodetagid>
+</nodetag>
+<nodetag><nodetagid>550</nodetagid>
+</nodetag>
+<nodetag><nodetagid>555</nodetagid>
+</nodetag>
 </node>
 <node><name>Homework</name>
 <id>148</id>
@@ -242,7 +253,7 @@
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Project / coding activity for data preprocessing. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>72</textheight>
+<textheight>72.56249237060547</textheight>
 </node>
 <node><name>3: Data Preprocessing (Week 3)</name>
 <id>2437</id>
@@ -251,8 +262,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Feature Engineering&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24.400001525878906</textheight>
-<isdropped>true</isdropped>
+<textheight>24.374998092651367</textheight>
 </node>
 </week>
 <week><weekid>6</weekid>
@@ -264,7 +274,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Feature Engineering, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Processing time related features&lt;/li&gt;&lt;li&gt;Processing categorical and numerical features&lt;/li&gt;&lt;li&gt;Processing target variables&lt;/li&gt;&lt;li&gt;Business-oriented / customized feature engineering&lt;/li&gt;&lt;li&gt;Feature selection strategies&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on complex data preprocessing and feature engineering on special features in real business.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>264</textheight>
+<textheight>264.5624694824219</textheight>
 <link><targetid>140</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -278,13 +288,15 @@
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Feature engineering your data&lt;/li&gt;&lt;li&gt;Validate your new features&lt;/li&gt;&lt;li&gt;Analyze and select features&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77</textheight>
+<textheight>77.17499542236328</textheight>
 <link><targetid>150</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <link><targetid>121</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<nodetag><nodetagid>555</nodetagid>
+</nodetag>
 </node>
 <node><name>Homework</name>
 <id>150</id>
@@ -293,7 +305,7 @@
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Project / coding activity for feature engineering ( in-class guide for feature engineering )&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>87</textheight>
+<textheight>86.96249389648438</textheight>
 </node>
 </week>
 <week><weekid>21</weekid>
@@ -306,7 +318,7 @@ Regression</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Regression, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression: a) Regular Linear regression and its insights; b) Regularization; c) Linear regression with regularization;&lt;/li&gt;&lt;li&gt;Polynomial regression&lt;/li&gt;&lt;li&gt;Evaluate regression performance by mean squared error&lt;/li&gt;&lt;li&gt;Non-linear regression: a) Tree-based approach; b) Regression tree; c) Entropy and Gini-index; d) Information gain; e) Boosting method for regression&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lecture on Machine Learning Models for Regression (Examples: Linear Regression, Logistic Regression, Random Forest, etc)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>351</textheight>
+<textheight>350.9624938964844</textheight>
 <link><targetid>141</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -346,13 +358,15 @@ Regression</weekname>
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Build baseline model for your project&lt;/li&gt;&lt;li&gt;Be able to run the benchmark model&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>62</textheight>
+<textheight>62.77499771118164</textheight>
 <link><targetid>124</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <link><targetid>153</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<nodetag><nodetagid>554</nodetagid>
+</nodetag>
 </node>
 <node><name>Homework</name>
 <id>153</id>
@@ -361,7 +375,7 @@ Regression</weekname>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Project coding practice/ activity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>58</textheight>
+<textheight>58.16249465942383</textheight>
 </node>
 <node><name>4: Machine Learning Models (Week 5)</name>
 <id>75</id>
@@ -370,7 +384,7 @@ Regression</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Logistic Regression Basic&lt;/p&gt;&lt;p&gt;Sigmoid Function&lt;/p&gt;&lt;p&gt;Binary Classification&lt;/p&gt;&lt;p&gt;Binary Classification for Imbalanced Classes&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Classification)&lt;/p&gt;&lt;p&gt;Linear Regression&lt;/p&gt;&lt;p&gt;Evaluation Metrics (Regression)&lt;/p&gt;&lt;p&gt;Parameters vs. Hyperparameters&lt;/p&gt;&lt;p&gt;Hyperparameter Tuning&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>179</textheight>
+<textheight>179.47499084472656</textheight>
 </node>
 <node><name>5: Machine Learning Overview (Week 5)</name>
 <id>2446</id>
@@ -379,7 +393,7 @@ Regression</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Linear Approximators&lt;/p&gt;&lt;p&gt;Generalized Linear Approximators&lt;/p&gt;&lt;p&gt;Overview of Logistic Regression&lt;/p&gt;&lt;p&gt;Gradient Descent&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63</textheight>
+<textheight>82.5374984741211</textheight>
 </node>
 </week>
 <week><weekid>115</weekid>
@@ -392,7 +406,7 @@ Classification</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Classification, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Classification as probability perspective, probability quick catch-up&lt;/li&gt;&lt;li&gt;Bayes theorem and naïve Bayes for classification&lt;/li&gt;&lt;li&gt;Binary classification&lt;/li&gt;&lt;li&gt;Logistic Regression as binary classification&lt;/li&gt;&lt;li&gt;Multi-class classification: softmax&lt;/li&gt;&lt;li&gt;Imbalanced data set, upper sample / undersampling and its practical issues&lt;/li&gt;&lt;li&gt;Evaluation metrics for classification: f1 score, precision and recall, roc_auc score&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;u&gt;&lt;span class="ql-cursor"&gt;﻿&lt;/span&gt;&lt;/u&gt;&lt;/em&gt;Lecture on Machine Learning Models for Classification (Examples: Decision Trees, K Nearest Neighbors, Random Forest, etc).&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>332</textheight>
+<textheight>331.9499816894531</textheight>
 <link><targetid>142</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -404,6 +418,8 @@ Classification</weekname>
 </nodetag>
 <nodetag><nodetagid>2465</nodetagid>
 </nodetag>
+<nodetag><nodetagid>556</nodetagid>
+</nodetag>
 </node>
 <node><name>6: Classification Model</name>
 <id>142</id>
@@ -412,7 +428,7 @@ Classification</weekname>
 <column>SA</column>
 <textHTML>&lt;p&gt;Build baseline model for Classification&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.374998092651367</textheight>
 <link><targetid>127</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -429,7 +445,7 @@ Classification</weekname>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;Project coding practice; The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53</textheight>
+<textheight>53.17499542236328</textheight>
 </node>
 <node><name>3: Data Preprocessing (Week 6)</name>
 <id>2434</id>
@@ -438,8 +454,7 @@ Classification</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Feature Importance&lt;/p&gt;&lt;p&gt;Feature Selection&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>43.80000305175781</textheight>
-<isdropped>true</isdropped>
+<textheight>43.76249694824219</textheight>
 </node>
 <node><name>5: Machine Learning Overview (Week 6)</name>
 <id>2452</id>
@@ -448,7 +463,7 @@ Classification</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Regularization for Logistic Regression&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>5</textheight>
+<textheight>24.374998092651367</textheight>
 </node>
 </week>
 <week><weekid>119</weekid>
@@ -461,11 +476,13 @@ Boosting machine APIs and data visualization</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Fast Boosting Machine (industrial-level APIs) &amp;amp; Data Visualization, including the following machines and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Xgboost: fast high-performance boosting machine&lt;/li&gt;&lt;li&gt;Lightgbm: light and fast boosting machine&lt;/li&gt;&lt;li&gt;Catboost: high-performance boosting machine (optional)&lt;/li&gt;&lt;li&gt;Data visualization review&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Seaborn&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>230</textheight>
+<textheight>230.7749786376953</textheight>
 <link><targetid>143</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>564</nodetagid>
+</nodetag>
+<nodetag><nodetagid>551</nodetagid>
 </nodetag>
 </node>
 <node><name>7: Run &amp; Visualize</name>
@@ -475,7 +492,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;be able to run at least one boosting model &lt;/li&gt;&lt;li&gt;can finetune these models &lt;/li&gt;&lt;li&gt;can visualize results&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>91</textheight>
+<textheight>91.57499694824219</textheight>
 <link><targetid>159</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -483,6 +500,8 @@ Boosting machine APIs and data visualization</weekname>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>551</nodetagid>
+</nodetag>
+<nodetag><nodetagid>554</nodetagid>
 </nodetag>
 </node>
 <node><name>Homework</name>
@@ -492,7 +511,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Coding practice / activity: explore different boosting machines. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>72</textheight>
+<textheight>72.56249237060547</textheight>
 </node>
 </week>
 <week><weekid>118</weekid>
@@ -504,13 +523,19 @@ Boosting machine APIs and data visualization</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Students:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate work code into project structure&lt;/li&gt;&lt;li&gt;Enhance the pipeline and evaluation strategy&lt;/li&gt;&lt;li&gt;Open discussion of advanced feature engineering&lt;/li&gt;&lt;li&gt;Trouble shooting for individual team&lt;/li&gt;&lt;li&gt;Data visualization of your results and discussion session&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;**Content according to Schedule**&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Evaluation of model in-class&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>230</textheight>
+<textheight>230.7749786376953</textheight>
 <link><targetid>144</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <nodetag><nodetagid>2479</nodetagid>
 </nodetag>
 <nodetag><nodetagid>2468</nodetagid>
+</nodetag>
+<nodetag><nodetagid>551</nodetagid>
+</nodetag>
+<nodetag><nodetagid>561</nodetagid>
+</nodetag>
+<nodetag><nodetagid>564</nodetagid>
 </nodetag>
 </node>
 <node><name>8: Finalize Project</name>
@@ -520,7 +545,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Be able to finalize project structure&lt;/li&gt;&lt;li&gt;Advanced tuning and evaluation&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>62</textheight>
+<textheight>62.77499771118164</textheight>
 <link><targetid>133</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -532,8 +557,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Principal Component Analysis&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24.400001525878906</textheight>
-<isdropped>true</isdropped>
+<textheight>24.374998092651367</textheight>
 </node>
 <node><name>4: Machine Learning Models (Week 8)</name>
 <id>2443</id>
@@ -542,7 +566,7 @@ Boosting machine APIs and data visualization</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Clustering&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>5</textheight>
+<textheight>24.374998092651367</textheight>
 </node>
 </week>
 <week><weekid>117</weekid>
@@ -555,7 +579,7 @@ and dimensionality reduction</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Ensemble Method &amp;amp; Dimensionality Reduction, including the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why do we need ensemble methods?&lt;/li&gt;&lt;li&gt;Different skills using ensemble methods&lt;/li&gt;&lt;li&gt;Dimensionality reduction introduction&lt;/li&gt;&lt;li&gt;PCA analysis introduction&lt;/li&gt;&lt;li&gt;Clustering: K-means&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>163</textheight>
+<textheight>163.5749969482422</textheight>
 <link><targetid>145</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -567,7 +591,7 @@ and dimensionality reduction</weekname>
 <column>SA</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Demo for clustering&lt;/li&gt;&lt;li&gt;Demo for PCA using images&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>62</textheight>
+<textheight>62.77499771118164</textheight>
 <link><targetid>147</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -582,7 +606,7 @@ and dimensionality reduction</weekname>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The homework can be submitted by jupyter notebook or python files.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>58</textheight>
+<textheight>58.16249465942383</textheight>
 </node>
 </week>
 <week><weekid>116</weekid>
@@ -594,7 +618,7 @@ and dimensionality reduction</weekname>
 <column>HW</column>
 <textHTML>&lt;p&gt;The final project should contain &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses &lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>149</textheight>
+<textheight>149.17498779296875</textheight>
 <link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -606,7 +630,7 @@ and dimensionality reduction</weekname>
 <column>AC</column>
 <textHTML>&lt;p&gt;Use selected small data set for final in-class evaluation and competition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>38.77499771118164</textheight>
 </node>
 </week>
 <week><weekid>281</weekid>
@@ -619,7 +643,7 @@ and dimensionality reduction</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Introduction to Graphs&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.374998092651367</textheight>
 </node>
 <node><name>6: Introduction to Neural Networks</name>
 <id>282</id>
@@ -628,7 +652,7 @@ and dimensionality reduction</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;An Artificial Neuron&lt;/p&gt;&lt;p&gt;Example: 'OR' Neuron Using Sigmoid Activation&lt;/p&gt;&lt;p&gt;Example: Neuron with Rectified Linear Function&lt;/p&gt;&lt;p&gt;One-Layer Neural Network&lt;/p&gt;&lt;p&gt;Example: 'XOR' Neural Network&lt;/p&gt;&lt;p&gt;Deep Training Neural Networks&lt;/p&gt;&lt;p&gt;Lecture Summary: Introduction to Training Neural Networks&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>164</textheight>
+<textheight>183.89999389648438</textheight>
 </node>
 <node><name>7: Training Neural Networks</name>
 <id>177</id>
@@ -637,7 +661,7 @@ and dimensionality reduction</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Stochastic Gradient Descent&lt;/p&gt;&lt;p&gt;The Backpropagation Algorithm&lt;/p&gt;&lt;p&gt;Optimization Difficulties&lt;/p&gt;&lt;p&gt;Optimization Algorithms&lt;/p&gt;&lt;p&gt;Overview of Cross-Validation&lt;/p&gt;&lt;p&gt;Example: Data Preprocessing&lt;/p&gt;&lt;p&gt;Overview of Model Selection&lt;/p&gt;&lt;p&gt;Lecture Summary: Training Neural Networks&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>160.08749389648438</textheight>
 </node>
 <node><name>8: Convolutional and Recurrent Neural Networks</name>
 <id>11</id>
@@ -646,7 +670,7 @@ and dimensionality reduction</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Object Detection Task&lt;/p&gt;&lt;p&gt;Overview of Convolutional Training Neural Networks&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: Convolutional Layers&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: Pooling Layers&lt;/p&gt;&lt;p&gt;Convolutional Training Neural Networks: A Complete Object Detection Model&lt;/p&gt;&lt;p&gt;Sentiment Classification Task&lt;/p&gt;&lt;p&gt;Recurrent Neural Networks&lt;/p&gt;&lt;p&gt;Deep Recurrent Neural Networks&lt;/p&gt;&lt;p&gt;Lecture Summary: Convolutional and Recurrent Training Neural Networks&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>232</textheight>
+<textheight>251.47499084472656</textheight>
 </node>
 <node><name>9: Data Science for Marketing/Financial Analytics</name>
 <id>302</id>
@@ -655,7 +679,7 @@ and dimensionality reduction</weekname>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Prioritizing Sales Leads&lt;/p&gt;&lt;p&gt;Predicting Credit Card Fraud with Logistic Regression&lt;/p&gt;&lt;p&gt;Estimating Porfolio Risk&lt;/p&gt;&lt;p&gt;Prioritizing Accounts Receivable&lt;/p&gt;&lt;p&gt;RFM Analysis for Customer Segmentation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>97</textheight>
+<textheight>116.32498931884766</textheight>
 </node>
 </week>
 <wflegendx>940</wflegendx>
@@ -760,7 +784,7 @@ and dimensionality reduction</weekname>
 </tag>
 <tag><tagname>Korbit-Inspired Competencies</tagname>
 <tagid>2454</tagid>
-<iscollapsed>false</iscollapsed>
+<iscollapsed>true</iscollapsed>
 <tag><tagname>Probability Basics</tagname>
 <tagid>2455</tagid>
 <iscollapsed>false</iscollapsed>
