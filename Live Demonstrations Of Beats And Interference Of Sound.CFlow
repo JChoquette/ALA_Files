@@ -1,5 +1,5 @@
 <project><prname>Live demonstrations of beats and interference of sound</prname>
-<idnum>14</idnum>
+<idnum>42</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Live demonstrations of beats and interference of sound</wfname>
 <wfauthor>By Rhys Adams</wfauthor>
@@ -26,7 +26,7 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Prepare to bring the following equipment:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;two signal generators,&lt;/li&gt;&lt;li&gt;two speakers,&lt;/li&gt;&lt;li&gt;one oscilloscope with a microphone connected to it,&lt;/li&gt;&lt;li&gt;a computer with a graphical display of volume as a function of frequency (eg. a pasco sound sensor used with a fft plot)&lt;/li&gt;&lt;li&gt;tuning forks&lt;/li&gt;&lt;li&gt;plastic pipes&lt;/li&gt;&lt;li&gt;instruments (optional)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Optionally, invite students to bring their instruments to class that day&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Prepare to bring the following equipment:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;two signal generators,&lt;/li&gt;&lt;li&gt;two speakers,&lt;/li&gt;&lt;li&gt;one oscilloscope with a microphone connected to it,&lt;/li&gt;&lt;li&gt;a computer with a graphical display of volume as a function of frequency (eg. a pasco sound sensor used with a fft plot)&lt;/li&gt;&lt;li&gt;tuning forks&lt;/li&gt;&lt;li&gt;plastic pipes&lt;/li&gt;&lt;li&gt;instruments (optional)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Optionally, invite students to bring their instruments to class that day.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>230</textheight>
 <isdropped>true</isdropped>
@@ -46,9 +46,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Review the the principle of superposition, describing standing waves on a string and in a pipe. Highlight that the 2 waves interfering are confined in space (i.e. on the string and in a pipe).&lt;/li&gt;&lt;li&gt;Initiate Class Discussion&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Optionally, invite students to bring their instruments to class that day&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the the principle of superposition, describing standing waves on a string and in a pipe. Highlight that the 2 waves interfering are confined in space (i.e. on the string and in a pipe)&lt;/li&gt;&lt;li&gt;Initiate Class Discussion&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>118</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Applications of the Principle</name>
@@ -56,9 +56,9 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Discuss prompts given by the instructor: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Imagine: Two identical waves coming from two sources. At any location where the two waves meet, they will interfere. Consider specific conditions that lead to Constructive Interference and Destructive Interference using math. &lt;/li&gt;&lt;li&gt;Answer: What should be expected if this idea is mimicked right now? What would be heard? Would what they hear vary depending on where they are?&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Discuss prompts given by the instructor:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Imagine: Two identical waves coming from two sources. At any location where the two waves meet, they will interfere. Consider specific conditions that lead to Constructive Interference and Destructive Interference using math&lt;/li&gt;&lt;li&gt;Answer: What should be expected if this idea is mimicked right now? What would be heard? Would what they hear vary depending on where they are?&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>188</textheight>
+<textheight>202</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Demonstrate Interference</name>
@@ -66,9 +66,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Set up 1 signal generator with a sinusoidal signal feeding the 2 speakers (e.g. use 240 Hz).&lt;/li&gt;&lt;li&gt;Direct students to walk around the room experiencing the interference creating the variation in volume throughout the room&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If time permits, students can also try to find the wavelength using a meter stick, and then estimate the speed of sound. &lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Set up 1 signal generator with a sinusoidal signal feeding the 2 speakers (e.g. use 240 Hz)&lt;/li&gt;&lt;li&gt;Direct students to walk around the room experiencing the interference creating the variation in volume throughout the room&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If time permits, students can also try to find the wavelength using a meter stick, and then estimate the speed of sound.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>174</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Estimate Locations of Interference</name>
@@ -76,9 +76,9 @@
 <lefticon>class</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Calculate the wave length using the speed of sound and the frequency used&lt;/li&gt;&lt;li&gt;Try to estimate locations of CON and DES&amp;nbsp;interference.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Try to estimate locations of CON and DES&amp;nbsp;interference&lt;/li&gt;&lt;li&gt;Calculate the wave length using the speed of sound and the frequency used&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>62</textheight>
+<textheight>104</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Set up New Conditions for Interference</name>
@@ -88,7 +88,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Direct students to step outside of the room&lt;/li&gt;&lt;li&gt;Explain the parallel to what will be covered in a few weeks (i.e. Diffraction)&lt;/li&gt;&lt;li&gt;Return to the room to modify the frequency &lt;/li&gt;&lt;li&gt;Direct students to return to the room to make predictions about the interference&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: May change the frequency a third time and repeat the process.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>174</textheight>
+<textheight>210</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Make Predictions</name>
@@ -98,7 +98,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Predict if the locations of Constructive Interference will be closer together or not&lt;/li&gt;&lt;li&gt;Walk around to confirm predictions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>76</textheight>
+<textheight>90</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Set up with Different Frequencies</name>
@@ -126,9 +126,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Modify the frequencies to allows students to observe changes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Use tuning forks and play some instruments to compare/contrast a single frequency (tuning fork) and harmonics (strumming a guitar string).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The sound sensor + fft (computer pasco software) is really useful here. I usually have some musicians in my class so interesting discussions evolve around comparing "volume as a function of frequency" (fft) plots to sheet music, sound engineering and filtering, etc.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Modify the frequencies to allows students to observe changes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Use tuning forks and play some instruments to compare/contrast a single frequency (tuning fork) and harmonics (strumming a guitar string)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The sound sensor + fft (computer pasco software) is really useful here. I usually have some musicians in my class so interesting discussions evolve around comparing "volume as a function of frequency" (fft) plots to sheet music, sound engineering and filtering, etc.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202</textheight>
+<textheight>178</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Play with Settings</name>
@@ -138,7 +138,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Play around with the setup, instruments, etc. &lt;/li&gt;&lt;li&gt;Ask questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>109</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>

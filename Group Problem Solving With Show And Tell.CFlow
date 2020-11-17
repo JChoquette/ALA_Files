@@ -1,8 +1,8 @@
 <project><prname>Group Problem Solving with Show and Tell</prname>
-<idnum>188</idnum>
+<idnum>214</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Group Problem Solving with Show and Tell</wfname>
-<wfauthor>Rhys Adams</wfauthor>
+<wfauthor>By Rhys Adams</wfauthor>
 <wfdescription>&lt;p&gt;In this single-class activity, student teams solve physics problems with complete solutions. Students learn to build a conceptual model describing a Mechanics-based situation and practice mathematical problem-solving. See a full description here.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
@@ -31,7 +31,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Prepare 5 questions for teams to solve related to the given topic - three easy questions and two difficult questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>70</textheight>
+<textheight>52</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -39,9 +39,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Divide class into groups, each with a white board to collaborate to solve problems. &lt;/li&gt;&lt;li&gt;Assign each group one of the easy questions, so that there are multiple group working on the same questions.&lt;/li&gt;&lt;li&gt;Announce that they will have 15-20min to work on the problem, which is the expected length of time for individuals to complete a single problem.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide class into groups, each with a white board to collaborate to solve problems&lt;/li&gt;&lt;li&gt;Assign each group one of the easy questions, so that there are multiple groups working on the same questions.=&lt;/li&gt;&lt;li&gt;Announce that they will have 15-20 min to work on the problem (which is the expected length of time for individuals to complete a typical numerical based quiz/test problem)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>170</textheight>
+<textheight>202</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Determine Approach and Solution</name>
@@ -51,7 +51,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Works at the board and discuss the best approach to solve the problem.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>50</textheight>
+<textheight>38</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>12</targetid>
@@ -63,9 +63,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Along with class TAs, wander from group to group to observe and answer questions without addressing errors.&lt;/p&gt;&lt;p&gt;Note: If there is a common mistake, there is a timeout in the problem solving and the instructor takes a few minutes to address the error.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Along with class TAs, wander from group to group to observe and answer questions without addressing errors.&lt;/p&gt;&lt;p&gt;Note: If there is a common mistake, take a "timeout" in the problem solving and take a few minutes to address the error.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130</textheight>
+<textheight>99</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>6</targetid>
@@ -79,7 +79,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Explain the approach and solution to the problem.&lt;/p&gt;&lt;p&gt;Note: One group presents for each of the three questions. Other teams with the same question are given the opportunity to give feedback first. Then the rest of the class is given a chance to offer a different approach or solution.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>140</textheight>
+<textheight>127</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>35</targetid>
@@ -93,7 +93,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Respond to questions or address common errors.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>70</textheight>
+<textheight>38</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>12</targetid>
@@ -105,7 +105,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;After each of three questions have been discussed, offer the groups the chance to try more difficult questions.&lt;/li&gt;&lt;li&gt;Assign last two questions to the teams, with candy and bragging rights as a reward to the group that finishes first.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;After each of three questions have been discussed, offer the groups the chance to try more difficult questions&lt;/li&gt;&lt;li&gt;Assign last two questions to the teams, with candy and bragging rights as a reward to the group that finishes first&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>118</textheight>
 <isdropped>true</isdropped>
@@ -115,7 +115,7 @@
 <lefticon>group</lefticon>
 <righticon>problem</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Determine the answer to this second problem. &lt;/li&gt;&lt;li&gt;Prepare to discuss the approach to the problem.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Determine the answer to this second problem&lt;/li&gt;&lt;li&gt;Prepare to discuss the approach to the problem&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>90</textheight>
 <isdropped>true</isdropped>
@@ -127,7 +127,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Explain the approach and solution to the problem.&lt;/p&gt;&lt;p&gt;Note: A group presents for each of the three questions. The team with the same question is given the opportunity to review first, then the rest of the class is given a chance to offer a different approach or solution.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>142</textheight>
+<textheight>113</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review</name>
@@ -137,7 +137,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Facilitate a discussion where students openly respond, providing the steps to approach this type of problem.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>70</textheight>
+<textheight>52</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complete Homework Assignment</name>
@@ -147,7 +147,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Utilize notes to complete the homework assignment, which includes all five questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>60</textheight>
+<textheight>51</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
