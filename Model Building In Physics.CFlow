@@ -1,10 +1,9 @@
 <project><prname>Model Building</prname>
-<idnum>41</idnum>
+<idnum>52</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Model Building</wfname>
-<wfauthor>undefined</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students build a conceptual model fora  proton being launched towards a fixed, negatively charged particle. Through using multiple representations, this activity improves students&apos; ability to solve problems and re-enforces connections between physics concepts.
-&lt;/p&gt;</wfdescription>
+<wfauthor>By Patrick Rogers</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students build a conceptual model for a proton being launched towards a fixed, negatively charged particle. Through using multiple representations, this activity improves students&apos; ability to solve problems and re-enforces connections between physics concepts.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -29,7 +28,7 @@
 <column>OOCI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Prepare and print worksheet for groups&lt;/li&gt;&lt;li&gt;Prepare an example of model, a set of representations (diagrams, graphs, equations, words that express the physics involved) to show students as an introduction to the activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>134.7937469482422</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -39,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concept of a model to the students. A “model” here refers to a coordinated set of multiple representations (diagrams, graphs, equations, words) that cover the physics involved.&amp;nbsp;Such a model can be used to explain, predict, and/or describe a physical situation&lt;/li&gt;&lt;li&gt;Show an example of a conceptual model (like the one above for an accelerating train)&lt;/li&gt;&lt;li&gt;Allow a few minutes for students to make sense of what they are seeing&lt;/li&gt;&lt;li&gt;Ask the students, based on the example, to explain what a model is&lt;/li&gt;&lt;li&gt;Express the goal. It's not to solve a problem, but to come up with as many representations of the physical situation as possible.&lt;/li&gt;&lt;li&gt;Divide students into groups of four at the whiteboards&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Emphasize that each group's notetaker must be actively recording on the worksheet as the group is working on the board. These worksheets will be collected and one group's worksheet will be chosen to distribute as the class solution.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>412</textheight>
+<textheight>422.7937316894531</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -51,14 +50,11 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Take a copy of the worksheet&lt;/li&gt;&lt;li&gt;Assign one note-taker, who will copy what they have on the board onto the paper&lt;/li&gt;&lt;li&gt;Construct a model for the provided case, using as many ways of describing the situation as they can.&lt;/li&gt;&lt;li&gt;Discuss connections between these representations.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Representations can include, for example, various types of diagrams, graphs, equations, words, (in)valid assumptions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202</textheight>
+<textheight>206.79373168945312</textheight>
 <timevalue>25-30</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
-<link><targetid>8</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
-</link>
 <link><targetid>7</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -70,7 +66,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Re-emphasize that the goal here is to get as many different representations as possible.&amp;nbsp;Prompt the class to guide work:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;What kind of diagrams can you make?&lt;/li&gt;&lt;li&gt;What can you graph?&lt;/li&gt;&lt;li&gt;What kind of assumptions can you make?&lt;/li&gt;&lt;li&gt;Describe what is happening with words&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;After 10 minutes, start giving more specific suggestions to individual groups.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Look around to see what kind of representations are missing (i.e. energy &amp;amp; potential, equipotentials and field lines)&lt;/li&gt;&lt;li&gt;Aim for groups to have at least one example of each representation in the class, so give a push&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>305</textheight>
+<textheight>331.5937194824219</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -86,7 +82,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Pair with another group&lt;/li&gt;&lt;li&gt;Groups present their models to one another.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Note-takers add to their worksheet based on this discussion.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>105.99374389648438</textheight>
 <timevalue>15</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -98,7 +94,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Wrap-up with a class discussion&lt;/li&gt;&lt;li&gt;Take time to quickly summarize the motivation for the activity. Remind them that they should feel like physicists at this point&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The students have been at this for a while, so keep the discussion short. &lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>134.7937469482422</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -110,7 +106,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Respond to prompts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What was discussed during the group presentations?&lt;/li&gt;&lt;li&gt;What types of representations were forgotten?&lt;/li&gt;&lt;li&gt;What is/are the possible physical outcome(s) for the situation?&lt;/li&gt;&lt;li&gt;What are the connections between different representations? (e.g. force and energy)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>174</textheight>
+<textheight>177.99374389648438</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Collect worksheets</name>
@@ -120,7 +116,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Collect the worksheets from note-takers&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24</textheight>
+<textheight>24.393749237060547</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>13</targetid>
@@ -133,9 +129,9 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Take the most complete model, annotate it and post it as a solution.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Prepare to spend about 5 minutes going over it at the beginning of next class.&amp;nbsp;This show the students that their work is valued.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;The following would be removed from here and included in the webpage overview:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is important to emphasize model-building.&amp;nbsp;Doing something once isn’t enough to build a skill.&amp;nbsp;This requires repetition, reinforcement, and evaluation (this last point will motivate the students and also communicate the importance of this skill).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I’d like to:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Do this at least one more time in class.&lt;/li&gt;&lt;li&gt;Have an evaluation specifically for model building.&amp;nbsp;This could either be a homework to be passed in, or a quiz.&amp;nbsp;A couple of possible scenarios to be modelled come to mind: (a) Similar to the worksheet: an electron is fired at a negatively charged bead from far away. (b) The motion of a charged particle in a parallel-plate capacitor.&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take the most complete model, annotate it and post it as a solution.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Prepare to spend about 5 minutes going over it at the beginning of next class.&amp;nbsp;This show the students that their work is valued.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>503</textheight>
+<textheight>134.7937469482422</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
