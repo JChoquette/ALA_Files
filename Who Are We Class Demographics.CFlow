@@ -1,0 +1,94 @@
+<project><prname>Who Are We? Class Demographics</prname>
+<idnum>8</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Who Are We? Class Demographics</wfname>
+<wfauthor>By Vanessa Vandergrift</wfauthor>
+<wfdescription>&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;In this single-class activity, students answer questions about themselves, which is included in a anonymous class profile. Discussing the profile establishes the tone and creates a sense of community.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Hand out questionnaires.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>44</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Answer Questionnaire</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer personal questions&lt;/li&gt;&lt;li&gt;Describe the college with one adjective &lt;/li&gt;&lt;li&gt;Write a question for the instructor&lt;/li&gt;&lt;li&gt;Hand in answers&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Create Class Profile</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Using student information, create anonymous profiles of the class.&lt;/p&gt;&lt;p&gt;Note: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Refer to &lt;u&gt;slides&lt;/u&gt; for a model.&lt;/li&gt;&lt;li&gt;Follow up with students who do not complete questionnaire correctly&lt;/li&gt;&lt;li&gt;Follow-up one-on-one if students indicate a serious concern or potential obstacle&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>162</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Present the Class Profile</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Present slides with demographics and anonymous information on the screen.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If students express that time management or anxiety are potential obstacles to success, instructor can mention support services available to students&lt;/li&gt;&lt;li&gt;Create a partnership with students in an open classroom environment where they know they will be valued and respected&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>216</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss the Class Profile</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In pairs, discuss what was the most surprising to you about the classroom community.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>58</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Share Thoughts</name>
+<id>8</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Share thoughts from the discussion openly.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>54</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>

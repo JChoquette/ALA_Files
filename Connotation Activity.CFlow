@@ -1,0 +1,81 @@
+<project><prname>Connotation Activity</prname>
+<idnum>6</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Connotation Activity</wfname>
+<wfauthor>By Vanessa Vandergrift</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students are introduced to the difference between denotation and connotation. They will become comfortable speaking to each other as they interpret one another and master key concepts related to literary analysis and interpretation.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;u&gt;PowerPoint&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;li&gt;Direct students to identify a partner for the exercise&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Initiate Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Call out different items (i.e. love, government, essay, Shakespeare, etc.) listed on the PowerPoint.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<tagARRAY/>
+</node>
+<node><name>Move to Respond to Slides </name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;In response to each slide, position oneself in the room along the continuum of positive to negative&lt;/li&gt;&lt;li&gt;Consider the position of the partner&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+<tagARRAY/>
+</node>
+<node><name>Discuss Positions</name>
+<id>5</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Partners&lt;/p&gt;&lt;p&gt;Comment and discuss whether their partner's interpretation was "accurate" or not.&lt;/p&gt;&lt;p&gt;The rest of the class&lt;/p&gt;&lt;p&gt;Share alternate interpretations of positions and other students' responses.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>168</textheight>
+<isdropped>true</isdropped>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+<linktext>Repeat for 
+each item</linktext>
+</link>
+<tagARRAY/>
+</node>
+</week>
+<wflegendx>1180</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
