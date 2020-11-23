@@ -1,5 +1,5 @@
 <project><prname>Connotation Activity</prname>
-<idnum>6</idnum>
+<idnum>12</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Connotation Activity</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
@@ -28,9 +28,8 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;u&gt;PowerPoint&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;li&gt;Direct students to identify a partner for the exercise&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>144</textheight>
+<textheight>149.19374084472656</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Initiate Activity</name>
 <id>3</id>
@@ -39,13 +38,12 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Call out different items (i.e. love, government, essay, Shakespeare, etc.) listed on the PowerPoint.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>53.193748474121094</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>4</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Move to Respond to Slides </name>
 <id>4</id>
@@ -54,25 +52,23 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;In response to each slide, position oneself in the room along the continuum of positive to negative&lt;/li&gt;&lt;li&gt;Consider the position of the partner&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>128</textheight>
+<textheight>91.59374237060547</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Positions</name>
 <id>5</id>
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Partners&lt;/p&gt;&lt;p&gt;Comment and discuss whether their partner's interpretation was "accurate" or not.&lt;/p&gt;&lt;p&gt;The rest of the class&lt;/p&gt;&lt;p&gt;Share alternate interpretations of positions and other students' responses.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss with a partner whether their interpretation was "accurate" or not&lt;/li&gt;&lt;li&gt;Share alternate interpretations of other students' responses and positions&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>168</textheight>
+<textheight>105.99374389648438</textheight>
 <isdropped>true</isdropped>
 <link><targetid>3</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 <linktext>Repeat for 
 each item</linktext>
 </link>
-<tagARRAY/>
 </node>
 </week>
 <wflegendx>1180</wflegendx>
