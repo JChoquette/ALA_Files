@@ -1,5 +1,5 @@
 <project><prname>Story of an Hour</prname>
-<idnum>88</idnum>
+<idnum>102</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Visual Interpretation: Story of an Hour</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
@@ -26,15 +26,14 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Prepare Quiz Questions from pre-assigned reading&lt;/li&gt;&lt;li&gt;Ensure the class folder has &lt;u&gt;questions&lt;/u&gt;, &lt;u&gt;vocabulary sheet&lt;/u&gt; , and an &lt;u&gt;Example of Annotation&lt;/u&gt; for students to prepare&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Prepare Quiz Questions from pre-assigned reading&lt;/li&gt;&lt;li&gt;Ensure the class folder has &lt;u&gt;questions&lt;/u&gt;, a &lt;u&gt;vocabulary sheet&lt;/u&gt;, and an &lt;u&gt;example of annotation&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>105.99374389648438</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>4</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Prepare for Class</name>
 <id>4</id>
@@ -43,9 +42,8 @@
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Read the short story while keeping in mind the questions&lt;/li&gt;&lt;li&gt;Annotate the short story&lt;/li&gt;&lt;li&gt;Refer to the vocabulary sheet for more information on a particular word if needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>114</textheight>
+<textheight>120.39374542236328</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Complete a Quiz</name>
 <id>5</id>
@@ -54,11 +52,10 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete a quiz based on the pre-assigned readings and questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>74</textheight>
+<textheight>38.79374694824219</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Introduce Activity</name>
 <id>6</id>
@@ -67,11 +64,10 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Go over the assigned reading and any questions students have related to the short story&lt;/li&gt;&lt;li&gt;Describe the activity to the class&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 4-6&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>94</textheight>
+<textheight>120.39374542236328</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss and Decide 
 on a Theme</name>
@@ -81,11 +77,10 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Discuss the symbolism in the short story&lt;/li&gt;&lt;li&gt;Discuss interpretations of themes present in the short story&lt;/li&gt;&lt;li&gt;Choose a specific theme to represent in the vernissage&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>94</textheight>
+<textheight>120.39374542236328</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Produce a Vernissage</name>
 <id>9</id>
@@ -94,7 +89,7 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Plan how you will visually interpret the story&lt;/li&gt;&lt;li&gt;Create a vernissage based on the interpretations, engaging the symbolic imagery in some way (e.g. a drawing, a collage, or both).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The vernissage cannot contain any words.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>140</textheight>
+<textheight>149.19374084472656</textheight>
 <timevalue>20</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -102,7 +97,6 @@ on a Theme</name>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Facilitate Group Work</name>
 <id>11</id>
@@ -111,13 +105,12 @@ on a Theme</name>
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Circulate to answer any questions students have related to the short story and its themes&lt;/li&gt;&lt;li&gt;Provide feedback on the vernissages as groups are building them&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>105.99374389648438</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>9</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<tagARRAY/>
 </node>
 <node><name>Give Feedback through a Gallery Walk</name>
 <id>12</id>
@@ -126,11 +119,10 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Select a Note Taker (or choose to rotate role at each vernissage)&lt;/li&gt;&lt;li&gt;Visit each vernissage and discuss its content&lt;/li&gt;&lt;li&gt;Take 5 minutes at each vernissage to review and write feedback or questions about the group's interpretations and choices&lt;/li&gt;&lt;li&gt;Listen for cues from the Instructor to move to the next vernissage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Written feedback can be added to a live online document for all groups to access simultaneously.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>168</textheight>
+<textheight>221.19374084472656</textheight>
 <timevalue>30</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Peer Feedback</name>
 <id>13</id>
@@ -139,11 +131,10 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Return to the created piece&lt;/li&gt;&lt;li&gt;Discuss feedback provided by their peers&lt;/li&gt;&lt;li&gt;Answer questions related to the peer feedback of their vernissage&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>105.99374389648438</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Write a Reflection</name>
 <id>87</id>
@@ -152,11 +143,10 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Write a final reflection on how peers understood the group's intentions and how they interpreted the illustration.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>124</textheight>
+<textheight>53.193748474121094</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Review Activity and Answer Questions</name>
 <id>14</id>
@@ -165,11 +155,10 @@ on a Theme</name>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Regroup the class to review the content created during the activity and address any student questions&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>53.193748474121094</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Interpretations</name>
 <id>85</id>
@@ -178,16 +167,10 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;p&gt;In the next class&lt;/p&gt;&lt;p&gt;Discuss the similarities and differences in interpretations, comparing peers to the group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>72.59062194824219</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;Materials include:&lt;/p&gt;&lt;p&gt;Example of annotation&lt;/p&gt;&lt;p&gt;Vocabulary sheet&lt;/p&gt;&lt;p&gt;Example questions (for pre-assigned reading)&lt;/p&gt;</textHTML>
-<x>350</x>
-<y>40</y>
-<commentparent>2</commentparent>
-</comment>
 <wflegendx>1180</wflegendx>
 <wflegendy>220</wflegendy>
 </wfdata></workflow>
