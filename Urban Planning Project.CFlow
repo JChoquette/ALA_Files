@@ -1,9 +1,9 @@
 <project><prname>Urban Planning Project</prname>
-<idnum>109</idnum>
+<idnum>132</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Urban Planning Two-Part Project</wfname>
 <wfauthor>Anna Liisa Aunio</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students explore a chosen neighborhood in Montreal and investigate significant social issues. The process of research and the development of a local action plan strengthens valuable skills.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students explore a chosen neighborhood in Montreal and investigate significant social issues. The process of research and the development of a local action plan strengthens valuable skills. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/urban-planning-project/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -28,9 +28,9 @@ Intro Assignment</weekname>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Provide a lecture about the sociology of food in Montreal&lt;/li&gt;&lt;li&gt;Introduce Neighborhoods assignment and an overview of course projects&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The &lt;a href="https://drive.google.com/file/d/1zUxGNdUHKnOYyT4EG8QsD4O185LIqJqU/view?usp=sharing" target="_blank"&gt;Neighborhoods assignment&lt;/a&gt; could be replaced by another that introduces students to the boroughs of Montreal, and provides an introduction to using the online canvas.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Provide a lecture about the sociology of food in Montreal&lt;/li&gt;&lt;li&gt;Introduce Neighborhoods assignment and an overview of course projects&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Neighborhoods-Assignment.pdf" target="_blank"&gt;Neighborhoods assignment&lt;/a&gt; could be replaced by another that introduces students to the boroughs of Montreal, and provides an introduction to using the online canvas.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complete Neighborhoods Assignment</name>
@@ -40,7 +40,7 @@ Intro Assignment</weekname>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Create sticky note labels using online canvas&lt;/li&gt;&lt;li&gt;Identify the neighborhoods on the Montreal Map, using the provided list&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>91.60000610351562</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -52,9 +52,9 @@ Project 1</weekname>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Hand out assignment &lt;a href="https://drive.google.com/file/d/1ARdh0gUsbIVfUExfclesH7F8eQLHYrZJ/view?usp=sharing" target="_blank"&gt;instructions&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Hand out assignment &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Group-Project-1.pdf" target="_blank"&gt;instructions&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>50</textheight>
+<textheight>45</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Read Assigned Material</name>
@@ -62,9 +62,9 @@ Project 1</weekname>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Read assigned materials before each class.&lt;/p&gt;&lt;p&gt;Note: See &lt;a href="https://drive.google.com/file/d/1_ftgSCmvXkdiKRzUEYA_2P8uBNAnL8QT/view?usp=sharing" target="_blank"&gt;syllabus&lt;/a&gt; for example materials.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Read assigned materials before each class.&lt;/p&gt;&lt;p&gt;Note: See &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Sociology-of-Food_Syllabus.pdf" target="_blank"&gt;syllabus&lt;/a&gt; for example materials.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Select a Neighborhood</name>
@@ -74,7 +74,7 @@ Project 1</weekname>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Choose a neighborhood in Montreal&lt;/li&gt;&lt;li&gt;Add a map of the neighborhood to the class canvas&lt;/li&gt;&lt;li&gt;Plan research, divide roles, and set group goals&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>120</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Research the Neighborhood</name>
@@ -84,7 +84,7 @@ Project 1</weekname>
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Research and collect information related to the sociodemographics, politics, history, and the food system&lt;/li&gt;&lt;li&gt;Display information on the class canvas&lt;/li&gt;&lt;li&gt;Identify top three issues to a sustainable food system&lt;/li&gt;&lt;li&gt;Include citations and links to all sources&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>160</textheight>
+<textheight>153</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>37</targetid>
@@ -98,7 +98,7 @@ Project 1</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Present the neighborhood to the class, 5 minutes each.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>66</textheight>
+<textheight>60</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Provide Feedback</name>
@@ -108,7 +108,7 @@ Project 1</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>60</textheight>
+<textheight>50</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Address Feedback &amp; Prepare to Submit</name>
@@ -118,7 +118,7 @@ Project 1</weekname>
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Review and use feedback to revise&lt;/li&gt;&lt;li&gt;Respond to each note given by other groups&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Submit project with revisions in the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>106.00000762939453</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complete Peer Assessments</name>
@@ -126,9 +126,9 @@ Project 1</weekname>
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Assess peers using &lt;a href="https://drive.google.com/file/d/1t-7POFknjlJg4vOX5hBG8n4F_NVxG1BX/view?usp=sharing" target="_blank"&gt;google form&lt;/a&gt; with criteria provided by instructor.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assess peers using &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Peer-Evaluation-Questions.pdf" target="_blank"&gt;google form&lt;/a&gt; with criteria provided by instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>56</textheight>
+<textheight>38.80000305175781</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Evaluate Project 1</name>
@@ -138,7 +138,7 @@ Project 1</weekname>
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>78</textheight>
+<textheight>49</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -150,9 +150,9 @@ Project 2</weekname>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Hand out assignment &lt;a href="https://drive.google.com/file/d/1v0wGIQ1dDy4Wh7jci0AtQ_AS0OXwECNV/view?usp=sharing" target="_blank"&gt;instructions&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Hand out assignment &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Group-Project-2.pdf" target="_blank"&gt;instructions&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>60</textheight>
+<textheight>40</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Read Assigned Material</name>
@@ -162,7 +162,7 @@ Project 2</weekname>
 <column>OOC</column>
 <textHTML>&lt;p&gt;Read material assigned before each class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>40</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Create a Local Action Plan </name>
@@ -172,7 +172,7 @@ Project 2</weekname>
 <column>OOC</column>
 <textHTML>&lt;p&gt;Acting as Mayor of the neighborhood, develop a local food policy plan, adding this to the online canvas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Describe the food policy council and rationale for including them&lt;/li&gt;&lt;li&gt;Write a food charter with those actors, including a vision and goals for your plan&lt;/li&gt;&lt;li&gt;Propose actions to improve the neighborhood and meet the objectives of the city’s plan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>188</textheight>
+<textheight>206.80001831054688</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Present Local Action Plan</name>
@@ -182,7 +182,7 @@ Project 2</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Present your plan to the class, 5 minutes each.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>52</textheight>
+<textheight>53</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Provide Feedback</name>
@@ -192,7 +192,7 @@ Project 2</weekname>
 <column>ICS</column>
 <textHTML>&lt;p&gt;Assess and provide feedback, each group reviewing two other groups.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120</textheight>
+<textheight>50</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Address Feedback &amp; Prepare to Submit</name>
@@ -202,7 +202,7 @@ Project 2</weekname>
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Review feedback and revise plan.&lt;/li&gt;&lt;li&gt;Respond to each note given by other groups&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Submit project with revisions in the following class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>106.00000762939453</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complete Peer Assessments</name>
@@ -210,7 +210,7 @@ Project 2</weekname>
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Assess peers using &lt;a href="https://drive.google.com/file/d/1t-7POFknjlJg4vOX5hBG8n4F_NVxG1BX/view?usp=sharing" target="_blank"&gt;google form&lt;/a&gt; with criteria provided by instructor.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assess peers using &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/11/Peer-Evaluation-Questions.pdf" target="_blank"&gt;google form&lt;/a&gt; with criteria provided by instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>54</textheight>
 <isdropped>true</isdropped>
@@ -222,12 +222,12 @@ Project 2</weekname>
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Evaluate assignment, taking into account the peer assessments.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>74</textheight>
+<textheight>50</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1100</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 <simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>
