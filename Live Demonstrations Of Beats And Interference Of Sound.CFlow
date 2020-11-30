@@ -1,9 +1,9 @@
 <project><prname>Live demonstrations of beats and interference of sound</prname>
-<idnum>42</idnum>
+<idnum>70</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Live demonstrations of beats and interference of sound</wfname>
 <wfauthor>By Rhys Adams</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students apply the principal of superposition to two new contexts. While hearing a sinusoidal signal feeding 2 speakers, students walk around the room to experience constructive Interference and destructive Interference and gain a better understanding of these concepts.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students apply the principal of superposition to two new contexts. While hearing a sinusoidal signal feeding 2 speakers, students walk around the room to experience constructive Interference and destructive Interference and gain a better understanding of these concepts. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/live-demonstrations-of-beats-and-interference-of-sound/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -48,7 +48,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Review the the principle of superposition, describing standing waves on a string and in a pipe. Highlight that the 2 waves interfering are confined in space (i.e. on the string and in a pipe)&lt;/li&gt;&lt;li&gt;Initiate Class Discussion&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>132</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Applications of the Principle</name>
@@ -88,7 +88,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Direct students to step outside of the room&lt;/li&gt;&lt;li&gt;Explain the parallel to what will be covered in a few weeks (i.e. Diffraction)&lt;/li&gt;&lt;li&gt;Return to the room to modify the frequency &lt;/li&gt;&lt;li&gt;Direct students to return to the room to make predictions about the interference&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: May change the frequency a third time and repeat the process.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>210</textheight>
+<textheight>188</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Make Predictions</name>
@@ -128,7 +128,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Modify the frequencies to allows students to observe changes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Use tuning forks and play some instruments to compare/contrast a single frequency (tuning fork) and harmonics (strumming a guitar string)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The sound sensor + fft (computer pasco software) is really useful here. I usually have some musicians in my class so interesting discussions evolve around comparing "volume as a function of frequency" (fft) plots to sheet music, sound engineering and filtering, etc.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>178</textheight>
+<textheight>202</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Play with Settings</name>
@@ -142,7 +142,7 @@
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

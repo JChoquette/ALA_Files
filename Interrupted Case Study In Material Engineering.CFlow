@@ -1,0 +1,195 @@
+<project><prname>Interrupted Case Study in Material Engineering</prname>
+<idnum>165</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Interrupted Case Study in Material Engineering</wfname>
+<wfauthor>By Marta Cerruti</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students engage case studies to dive deeper into real-life applications of material characterization. Students learn techniques needed for the interpretation of data and graphs and better understand concepts that are otherwise difficult. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/interrupted-case-study-in-material-engineering/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>7</weekid>
+<node><name>Introduce Activity</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Begin class by explaining the first part of the case study.&lt;/p&gt;&lt;p&gt;Note: Students may look at the case study before coming to class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>71</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Case Study Questions</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups of 8, discuss questions related to the case study.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<timevalue>7-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Facilitate Discussions</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Visit each group during their discussion&lt;/li&gt;&lt;li&gt;Provide small tips without giving answers, when necessary&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Review Questions and Answers</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;With the whole class, review questions and reveal the correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>13</weekid>
+<node><name>Provide 2nd Data Set</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide groups with more data and graphs to interpret.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss 2nd Data Set Questions</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss questions pertaining to the new data provided. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<timevalue>7-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Questions and Answers</name>
+<id>16</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Ask groups to reveal their answers to the class&lt;/li&gt;&lt;li&gt;Then, reveal the correct solutions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>17</weekid>
+<node><name>Provide 3rd Data Set</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Again, assign more data and graphs to interpret.&lt;/p&gt;&lt;p&gt;Note: This third part can be done at home instead. In that case, have the groups discuss answers in the following class session.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>104</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss 3rd Data Set Questions</name>
+<id>19</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss new questions pertaining to the new data set.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<timevalue>7-10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete a Quiz</name>
+<id>21</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a quiz at the end of all three parts of this interrupted case study. &lt;/p&gt;&lt;p&gt;Note: Quiz is worth 2% of the final grade.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>57</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>22</weekid>
+<node><name>Analyze Final Case: 
+Art Restoration</name>
+<id>144</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Receive an assigned part of the final case study on art restoration from the instructor&lt;/li&gt;&lt;li&gt;Apply tools acquired from previous parts to the case study &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can use online resources to gather extra information to help answer the question.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>146</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Questions and Answers</name>
+<id>24</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Reveal all the groups answers &lt;/li&gt;&lt;li&gt;Provide the correct answers to the questions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Analyze Data and Answer Final Questions</name>
+<id>25</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Using the correct answers, discuss and analyze data to answer some final questions, one of which is to guess the age of the painting.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>66</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>146</weekid>
+<node><name>Complete a Group Quiz</name>
+<id>26</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete a group quiz in this final part of the case study.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>
