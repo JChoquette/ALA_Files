@@ -3,7 +3,7 @@
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Visual Interpretation: Story of an Hour</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
-<wfdescription>&lt;p&gt;In this activity, students conduct a literary analysis by creating a visual interpretation of &quot;The Story of an Hour&quot; to illustrate a&lt;strong&gt; &lt;/strong&gt;theme and the symbolic imagery of the story.&amp;nbsp;&amp;nbsp;Through this creative process and a Gallery Walk, students learn to engage with and reflect critically on different interpretations. This can be used with any story that contains symbolic imagery. See a full description &lt;u&gt;here&lt;/u&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this activity, students conduct a literary analysis by creating a visual interpretation of &quot;The Story of an Hour&quot; to illustrate a&lt;strong&gt; &lt;/strong&gt;theme and the symbolic imagery of the story.&amp;nbsp;&amp;nbsp;Through this creative process and a Gallery Walk, students learn to engage with and reflect critically on different interpretations. This can be used with any story that contains symbolic imagery. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/visual-interpretation-of-the-story-of-an-hour/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -38,7 +38,7 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Go over the assigned reading and any questions students have related to the short story&lt;/li&gt;&lt;li&gt;Describe the activity to the class&lt;/li&gt;&lt;li&gt;Divide students into groups of 4-6&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>94</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -61,9 +61,9 @@ on a Theme</name>
 <lefticon>group</lefticon>
 <righticon>create</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Plan how you will visually interpret the story&lt;/li&gt;&lt;li&gt;Create a vernissage based on the interpretations, engaging the symbolic imagery in some way (e.g. a drawing, a collage, or both).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The vernissage cannot contain any words.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Plan how you will visually interpret the story&lt;/li&gt;&lt;li&gt;Create a vernissage based on the interpretations, engaging the symbolic imagery in some way (e.g. a drawing, a collage, or both)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The vernissage cannot contain any words.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>149.20001220703125</textheight>
+<textheight>142.79998779296875</textheight>
 <timevalue>20</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -115,9 +115,9 @@ on a Theme</name>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Regroup the class to review the content created during the activity and address any student questions&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Regroup the class to review the content created during the activity and address any student questions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53.20000457763672</textheight>
+<textheight>56</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -129,7 +129,7 @@ on a Theme</name>
 <column>OOC</column>
 <textHTML>&lt;p&gt;Write a final reflection on how peers understood the group's intentions and how they interpreted the illustration.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53.20000457763672</textheight>
+<textheight>70</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Interpretations</name>
@@ -139,11 +139,11 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;p&gt;In the next class&lt;/p&gt;&lt;p&gt;Discuss the similarities and differences in interpretations, comparing peers to the group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>72.60000610351562</textheight>
+<textheight>80</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

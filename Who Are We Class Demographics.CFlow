@@ -3,7 +3,7 @@
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Who Are We? Class Demographics</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
-<wfdescription>&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;In this single-class activity, students answer questions about themselves, which is included in a anonymous class profile. Discussing the profile establishes the tone and creates a sense of community.&lt;/span&gt;&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students answer questions about themselves, which is included in a anonymous class profile. Discussing the profile establishes the tone and creates a sense of community. See full description &lt;a href=&quot;https://www.saltise.ca/activity/who-are-we-class-demographics/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Distribute questionnaires.&lt;/p&gt;&lt;p&gt;Note: This can be done using an online survey platform, either before the start of the semester or during the first class.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Distribute questionnaires. (See &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/07/Example-Questions-for-Who-Are-We-Activity.pdf" target="_blank"&gt;sample questions&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;Note: This can be done using an online survey platform, either before the start of the semester or during the first class.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>72.60000610351562</textheight>
+<textheight>85</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Answer Questionnaire</name>
@@ -38,7 +38,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Answer personal questions&lt;/li&gt;&lt;li&gt;Describe the college with one adjective&lt;/li&gt;&lt;li&gt;Write a question for the instructor&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77.20000457763672</textheight>
+<textheight>90</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Create Class Profile</name>
@@ -46,9 +46,9 @@
 <lefticon>undefined</lefticon>
 <righticon>curation</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Using student information, create anonymous profiles of the class.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Refer to &lt;u&gt;slides&lt;/u&gt; for a model.&lt;/li&gt;&lt;li&gt;Follow up with students who do not complete questionnaire correctly&lt;/li&gt;&lt;li&gt;Follow-up one-on-one if students indicate a serious concern or potential obstacle&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Using student information, create anonymous profiles of the class.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Refer to &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/07/Who-Are-We__-Class-Demographics-from-SA-1.pdf" target="_blank"&gt;slides&lt;/a&gt; for a model.&lt;/li&gt;&lt;li&gt;Follow up with students who do not complete questionnaire correctly&lt;/li&gt;&lt;li&gt;Follow-up one-on-one if students indicate a serious concern or potential obstacle&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>168.60000610351562</textheight>
+<textheight>165</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Present the Class Profile</name>
@@ -68,7 +68,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;In pairs/groups, discuss what was the most surprising to you about the classroom community.&lt;/p&gt;&lt;p&gt;Note: Use a collaborative online document or forum for group discussions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>87.00000762939453</textheight>
+<textheight>100</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Share Thoughts</name>
@@ -78,11 +78,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Share thoughts from the discussion openly.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24.400001525878906</textheight>
+<textheight>40</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

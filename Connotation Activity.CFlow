@@ -3,7 +3,7 @@
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Connotation Activity</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, students are introduced to the difference between denotation and connotation. They will become comfortable speaking to each other as they interpret one another and master key concepts related to literary analysis and interpretation.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this single-class activity, students are introduced to the difference between denotation and connotation. They will become comfortable speaking to each other as they interpret one another and master key concepts related to literary analysis and interpretation. See a full description &lt;a href=&quot;https://www.saltise.ca/activity/connotation-exercise-interview-and-presentation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;u&gt;PowerPoint&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: In an online environment, use reaction responses to indicate positive, negative, and neutral positions.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;a href="https://www.saltise.ca/wp-content/uploads/2020/12/Connotation-Activity_Materials_Keys-to-Literary-Analysis.pdf" target="_blank"&gt;PowerPoint&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: In an online environment, use reaction responses to indicate positive, negative, and neutral positions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>142</textheight>
+<textheight>160</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Initiate Activity</name>
@@ -60,9 +60,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Connect connotation concepts to the Interview and Presentation activity.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Connect connotation concepts to the Interview and Presentation activity.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Do a Connotation Interview</name>
@@ -70,9 +70,9 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Work in pairs to interview and analyse one another. Ask your partner to answer the question:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you were a [category], what would you be?&lt;/li&gt;&lt;li&gt;Possible categories (car, beverage, animal, superhero, Montreal neighborhood, time of day, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:  Refrain from explaining responses, leaving the partner to interpret connotations.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Work in pairs to interview and analyse one another. Ask your partner to answer the question:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you were a [category], what would you be?&lt;/li&gt;&lt;li&gt;Possible categories (car, beverage, animal, superhero, Montreal neighborhood, time of day, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Refrain from explaining responses, leaving the partner to interpret connotations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>174</textheight>
+<textheight>212</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Do a Mini-Presentation</name>
@@ -80,13 +80,13 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Each interview pair presents each other to the class in a one-minute analysis according to the template:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This is [name] who says that if they were a [category], they would be [response].&amp;nbsp;This indicates/suggests they&amp;nbsp;[analysis of connotations]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&amp;nbsp;Be careful not to make literal interpretations, i.e. “They said if they were a beverage, they would be lemonade which means they like lemonade.”&amp;nbsp;What does lemonade connote?&amp;nbsp;“They said if they were a beverage, they would be lemonade which suggests they are a refreshing, light person who you want to be around; someone who lifts people up and makes them feel happy.”&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Each interview pair presents each other to the class in a one-minute analysis according to the template:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This is [name] who says that if they were a [category], they would be [response].&amp;nbsp;This indicates/suggests they&amp;nbsp;[analysis of connotations]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&amp;nbsp;Be careful not to make literal interpretations, i.e. “They said if they were a beverage, they would be lemonade which means they like lemonade.”&amp;nbsp;What does lemonade connote?&amp;nbsp;“They said if they were a beverage, they would be lemonade which suggests they are a refreshing, light person who you want to be around; someone who lifts people up and makes them feel happy.”&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>253</textheight>
+<textheight>296</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1180</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
