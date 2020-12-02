@@ -1,9 +1,9 @@
 <project><prname>Story of an Hour</prname>
-<idnum>102</idnum>
+<idnum>118</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Visual Interpretation: Story of an Hour</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
-<wfdescription>&lt;p&gt;In this activity, students conduct a literary analysis by creating a visual interpretation of &quot;The Story of an Hour&quot; to illustrate a&lt;strong&gt; &lt;/strong&gt;theme and the symbolic imagery of the story.&amp;nbsp;&amp;nbsp;Through this creative process and a Gallery Walk, students learn to engage with and reflect critically on different interpretations. See a full description &lt;u&gt;here&lt;/u&gt;.&lt;/p&gt;</wfdescription>
+<wfdescription>&lt;p&gt;In this activity, students conduct a literary analysis by creating a visual interpretation of &quot;The Story of an Hour&quot; to illustrate a&lt;strong&gt; &lt;/strong&gt;theme and the symbolic imagery of the story.&amp;nbsp;&amp;nbsp;Through this creative process and a Gallery Walk, students learn to engage with and reflect critically on different interpretations. This can be used with any story that contains symbolic imagery. See a full description &lt;u&gt;here&lt;/u&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,40 +21,14 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Prepare Activity</name>
-<id>3</id>
+<node><name>Prepare for Activity</name>
+<id>118</id>
 <lefticon>undefined</lefticon>
-<righticon>curation</righticon>
-<column>OOCI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Prepare Quiz Questions from pre-assigned reading&lt;/li&gt;&lt;li&gt;Ensure the class folder has &lt;u&gt;questions&lt;/u&gt;, a &lt;u&gt;vocabulary sheet&lt;/u&gt;, and an &lt;u&gt;example of annotation&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>105.99374389648438</textheight>
-<isdropped>true</isdropped>
-<noautolink>true</noautolink>
-<link><targetid>4</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
-</node>
-<node><name>Prepare for Class</name>
-<id>4</id>
-<lefticon>undefined</lefticon>
-<righticon>reading</righticon>
+<righticon>undefined</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Read the short story while keeping in mind the questions&lt;/li&gt;&lt;li&gt;Annotate the short story&lt;/li&gt;&lt;li&gt;Refer to the vocabulary sheet for more information on a particular word if needed&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read and annotate the short story&lt;/li&gt;&lt;li&gt;Focus on symbolic imagery in connection to the story's themes&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.39374542236328</textheight>
-<isdropped>true</isdropped>
-</node>
-<node><name>Complete a Quiz</name>
-<id>5</id>
-<lefticon>solo</lefticon>
-<righticon>quiz</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;Complete a quiz based on the pre-assigned readings and questions.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>38.79374694824219</textheight>
-<timevalue>5</timevalue>
-<timeunit>min</timeunit>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Introduce Activity</name>
@@ -62,9 +36,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Go over the assigned reading and any questions students have related to the short story&lt;/li&gt;&lt;li&gt;Describe the activity to the class&lt;/li&gt;&lt;li&gt;Direct students to get into groups of 4-6&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Go over the assigned reading and any questions students have related to the short story&lt;/li&gt;&lt;li&gt;Describe the activity to the class&lt;/li&gt;&lt;li&gt;Divide students into groups of 4-6&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.39374542236328</textheight>
+<textheight>104</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -77,7 +51,7 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Discuss the symbolism in the short story&lt;/li&gt;&lt;li&gt;Discuss interpretations of themes present in the short story&lt;/li&gt;&lt;li&gt;Choose a specific theme to represent in the vernissage&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.39374542236328</textheight>
+<textheight>120.40000915527344</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -89,7 +63,7 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Plan how you will visually interpret the story&lt;/li&gt;&lt;li&gt;Create a vernissage based on the interpretations, engaging the symbolic imagery in some way (e.g. a drawing, a collage, or both).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The vernissage cannot contain any words.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>149.19374084472656</textheight>
+<textheight>149.20001220703125</textheight>
 <timevalue>20</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -103,9 +77,9 @@ on a Theme</name>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Circulate to answer any questions students have related to the short story and its themes&lt;/li&gt;&lt;li&gt;Provide feedback on the vernissages as groups are building them&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Answer any questions students have&lt;/li&gt;&lt;li&gt;Provide feedback on the vernissages as groups are building them&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>105.99374389648438</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>9</targetid>
@@ -117,9 +91,9 @@ on a Theme</name>
 <lefticon>group</lefticon>
 <righticon>peerreview</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Select a Note Taker (or choose to rotate role at each vernissage)&lt;/li&gt;&lt;li&gt;Visit each vernissage and discuss its content&lt;/li&gt;&lt;li&gt;Take 5 minutes at each vernissage to review and write feedback or questions about the group's interpretations and choices&lt;/li&gt;&lt;li&gt;Listen for cues from the Instructor to move to the next vernissage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Written feedback can be added to a live online document for all groups to access simultaneously.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Select a Note Taker (or choose to rotate role at each vernissage)&lt;/li&gt;&lt;li&gt;Visit each vernissage and discuss its content&lt;/li&gt;&lt;li&gt;Take 5 minutes at each vernissage to review and write feedback or questions about the group's interpretations and choices&lt;/li&gt;&lt;li&gt;Listen for cues from the Instructor to move to the next vernissage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Written feedback can be added to a live online document for all groups to access simultaneously&lt;/li&gt;&lt;li&gt;This activity can be done online using screenshare and virtual groups&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>221.19374084472656</textheight>
+<textheight>268</textheight>
 <timevalue>30</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -131,19 +105,7 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Return to the created piece&lt;/li&gt;&lt;li&gt;Discuss feedback provided by their peers&lt;/li&gt;&lt;li&gt;Answer questions related to the peer feedback of their vernissage&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>105.99374389648438</textheight>
-<timevalue>10</timevalue>
-<timeunit>min</timeunit>
-<isdropped>true</isdropped>
-</node>
-<node><name>Write a Reflection</name>
-<id>87</id>
-<lefticon>group</lefticon>
-<righticon>write</righticon>
-<column>ICS</column>
-<textHTML>&lt;p&gt;Write a final reflection on how peers understood the group's intentions and how they interpreted the illustration.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>53.193748474121094</textheight>
+<textheight>106.00000762939453</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -155,9 +117,19 @@ on a Theme</name>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Regroup the class to review the content created during the activity and address any student questions&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53.193748474121094</textheight>
+<textheight>53.20000457763672</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Write a Reflection</name>
+<id>87</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Write a final reflection on how peers understood the group's intentions and how they interpreted the illustration.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.20000457763672</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Discuss Interpretations</name>
@@ -167,7 +139,7 @@ on a Theme</name>
 <column>ICS</column>
 <textHTML>&lt;p&gt;In the next class&lt;/p&gt;&lt;p&gt;Discuss the similarities and differences in interpretations, comparing peers to the group.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>72.59062194824219</textheight>
+<textheight>72.60000610351562</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>

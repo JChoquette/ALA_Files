@@ -1,5 +1,5 @@
 <project><prname>Connotation Activity</prname>
-<idnum>12</idnum>
+<idnum>24</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Connotation Activity</wfname>
 <wfauthor>By Vanessa Vandergrift</wfauthor>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;u&gt;PowerPoint&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;li&gt;Direct students to identify a partner for the exercise&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduce the concepts of denotation and connotation, using the &lt;u&gt;PowerPoint&lt;/u&gt;&lt;/li&gt;&lt;li&gt;Direct the class to consider the classroom divided into two sides; one side is negative, one side is positive, and the middle is neutral&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: In an online environment, use reaction responses to indicate positive, negative, and neutral positions.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>149.19374084472656</textheight>
+<textheight>142</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Initiate Activity</name>
@@ -36,9 +36,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Call out different items (i.e. love, government, essay, Shakespeare, etc.) listed on the PowerPoint.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Call out different terms (i.e. love, government, essay, Shakespeare, etc.) &lt;/li&gt;&lt;li&gt;Display terms on the PowerPoint&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53.193748474121094</textheight>
+<textheight>95</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>4</targetid>
@@ -47,28 +47,43 @@
 </node>
 <node><name>Move to Respond to Slides </name>
 <id>4</id>
-<lefticon>group</lefticon>
+<lefticon>class</lefticon>
 <righticon>play</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;In response to each slide, position oneself in the room along the continuum of positive to negative&lt;/li&gt;&lt;li&gt;Consider the position of the partner&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;In response to each slide, position oneself in the room along the continuum of positive to negative&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>91.59374237060547</textheight>
+<textheight>71</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>Discuss Positions</name>
+<node><name>Transition to Interview and Presentation Activity</name>
+<id>24</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Connect connotation concepts to the Interview and Presentation activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Do a Connotation Interview</name>
+<id>20</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Work in pairs to interview and analyse one another. Ask your partner to answer the question:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you were a [category], what would you be?&lt;/li&gt;&lt;li&gt;Possible categories (car, beverage, animal, superhero, Montreal neighborhood, time of day, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:  Refrain from explaining responses, leaving the partner to interpret connotations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Do a Mini-Presentation</name>
 <id>5</id>
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss with a partner whether their interpretation was "accurate" or not&lt;/li&gt;&lt;li&gt;Share alternate interpretations of other students' responses and positions&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Each interview pair presents each other to the class in a one-minute analysis according to the template:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This is [name] who says that if they were a [category], they would be [response].&amp;nbsp;This indicates/suggests they&amp;nbsp;[analysis of connotations]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&amp;nbsp;Be careful not to make literal interpretations, i.e. “They said if they were a beverage, they would be lemonade which means they like lemonade.”&amp;nbsp;What does lemonade connote?&amp;nbsp;“They said if they were a beverage, they would be lemonade which suggests they are a refreshing, light person who you want to be around; someone who lifts people up and makes them feel happy.”&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>105.99374389648438</textheight>
+<textheight>253</textheight>
 <isdropped>true</isdropped>
-<link><targetid>3</targetid>
-<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
-<linktext>Repeat for 
-each item</linktext>
-</link>
 </node>
 </week>
 <wflegendx>1180</wflegendx>
