@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>5819</idnum>
+<idnum>6162</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>StVrsn_CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -45,27 +45,26 @@
 </column>
 <week><weekid>278</weekid>
 <weekname>Week 1: general terms and development review for ML</weekname>
-<node><name>Pre-requisite knowledge in ML and AI</name>
+<node><name>#1 Readings: Pre-requisite knowledge in ML &amp; AI</name>
 <id>3950</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;important concepts and terminologies in ML/AI&lt;/li&gt;&lt;li&gt;Data mining, machine learning and AI definition and their relationship/differences&lt;/li&gt;&lt;li&gt;often-used platform and toolbox in ML/AI&lt;/li&gt;&lt;li&gt;Role /work flow as data analyst/scientist/engineer&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>163.60000610351562</textheight>
-<isdropped>true</isdropped>
+<textheight>163</textheight>
 <link><targetid>3951</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #1: Introduction to Development Tools</name>
+<node><name>#1 Session: Introduction to Development Tools</name>
 <id>3951</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>AC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;What is machine learning (ML) and artificial intelligence (AI)&lt;/li&gt;&lt;li&gt;What are their relationships and differences&lt;/li&gt;&lt;li&gt;Over view of often-used toolkits and programming languages in ML/AI development&lt;/li&gt;&lt;li&gt;Career path and learning path of being a data scientist and data engineer&lt;/li&gt;&lt;li&gt;Overview of applications in diverse businesses for ML/AI&lt;/li&gt;&lt;li&gt;Overview and guideline for ML libs installation and environment setting&lt;/li&gt;&lt;li&gt;Assign multiple projects for students according to their timeline and difficulties of the project&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>264</textheight>
+<textheight>264.4000244140625</textheight>
 <timevalue>180</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>12</targetid>
@@ -75,16 +74,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Determine Groups &amp; Projects</name>
-<id>5698</id>
-<lefticon>exam</lefticon>
-<righticon>undefined</righticon>
-<column>SA</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;&lt;em&gt;Group are assigned in class (Sess. #2 )&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Projects are chosen in class (Sess. #2)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;﻿&lt;/em&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>187</textheight>
-</node>
-<node><name>Introduction to Korbit</name>
+<node><name>#1 Session: Introduction to Korbit</name>
 <id>3952</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -95,7 +85,17 @@
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 </node>
-<node><name>Module 1 (M1): Linear Algebra Basics</name>
+<node><name>Determine Groups &amp; Projects</name>
+<id>5698</id>
+<lefticon>exam</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;&lt;em&gt;Group are assigned in class (Sess. #2 )&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Projects are chosen in class (Sess. #2)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;﻿&lt;/em&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>187</textheight>
+</node>
+<node><name>#1 Korbit: Module 1 
+Linear Algebra Basics</name>
 <id>279</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -107,7 +107,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>M2: Probability Basics	</name>
+<node><name>#1 Korbit Module 2: Probability Basics	</name>
 <id>280</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -122,7 +122,8 @@
 </week>
 <week><weekid>2</weekid>
 <weekname>Week 2: general methodologies in ML</weekname>
-<node><name>M5: Machine Learning Overview</name>
+<node><name>#2 Korbit: Module 5 
+Machine Learning Overview</name>
 <id>4207</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -134,7 +135,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Readings on ML methodologies</name>
+<node><name>#2 Readings:  ML methodologies</name>
 <id>3953</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -146,7 +147,7 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #2: General methodologies</name>
+<node><name>#2 Session: General methodologies</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -160,11 +161,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>2: Code Demo &amp; Practice</name>
+<node><name>#2 Code Demo &amp; Practice</name>
 <id>3955</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Read/load data, split data by input features and target variables using pandas&lt;/li&gt;&lt;li&gt;Identify categorical and numerical features in the dataset&lt;/li&gt;&lt;li&gt;Split data into train, validation and test by sklearn API&lt;/li&gt;&lt;li&gt;Split total data by cross validation strategy using sklearn API&lt;/li&gt;&lt;li&gt;Get to know loss functions provided by sklearn API&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>192</textheight>
@@ -180,7 +181,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#2 Theoretical assignment</name>
+<node><name>#2 Theoretical Assignment</name>
 <id>3956</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -189,7 +190,7 @@
 <linkedwf>undefined</linkedwf>
 <textheight>163</textheight>
 </node>
-<node><name>#2 Coding assignment</name>
+<node><name>#2 Coding Assignment</name>
 <id>3957</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -201,19 +202,20 @@
 </week>
 <week><weekid>4</weekid>
 <weekname>Week 3: Data preprocessing : data IO operation</weekname>
-<node><name>Readings</name>
+<node><name>#3 Readings</name>
 <id>146</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>HW</column>
 <textHTML>&lt;p&gt;Provide some reading lists for understanding:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Categorical and numerical variables&lt;/li&gt;&lt;li&gt;refresh of pandas data processing API&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>76</textheight>
+<textheight>77.20000457763672</textheight>
+<isdropped>true</isdropped>
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #3 Data Preprocessing 1 </name>
+<node><name>#3 Session: Data Preprocessing 1 </name>
 <id>10</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -230,11 +232,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>3: Code Demo &amp; Practice</name>
+<node><name>#3 Code Demo &amp; Practice</name>
 <id>4078</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data preprocessing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provided coding practice for preprocessing in pandas using student's project datasets as demo&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data I/O in pandas&lt;/li&gt;&lt;li&gt;Data type conversion&lt;/li&gt;&lt;li&gt;Find and fill missing data&lt;/li&gt;&lt;li&gt;Indexing subset from total data&lt;/li&gt;&lt;li&gt;Table aggregation, join and merge&lt;/li&gt;&lt;li&gt;Fast processing using lambda expression&lt;/li&gt;&lt;li&gt;Label &amp;amp; one-hot encoding categorical data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>226</textheight>
@@ -247,19 +249,22 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>M3: Data Preprocessing </name>
+<node><name>#3 Korbit: Module 3 
+Data Preprocessing </name>
 <id>2425</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules after session #3:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is a Dataset?&lt;/li&gt;&lt;li&gt;Exploratory Data Analysis&lt;/li&gt;&lt;li&gt;Overview of Data Preprocessing&lt;/li&gt;&lt;li&gt;One-Hot Encoding&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106</textheight>
+<textheight>106.00000762939453</textheight>
+<isdropped>true</isdropped>
 <link><targetid>23</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#3 Assignment for basic processing</name>
+<node><name>#3 Coding Assignment: 
+Basic Processing</name>
 <id>4079</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -272,7 +277,8 @@
 </week>
 <week><weekid>5</weekid>
 <weekname>Week 4: data processing: feature engineering</weekname>
-<node><name>M4: Data Preprocessing II</name>
+<node><name>#4 Korbit: Module 3 
+Data Preprocessing</name>
 <id>2437</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -284,7 +290,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #4: Data Preprocessing 2</name>
+<node><name>#4 Session: Data Preprocessing 2</name>
 <id>23</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -298,11 +304,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>4: Code Demo &amp; Practice</name>
+<node><name>#4 Code Demo &amp; Practice</name>
 <id>139</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;&lt;span class="ql-cursor"&gt;﻿&lt;/span&gt;Feature engineering code &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In-class code practice on feature engineering includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Process timestamp, extract time information&lt;/li&gt;&lt;li&gt;Extract features on categorical data&lt;/li&gt;&lt;li&gt;feature aggregation&lt;/li&gt;&lt;li&gt;Customize features based on business understanding (open practice)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>168</textheight>
@@ -315,19 +321,21 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#4 Assignment: feature engineering</name>
+<node><name>#4 Coding Assignment: 
+Feature Engineering</name>
 <id>148</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>SA</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Assignment for feature engineering&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Replay in-class code demo by using your own dataset&lt;/li&gt;&lt;li&gt;Come up with new business-orientated features based on your own project dataset&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>120.40000915527344</textheight>
 </node>
 </week>
 <week><weekid>6</weekid>
 <weekname>Week 5: Supervised learning (I): classification models</weekname>
-<node><name>M4: Machine Learning Models </name>
+<node><name>#5 Korbit: Module 4 
+Machine Learning Models </name>
 <id>4208</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -339,19 +347,20 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Readings</name>
+<node><name>#5 Readings</name>
 <id>4080</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Tree based models&lt;/li&gt;&lt;li&gt;Entropy and information gain&lt;/li&gt;&lt;li&gt;Precision and recall, F1 score&lt;/li&gt;&lt;li&gt;ROC-AUC score&lt;/li&gt;&lt;li&gt;Random Forest &lt;/li&gt;&lt;li&gt;Gradient boosting tree classifier&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120</textheight>
+<textheight>120.40000915527344</textheight>
+<isdropped>true</isdropped>
 <link><targetid>101</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #5: Classification models</name>
+<node><name>#5 Session: Classification models</name>
 <id>101</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -365,11 +374,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>5: Code Demo &amp; Practice</name>
+<node><name>#5 Code Demo &amp; Practice</name>
 <id>140</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;5: Train first model by classifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Build first model pipeline using linear classifier (perceptron) and nonlinear classifier (random forest and gradient boosting machine)&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>52</textheight>
@@ -385,7 +394,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#5 assignment : theory</name>
+<node><name>#5 Theoretical Assignment</name>
 <id>150</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -394,7 +403,7 @@
 <linkedwf>undefined</linkedwf>
 <textheight>106</textheight>
 </node>
-<node><name>#5 code assignment</name>
+<node><name>#5 Coding Assignment</name>
 <id>4081</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -406,19 +415,21 @@
 </week>
 <week><weekid>21</weekid>
 <weekname>Week 6: supervised learning (II): regression, regularization and ensemble methods</weekname>
-<node><name>M4: Regression and regularization</name>
+<node><name>#6 Korbit: Module 4
+Regression &amp; Regularization</name>
 <id>4209</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Rreview Korbit sub-modules before class:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;Hyperparameters tuning&lt;/li&gt;&lt;li&gt;&lt;em&gt;Regularization (this one isn't a sub-module)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106</textheight>
+<textheight>106.00000762939453</textheight>
+<isdropped>true</isdropped>
 <link><targetid>121</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Readings</name>
+<node><name>#6 Readings</name>
 <id>4337</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -430,7 +441,7 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #6: Regression and regularization</name>
+<node><name>#6 Session: Regression and regularization</name>
 <id>121</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -444,11 +455,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>6: Code Demo &amp; Practice</name>
+<node><name>#6 Code Demo &amp; Practice</name>
 <id>141</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Train lightGBM&lt;/li&gt;&lt;li&gt;Hyper-parameters tuning in lightGBM&lt;/li&gt;&lt;li&gt;Learning rate, early-stopping tuning&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>76</textheight>
@@ -461,7 +472,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#6 assignment</name>
+<node><name>#6 Theory/Coding? Assignment</name>
 <id>153</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -474,7 +485,7 @@
 <week><weekid>115</weekid>
 <weekname>Week 7: advanced feature engineering, Bayesian model, docker image
 </weekname>
-<node><name>Install docker image toolbox</name>
+<node><name>#7 Preparation: Install docker image toolbox</name>
 <id>4338</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -486,7 +497,7 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Session #7:  Advanced feature engineering</name>
+<node><name>#7 Session:  Advanced feature engineering</name>
 <id>124</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -503,11 +514,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>7: Code Demo &amp; Practice</name>
+<node><name>#7 Code Demo &amp; Practice</name>
 <id>142</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Target encoding&lt;/li&gt;&lt;li&gt;Other advanced feature engineering skills&lt;/li&gt;&lt;li&gt;create docker images step by step&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>91</textheight>
@@ -517,7 +528,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#7 assignment</name>
+<node><name>#7 Theory/Coding? Assignment</name>
 <id>156</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -530,7 +541,7 @@
 <week><weekid>119</weekid>
 <weekname>Week 8: time series analysis
 </weekname>
-<node><name>Session #8: Time series analysis</name>
+<node><name>#8 Session: Time series analysis</name>
 <id>127</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -544,11 +555,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>8: Code Demo &amp; Practice</name>
+<node><name>#8 Code Demo &amp; Practice</name>
 <id>143</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;p&gt;In-class coding demo for time series provided&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pipeline for time series data analysis&lt;/li&gt;&lt;li&gt;Important features demo to improve time series model &lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>90</textheight>
@@ -561,7 +572,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#8 assignment</name>
+<node><name>#8 Theory/Coding? Assignment</name>
 <id>159</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -574,7 +585,7 @@
 <week><weekid>117</weekid>
 <weekname>Week 9: unsupervised learning, K-mean clustering, dimensionality reduction
 </weekname>
-<node><name>Session #9: K-means clustering and dimensionality reduction</name>
+<node><name>#9 Session: K-means clustering and dimensionality reduction</name>
 <id>133</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -588,11 +599,11 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>9: Code Demo &amp; Practice</name>
+<node><name>#9 Code Demo &amp; Practice</name>
 <id>145</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>AC</column>
+<column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Demo for clustering&lt;/li&gt;&lt;li&gt;Demo for PCA using images&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>62</textheight>
@@ -605,7 +616,7 @@
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#9 assignment</name>
+<node><name>#9 Theory/Coding? Assignment</name>
 <id>164</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -614,7 +625,8 @@
 <linkedwf>undefined</linkedwf>
 <textheight>132</textheight>
 </node>
-<node><name>M9: K-means, dimensionality reduction</name>
+<node><name>#9 Korbit: Module 9 
+K-means, dimensionality reduction</name>
 <id>4342</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -627,7 +639,7 @@
 </week>
 <week><weekid>116</weekid>
 <weekname>Week 10 - Final test</weekname>
-<node><name>Finalize Project Components</name>
+<node><name>#10 Preparation: Finalize Project Components</name>
 <id>147</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -639,7 +651,7 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Comprehensive in-class final test</name>
+<node><name>#10 Session: Comprehensive in-class final test</name>
 <id>136</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -653,7 +665,7 @@
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>Summary of the course</name>
+<node><name>#10 Session: Summary of the course</name>
 <id>4339</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
