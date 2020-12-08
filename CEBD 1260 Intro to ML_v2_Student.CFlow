@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>6162</idnum>
+<idnum>6304</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>StVrsn_CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -41,7 +41,6 @@
 </column>
 <column><columnname>SA</columnname>
 <columntext>Project / Assessments</columntext>
-<columnnodetext>Project / Assessments</columnnodetext>
 </column>
 <week><weekid>278</weekid>
 <weekname>Week 1: general terms and development review for ML</weekname>
@@ -52,7 +51,7 @@
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;important concepts and terminologies in ML/AI&lt;/li&gt;&lt;li&gt;Data mining, machine learning and AI definition and their relationship/differences&lt;/li&gt;&lt;li&gt;often-used platform and toolbox in ML/AI&lt;/li&gt;&lt;li&gt;Role /work flow as data analyst/scientist/engineer&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>163</textheight>
+<textheight>163.60000610351562</textheight>
 <link><targetid>3951</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -62,9 +61,9 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>AC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;What is machine learning (ML) and artificial intelligence (AI)&lt;/li&gt;&lt;li&gt;What are their relationships and differences&lt;/li&gt;&lt;li&gt;Over view of often-used toolkits and programming languages in ML/AI development&lt;/li&gt;&lt;li&gt;Career path and learning path of being a data scientist and data engineer&lt;/li&gt;&lt;li&gt;Overview of applications in diverse businesses for ML/AI&lt;/li&gt;&lt;li&gt;Overview and guideline for ML libs installation and environment setting&lt;/li&gt;&lt;li&gt;Assign multiple projects for students according to their timeline and difficulties of the project&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;What is machine learning (ML) and artificial intelligence (AI)&lt;/li&gt;&lt;li&gt;What are their relationships and differences&lt;/li&gt;&lt;li&gt;Over view of often-used toolkits and programming languages in ML/AI development&lt;/li&gt;&lt;li&gt;Career path and learning path of being a data scientist and data engineer&lt;/li&gt;&lt;li&gt;Overview of applications in diverse businesses for ML/AI&lt;/li&gt;&lt;li&gt;Overview and guideline for ML libs installation and environment setting&lt;/li&gt;&lt;li&gt;Assign multiple projects for students according to their timeline and difficulties of the project&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Groups and Projects are chosen in Session #1&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>264.4000244140625</textheight>
+<textheight>278.8000183105469</textheight>
 <timevalue>180</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>12</targetid>
@@ -81,18 +80,9 @@
 <column>AC</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>10</textheight>
+<textheight>10.000000953674316</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
-</node>
-<node><name>Determine Groups &amp; Projects</name>
-<id>5698</id>
-<lefticon>exam</lefticon>
-<righticon>undefined</righticon>
-<column>SA</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;&lt;em&gt;Group are assigned in class (Sess. #2 )&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Projects are chosen in class (Sess. #2)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;﻿&lt;/em&gt;&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>187</textheight>
 </node>
 <node><name>#1 Korbit: Module 1 
 Linear Algebra Basics</name>
@@ -100,9 +90,10 @@ Linear Algebra Basics</name>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
-<textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1. These are optional:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why Learn Linear Algebra?&lt;/li&gt;&lt;li&gt;Vectors and Matrices and Scalars&lt;/li&gt;&lt;li&gt;Addition and Scalar Multiplication and Transpose&lt;/li&gt;&lt;li&gt;Dot Product&lt;/li&gt;&lt;li&gt;Norm and Euclidean Distance&lt;/li&gt;&lt;li&gt;Matrix Multiplication&lt;/li&gt;&lt;li&gt;Identity Matrix&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why Learn Linear Algebra?&lt;/li&gt;&lt;li&gt;Vectors and Matrices and Scalars&lt;/li&gt;&lt;li&gt;Addition and Scalar Multiplication and Transpose&lt;/li&gt;&lt;li&gt;Dot Product&lt;/li&gt;&lt;li&gt;Norm and Euclidean Distance&lt;/li&gt;&lt;li&gt;Matrix Multiplication&lt;/li&gt;&lt;li&gt;Identity Matrix&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: Review these sub-modules throughout the semester for a stronger foundation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>178</textheight>
+<textheight>221.1999969482422</textheight>
+<isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -112,9 +103,9 @@ Linear Algebra Basics</name>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
-<textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1. These are optional:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction to Probability&lt;/li&gt;&lt;li&gt;Discrete vs. Continuous Random Variables&lt;/li&gt;&lt;li&gt;Expected Value vs. Sample Mean&lt;/li&gt;&lt;li&gt;Variance and Standard Deviation&lt;/li&gt;&lt;li&gt;Binomial Distribution&lt;/li&gt;&lt;li&gt;Normal distribution&lt;/li&gt;&lt;li&gt;conditional probability&lt;/li&gt;&lt;li&gt;Joint and marginal probability&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction to Probability&lt;/li&gt;&lt;li&gt;Discrete vs. Continuous Random Variables&lt;/li&gt;&lt;li&gt;Expected Value vs. Sample Mean&lt;/li&gt;&lt;li&gt;Variance and Standard Deviation&lt;/li&gt;&lt;li&gt;Binomial Distribution&lt;/li&gt;&lt;li&gt;Normal distribution&lt;/li&gt;&lt;li&gt;conditional probability&lt;/li&gt;&lt;li&gt;Joint and marginal probability&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;Review these sub-modules throughout the semester for a stronger foundation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>206</textheight>
+<textheight>235.60000610351562</textheight>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -142,7 +133,8 @@ Machine Learning Overview</name>
 <column>HW</column>
 <textHTML>&lt;p&gt;Complete readings:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Types of learning &lt;/strong&gt;(supervised &amp;amp; unsupervised)&lt;/li&gt;&lt;li&gt;overfitting and underfitting&lt;/li&gt;&lt;li&gt;Generalization and robustness in ML&lt;/li&gt;&lt;li&gt;Overfit and underfit concept&lt;/li&gt;&lt;li&gt;Identify data format(input features and target)&lt;/li&gt;&lt;li&gt;How to prepare data (split dataset)&lt;/li&gt;&lt;li&gt;Train, validation and test and how they work&lt;/li&gt;&lt;li&gt;Concept of loss function&lt;/li&gt;&lt;li&gt;Cross validation strategy&lt;/li&gt;&lt;li&gt;What are evaluation metrics used in ML&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>250</textheight>
+<textheight>250.00001525878906</textheight>
+<isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -160,6 +152,9 @@ Machine Learning Overview</name>
 <link><targetid>3955</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<link><targetid>10</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 <node><name>#2 Code Demo &amp; Practice</name>
 <id>3955</id>
@@ -174,9 +169,6 @@ Machine Learning Overview</name>
 <link><targetid>3956</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
-<link><targetid>10</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
 <link><targetid>3957</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -186,18 +178,36 @@ Machine Learning Overview</name>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
-<textHTML>&lt;p&gt;Provided theoretical assignment in order to&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand supervised/unsupervised learning tasks and classification/regression&lt;/li&gt;&lt;li&gt;data splitting strategies&lt;/li&gt;&lt;li&gt;imbalanced dataset (extensive reading and review)&lt;/li&gt;&lt;li&gt;learning rule calculation for linear regression(bonus point)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete theoretical assignment&lt;strong&gt;, due at Session #5&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand supervised/unsupervised learning tasks and classification/regression&lt;/li&gt;&lt;li&gt;data splitting strategies&lt;/li&gt;&lt;li&gt;imbalanced dataset (extensive reading and review)&lt;/li&gt;&lt;li&gt;learning rule calculation for linear regression(bonus point)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: You can work on this assignment over the next two weeks.&lt;/strong&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>163</textheight>
+<textheight>206.8000030517578</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>#2 Coding Assignment</name>
 <id>3957</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>SA</column>
-<textHTML>&lt;p&gt;For projects, students complete the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;practice data splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice cross validation splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice calculate loss using sklearn API&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Notes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Group are assigned in class (Sess. #2 )&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Projects are chosen in class (Sess. #2)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;﻿&lt;/em&gt;&lt;/p&gt;</textHTML>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;For projects, students complete the following, &lt;strong&gt;which is due next week&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;practice data splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice cross validation splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice calculate loss using sklearn API&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>187</textheight>
+<textheight>120.40000915527344</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6283</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Begin working on Project</name>
+<id>6283</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.79999923706055</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6285</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>4</weekid>
@@ -239,14 +249,11 @@ Machine Learning Overview</name>
 <column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data preprocessing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provided coding practice for preprocessing in pandas using student's project datasets as demo&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data I/O in pandas&lt;/li&gt;&lt;li&gt;Data type conversion&lt;/li&gt;&lt;li&gt;Find and fill missing data&lt;/li&gt;&lt;li&gt;Indexing subset from total data&lt;/li&gt;&lt;li&gt;Table aggregation, join and merge&lt;/li&gt;&lt;li&gt;Fast processing using lambda expression&lt;/li&gt;&lt;li&gt;Label &amp;amp; one-hot encoding categorical data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>226</textheight>
+<textheight>226.20001220703125</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>4079</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
-</link>
-<link><targetid>2425</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
 <node><name>#3 Korbit: Module 3 
@@ -268,11 +275,27 @@ Basic Processing</name>
 <id>4079</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>SA</column>
+<column>CUS2</column>
 <textHTML>&lt;p&gt;Asked students to practice all aspects of basic data preprocessing based on their own project datasets&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>53.20000457763672</textheight>
 <isdropped>true</isdropped>
+<link><targetid>6285</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6285</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.79999923706055</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6288</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>5</weekid>
@@ -303,6 +326,9 @@ Data Preprocessing</name>
 <link><targetid>139</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<link><targetid>101</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 <node><name>#4 Code Demo &amp; Practice</name>
 <id>139</id>
@@ -314,9 +340,6 @@ Data Preprocessing</name>
 <textheight>168</textheight>
 <timevalue>80</timevalue>
 <timeunit>min</timeunit>
-<link><targetid>101</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
 <link><targetid>148</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -326,10 +349,26 @@ Feature Engineering</name>
 <id>148</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>SA</column>
+<column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Assignment for feature engineering&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Replay in-class code demo by using your own dataset&lt;/li&gt;&lt;li&gt;Come up with new business-orientated features based on your own project dataset&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.40000915527344</textheight>
+<textheight>120</textheight>
+<link><targetid>6288</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6288</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.77499771118164</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6291</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>6</weekid>
@@ -373,6 +412,9 @@ Machine Learning Models </name>
 <link><targetid>140</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<link><targetid>121</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 <node><name>#5 Code Demo &amp; Practice</name>
 <id>140</id>
@@ -386,9 +428,6 @@ Machine Learning Models </name>
 <timeunit>min</timeunit>
 <link><targetid>4081</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
-</link>
-<link><targetid>121</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 <link><targetid>150</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -407,10 +446,26 @@ Machine Learning Models </name>
 <id>4081</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>SA</column>
+<column>CUS2</column>
 <textHTML>&lt;p&gt;Train your base-line model by random forest and perceptron&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>38</textheight>
+<link><targetid>6291</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6291</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.77499771118164</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6294</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>21</weekid>
@@ -454,6 +509,9 @@ Regression &amp; Regularization</name>
 <link><targetid>141</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<link><targetid>124</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 <node><name>#6 Code Demo &amp; Practice</name>
 <id>141</id>
@@ -462,12 +520,10 @@ Regression &amp; Regularization</name>
 <column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Train lightGBM&lt;/li&gt;&lt;li&gt;Hyper-parameters tuning in lightGBM&lt;/li&gt;&lt;li&gt;Learning rate, early-stopping tuning&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>76</textheight>
+<textheight>77.20000457763672</textheight>
 <timevalue>80</timevalue>
 <timeunit>min</timeunit>
-<link><targetid>124</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
+<isdropped>true</isdropped>
 <link><targetid>153</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -479,7 +535,24 @@ Regression &amp; Regularization</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Project coding practice/ activity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;train models using lightGBM and hyperparameter tuning, early stopping&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77</textheight>
+<textheight>77.5999984741211</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6294</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6294</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.77499771118164</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6297</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>115</weekid>
@@ -535,12 +608,38 @@ Regression &amp; Regularization</name>
 <column>CUS2</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Apply target encoding on project data&lt;/li&gt;&lt;li&gt;Fine tune pipeline model&lt;/li&gt;&lt;li&gt;Use feature selection and rank to improve model performance&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>90</textheight>
+<textheight>91.5999984741211</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6297</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6297</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.77499771118164</textheight>
+<isdropped>true</isdropped>
+<link><targetid>6300</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>119</weekid>
 <weekname>Week 8: time series analysis
 </weekname>
+<node><name>undefined</name>
+<id>6282</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.399999618530273</textheight>
+</node>
 <node><name>#8 Session: Time series analysis</name>
 <id>127</id>
 <lefticon>undefined</lefticon>
@@ -554,6 +653,9 @@ Regression &amp; Regularization</name>
 <link><targetid>143</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<link><targetid>133</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 <node><name>#8 Code Demo &amp; Practice</name>
 <id>143</id>
@@ -565,9 +667,6 @@ Regression &amp; Regularization</name>
 <textheight>90</textheight>
 <timevalue>60</timevalue>
 <timeunit>min</timeunit>
-<link><targetid>133</targetid>
-<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
 <link><targetid>159</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -580,6 +679,22 @@ Regression &amp; Regularization</name>
 <textHTML>&lt;ul&gt;&lt;li&gt;continue fine tune models&lt;/li&gt;&lt;li&gt;practice rolling mean&lt;/li&gt;&lt;li&gt;practice cumsum &lt;/li&gt;&lt;li&gt;practice lagged features for time series demo data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>104</textheight>
+<link><targetid>6300</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Advance Project</name>
+<id>6300</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.77499771118164</textheight>
+<isdropped>true</isdropped>
+<link><targetid>147</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
 </node>
 </week>
 <week><weekid>117</weekid>
@@ -592,38 +707,15 @@ Regression &amp; Regularization</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on K-means clustering &amp;amp; Dimensionality Reduction, including the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensionality reduction introduction&lt;/li&gt;&lt;li&gt;PCA analysis introduction&lt;/li&gt;&lt;li&gt;Clustering: K-means&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>120.37499237060547</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>145</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-</node>
-<node><name>#9 Code Demo &amp; Practice</name>
-<id>145</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS3</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Demo for clustering&lt;/li&gt;&lt;li&gt;Demo for PCA using images&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>62</textheight>
-<timevalue>90</timevalue>
-<timeunit>min</timeunit>
-<link><targetid>147</targetid>
+<link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<link><targetid>164</targetid>
-<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
-</link>
-</node>
-<node><name>#9 Theory/Coding? Assignment</name>
-<id>164</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS2</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;replay k-means clustering and PCA from demo code&lt;/li&gt;&lt;li&gt;work on project code and push them into production level code base&lt;/li&gt;&lt;li&gt;review ML coding skills and be ready for final test&lt;/li&gt;&lt;/ul&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
 </node>
 <node><name>#9 Korbit: Module 9 
 K-means, dimensionality reduction</name>
@@ -636,31 +728,59 @@ K-means, dimensionality reduction</name>
 <textheight>62.80000305175781</textheight>
 <isdropped>true</isdropped>
 </node>
-</week>
-<week><weekid>116</weekid>
-<weekname>Week 10 - Final test</weekname>
+<node><name>#9 Code Demo &amp; Practice</name>
+<id>145</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Demo for clustering&lt;/li&gt;&lt;li&gt;Demo for PCA using images&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<timevalue>90</timevalue>
+<timeunit>min</timeunit>
+<link><targetid>164</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>#9 Theory/Coding? Assignment</name>
+<id>164</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;replay k-means clustering and PCA from demo code&lt;/li&gt;&lt;li&gt;work on project code and push them into production level code base&lt;/li&gt;&lt;li&gt;review ML coding skills and be ready for final test&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132</textheight>
+<link><targetid>147</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
 <node><name>#10 Preparation: Finalize Project Components</name>
 <id>147</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>HW</column>
-<textHTML>&lt;p&gt;The final project should contain &lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses &lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<column>SA</column>
+<textHTML>&lt;p&gt;The final project is worth 60%&lt;/p&gt;&lt;p&gt;The final project should contain&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses&lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: Submit the night before class&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>146</textheight>
+<textheight>182.96249389648438</textheight>
+<isdropped>true</isdropped>
 <link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
+</week>
+<week><weekid>116</weekid>
+<weekname>Week 10 - Final test</weekname>
 <node><name>#10 Session: Comprehensive in-class final test</name>
 <id>136</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>AC</column>
-<textHTML>&lt;p&gt;Use selected small data set for final in-class evaluation/test and competition&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;The final test is worth 10%&lt;/p&gt;&lt;p&gt;Use selected small data set for final in-class evaluation/test and competition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>58.20000457763672</textheight>
 <timevalue>150</timevalue>
 <timeunit>min</timeunit>
+<isdropped>true</isdropped>
 <link><targetid>4339</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -677,55 +797,74 @@ K-means, dimensionality reduction</name>
 <timeunit>min</timeunit>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;Is this pre-requisite material helpful or recommended? Of the topics here and in Korbit, which should students review?&lt;/p&gt;&lt;p&gt;Helpful suggestion: use bold/italics to identify what would be duplicate info to review&lt;/p&gt;</textHTML>
-<x>15</x>
-<y>8</y>
-<commentparent>3950</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;There will likely be a need for space for this in Class 1.&lt;br&gt;Suggestion: Include the video + Incentivize&lt;/p&gt;</textHTML>
+<comment><textHTML>&lt;p&gt;There will likely be a need for space for this in Class 1.&lt;br&gt;Suggestion: Include the video + Incentivize&lt;/p&gt;&lt;p&gt;Consider how you want to incentivize students. &lt;br&gt;Ex: Giving a small percentage of the grade for completing all related modules OR for completing all practice questions, OR submitting screenshots of quizzes OR another way..&lt;/p&gt;</textHTML>
 <x>18</x>
 <y>12</y>
 <commentparent>3952</commentparent>
 </comment>
-<comment><textHTML>&lt;p&gt;Include links to readings?&lt;/p&gt;</textHTML>
+<comment><textHTML>&lt;p&gt;Include links to readings?&lt;/p&gt;&lt;p&gt;Replace topics with links to readings; &lt;br&gt;And give students an idea of how much time they will need to take to prepare in one week vs another week.&lt;/p&gt;</textHTML>
 <x>23</x>
 <y>7</y>
 <commentparent>3953</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Is there a grade here for the coding assignment and theoretical assignment separately?&lt;/p&gt;&lt;p&gt;Suggestion: add percentage (e.g. 2%) to indicate the portion of the total grade.&lt;/p&gt;</textHTML>
-<x>11</x>
-<y>10</y>
-<commentparent>3956</commentparent>
 </comment>
 <comment><textHTML>&lt;p&gt;When do students select groups and project data sets?&lt;/p&gt;</textHTML>
 <x>32</x>
 <y>16</y>
 <commentparent>5698</commentparent>
 </comment>
-<comment><textHTML>&lt;p&gt;Is this assignment a homework assignment or project iteration? Does completing this mean they've completed a portion of their project?&lt;/p&gt;&lt;p&gt;When do they receive feedback on these project assignments?&lt;/p&gt;</textHTML>
-<x>17</x>
-<y>5</y>
-<commentparent>3957</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;***double check content: the same as "6: Code Demo &amp; Practice"&lt;/p&gt;</textHTML>
-<x>14</x>
-<y>10</y>
-<commentparent>153</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Consider arrows/links? Ex: For the theory and project assignments, are they related in such a way that one contributes to the work of the other?&lt;/p&gt;</textHTML>
-<x>18</x>
-<y>8</y>
-<commentparent>150</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Check if sub-modules are available.&lt;/p&gt;</textHTML>
+<comment><textHTML>&lt;p&gt;Check if sub-modules are available.&lt;/p&gt;&lt;p&gt;Then we'll have to decide whether this should come before or after the class&lt;/p&gt;</textHTML>
 <x>16</x>
 <y>9</y>
 <commentparent>4342</commentparent>
 </comment>
-<comment><textHTML>&lt;p&gt;More information about the project assignments are needed in the following weeks.&lt;/p&gt;</textHTML>
+<comment><textHTML>&lt;p&gt;More information about the project assignments are needed in the following weeks.&lt;/p&gt;&lt;p&gt;It may be helpful to make sure it's clear here that the coding assignment is separate from the project.&lt;/p&gt;</textHTML>
 <x>12</x>
 <y>4</y>
 <commentparent>4081</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Add Note to students, to review throughout the semester&lt;/p&gt;</textHTML>
+<x>44.800010681152344</x>
+<y>13.600067138671875</y>
+<commentparent>279</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Question for all weeks... &lt;br&gt;Are there readings that can be replaced by Korbit modules? &lt;br&gt;And/or are any readings directly related to a sub-module, that students should aim to do at the same time? (You could use bold or italics to identify them.)&lt;/p&gt;</textHTML>
+<x>7.899993896484375</x>
+<y>1.600067138671875</y>
+<commentparent>3950</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Include a reminder to students that the work done on this assignment can be used in the next part of their project.&lt;/p&gt;</textHTML>
+<x>16.70001220703125</x>
+<y>9.599990844726562</y>
+<commentparent>3957</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Add a duration or due date for assignment to show that it will take longer than one week. Examples are in bold but you can indicate this however you'd like to!&lt;/p&gt;</textHTML>
+<x>10.29998779296875</x>
+<y>11.600128173828125</y>
+<commentparent>3956</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Also consider adding information about how much of their grade this is worth . You can use the notes at the end or parenthesis in the title or body.&lt;/p&gt;</textHTML>
+<x>58.29998779296875</x>
+<y>10.00006103515625</y>
+<commentparent>3956</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Any readings here or the next week?&lt;/p&gt;</textHTML>
+<x>7.899993896484375</x>
+<y>27.599891662597656</y>
+<commentparent>6282</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Indicate in the rest of the offline assignments whether they are coding assignments to help with their project or they are theoretical assignments.&lt;/p&gt;</textHTML>
+<x>23.89996337890625</x>
+<y>19.599998474121094</y>
+<commentparent>153</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Looking at it again , this might belong in the week before to indicate that it should be completed before the next session. But feel free to move it back to week 10 if it makes more sense there.&lt;/p&gt;</textHTML>
+<x>21.89990234375</x>
+<y>11.936992645263672</y>
+<commentparent>147</commentparent>
+</comment>
+<comment><textHTML>&lt;p&gt;Yes, I did add the Project again. I was thinking "it could be misleading if there's no project tasks represented here". Take a look at what I added below.. What do you think about those short and simple indications that they still need to work on their project outside of their homework assignments?&lt;/p&gt;</textHTML>
+<x>1209.9000244140625</x>
+<y>370</y>
 </comment>
 <wflegendx>940</wflegendx>
 <wflegendy>400</wflegendy>
