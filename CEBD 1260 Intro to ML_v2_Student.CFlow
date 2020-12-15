@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>6304</idnum>
+<idnum>6629</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>StVrsn_CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -41,6 +41,7 @@
 </column>
 <column><columnname>SA</columnname>
 <columntext>Project / Assessments</columntext>
+<columnnodetext>Project / Assessments</columnnodetext>
 </column>
 <week><weekid>278</weekid>
 <weekname>Week 1: general terms and development review for ML</weekname>
@@ -49,9 +50,10 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>HW</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;important concepts and terminologies in ML/AI&lt;/li&gt;&lt;li&gt;Data mining, machine learning and AI definition and their relationship/differences&lt;/li&gt;&lt;li&gt;often-used platform and toolbox in ML/AI&lt;/li&gt;&lt;li&gt;Role /work flow as data analyst/scientist/engineer&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;important concepts and terminologies in ML/AI&lt;/li&gt;&lt;li&gt;Data mining, machine learning and AI definition and their relationship/differences&lt;/li&gt;&lt;li&gt;often-used platform and toolbox in ML/AI&lt;/li&gt;&lt;li&gt;Role /work flow as data analyst/scientist/engineer&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;NOTE:&lt;/p&gt;&lt;p&gt; Korbit and complementary materials will be used together for students understanding&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>163.60000610351562</textheight>
+<textheight>231.1999969482422</textheight>
+<isdropped>true</isdropped>
 <link><targetid>3951</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -66,11 +68,9 @@
 <textheight>278.8000183105469</textheight>
 <timevalue>180</timevalue>
 <timeunit>min</timeunit>
+<isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
-</link>
-<link><targetid>5698</targetid>
-<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
 <node><name>#1 Session: Introduction to Korbit</name>
@@ -78,11 +78,12 @@
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>AC</column>
-<textHTML>undefined</textHTML>
+<textHTML>&lt;p&gt;Introduction to Korbit is important for student at #1 session. I will introduce how to use it cross all sessions constantly and will be used as one portion of their marks&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>10.000000953674316</textheight>
+<textheight>67.5999984741211</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
+<isdropped>true</isdropped>
 </node>
 <node><name>#1 Korbit: Module 1 
 Linear Algebra Basics</name>
@@ -98,6 +99,16 @@ Linear Algebra Basics</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
+<node><name>#1 theory assignment using Korbit</name>
+<id>6431</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;The following are the part we like to use from Korbit for session #1 theory assignment&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;This HM is due in 3 weeks&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Linear algebra&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;Vectors and matrices and scalars&lt;/li&gt;&lt;li&gt;Dot product&lt;/li&gt;&lt;li&gt;Norm and Euclidean distance&lt;/li&gt;&lt;li&gt;Matrix Multiplication&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2 Probability theory&lt;/p&gt;&lt;ul&gt;&lt;li&gt;introduction to probability&lt;/li&gt;&lt;li&gt;Expected value and sample mean&lt;/li&gt;&lt;li&gt;normal distribution&lt;/li&gt;&lt;li&gt;conditional probability&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>315.3999938964844</textheight>
+<isdropped>true</isdropped>
+</node>
 <node><name>#1 Korbit Module 2: Probability Basics	</name>
 <id>280</id>
 <lefticon>undefined</lefticon>
@@ -105,7 +116,7 @@ Linear Algebra Basics</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction to Probability&lt;/li&gt;&lt;li&gt;Discrete vs. Continuous Random Variables&lt;/li&gt;&lt;li&gt;Expected Value vs. Sample Mean&lt;/li&gt;&lt;li&gt;Variance and Standard Deviation&lt;/li&gt;&lt;li&gt;Binomial Distribution&lt;/li&gt;&lt;li&gt;Normal distribution&lt;/li&gt;&lt;li&gt;conditional probability&lt;/li&gt;&lt;li&gt;Joint and marginal probability&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;Review these sub-modules throughout the semester for a stronger foundation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>235.60000610351562</textheight>
+<textheight>235</textheight>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
@@ -133,7 +144,7 @@ Machine Learning Overview</name>
 <column>HW</column>
 <textHTML>&lt;p&gt;Complete readings:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Types of learning &lt;/strong&gt;(supervised &amp;amp; unsupervised)&lt;/li&gt;&lt;li&gt;overfitting and underfitting&lt;/li&gt;&lt;li&gt;Generalization and robustness in ML&lt;/li&gt;&lt;li&gt;Overfit and underfit concept&lt;/li&gt;&lt;li&gt;Identify data format(input features and target)&lt;/li&gt;&lt;li&gt;How to prepare data (split dataset)&lt;/li&gt;&lt;li&gt;Train, validation and test and how they work&lt;/li&gt;&lt;li&gt;Concept of loss function&lt;/li&gt;&lt;li&gt;Cross validation strategy&lt;/li&gt;&lt;li&gt;What are evaluation metrics used in ML&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>250.00001525878906</textheight>
+<textheight>250</textheight>
 <isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -173,14 +184,14 @@ Machine Learning Overview</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#2 Theoretical Assignment</name>
+<node><name>#2 Theoretical Assignment (not korbit)</name>
 <id>3956</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
-<textHTML>&lt;p&gt;Complete theoretical assignment&lt;strong&gt;, due at Session #5&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand supervised/unsupervised learning tasks and classification/regression&lt;/li&gt;&lt;li&gt;data splitting strategies&lt;/li&gt;&lt;li&gt;imbalanced dataset (extensive reading and review)&lt;/li&gt;&lt;li&gt;learning rule calculation for linear regression(bonus point)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: You can work on this assignment over the next two weeks.&lt;/strong&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Complete theoretical assignment&lt;strong&gt;, due at Session #5&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand supervised/unsupervised learning tasks and classification/regression&lt;/li&gt;&lt;li&gt;data splitting strategies&lt;/li&gt;&lt;li&gt;imbalanced dataset (extensive reading and review)&lt;/li&gt;&lt;li&gt;learning rule calculation for linear regression(bonus point)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: You can work on this assignment over the next two weeks.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>206.8000030517578</textheight>
+<textheight>265</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>#2 Coding Assignment</name>
@@ -190,7 +201,7 @@ Machine Learning Overview</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;For projects, students complete the following, &lt;strong&gt;which is due next week&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;practice data splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice cross validation splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice calculate loss using sklearn API&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.40000915527344</textheight>
+<textheight>134.8000030517578</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6283</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -225,6 +236,19 @@ Machine Learning Overview</name>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
+<node><name>#3 theory assignment using Korbit</name>
+<id>6496</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Due in one week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Exploratory data analysis&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;overview of data preprocessing&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;one-hot encoding&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>91.5999984741211</textheight>
+<isdropped>true</isdropped>
+<link><targetid>4079</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
 <node><name>#3 Session: Data Preprocessing 1 </name>
 <id>10</id>
 <lefticon>undefined</lefticon>
@@ -249,7 +273,7 @@ Machine Learning Overview</name>
 <column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data preprocessing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provided coding practice for preprocessing in pandas using student's project datasets as demo&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data I/O in pandas&lt;/li&gt;&lt;li&gt;Data type conversion&lt;/li&gt;&lt;li&gt;Find and fill missing data&lt;/li&gt;&lt;li&gt;Indexing subset from total data&lt;/li&gt;&lt;li&gt;Table aggregation, join and merge&lt;/li&gt;&lt;li&gt;Fast processing using lambda expression&lt;/li&gt;&lt;li&gt;Label &amp;amp; one-hot encoding categorical data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>226.20001220703125</textheight>
+<textheight>226</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>4079</targetid>
@@ -264,7 +288,7 @@ Data Preprocessing </name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules after session #3:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is a Dataset?&lt;/li&gt;&lt;li&gt;Exploratory Data Analysis&lt;/li&gt;&lt;li&gt;Overview of Data Preprocessing&lt;/li&gt;&lt;li&gt;One-Hot Encoding&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106.00000762939453</textheight>
+<textheight>106</textheight>
 <isdropped>true</isdropped>
 <link><targetid>23</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -278,7 +302,7 @@ Basic Processing</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;Asked students to practice all aspects of basic data preprocessing based on their own project datasets&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>53.20000457763672</textheight>
+<textheight>53.20000076293945</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6285</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -330,6 +354,16 @@ Data Preprocessing</name>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
 </node>
+<node><name>#4 theory assignment using Korbit</name>
+<id>6497</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Due in one week&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Feature importance&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;feature selection&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;feature engineering&lt;/strong&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>121.4000015258789</textheight>
+<isdropped>true</isdropped>
+</node>
 <node><name>#4 Code Demo &amp; Practice</name>
 <id>139</id>
 <lefticon>undefined</lefticon>
@@ -364,7 +398,7 @@ Feature Engineering</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38.77499771118164</textheight>
+<textheight>38.79999923706055</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6291</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -393,7 +427,7 @@ Machine Learning Models </name>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Tree based models&lt;/li&gt;&lt;li&gt;Entropy and information gain&lt;/li&gt;&lt;li&gt;Precision and recall, F1 score&lt;/li&gt;&lt;li&gt;ROC-AUC score&lt;/li&gt;&lt;li&gt;Random Forest &lt;/li&gt;&lt;li&gt;Gradient boosting tree classifier&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.40000915527344</textheight>
+<textheight>120.4000015258789</textheight>
 <isdropped>true</isdropped>
 <link><targetid>101</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -441,6 +475,7 @@ Machine Learning Models </name>
 <textHTML>&lt;p&gt;&lt;strong&gt;#5 theory assignment includes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;understand entropy and its property&lt;/li&gt;&lt;li&gt;derive learning rule for logistic regression based on binary log-loss&lt;/li&gt;&lt;li&gt;understanding F1 score&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>106</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>#5 Coding Assignment</name>
 <id>4081</id>
@@ -449,7 +484,8 @@ Machine Learning Models </name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;Train your base-line model by random forest and perceptron&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38</textheight>
+<textheight>38.79999923706055</textheight>
+<isdropped>true</isdropped>
 <link><targetid>6291</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
 </link>
@@ -461,7 +497,7 @@ Machine Learning Models </name>
 <column>SA</column>
 <textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38.77499771118164</textheight>
+<textheight>38.79999923706055</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6294</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -478,7 +514,7 @@ Regression &amp; Regularization</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Rreview Korbit sub-modules before class:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;Hyperparameters tuning&lt;/li&gt;&lt;li&gt;&lt;em&gt;Regularization (this one isn't a sub-module)&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106.00000762939453</textheight>
+<textheight>106</textheight>
 <isdropped>true</isdropped>
 <link><targetid>121</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -503,9 +539,10 @@ Regression &amp; Regularization</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Regression, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;Regularization (L1 and L2)&lt;/li&gt;&lt;li&gt;Ensemble: bagging and boosting&lt;/li&gt;&lt;li&gt;LightGBM and Xgboost introduction&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>118</textheight>
+<textheight>120.4000015258789</textheight>
 <timevalue>100</timevalue>
 <timeunit>min</timeunit>
+<isdropped>true</isdropped>
 <link><targetid>141</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
@@ -528,14 +565,14 @@ Regression &amp; Regularization</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#6 Theory/Coding? Assignment</name>
+<node><name>#6 theory assignment using Korbit</name>
 <id>153</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
-<textHTML>&lt;p&gt;&lt;strong&gt;Project coding practice/ activity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;train models using lightGBM and hyperparameter tuning, early stopping&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;sigmoid function&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;binary classification&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;linear regression&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;evaluation metrics&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hyperparameter tuning&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77.5999984741211</textheight>
+<textheight>106</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6294</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -548,7 +585,7 @@ Regression &amp; Regularization</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38.77499771118164</textheight>
+<textheight>38.79999923706055</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6297</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -601,7 +638,7 @@ Regression &amp; Regularization</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#7 Theory/Coding? Assignment</name>
+<node><name>#7 Coding Assignment</name>
 <id>156</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -621,7 +658,7 @@ Regression &amp; Regularization</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38.77499771118164</textheight>
+<textheight>38.79999923706055</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6300</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -638,7 +675,8 @@ Regression &amp; Regularization</name>
 <column>HW</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>24.399999618530273</textheight>
+<textheight>10</textheight>
+<isdropped>true</isdropped>
 </node>
 <node><name>#8 Session: Time series analysis</name>
 <id>127</id>
@@ -671,14 +709,15 @@ Regression &amp; Regularization</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#8 Theory/Coding? Assignment</name>
+<node><name>#8 Coding Assignment</name>
 <id>159</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;continue fine tune models&lt;/li&gt;&lt;li&gt;practice rolling mean&lt;/li&gt;&lt;li&gt;practice cumsum &lt;/li&gt;&lt;li&gt;practice lagged features for time series demo data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>104</textheight>
+<textheight>106</textheight>
+<isdropped>true</isdropped>
 <link><targetid>6300</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
 </link>
@@ -690,7 +729,7 @@ Regression &amp; Regularization</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;Use the coding assignment to make progress on your project/&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>38.77499771118164</textheight>
+<textheight>38.79999923706055</textheight>
 <isdropped>true</isdropped>
 <link><targetid>147</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -707,7 +746,7 @@ Regression &amp; Regularization</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on K-means clustering &amp;amp; Dimensionality Reduction, including the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensionality reduction introduction&lt;/li&gt;&lt;li&gt;PCA analysis introduction&lt;/li&gt;&lt;li&gt;Clustering: K-means&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>120.37499237060547</textheight>
+<textheight>120</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <link><targetid>145</targetid>
@@ -725,7 +764,7 @@ K-means, dimensionality reduction</name>
 <column>CUS1</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;clustering k-means&lt;/li&gt;&lt;li&gt;dimensionality reduction&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>62.80000305175781</textheight>
+<textheight>62.79999923706055</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>#9 Code Demo &amp; Practice</name>
@@ -742,14 +781,15 @@ K-means, dimensionality reduction</name>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
 </link>
 </node>
-<node><name>#9 Theory/Coding? Assignment</name>
+<node><name>#9 Coding Assignment</name>
 <id>164</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;replay k-means clustering and PCA from demo code&lt;/li&gt;&lt;li&gt;work on project code and push them into production level code base&lt;/li&gt;&lt;li&gt;review ML coding skills and be ready for final test&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>132</textheight>
+<textheight>134.8000030517578</textheight>
+<isdropped>true</isdropped>
 <link><targetid>147</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
 </link>
@@ -761,7 +801,7 @@ K-means, dimensionality reduction</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;The final project is worth 60%&lt;/p&gt;&lt;p&gt;The final project should contain&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses&lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: Submit the night before class&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>182.96249389648438</textheight>
+<textheight>202.40000915527344</textheight>
 <isdropped>true</isdropped>
 <link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -777,7 +817,7 @@ K-means, dimensionality reduction</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;The final test is worth 10%&lt;/p&gt;&lt;p&gt;Use selected small data set for final in-class evaluation/test and competition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>58.20000457763672</textheight>
+<textheight>58.20000076293945</textheight>
 <timevalue>150</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -797,73 +837,13 @@ K-means, dimensionality reduction</name>
 <timeunit>min</timeunit>
 </node>
 </week>
-<comment><textHTML>&lt;p&gt;There will likely be a need for space for this in Class 1.&lt;br&gt;Suggestion: Include the video + Incentivize&lt;/p&gt;&lt;p&gt;Consider how you want to incentivize students. &lt;br&gt;Ex: Giving a small percentage of the grade for completing all related modules OR for completing all practice questions, OR submitting screenshots of quizzes OR another way..&lt;/p&gt;</textHTML>
-<x>18</x>
-<y>12</y>
-<commentparent>3952</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Include links to readings?&lt;/p&gt;&lt;p&gt;Replace topics with links to readings; &lt;br&gt;And give students an idea of how much time they will need to take to prepare in one week vs another week.&lt;/p&gt;</textHTML>
+<comment><textHTML>&lt;p&gt;Include links to readings?&lt;/p&gt;&lt;p&gt;Replace topics with links to readings; &lt;br&gt;And give students an idea of how much time they will need to take to prepare in one week vs another week.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Yes, I will add the links to the readings during the course&lt;/p&gt;</textHTML>
 <x>23</x>
 <y>7</y>
 <commentparent>3953</commentparent>
 </comment>
-<comment><textHTML>&lt;p&gt;When do students select groups and project data sets?&lt;/p&gt;</textHTML>
-<x>32</x>
-<y>16</y>
-<commentparent>5698</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Check if sub-modules are available.&lt;/p&gt;&lt;p&gt;Then we'll have to decide whether this should come before or after the class&lt;/p&gt;</textHTML>
-<x>16</x>
-<y>9</y>
-<commentparent>4342</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;More information about the project assignments are needed in the following weeks.&lt;/p&gt;&lt;p&gt;It may be helpful to make sure it's clear here that the coding assignment is separate from the project.&lt;/p&gt;</textHTML>
-<x>12</x>
-<y>4</y>
-<commentparent>4081</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Add Note to students, to review throughout the semester&lt;/p&gt;</textHTML>
-<x>44.800010681152344</x>
-<y>13.600067138671875</y>
-<commentparent>279</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Question for all weeks... &lt;br&gt;Are there readings that can be replaced by Korbit modules? &lt;br&gt;And/or are any readings directly related to a sub-module, that students should aim to do at the same time? (You could use bold or italics to identify them.)&lt;/p&gt;</textHTML>
-<x>7.899993896484375</x>
-<y>1.600067138671875</y>
-<commentparent>3950</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Include a reminder to students that the work done on this assignment can be used in the next part of their project.&lt;/p&gt;</textHTML>
-<x>16.70001220703125</x>
-<y>9.599990844726562</y>
-<commentparent>3957</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Add a duration or due date for assignment to show that it will take longer than one week. Examples are in bold but you can indicate this however you'd like to!&lt;/p&gt;</textHTML>
-<x>10.29998779296875</x>
-<y>11.600128173828125</y>
-<commentparent>3956</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Also consider adding information about how much of their grade this is worth . You can use the notes at the end or parenthesis in the title or body.&lt;/p&gt;</textHTML>
-<x>58.29998779296875</x>
-<y>10.00006103515625</y>
-<commentparent>3956</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Any readings here or the next week?&lt;/p&gt;</textHTML>
-<x>7.899993896484375</x>
-<y>27.599891662597656</y>
-<commentparent>6282</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Indicate in the rest of the offline assignments whether they are coding assignments to help with their project or they are theoretical assignments.&lt;/p&gt;</textHTML>
-<x>23.89996337890625</x>
-<y>19.599998474121094</y>
-<commentparent>153</commentparent>
-</comment>
-<comment><textHTML>&lt;p&gt;Looking at it again , this might belong in the week before to indicate that it should be completed before the next session. But feel free to move it back to week 10 if it makes more sense there.&lt;/p&gt;</textHTML>
-<x>21.89990234375</x>
-<y>11.936992645263672</y>
-<commentparent>147</commentparent>
-</comment>
 <comment><textHTML>&lt;p&gt;Yes, I did add the Project again. I was thinking "it could be misleading if there's no project tasks represented here". Take a look at what I added below.. What do you think about those short and simple indications that they still need to work on their project outside of their homework assignments?&lt;/p&gt;</textHTML>
-<x>1209.9000244140625</x>
+<x>1209</x>
 <y>370</y>
 </comment>
 <wflegendx>940</wflegendx>
