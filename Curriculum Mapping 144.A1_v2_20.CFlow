@@ -1,0 +1,1168 @@
+<project><prname>Curriculum Mapping 144.A1</prname>
+<idnum>277</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>New Activity</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>51</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+</workflow>
+<workflow><wfname>144.A1</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>program</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>CUS1</columnname>
+<columnimage>science</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Foundational Courses</columntext>
+<columnnodetext>Foundational Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS5</columnname>
+<columnimage>gears</columnimage>
+<columncolour>#fa980f</columncolour>
+<columntext>Principles Courses</columntext>
+<columnnodetext>Principles Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>class</columnimage>
+<columncolour>#5721d4</columncolour>
+<columntext>Clinical Courses</columntext>
+<columnnodetext>Clinical Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS3</columnname>
+<columnimage>puzzle</columnimage>
+<columncolour>#f92b06</columncolour>
+<columntext>Case-based Courses</columntext>
+<columnnodetext>Case-based Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS4</columnname>
+<columnimage>instructor</columnimage>
+<columncolour>#d7f92f</columncolour>
+<columntext>General Education</columntext>
+<columnnodetext>General Education</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Anatomy I</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AG; 02AH&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UE anatomy + biomechanics&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>42</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>60</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Physics for Physio Technology</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AM; 02AH&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>45</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>60</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Biology I</name>
+<id>45</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>62</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Intro to Physio Tech</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AD: 02AF&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Intro to College English</name>
+<id>52</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Physical Education: Physical Activity and Health</name>
+<id>53</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>French: Block A</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Complementary</name>
+<id>57</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>68</weekid>
+<node><name>Anatomy II</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AG; 02AH&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>61</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Physiology</name>
+<id>61</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AJ&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>62</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Biology II</name>
+<id>62</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>English: Literary Genres</name>
+<id>64</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Physical Education: Physical Activity and Effectiveness</name>
+<id>65</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities: Knowledge</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complementary</name>
+<id>67</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Principles of Modality Application</name>
+<id>78</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AN; 02AM&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Principles of Data Collection &amp; Exercise Prescription</name>
+<id>79</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AP; 02AQ; 02PR&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>4</weekid>
+<node><name>Management of Orthopedic Conditions I</name>
+<id>80</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Upper quadrant&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62.31770706176758</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Orthopedic Conditions II</name>
+<id>82</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Functional Deficits</name>
+<id>86</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AP; 02AQ; 02AR; 02AT&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Clinical Education I</name>
+<id>84</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AD; 02AF; 02AN; 02AU; 02AW; 02AT&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>150</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Literary Themes</name>
+<id>85</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Humanities: World Views</name>
+<id>87</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>French: Block B</name>
+<id>88</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+</week>
+<week><weekid>100</weekid>
+<node><name>Management of Orthopedic Conditions III</name>
+<id>93</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Neurological Conditions</name>
+<id>94</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AM; 02AV&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Cardiorespiratory Conditions</name>
+<id>95</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AW&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Clinical Education 2</name>
+<id>96</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02AW; 02AT; 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>150</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Block B</name>
+<id>97</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities: Applied Themes in Humanities - Block B</name>
+<id>98</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Communication &amp; Interpersonal Interaction</name>
+<id>109</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AL&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>10</weekid>
+<node><name>Physical Education: Physical Activity and Autonomy</name>
+<id>110</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Integration of Orthopedic Profiles</name>
+<id>111</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Integration of Geriatric Profiles</name>
+<id>113</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AW; 02AT, 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Therapeutic Relations</name>
+<id>115</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AS&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Internship I</name>
+<id>116</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02T; 02AX; 02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>200</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>123</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>7</weekid>
+<node><name>Health Promotion</name>
+<id>123</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>118</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Internship II</name>
+<id>118</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02T; 02AX; 02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>250</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Integration of Case Management</name>
+<id>121</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02AW; 02AT; 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24.16666603088379</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>118</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>Formation spécifique</tagname>
+<tagid>141</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Analyser la fonction de travail. [Code: 02AD]</tagname>
+<tagid>142</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser l’organisation du réseau de la santé public et privé au Québec.</tagname>
+<tagid>143</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Examiner les caractéristiques significatives de la profession.</tagname>
+<tagid>144</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Examiner les lois et la réglementation encadrant la pratique de la physiothérapie.</tagname>
+<tagid>145</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Examiner les tâches et les opérations liées à la fonction de travail, leurs conditions de réalisation et leurs exigences.</tagname>
+<tagid>146</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Examiner les habiletés et les comportements nécessaires à l’exercice de la profession.</tagname>
+<tagid>147</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Apprécier l’adéquation entre la profession et son projet de vie professionnelle.</tagname>
+<tagid>148</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Se référer au fonctionnement normal de l’organisme humain. [Code: 02AE]</tagname>
+<tagid>149</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Développer une vision intégrée du corps humain.</tagname>
+<tagid>150</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser le fonctionnement normal des systèmes.</tagname>
+<tagid>152</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Établir des liens entre l’anatomie normale et des variantes anatomiques.</tagname>
+<tagid>153</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Transmettre l’information sur le fonctionnement normal de l’organisme humain.</tagname>
+<tagid>154</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Prévenir les risques liés à la santé, la sécurité, l’hygiène et la salubrité. [Code: 02AF]</tagname>
+<tagid>151</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître les risques et les dangers liés à la pratique professionnelle en physiothérapie.</tagname>
+<tagid>155</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Appliquer des mesures de prévention et de contrôle de la contagion, de la transmission des infections et de la contamination.</tagname>
+<tagid>156</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Manipuler du matériel, de l’équipement, des appareils électriques et des produits.</tagname>
+<tagid>157</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Appliquer des principes et des méthodes ergonomiques de travail.</tagname>
+<tagid>158</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. S’adapter à des difficultés inhérentes au contexte de la pratique professionnelle.</tagname>
+<tagid>159</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Prodiguer des soins d’urgence.</tagname>
+<tagid>160</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Repérer les structures anatomiques du corps humain. [Code: 02AG ]</tagname>
+<tagid>161</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Délimiter des structures osseuses, articulaires et musculaires.</tagname>
+<tagid>162</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Localiser des nerfs, des vaisseaux périphériques et des ganglions.</tagname>
+<tagid>163</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Transmettre l’information sur les structures anatomiques.</tagname>
+<tagid>164</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Analyser les postures et les mouvements du corps humain. [Code: 02AH]</tagname>
+<tagid>165</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Étudier les forces et les contraintes mécaniques exercées sur les structures anatomiques en position statique et dynamique.</tagname>
+<tagid>166</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Étudier la contribution des structures articulaires et musculaires en position statique et dynamique.</tagname>
+<tagid>167</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Examiner la position respective des structures articulaires et musculaires en position statique et dynamique.</tagname>
+<tagid>168</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Transmettre l’information sur les postures et les mouvements du corps humain.</tagname>
+<tagid>169</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Associer des mécanismes physiologiques à des besoins de physiothérapie. [Code: 02AJ]</tagname>
+<tagid>170</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Analyser l’incidence de mécanismes de contrôle de l’activité musculaire dans les applications de physiothérapie.</tagname>
+<tagid>171</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser l’effet de l’activité musculaire sur le corps humain.</tagname>
+<tagid>172</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Mettre en relation les modifications physiologiques liées au vieillissement et les besoins de physiothérapie.</tagname>
+<tagid>173</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Prendre en considération les mécanismes physiologiques de la douleur dans un contexte de physiothérapie.</tagname>
+<tagid>174</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Prendre en considération les mécanismes physiologiques de la grossesse dans un contexte de physiothérapie.</tagname>
+<tagid>175</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Corréler l’information médicale à la physiothérapie. [Code: 02AK]</tagname>
+<tagid>176</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Associer le diagnostic médical au tableau clinique des pathologies.</tagname>
+<tagid>177</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Établir des liens entre l’utilisation des principaux examens médicaux et le diagnostic.</tagname>
+<tagid>178</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Associer des interventions médicales aux pathologies.</tagname>
+<tagid>179</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Mettre en relation l’incidence de la prise de médicament sur l’intervention en physiothérapie.</tagname>
+<tagid>180</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Associer des interventions de rééducation à des pathologies.</tagname>
+<tagid>181</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Repérer l’information pertinente à la physiothérapie dans le dossier de la personne.</tagname>
+<tagid>182</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Interagir en contexte professionnel. [Code: 02AL]</tagname>
+<tagid>183</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. Analyser des données probantes.</tagname>
+<tagid>184</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Communiquer avec les personnes et leurs proches.</tagname>
+<tagid>185</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Collaborer au sein d’une équipe de travail.</tagname>
+<tagid>186</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. S’adapter à des situations difficiles.</tagname>
+<tagid>187</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Prodiguer des soins par électrothérapie. [Code: 02AM]</tagname>
+<tagid>188</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>189</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Expliquer les principes d’utilisation des appareils d’électrothérapie.</tagname>
+<tagid>190</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Utiliser différents types de courants électriques.</tagname>
+<tagid>191</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Utiliser des ondes électromécaniques et des ondes électromagnétiques.</tagname>
+<tagid>192</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Utiliser la radiation.</tagname>
+<tagid>193</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Utiliser la stimulation électrique et la rétroaction biologique.</tagname>
+<tagid>194</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de problèmes de douleur et de circulation. [Code: 02AN]</tagname>
+<tagid>195</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>196</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>197</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer des interventions à des fins antalgiques, trophiques ou compressives.</tagname>
+<tagid>198</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Appliquer différentes techniques de massage.</tagname>
+<tagid>199</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Utiliser des techniques de relaxation.</tagname>
+<tagid>200</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Concevoir des programmes d’exercices pour diminuer la douleur et favoriser la circulation.</tagname>
+<tagid>201</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Enseigner les exercices du programme conçu pour diminuer la douleur et favoriser la circulation.</tagname>
+<tagid>202</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>203</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de perte de mobilité. [Code: 02AP]</tagname>
+<tagid>204</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>205</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>206</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Utiliser des exercices et des techniques de mobilisation.</tagname>
+<tagid>207</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Utiliser des exercices et des techniques de facilitation et d’étirement.</tagname>
+<tagid>208</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Concevoir des programmes d’exercices pour améliorer la mobilité.</tagname>
+<tagid>209</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Enseigner les exercices du programme conçu pour améliorer la mobilité.</tagname>
+<tagid>210</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Consigner les informations au dossier.</tagname>
+<tagid>211</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de problèmes liés à la fonction musculaire. [Code: 02AQ]</tagname>
+<tagid>212</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>213</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>214</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Appliquer des techniques de recrutement et de renforcement musculaire.</tagname>
+<tagid>215</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Concevoir des programmes d’exercices de renforcement musculaire.</tagname>
+<tagid>216</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Enseigner les exercices du programme conçu pour le renforcement musculaire.</tagname>
+<tagid>217</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Consigner les informations au dossier.</tagname>
+<tagid>218</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de pertes fonctionnelles. [Code: 02AR]</tagname>
+<tagid>219</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>220</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>221</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer une correction posturale.</tagname>
+<tagid>222</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Effectuer des interventions pour améliorer ou maintenir les transferts et les déplacements.</tagname>
+<tagid>223</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Effectuer des interventions pour améliorer ou maintenir l’équilibre, la proprioception et la coordination.</tagname>
+<tagid>224</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Effectuer des interventions pour améliorer la marche ou assurer son maintien.</tagname>
+<tagid>225</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Concevoir des programmes d’exercices pour améliorer la fonction locomotrice.</tagname>
+<tagid>226</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Enseigner les exercices du programme conçu pour améliorer la fonction locomotrice.</tagname>
+<tagid>227</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. Consigner les informations au dossier.</tagname>
+<tagid>228</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Adapter l’approche thérapeutique à des situations de déficience et d’incapacité et à différents milieux. [Code: 02AS]</tagname>
+<tagid>229</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Détecter des signes d’adaptation ou de mésadaptation.</tagname>
+<tagid>230</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Ajuster l’approche clinique à la nature et à la gravité d’une situation de déficience ou d’incapacité physique.</tagname>
+<tagid>231</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Ajuster l’approche clinique dans le cas de problèmes psychosociaux, cognitifs et psychiatriques.</tagname>
+<tagid>232</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Adapter son approche selon le milieu thérapeutique ou le milieu de vie.</tagname>
+<tagid>233</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Adapter son approche thérapeutique à une clientèle gériatrique. [Code: 02AT]</tagname>
+<tagid>234</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser les ressources existantes au Québec pour la clientèle gériatrique.</tagname>
+<tagid>235</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser le portrait bio-psycho-social de la personne.</tagname>
+<tagid>236</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer des interventions auprès d’une clientèle gériatrique.</tagname>
+<tagid>237</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes orthopédiques et rhumatologiques. [Code: 02AU]</tagname>
+<tagid>238</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>239</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>240</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>241</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>242</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>243</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>244</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>245</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>246</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes neurologiques. [Code: 02AV]</tagname>
+<tagid>247</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>248</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>249</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>250</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>251</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>252</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>253</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>254</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>255</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes cardiovasculaires, respiratoires et lymphatiques. [Code: 02AW]</tagname>
+<tagid>256</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>257</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>258</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>259</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>260</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>261</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>262</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>263</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>264</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes atteintes d’une perte d’autonomie fonctionnelle. [Code: 02AX]</tagname>
+<tagid>265</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>266</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>267</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>268</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>269</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>270</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>271</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements</tagname>
+<tagid>272</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>273</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Réaliser des activités de formation, d’information, de prévention et de promotion de la santé. [Code: 02AY]</tagname>
+<tagid>274</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Planifier des activités.</tagname>
+<tagid>275</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Élaborer des activités.</tagname>
+<tagid>276</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Animer des classes d’exercices et des séances de formation et d’information.</tagname>
+<tagid>277</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</tag>
+</project>

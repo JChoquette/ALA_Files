@@ -1,0 +1,1772 @@
+<project><prname>Curriculum Mapping 144.A1</prname>
+<idnum>561</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>New Activity</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>51</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+</workflow>
+<workflow><wfname>144.A1</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>program</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>CUS1</columnname>
+<columnimage>science</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Foundational Courses</columntext>
+<columnnodetext>Foundational Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS5</columnname>
+<columnimage>gears</columnimage>
+<columncolour>#fa980f</columncolour>
+<columntext>Principles Courses</columntext>
+<columnnodetext>Principles Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>class</columnimage>
+<columncolour>#5721d4</columncolour>
+<columntext>Clinical Courses</columntext>
+<columnnodetext>Clinical Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS3</columnname>
+<columnimage>puzzle</columnimage>
+<columncolour>#f92b06</columncolour>
+<columntext>Case-based Courses</columntext>
+<columnnodetext>Case-based Courses</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS4</columnname>
+<columnimage>instructor</columnimage>
+<columncolour>#d7f92f</columncolour>
+<columntext>General Education</columntext>
+<columnnodetext>General Education</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Anatomy I</name>
+<id>40</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AG; 02AH&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UE anatomy + biomechanics&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>24</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>42</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>60</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Physics for Physio Technology</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AM; 02AH&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>45</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>60</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Biology I</name>
+<id>45</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>62</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Intro to Physio Tech</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AD: 02AF&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Intro to College English</name>
+<id>52</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Physical Education: Physical Activity and Health</name>
+<id>53</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>French: Block A</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Complementary</name>
+<id>57</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>68</weekid>
+<node><name>Anatomy II</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AG; 02AH&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>61</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Physiology</name>
+<id>61</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AJ&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>62</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Biology II</name>
+<id>62</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>78</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>79</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>English: Literary Genres</name>
+<id>64</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Physical Education: Physical Activity and Effectiveness</name>
+<id>65</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities: Knowledge</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complementary</name>
+<id>67</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Principles of Modality Application</name>
+<id>78</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AN; 02AM&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Principles of Data Collection &amp; Exercise Prescription</name>
+<id>79</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AP; 02AQ; 02PR&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>4</weekid>
+<node><name>Management of Orthopedic Conditions I</name>
+<id>80</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Upper quadrant&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>72</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Orthopedic Conditions II</name>
+<id>82</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Functional Deficits</name>
+<id>86</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AP; 02AQ; 02AR; 02AT&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Clinical Education I</name>
+<id>84</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AD; 02AF; 02AN; 02AU; 02AW; 02AT&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>150</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Literary Themes</name>
+<id>85</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Humanities: World Views</name>
+<id>87</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>French: Block B</name>
+<id>88</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+</week>
+<week><weekid>100</weekid>
+<node><name>Management of Orthopedic Conditions III</name>
+<id>93</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AH; 02AK; 02AP; 02AQ; 02AM; 02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Neurological Conditions</name>
+<id>94</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AM; 02AV&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Management of Cardiorespiratory Conditions</name>
+<id>95</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AK; 02AW&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Clinical Education 2</name>
+<id>96</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02AW; 02AT; 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>150</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>English: Block B</name>
+<id>97</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>10</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities: Applied Themes in Humanities - Block B</name>
+<id>98</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Communication &amp; Interpersonal Interaction</name>
+<id>109</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;02AL&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>96</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>10</weekid>
+<node><name>Physical Education: Physical Activity and Autonomy</name>
+<id>110</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Integration of Orthopedic Profiles</name>
+<id>111</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AU&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Integration of Geriatric Profiles</name>
+<id>113</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AW; 02AT, 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+<node><name>Therapeutic Relations</name>
+<id>115</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS5</column>
+<textHTML>&lt;p&gt;02AS&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>116</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Internship I</name>
+<id>116</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02T; 02AX; 02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>200</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>123</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>7</weekid>
+<node><name>Health Promotion</name>
+<id>123</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>118</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Internship II</name>
+<id>118</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02T; 02AX; 02AY&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>250</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Integration of Case Management</name>
+<id>121</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;02AU; 02AV; 02AW; 02AT; 02AX&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>118</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>Analyser la fonction de travail. [Code: 02AD]</tagname>
+<tagid>126</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser l’organisation du réseau de la santé public et privé au Québec.</tagname>
+<tagid>127</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Examiner les caractéristiques significatives de la profession.</tagname>
+<tagid>128</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Examiner les lois et la réglementation encadrant la pratique de la physiothérapie.</tagname>
+<tagid>129</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Examiner les tâches et les opérations liées à la fonction de travail, leurs conditions de réalisation et leurs exigences.</tagname>
+<tagid>130</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Examiner les habiletés et les comportements nécessaires à l’exercice de la profession.</tagname>
+<tagid>131</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Apprécier l’adéquation entre la profession et son projet de vie professionnelle.</tagname>
+<tagid>132</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Se référer au fonctionnement normal de l’organisme humain. [Code: 02AE]</tagname>
+<tagid>133</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Développer une vision intégrée du corps humain.</tagname>
+<tagid>136</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser le fonctionnement normal des systèmes.</tagname>
+<tagid>139</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Établir des liens entre l’anatomie normale et des variantes anatomiques.</tagname>
+<tagid>140</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Transmettre l’information sur le fonctionnement normal de l’organisme humain.</tagname>
+<tagid>141</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Prévenir les risques liés à la santé, la sécurité, l’hygiène et la salubrité. [Code: 02AF]</tagname>
+<tagid>134</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître les risques et les dangers liés à la pratique professionnelle en physiothérapie.</tagname>
+<tagid>142</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Appliquer des mesures de prévention et de contrôle de la contagion, de la transmission des infections et de la contamination.</tagname>
+<tagid>143</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Manipuler du matériel, de l’équipement, des appareils électriques et des produits.</tagname>
+<tagid>144</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Appliquer des principes et des méthodes ergonomiques de travail.</tagname>
+<tagid>145</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. S’adapter à des difficultés inhérentes au contexte de la pratique professionnelle.</tagname>
+<tagid>146</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Prodiguer des soins d’urgence.</tagname>
+<tagid>147</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Repérer les structures anatomiques du corps humain. [Code: 02AG ]</tagname>
+<tagid>135</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Délimiter des structures osseuses, articulaires et musculaires.</tagname>
+<tagid>148</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Localiser des nerfs, des vaisseaux périphériques et des ganglions.</tagname>
+<tagid>149</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Transmettre l’information sur les structures anatomiques.</tagname>
+<tagid>150</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Analyser les postures et les mouvements du corps humain. [Code: 02AH]</tagname>
+<tagid>151</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Étudier les forces et les contraintes mécaniques exercées sur les structures anatomiques en position statique et dynamique.</tagname>
+<tagid>152</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Étudier la contribution des structures articulaires et musculaires en position statique et dynamique.</tagname>
+<tagid>153</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Examiner la position respective des structures articulaires et musculaires en position statique et dynamique.</tagname>
+<tagid>154</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Transmettre l’information sur les postures et les mouvements du corps humain.</tagname>
+<tagid>155</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Associer des mécanismes physiologiques à des besoins de physiothérapie. [Code: 02AJ]</tagname>
+<tagid>156</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Analyser l’incidence de mécanismes de contrôle de l’activité musculaire dans les applications de physiothérapie.</tagname>
+<tagid>157</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser l’effet de l’activité musculaire sur le corps humain.</tagname>
+<tagid>158</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Mettre en relation les modifications physiologiques liées au vieillissement et les besoins de physiothérapie.</tagname>
+<tagid>159</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Prendre en considération les mécanismes physiologiques de la douleur dans un contexte de physiothérapie.</tagname>
+<tagid>160</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Prendre en considération les mécanismes physiologiques de la grossesse dans un contexte de physiothérapie.</tagname>
+<tagid>161</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Corréler l’information médicale à la physiothérapie. [Code: 02AK]</tagname>
+<tagid>162</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Associer le diagnostic médical au tableau clinique des pathologies.</tagname>
+<tagid>163</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Établir des liens entre l’utilisation des principaux examens médicaux et le diagnostic.</tagname>
+<tagid>164</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Associer des interventions médicales aux pathologies.</tagname>
+<tagid>165</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Mettre en relation l’incidence de la prise de médicament sur l’intervention en physiothérapie.</tagname>
+<tagid>166</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Associer des interventions de rééducation à des pathologies.</tagname>
+<tagid>167</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Repérer l’information pertinente à la physiothérapie dans le dossier de la personne.</tagname>
+<tagid>168</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Interagir en contexte professionnel. [Code: 02AL]</tagname>
+<tagid>212</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Analyser des données probantes.</tagname>
+<tagid>213</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Communiquer avec les personnes et leurs proches.</tagname>
+<tagid>214</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Collaborer au sein d’une équipe de travail.</tagname>
+<tagid>215</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. S’adapter à des situations difficiles.</tagname>
+<tagid>216</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Prodiguer des soins par électrothérapie. [Code: 02AM]</tagname>
+<tagid>217</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>218</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Expliquer les principes d’utilisation des appareils d’électrothérapie.</tagname>
+<tagid>219</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Utiliser différents types de courants électriques.</tagname>
+<tagid>220</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Utiliser des ondes électromécaniques et des ondes électromagnétiques.</tagname>
+<tagid>221</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Utiliser la radiation.</tagname>
+<tagid>222</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Utiliser la stimulation électrique et la rétroaction biologique.</tagname>
+<tagid>223</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Consigner les informations au dossier.</tagname>
+<tagid>224</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de problèmes de douleur et de circulation. [Code: 02AN]</tagname>
+<tagid>226</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>227</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>228</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer des interventions à des fins antalgiques, trophiques ou compressives.</tagname>
+<tagid>229</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Appliquer différentes techniques de massage.</tagname>
+<tagid>230</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Utiliser des techniques de relaxation.</tagname>
+<tagid>231</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Concevoir des programmes d’exercices pour diminuer la douleur et favoriser la circulation.</tagname>
+<tagid>232</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Enseigner les exercices du programme conçu pour diminuer la douleur et favoriser la circulation.</tagname>
+<tagid>233</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>234</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de perte de mobilité. [Code: 02AP]</tagname>
+<tagid>235</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>236</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>237</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Utiliser des exercices et des techniques de mobilisation.</tagname>
+<tagid>238</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Utiliser des exercices et des techniques de facilitation et d’étirement.</tagname>
+<tagid>239</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Concevoir des programmes d’exercices pour améliorer la mobilité.</tagname>
+<tagid>240</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Enseigner les exercices du programme conçu pour améliorer la mobilité.</tagname>
+<tagid>241</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Consigner les informations au dossier.</tagname>
+<tagid>242</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de problèmes liés à la fonction musculaire. [Code: 02AQ]</tagname>
+<tagid>243</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>244</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>245</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Appliquer des techniques de recrutement et de renforcement musculaire.</tagname>
+<tagid>246</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Concevoir des programmes d’exercices de renforcement musculaire.</tagname>
+<tagid>247</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Enseigner les exercices du programme conçu pour le renforcement musculaire.</tagname>
+<tagid>248</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Consigner les informations au dossier.</tagname>
+<tagid>249</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Intervenir en cas de pertes fonctionnelles. [Code: 02AR]</tagname>
+<tagid>250</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>251</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>252</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer une correction posturale.</tagname>
+<tagid>253</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Effectuer des interventions pour améliorer ou maintenir les transferts et les déplacements.</tagname>
+<tagid>254</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Effectuer des interventions pour améliorer ou maintenir l’équilibre, la proprioception et la coordination.</tagname>
+<tagid>255</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Effectuer des interventions pour améliorer la marche ou assurer son maintien.</tagname>
+<tagid>256</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Concevoir des programmes d’exercices pour améliorer la fonction locomotrice.</tagname>
+<tagid>257</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Enseigner les exercices du programme conçu pour améliorer la fonction locomotrice.</tagname>
+<tagid>258</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. Consigner les informations au dossier.</tagname>
+<tagid>259</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Adapter l’approche thérapeutique à des situations de déficience et d’incapacité et à différents milieux. [Code: 02AS]</tagname>
+<tagid>260</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Détecter des signes d’adaptation ou de mésadaptation.</tagname>
+<tagid>261</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Ajuster l’approche clinique à la nature et à la gravité d’une situation de déficience ou d’incapacité physique.</tagname>
+<tagid>262</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Ajuster l’approche clinique dans le cas de problèmes psychosociaux, cognitifs et psychiatriques.</tagname>
+<tagid>263</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Adapter son approche selon le milieu thérapeutique ou le milieu de vie.</tagname>
+<tagid>264</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Adapter son approche thérapeutique à une clientèle gériatrique. [Code: 02AT]</tagname>
+<tagid>265</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser les ressources existantes au Québec pour la clientèle gériatrique.</tagname>
+<tagid>266</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser le portrait bio-psycho-social de la personne.</tagname>
+<tagid>267</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Effectuer des interventions auprès d’une clientèle gériatrique.</tagname>
+<tagid>268</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes orthopédiques et rhumatologiques. [Code: 02AU]</tagname>
+<tagid>269</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>270</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>271</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>272</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>273</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>274</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>275</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>276</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>277</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes neurologiques. [Code: 02AV]</tagname>
+<tagid>278</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>279</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>280</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>281</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>282</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>283</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>284</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>285</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>286</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes éprouvant des problèmes cardiovasculaires, respiratoires et lymphatiques. [Code: 02AW]</tagname>
+<tagid>287</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>288</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Documenter les problèmes.</tagname>
+<tagid>290</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>291</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>292</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>293</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>294</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements.</tagname>
+<tagid>295</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>296</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Rééduquer des personnes atteintes d’une perte d’autonomie fonctionnelle. [Code: 02AX]</tagname>
+<tagid>297</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Organiser le travail.</tagname>
+<tagid>298</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Procéder à la collecte de données évaluatives.</tagname>
+<tagid>299</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Analyser l’ensemble des données subjectives et objectives.</tagname>
+<tagid>300</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déterminer le plan de traitement.</tagname>
+<tagid>301</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Appliquer le plan de traitement.</tagname>
+<tagid>302</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Procéder à la réévaluation.</tagname>
+<tagid>303</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Mettre fin aux traitements</tagname>
+<tagid>304</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. Consigner les informations au dossier.</tagname>
+<tagid>305</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Réaliser des activités de formation, d’information, de prévention et de promotion de la santé. [Code: 02AY]</tagname>
+<tagid>306</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Planifier des activités.</tagname>
+<tagid>307</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Élaborer des activités.</tagname>
+<tagid>308</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Animer des classes d’exercices et des séances de formation et d’information.</tagname>
+<tagid>309</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Analyser des textes littéraires. [Langue d’enseignement et littérature Code : 4EF0]</tagname>
+<tagid>310</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître le propos du texte.</tagname>
+<tagid>311</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Repérer et classer des thèmes et des procédés stylistiques.</tagname>
+<tagid>312</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Choisir les éléments d’analyse.</tagname>
+<tagid>313</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Élaborer un plan de rédaction.</tagname>
+<tagid>314</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Rédiger une analyse littéraire, un commentaire composé ou une explication de textes.</tagname>
+<tagid>315</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Réviser et corriger le texte.</tagname>
+<tagid>316</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Expliquer les représentations du monde contenues dans des textes littéraires d’époques et de genres variés. [Langue d’enseignement et littérature Code : 4EF1]</tagname>
+<tagid>317</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître le traitement d’un thème dans un texte.</tagname>
+<tagid>318</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Situer le texte dans son contexte culturel et sociohistorique.</tagname>
+<tagid>319</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Dégager les rapports entre le réel, le langage et l’imaginaire.</tagname>
+<tagid>320</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Élaborer un plan de dissertation.</tagname>
+<tagid>321</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Rédiger une dissertation explicative.</tagname>
+<tagid>322</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Réviser et corriger le texte.</tagname>
+<tagid>323</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Apprécier des textes de la littérature québécoise d’époques et de genres variés. [Langue d’enseignement et littérature Code : 4EF2]</tagname>
+<tagid>324</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître les caractéristiques de textes de la littérature québécoise.</tagname>
+<tagid>325</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Comparer des textes.</tagname>
+<tagid>326</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Déterminer un point de vue critique.</tagname>
+<tagid>327</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Élaborer un plan de dissertation.</tagname>
+<tagid>328</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Rédiger une dissertation critique.</tagname>
+<tagid>329</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Réviser et corriger le texte.</tagname>
+<tagid>330</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Produire différents types de discours oraux et écrits liés au champ d’études de l’élève. [Langue d’enseignement et littérature Code : 4EFP]</tagname>
+<tagid>332</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Analyser les caractéristiques de la situation de communication dans des discours d’ordre culturel ou d’un autre ordre.</tagname>
+<tagid>333</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Déterminer un sujet et un objectif de communication.</tagname>
+<tagid>334</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Rechercher l’information dans des discours littéraires ou non littéraires.</tagname>
+<tagid>335</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Élaborer une stratégie en fonction de la situation et de l’objectif de communication.</tagname>
+<tagid>336</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Préparer et présenter des discours oraux de type informatif, critique ou expressif, liés, notamment, à son champ d’études.</tagname>
+<tagid>337</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. Rédiger des textes de type informatif, critique ou expressif, liés, notamment, à son champ d’études.</tagname>
+<tagid>338</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. Réviser et corriger les textes.</tagname>
+<tagid>339</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Traiter d’une question philosophique. [Philosophie Code : 4PH0]</tagname>
+<tagid>340</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Distinguer la philosophie des autres discours sur la réalité.</tagname>
+<tagid>341</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Présenter la contribution de philosophes de la tradition gréco-latine au traitement de questions.</tagname>
+<tagid>342</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Produire une argumentation sur une question philosophique.</tagname>
+<tagid>343</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Discuter des conceptions philosophiques de l’être humain. [Philosophie Code : 4PH1]</tagname>
+<tagid>344</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser quelques conceptions philosophiques modernes et contemporaines de l’être humain.</tagname>
+<tagid>345</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Situer les conceptions examinées dans leur contexte et dans les courants de pensée correspondants.</tagname>
+<tagid>346</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Comparer des conceptions philosophiques de l’être humain à propos de problèmes actuels ou de thèmes communs.</tagname>
+<tagid>347</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Porter un jugement sur des problèmes éthiques et politiques de la société contemporaine. [Philosophie Code : 4PHP]</tagname>
+<tagid>348</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager la dimension éthique de l’action dans ses aspects personnels, sociaux et politiques.</tagname>
+<tagid>349</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Présenter quelques théories philosophiques, éthiques et politiques.</tagname>
+<tagid>350</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Appliquer des théories philosophiques, éthiques et politiques à des situations actuelles, choisies, notamment, dans le champ d’études de l’élève.</tagname>
+<tagid>351</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Défendre une position critique à propos d’une situation problématique.</tagname>
+<tagid>352</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Comprendre et exprimer des messages simples en anglais. [Anglais, langue seconde (niveau I) Code : 4SA0]</tagname>
+<tagid>353</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral simple.</tagname>
+<tagid>354</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager le sens d’un texte d’intérêt général.</tagname>
+<tagid>355</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. S’exprimer oralement.</tagname>
+<tagid>356</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser un texte.</tagname>
+<tagid>357</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer en anglais avec une certaine aisance. [Anglais, langue seconde (niveau II) Code : 4SA1]</tagname>
+<tagid>358</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral authentique.</tagname>
+<tagid>359</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager le sens d’un texte authentique d’intérêt général.</tagname>
+<tagid>360</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. S’exprimer oralement.</tagname>
+<tagid>361</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser un texte.</tagname>
+<tagid>362</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer avec aisance en anglais sur des thèmes sociaux, culturels ou littéraires. [Anglais, langue seconde (niveau III) Code : 4SA2]</tagname>
+<tagid>363</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral authentique à portée sociale, culturelle ou littéraire.</tagname>
+<tagid>364</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager le sens d’un texte authentique à portée sociale, culturelle ou littéraire.</tagname>
+<tagid>365</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Exprimer oralement un message sur des sujets à portée sociale, culturelle ou littéraire.</tagname>
+<tagid>366</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser un texte sur une question à portée sociale, culturelle ou littéraire.</tagname>
+<tagid>367</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Traiter en anglais d’œuvres littéraires et de sujets à portée sociale ou culturelle. [Anglais, langue seconde (niveau IV) Code : 4SA3]</tagname>
+<tagid>368</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Présenter oralement l’analyse d’une production littéraire ou d’une production à portée sociale ou culturelle en version originale anglaise.</tagname>
+<tagid>369</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Rédiger l‘analyse d’une œuvre littéraire en version originale anglaise ou d’un sujet à portée sociale ou culturelle.</tagname>
+<tagid>370</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Réviser et corriger le texte.</tagname>
+<tagid>371</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer en anglais de façon simple en utilisant des formes d’expression d’usage courant liées au champ d’études de l’élève. [Anglais, langue seconde (niveau I) Code : 4SAP]</tagname>
+<tagid>372</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral authentique lié à son champ d’études.</tagname>
+<tagid>373</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager le sens d’un texte authentique lié à son champ d’études.</tagname>
+<tagid>374</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Communiquer un bref message oral lié à son champ d’études.</tagname>
+<tagid>375</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser un court texte lié à son champ d’études.</tagname>
+<tagid>376</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer en anglais avec une certaine aisance en utilisant des formes d’expression d’usage courant liées au champ d’études de l’élève. [Anglais, langue seconde (niveau II) Code : 4SAQ]</tagname>
+<tagid>377</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral authentique lié à son champ d’études.</tagname>
+<tagid>378</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager les éléments utiles d’un texte authentique lié à son champ d’études.</tagname>
+<tagid>379</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Communiquer un message oral lié à son champ d’études.</tagname>
+<tagid>380</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser un texte lié à son champ d’études.</tagname>
+<tagid>381</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer avec aisance en anglais en utilisant des formes d’expression d’usage courant liées au champ d’études de l’élève. [Anglais, langue seconde (niveau III) Code : 4SAR]</tagname>
+<tagid>382</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral lié à son champ d’études.</tagname>
+<tagid>383</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager les éléments pertinents d’un texte authentique lié à son champ d’études.</tagname>
+<tagid>384</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Communiquer un message oral lié à son champ d’études.</tagname>
+<tagid>385</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger et réviser des communications écrites liées à son champ d’études.</tagname>
+<tagid>386</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer de façon nuancée en anglais dans différentes formes de discours. [Anglais, langue seconde (niveau IV) Code : 4SAS]</tagname>
+<tagid>387</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Communiquer un message oral lié au champ d’études de l’élève.</tagname>
+<tagid>388</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser des textes complexes.</tagname>
+<tagid>390</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Rédiger et réviser un texte lié au champ d’études de l’élève.</tagname>
+<tagid>391</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. S’exprimer à l’écrit ou oralement en anglais à partir de sources en français.</tagname>
+<tagid>392</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Analyser sa pratique de l’activité physique au regard des habitudes de vie favorisant la santé. [Éducation physique Code : 4EP0]</tagname>
+<tagid>393</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Établir la relation entre ses habitudes de vie et sa santé.</tagname>
+<tagid>394</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Pratiquer l’activité physique selon une approche favorisant la santé.</tagname>
+<tagid>395</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Reconnaître ses besoins, ses capacités et ses facteurs de motivation liés à la pratique régulière et suffisante de l’activité physique.</tagname>
+<tagid>396</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Proposer des activités physiques favorisant sa santé.</tagname>
+<tagid>397</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Améliorer son efficacité dans la pratique d’une activité physique. [Éducation physique Code : 4EP1]</tagname>
+<tagid>398</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Planifier une démarche conduisant à l’amélioration de son efficacité dans la pratique d’une activité physique.</tagname>
+<tagid>399</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Appliquer une démarche conduisant à l’amélioration de son efficacité dans la pratique d’une activité physique.</tagname>
+<tagid>400</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Démontrer sa capacité à se charger de sa pratique de l’activité physique dans une perspective de santé. [Éducation physique Code : 4EP2]</tagname>
+<tagid>401</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Planifier un programme personnel d’activités physiques.</tagname>
+<tagid>402</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Harmoniser les éléments d’une pratique régulière et suffisante de l’activité physique dans une approche favorisant la santé.</tagname>
+<tagid>403</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Gérer un programme personnel d’activités physiques.</tagname>
+<tagid>404</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer dans une langue moderne sur des sujets familiers. [Langue moderne Code : 0010]</tagname>
+<tagid>405</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Saisir le sens d’un message entendu.</tagname>
+<tagid>406</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Saisir le sens d’un message lu.</tagname>
+<tagid>407</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Exprimer oralement un message simple avec des phrases de complexité moyenne.</tagname>
+<tagid>408</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Écrire un texte sur un sujet donné avec des phrases de complexité moyenne.</tagname>
+<tagid>409</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer avec une certaine aisance dans une langue moderne. [Langue moderne Code : 0067]</tagname>
+<tagid>410</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Dégager le sens d’un message oral en langage courant.</tagname>
+<tagid>411</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Dégager le sens d’un texte de complexité moyenne.</tagname>
+<tagid>412</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Échanger verbalement sur un sujet.</tagname>
+<tagid>413</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Rédiger un texte de complexité moyenne.</tagname>
+<tagid>414</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Reconnaître le rôle des mathématiques ou de l’informatique dans la société contemporaine. [Langage mathématique et informatique Code : 0011]</tagname>
+<tagid>415</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Démontrer l’acquisition de connaissances générales de base sur les mathématiques ou sur l’informatique.</tagname>
+<tagid>416</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Décrire l’évolution des mathématiques ou de l’informatique.</tagname>
+<tagid>417</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Reconnaître la contribution des mathématiques ou de l’informatique dans le développement des autres domaines du savoir.</tagname>
+<tagid>418</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Illustrer la diversité des applications des mathématiques ou de l’informatique.</tagname>
+<tagid>419</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. Évaluer l’influence des mathématiques ou de l’informatique sur les individus et sur les organisations.</tagname>
+<tagid>420</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Se servir d’une variété de notions, de procédés et d’outils mathématiques ou informatiques à des fins d’usage courant. [Langage mathématique et informatique Code : 0012]</tagname>
+<tagid>421</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Démontrer l’acquisition de connaissances utilitaires de base en mathématiques ou en informatique.</tagname>
+<tagid>422</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Choisir des outils et des procédés mathématiques ou informatiques en fonction de besoins précis.</tagname>
+<tagid>423</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Utiliser des outils et des procédés mathématiques ou informatiques pour exécuter des tâches et résoudre des problèmes.</tagname>
+<tagid>424</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Interpréter des données quantitatives ou des résultats obtenus à l’aide de procédés ou d’outils mathématiques ou informatiques.</tagname>
+<tagid>425</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Apprécier diverses formes d’art issues de pratiques d’ordre esthétique. [Art et esthétique Code : 0013]</tagname>
+<tagid>426</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Percevoir la dynamique de l’imaginaire en art.</tagname>
+<tagid>427</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Caractériser des courants artistiques.</tagname>
+<tagid>428</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Commenter un produit artistique.</tagname>
+<tagid>429</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Réaliser une production artistique. [Art et esthétique Code : 0014]</tagname>
+<tagid>431</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître les principaux modes d’expression d’un médium artistique.</tagname>
+<tagid>432</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Utiliser le médium.</tagname>
+<tagid>433</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Considérer des problématiques contemporaines dans une perspective transdisciplinaire. [Problématiques contemporaines Code : 021L]</tagname>
+<tagid>434</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Identifier de grandes problématiques contemporaines.</tagname>
+<tagid>435</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Reconnaître le rôle particulier de plusieurs disciplines dans la compréhension d’une problématique.</tagname>
+<tagid>436</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Démontrer la contribution de plusieurs disciplines dans la compréhension d’une problématique contemporaine.</tagname>
+<tagid>437</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Traiter d’une problématique contemporaine dans une perspective transdisciplinaire. [Problématiques contemporaines Code : 021M]</tagname>
+<tagid>438</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Poser un problème de recherche.</tagname>
+<tagid>439</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Analyser le problème de recherche.</tagname>
+<tagid>440</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Proposer des solutions.</tagname>
+<tagid>441</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Situer l’apport particulier des sciences humaines au regard des enjeux contemporains. [Code: 000V]</tagname>
+<tagid>442</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Reconnaître les objets d’étude d’une ou de plusieurs sciences humaines et leurs principales approches.</tagname>
+<tagid>443</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Relever quelques-unes des questions qui se posent actuellement dans le domaine des sciences humaines.</tagname>
+<tagid>444</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Démontrer la contribution d’une ou de plusieurs sciences humaines dans la compréhension d’enjeux contemporains.</tagname>
+<tagid>445</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Analyser l’un des grands problèmes de notre temps selon une ou plusieurs approches propres aux sciences humaines. [Code: 000W]</tagname>
+<tagid>446</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Poser une problématique selon une ou plusieurs approches propres aux sciences humaines.</tagname>
+<tagid>447</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Traiter d’une question selon une ou des approches propres aux sciences humaines.</tagname>
+<tagid>448</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Établir des conclusions.</tagname>
+<tagid>449</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Expliquer la nature générale et quelques-uns des enjeux actuels de la science et de la technologie. [Culture scientifique et technologique Code : 000X]</tagname>
+<tagid>450</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Caractériser le mode de pensée et la démarche scientifiques types.</tagname>
+<tagid>451</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Montrer la complémentarité de la science et de la technologie.</tagname>
+<tagid>452</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Expliquer le contexte et les étapes de quelques découvertes scientifiques et technologiques.</tagname>
+<tagid>453</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Déduire différentes conséquences et questions qui découlent de certains développements scientifiques et technologiques récents.</tagname>
+<tagid>454</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Résoudre un problème simple par l’application de la démarche scientifique de base. [Culture scientifique et technologique Code : 000Y]</tagname>
+<tagid>455</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Décrire les principales étapes de la démarche scientifique type.</tagname>
+<tagid>456</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Formuler une hypothèse ayant pour but de solutionner un problème simple de nature scientifique et technologique.</tagname>
+<tagid>457</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Vérifier une hypothèse en appliquant les principes élémentaires de la démarche expérimentale de base.</tagname>
+<tagid>458</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>Communiquer dans une langue moderne de façon restreinte. [Langue moderne Code : 000Z]</tagname>
+<tagid>459</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Saisir le sens d’un message oral.</tagname>
+<tagid>460</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. Saisir le sens d’un message lu.</tagname>
+<tagid>461</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. Exprimer oralement un message simple.</tagname>
+<tagid>462</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. Écrire un texte sur un sujet donné.</tagname>
+<tagid>463</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</project>
