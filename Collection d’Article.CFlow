@@ -1,0 +1,148 @@
+<project><prname>Collection d’Article</prname>
+<idnum>27</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Collection d’Article</wfname>
+<wfauthor>By Geneviève Caron</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Read Articles</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Before the project, collect and read articles from the magazine Actualité (or another francophone source).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Divide the class into groups of four students with a variety of academic backgrounds.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Create a Cover Page</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Create a cover page for the project as a way to begin brainstorming as a group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Divide Tasks</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Delineate tasks amongst the groups so that there is a student in charge of coordinating, the visual aspects of the magazine, the linguistic aspects, and the thematic coherence of the final product.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>82.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Write a Critique</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Write a critique of an article they read in the magazine&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Submit a Bibliography</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Submit a bibliography of a minimum of 4 articles per student from able sources, relating to their chosen theme.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss a Common Theme</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Find and discuss a theme that is a common thread, linking all of their articles &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Write an Editorial to Present the Product</name>
+<id>10</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Write an editorial, of 550-600 words, for their project, presenting the final product to the reader and introducing the theme.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Create the Visual Product</name>
+<id>11</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Use a platform to organize the visual product (ex: MadMagz) &lt;/li&gt;&lt;li&gt;Edit each others texts&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>96.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Coordinate the last stage of project: the class-wide presentations.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present the Magazine</name>
+<id>13</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present the product, their magazine, to the class in  5-10 minutes each.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>38.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Write a Self-Evaluation</name>
+<id>14</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write a short self-reflection on what they took away from the project &lt;/li&gt;&lt;li&gt;Evaluate the participation of their other group members&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>110.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
