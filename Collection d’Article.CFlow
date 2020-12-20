@@ -34,11 +34,11 @@
 <node><name>Introduce Activity</name>
 <id>4</id>
 <lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
+<righticon>orchestration</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Divide the class into groups of four students with a variety of academic backgrounds.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
+<textheight>67</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Create a Cover Page</name>
@@ -111,14 +111,14 @@
 <textheight>87.20000457763672</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>undefined</name>
+<node><name>Transition to Presentations</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
 <textHTML>&lt;p&gt;Coordinate the last stage of project: the class-wide presentations.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48.80000305175781</textheight>
+<textheight>58</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Present the Magazine</name>
