@@ -1,0 +1,114 @@
+<project><prname>General Workshop</prname>
+<idnum>11</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Workshop: Two-Stage Exam</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>&lt;p&gt;This single-session workflow, participants experience the Two-Stage Exam through a demonstration and multiple real-life use-cases. By the end of the workshop, participants are able to describe the structure and benefits of a Two-Stage Exam. They will also be able to name challenges, potential solutions and access resources to support its implementation in teaching.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Out of Session 
+(Facilitator)</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Out of Session
+(Participants)</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>Workshop Facilitator</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columntext>Participants</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Workshop</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide overview of workshop and review the outcomes.&lt;/p&gt;&lt;p&gt;Note: Participants will be able to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Describe the basic structure &lt;/li&gt;&lt;li&gt;List several benefits&lt;/li&gt;&lt;li&gt;Name challenges in implementation and potential solutions&lt;/li&gt;&lt;li&gt;Access resources to support implementation&lt;/li&gt;&lt;li&gt;Describe how to use it in teaching&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>193</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Explain Structure</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Define Two-Stage Exam and discuss various elements, including grading, timeline, and benefits&lt;/li&gt;&lt;li&gt;Show workflow to walk participants through the process&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>101.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Begin Hands-On Demonstration</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Allow participants to go through the process of taking the exam as if they were students&lt;/li&gt;&lt;li&gt;Ensure participants have access to needed material and links&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Participate in the Process</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>play</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Roleplay as students participating in the demonstration:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Follow the link to the exam &lt;/li&gt;&lt;li&gt;Complete the exam individually&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Share Real Examples</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Share examples of use-cases from other instructors, describing implementation, impact, and their feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Challenges &amp; Tips</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present challenges and potential solutions for each challenge&lt;/li&gt;&lt;li&gt;Discuss overall tips for implementation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>101.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Participate in Discussion</name>
+<id>10</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss three questions, led by facilator:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What value do you see in using a Two-Stage Exam?&lt;/li&gt;&lt;li&gt;How do you envision using them in the future?&lt;/li&gt;&lt;li&gt;What barriers may prevent you from using them?&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144.8000030517578</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Provide Access to Resources</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide links to SALTISE webpages and other sources with relevant information on Two-Stage Exams.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
