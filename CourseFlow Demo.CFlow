@@ -1,0 +1,114 @@
+<project><prname>CourseFlow Demo</prname>
+<idnum>40</idnum>
+<terminologyset>cegep</terminologyset>
+<workflow><wfname>CourseFlow Demo</wfname>
+<wfauthor>SALITE</wfauthor>
+<wfdescription>&lt;p&gt;This is the demonstration for a CourseFlow Workshop.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>2</weekid>
+<node><name>Lesson 1_date [day/month]</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;This is the first day of classes. It will be an introduction of students and the course outline. Insert here what you might expect students to read in class or to do in class.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Please read this before you start working in the Breakout rooms:&lt;/p&gt;&lt;p&gt;&lt;a href="https://docs.google.com/document/d/11vGzTW7Mxv9Did7NvgdnYQ3VwuExTwqTFHFFMZgGX7Y/edit" target="_blank"&gt;https://docs.google.com/document/d/11vGzTW7Mxv9Did7NvgdnYQ3VwuExTwqTFHFFMZgGX7Y/edit&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.8000030517578</textheight>
+<timevalue>80</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Chap 1_ reading</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Suggestion: You might want to have students read something to prepare for Lesson 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: please read this chapter before coming to your next class [Chapter 1. &lt;a href="https://drive.google.com/drive/folders/1FpY-1jYjvTbYlvC3RFH8tSUIrkkZs-RC" target="_blank"&gt;What Is Backward Design?&lt;/a&gt;]&lt;/p&gt;&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1BjAgkhWuvVKYAPQAbIoemAqq9q_liWO5XPJ3gWdSLVU/edit" target="_blank"&gt;https://docs.google.com/document/d/1BjAgkhWuvVKYAPQAbIoemAqq9q_liWO5XPJ3gWdSLVU/edit&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.8000030517578</textheight>
+<timevalue>30</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 2_date [day/month]</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Describe what you plan to do in this class. You could use the following method to have students engage. &lt;a href="https://www.dawsoncollege.qc.ca/faculty-hub/wp-content/uploads/sites/182/Online-AL-Script_-A-Jigsaw-with-Group-Roles-FINAL1.pdf" target="_blank"&gt;https://www.dawsoncollege.qc.ca/faculty-hub/wp-content/uploads/sites/182/Online-AL-Script_-A-Jigsaw-with-Group-Roles-FINAL1.pdf&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;In this class we are going to discuss the reading. You we split into Breakout rooms and come up with the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;a list of key features of Backward Design&lt;/li&gt;&lt;li&gt;a list of questions you have about how to use it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>318.20001220703125</textheight>
+<timevalue>70</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>6</weekid>
+<node><name>End of lesson 2
+One-minute paper</name>
+<id>8</id>
+<lefticon>exercise</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Suggestion: You might want to ask students to complete a small exercise to give them feedback at the end of the class or just after your class. Possible idea is a &lt;a href="https://www.saltise.ca/strategy/one-minute-paper/" target="_blank"&gt;&lt;strong&gt;One-minute paper&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;I would like to know what you understood from the reading about Backward Design.&lt;/p&gt;&lt;p&gt;Please take &lt;strong&gt;&lt;u&gt;one minute &lt;/u&gt;&lt;/strong&gt;to answer the following questions:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Explain briefly what "Backward Design" means&lt;/li&gt;&lt;li&gt;Describe briefly how might you use it to improve your course design.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Please use this form to submit your answers: &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSf1F53pDDCr-ewN_ve_1btJJj5uC2Q0PT6v_n0PW9Ugf_FiZQ/viewform" target="_blank"&gt;https://docs.google.com/forms/d/e/1FAIpQLSf1F53pDDCrewN_ve_1btJJj5uC2Q0PT6v_n0PW9Ugf_FiZQ/viewform&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>318.20001220703125</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Chap 2_reading</name>
+<id>9</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Lesson 3_date....</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>940</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>New Competency</tagname>
+<tagid>10</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</project>
