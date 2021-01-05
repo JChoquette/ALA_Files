@@ -1,9 +1,9 @@
 <project><prname>Two-Stage Exam</prname>
 <idnum>9</idnum>
 <terminologyset>standard</terminologyset>
-<workflow><wfname>New Activity</wfname>
-<wfauthor>undefined</wfauthor>
-<wfdescription>undefined</wfdescription>
+<workflow><wfname>Two-Stage Exam</wfname>
+<wfauthor>By SALTISE</wfauthor>
+<wfdescription>&lt;p&gt;&lt;span style=&quot;color: rgb(65, 65, 65); font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;A Two-Stage Exam is an instructional strategy in which students are asked to complete an assessment (i.e., exam, test, quiz) in two separate stages. Overall, using this strategy results in assessments that are themselves collaborative learning experiences.&lt;/span&gt;&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
