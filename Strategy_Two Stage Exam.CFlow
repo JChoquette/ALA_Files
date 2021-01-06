@@ -72,7 +72,7 @@ Distribute Part 2</name>
 <textheight>48.80000305175781</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>undefined</name>
+<node><name>Collect Part 2</name>
 <id>9</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
