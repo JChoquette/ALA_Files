@@ -1,5 +1,5 @@
 <project><prname>CourseFlow Demo</prname>
-<idnum>40</idnum>
+<idnum>50</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>CourseFlow Demo</wfname>
 <wfauthor>SALITE</wfauthor>
