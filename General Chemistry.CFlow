@@ -1,0 +1,2574 @@
+<project><prname>General Chemistry - Enriched Science 
+(Learning Outcomes)</prname>
+<idnum>7417</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>General Chemistry - Enriched Science 
+(Learning Outcomes)</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY>7,38,71,1210,149,184,233,274,422,473,525,620,679,2910,4572,4572</usedwfARRAY>
+<tagsetARRAY>4996</tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columntext>Activities</columntext>
+<columnnodetext>Activities</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>FA</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>2</weekid>
+<weekname>Week 1 - Atoms, Molecules and Ions</weekname>
+<node><name>wk1: Naming Compounds</name>
+<id>6</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Review of prior knowledge (from Sec V)&lt;/p&gt;</textHTML>
+<linkedwf>7</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4435</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Check in and Significant Figures</name>
+<id>4435</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lab check in and review of safety rules&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Present significant figure rules and have the students do some practice problems.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>67</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6075</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 1</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;&lt;u&gt;Perusall Pre-Reading Assignment 1&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Ch 2 - Naming Compounds (2.8)&lt;/p&gt;&lt;p&gt;Ch 3 - Stoichiometry (3.2 to 3.10)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>67</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6071</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6083</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>65</weekid>
+<weekname>Week 2 - Stoichiometry</weekname>
+<node><name>wk2: Moles and Molar Mass</name>
+<id>67</id>
+<lefticon>distributed-problem-solving</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>38</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4495</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>66</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6071</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 2</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;&lt;u&gt;Perusall Pre-Reading Assignment 2&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Ch 3 - Stoichiometry (3.11)&lt;/p&gt;&lt;p&gt;Ch 5 - Gas stoichiometry (5.4 to 5.5)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<link><targetid>70</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Density of Water and NaCl Solution</name>
+<id>4495</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Introduce three techniques:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Use of analytical balance&lt;/li&gt;&lt;li&gt;Use of volumetric pipette&lt;/li&gt;&lt;li&gt;Use of burette&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Apply the techniques by:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Determining the density of water&lt;/li&gt;&lt;li&gt;Determining the density of a pre-made solution of NaCl (~80 g in 1 L of water)&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4496</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>70</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>1323</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Density of Water and NaCl Solution</name>
+<id>4496</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Students to submit data sheet, and include sample calculations for density of water, %error (literature value based on temperature of the lab), and density of NaCl solution.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>1323</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>68</weekid>
+<weekname>Week 3 - Stoichiometry</weekname>
+<node><name>wk 3: Finding empirical and molecular formulas</name>
+<id>70</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Finding empirical and molecular formulas through a set of scaffolded problems.&lt;/p&gt;</textHTML>
+<linkedwf>71</linkedwf>
+<textheight>100</textheight>
+<link><targetid>1323</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>4497</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6071</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6083</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Name and Formulae of Compounds</name>
+<id>4497</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Complete exercises in lab manual&lt;/p&gt;&lt;p&gt;Could also do 'Naming Compounds' activity if it was not done in class in Week 1.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+</node>
+<node><name>Quiz 1</name>
+<id>1323</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Naming Compounds&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Review of prior knowledge (from Sec V)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 3</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Pre-Reading Assignment 4&lt;/p&gt;&lt;p&gt;Ch 4 - Chemical Reactions (4.2 to 4.7)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>84</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5004</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>82</weekid>
+<weekname>Week 4 - Stoichiometry and Gases</weekname>
+<node><name>wk4: Stoichiometry - Calculations with LR</name>
+<id>84</id>
+<lefticon>case-studies</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Limestone activity from the Saltise website:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/limestone-rescue/" target="_blank"&gt;https://www.saltise.ca/activity/limestone-rescue/&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>1210</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4562</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Stoichiometry</name>
+<id>4564</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4562</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Stoichiometry</name>
+<id>4562</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4563</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>148</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Stoichiometry</name>
+<id>4563</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 4</name>
+<id>83</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Pre-Reading Assignment 4&lt;/p&gt;&lt;p&gt;Ch 4 - Chemical Reactions (4.8 to 4.10, 18.1)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>148</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5004</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>146</weekid>
+<weekname>Week 5 - Types of Chemical Reactions</weekname>
+<node><name>wk5: If you're not part of the solution, you're part of the precipitate</name>
+<id>148</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/chemistry-if-youre-not-part-of-the-solution-youre-part-of-the-precipitate/" target="_blank"&gt;https://www.saltise.ca/activity/chemistry-if-youre-not-part-of-the-solution-youre-part-of-the-precipitate/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>149</linkedwf>
+<textheight>100</textheight>
+<link><targetid>181</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>183</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5004</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>myDALITE Post-Topic Assignment 1 (stoichiometry)</name>
+<id>181</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;ol&gt;&lt;li&gt;ChemGENStoich - Q16 &lt;a href="https://mydalite.org/en/assignment/ChemGENStoich/831/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENStoich/831/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENStoich - Q24 &lt;a href="https://mydalite.org/en/assignment/ChemGENStoich/839/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENStoich/839/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENStoich - Q25 &lt;a href="https://mydalite.org/en/assignment/ChemGENStoich/840/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENStoich/840/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENStoich - Q26 &lt;a href="https://mydalite.org/en/assignment/ChemGENStoich/841/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENStoich/841/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENStoich - Q42 &lt;a href="https://mydalite.org/en/assignment/ChemGENStoich/857/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENStoich/857/&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Comments:  All were easy even though questions were more challenging. No change to the assignment except add ChemGENStoich - Q19.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>183</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 5</name>
+<id>147</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 5&lt;/p&gt;&lt;p&gt;Ch 7 - Atomic Structure &amp;amp; Periodicity (7.1 to 7.4)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>183</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6067</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>182</weekid>
+<weekname>Week 6 - Types of Chemical Reactions</weekname>
+<node><name>wk6: Oxidation States Game</name>
+<id>183</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Online 'Mahjong' type game&lt;/p&gt;&lt;p&gt;&lt;a href="https://www2.stetson.edu/mahjongchem/" target="_blank"&gt;https://www2.stetson.edu/mahjongchem/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>184</linkedwf>
+<textheight>100</textheight>
+<link><targetid>2861</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>wk6: Balancing Redox Reactions</name>
+<id>2861</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>2910</linkedwf>
+<textheight>100</textheight>
+<link><targetid>1324</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>*** Test 1 ***</name>
+<id>1324</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Chapter 2:  Atoms, Molecules and Ions&lt;/p&gt;&lt;p&gt;(Sec 2.5-2.8)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chapter 3:  Stoichiometry&lt;/p&gt;&lt;p&gt;(Sec 3.2 - 3.11)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chapter 5:  Gases&lt;/p&gt;&lt;p&gt;(Sec 5.4 - 5.5)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chapter 4:  Types of Chemical Reactions&lt;/p&gt;&lt;p&gt;(Sec 4.2 - 4.7)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4565</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>4997</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5004</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Solution Stoichiometry</name>
+<id>4567</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4565</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Solution Stoichiometry</name>
+<id>4565</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4566</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>271</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Solution Stoichiometry</name>
+<id>4566</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>230</weekid>
+<weekname>Week 7 - Atomic Structure and Periodicity</weekname>
+<node><name>wk7: Bohr Model</name>
+<id>271</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>233</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4568</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6067</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Molar Volume of a Gas</name>
+<id>4570</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4568</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Molar Volume of a Gas</name>
+<id>4568</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4569</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>5728</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Molar Volume of a Gas</name>
+<id>4569</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Full lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 6</name>
+<id>231</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 6&lt;/p&gt;&lt;p&gt;Ch 7 - Atomic Structure and Periodicity (7.5 to 7.9)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>5728</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6068</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>270</weekid>
+<weekname>Week 8 - Atomic Structure and Periodicity</weekname>
+<node><name>wk8: Lecture - Quantum Mechanical Model</name>
+<id>5728</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4571</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6068</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Problem Solving</name>
+<id>4571</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Activity - Limestone Rescue&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/limestone-rescue/" target="_blank"&gt;https://www.saltise.ca/activity/limestone-rescue/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>4572</linkedwf>
+<textheight>100</textheight>
+<link><targetid>273</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>416</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>myDALITE Post-Topic Assignment 2 (chemical reactions)</name>
+<id>416</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;ol&gt;&lt;li&gt;ChemGENTCR - Q10 &lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/348/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/348/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q20 &lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/810/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/810/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q24 &lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/814/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/814/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q30 &lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/820/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/820/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q34&lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/824/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/824/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q8&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/346/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/346/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENTCR - Q9&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENTCR/347/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENTCR/347/&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Comments:  &lt;/p&gt;&lt;p&gt;Q24 (67% correct overall based on RR and WR).  &lt;/p&gt;&lt;p&gt;All other questions easy but would not change them.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>273</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 7</name>
+<id>272</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 7&lt;/p&gt;&lt;p&gt;Ch 7 - Atomic Structure &amp;amp; Periodicity (7.11 to 7.12)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>273</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6068</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5001</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>418</weekid>
+<weekname>Week 9 - Atomic Structure and Periodicity</weekname>
+<node><name>wk9: Quantum Numbers and Electron Configuration</name>
+<id>273</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>274</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4866</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6068</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5001</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Chemical Reactions</name>
+<id>4867</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4866</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Chemical Reactions</name>
+<id>4866</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4868</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>468</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6076</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5008</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Chemical Reactions</name>
+<id>4868</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5008</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 8</name>
+<id>419</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 8&lt;/p&gt;&lt;p&gt;Ch 8 - Bonding (8.1 to 8.4, 8.6 to 8.10)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>468</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5001</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>420</weekid>
+<weekname>Week 10 - Bonding General Concepts</weekname>
+<node><name>wk10: Lewis Structures and Resonance</name>
+<id>468</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>422</linkedwf>
+<textheight>100</textheight>
+<link><targetid>469</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>4869</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+</node>
+<node><name>myDALITE Post-TOPIC assignment 3 (Atomic Structure  and  Periodicity)</name>
+<id>469</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;ol&gt;&lt;li&gt;ChemGENASP - Q16 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/360/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/360/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q20 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/781/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/781/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q23 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/784/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/784/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q25 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/786/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/786/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q29 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/790/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/790/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q31 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/792/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/792/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q33 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/794/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/794/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q39 &lt;a href="https://mydalite.org/en/assignment/ChemGENASP/800/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/800/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENASP - Q5&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENASP/280/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENASP/280/&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Comments:  &lt;/p&gt;&lt;p&gt;Q20 (64% correct overall based on RR and WR)&lt;/p&gt;&lt;p&gt;Q29 (71% correct overall based on RR and WR)&lt;/p&gt;&lt;p&gt;Q39 (71% correct overall based on RR and WR)&lt;/p&gt;&lt;p&gt;All other questions easy&lt;/p&gt;&lt;p&gt;No changes to the assignment&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>472</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>6066</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5001</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Identification of Anions and Cations</name>
+<id>4870</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4869</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Identification of Anions and Cations</name>
+<id>4869</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4871</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>472</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5008</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Identification of Anions and Cations</name>
+<id>4871</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5008</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 9</name>
+<id>421</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Pre-Reading Assignment 9&lt;/p&gt;&lt;p&gt;Ch 8 - Bonding (8.11 to 8.13)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>472</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>470</weekid>
+<weekname>Week 11 - Bonding General Concepts</weekname>
+<node><name>wk11: VSEPR</name>
+<id>472</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Activity includes using a PhET simulator&lt;/p&gt;&lt;p&gt;Molecule Shapes:  &lt;a href="https://phet.colorado.edu/en/simulation/molecule-shapes" target="_blank"&gt;https://phet.colorado.edu/en/simulation/molecule-shapes&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>473</linkedwf>
+<textheight>100</textheight>
+<link><targetid>1325</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>*** Test 2 ***</name>
+<id>1325</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Chapter 4:  Types of Chemical Reactions&lt;/p&gt;&lt;p&gt;(Sec 4.8 - 4.10)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chapter 7:  Atomic Structure and Periodicity&lt;/p&gt;&lt;p&gt;(Sec 7.1 - 7.12)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4872</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6081</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6066</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5001</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Volumetric Analysis of Cu2+</name>
+<id>4873</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4872</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Volumetric Analysis of Cu2+</name>
+<id>4872</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4874</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>577</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Volumetric Analysis of Cu2+</name>
+<id>4874</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6070</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 10</name>
+<id>471</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 10&lt;/p&gt;&lt;p&gt;Ch 9 - Covalent Bonding (9.1)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>577</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>524</weekid>
+<weekname>Week 12 - Covalent Bonding</weekname>
+<node><name>wk12: Bonding and Hybridization</name>
+<id>577</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>525</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4875</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Atomic Spectra</name>
+<id>4876</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Rewrite procedure or prepare flow chart&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4875</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6067</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Atomic Spectra</name>
+<id>4875</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4877</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>580</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6067</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Atomic Spectra</name>
+<id>4877</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Full lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6067</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 11</name>
+<id>579</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 11&lt;/p&gt;&lt;p&gt;Ch 9 - Covalent Bonding (9.2 - 9.3)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>580</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>578</weekid>
+<weekname>Week 13 - Covalent Bonding</weekname>
+<node><name>wk13: Molecular Orbitals</name>
+<id>580</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>620</linkedwf>
+<textheight>100</textheight>
+<link><targetid>738</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>4878</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>myDALITE Post-TOPIC assignment 4 (Bonding)</name>
+<id>738</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;ol&gt;&lt;li&gt;ChemGENBGC - Q1&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/242/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/242/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q14 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/349/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/349/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q19 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/354/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/354/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q2&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/243/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/243/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q20 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/355/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/355/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q22 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/357/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/357/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q24 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/359/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/359/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q27 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/859/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/859/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q28 &lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/860/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/860/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ChemGENBGC - Q5&amp;nbsp;&lt;a href="https://mydalite.org/en/assignment/ChemGENBGC/321/" target="_blank"&gt;https://mydalite.org/en/assignment/ChemGENBGC/321/&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Comments:&lt;/p&gt;&lt;p&gt;Q2 (43% correct overall based on RR and WR)&lt;/p&gt;&lt;p&gt;All other questions were easy&lt;/p&gt;&lt;p&gt;No change to the assignment&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>678</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Introduction to LoggerPro</name>
+<id>4878</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;No pre-lab work or lab report&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This lab period was used as a workshop to Introduce the lab software program&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>678</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 12</name>
+<id>6926</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Reading Assignment 12&lt;/p&gt;&lt;p&gt;Ch 10 - Liquids and Solids (10.1 &amp;amp; 10.9)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>678</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5003</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>676</weekid>
+<weekname>Week 14 - Liquids and Solids</weekname>
+<node><name>wk14: Intermolecular Forces</name>
+<id>678</id>
+<lefticon>gallery-walk</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>679</linkedwf>
+<textheight>100</textheight>
+<link><targetid>1326</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5003</nodetagid>
+</nodetag>
+</node>
+<node><name>*** Test 3 ***</name>
+<id>1326</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Chapter 8:  Bonding General Concepts&lt;/p&gt;&lt;p&gt;(Sec 8.1 - 8.13)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chapter 9:  Covalent Bonding&lt;/p&gt;&lt;p&gt;(Sec 9.1 - 9.3)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4882</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - VSEPR</name>
+<id>4881</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Read the introduction and procedure&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4882</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - VSEPR</name>
+<id>4882</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4883</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>3844</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - VSEPR</name>
+<id>4883</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5002</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5942</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5943</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5944</nodetagid>
+</nodetag>
+</node>
+<node><name>Perusall Pre-Reading Assignment 12</name>
+<id>677</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Perusall Pre-Reading Assignment 12&lt;/p&gt;&lt;p&gt;Ch 6 - Thermochemistry (6.2 to 6.4, 8.8)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>3844</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6073</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>3843</weekid>
+<weekname>Week 15 - Thermochemistry</weekname>
+<node><name>wk 15:  Thermochemistry</name>
+<id>3844</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;Lecture&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4884</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>6073</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Calorimetry</name>
+<id>4886</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;Pre-lab work&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Watch pre-lab video&lt;/li&gt;&lt;li&gt;Answer pre-lab questions (could be through Moodle)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;No need to re-write procedure since most of the procedure describes LoggerPro steps.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4884</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5007</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6073</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Calorimetry and Check out</name>
+<id>4884</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>4885</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>3846</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>5006</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6073</nodetagid>
+</nodetag>
+</node>
+<node><name>Lab - Calorimetry</name>
+<id>4885</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>FA</column>
+<textHTML>&lt;p&gt;Short lab report&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>5009</nodetagid>
+</nodetag>
+<nodetag><nodetagid>5011</nodetagid>
+</nodetag>
+<nodetag><nodetagid>6073</nodetagid>
+</nodetag>
+</node>
+<node><name>*** Final Exam ***</name>
+<id>3846</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Final exam will assess students' understanding of all course content including the lab component.  All learning outcomes are considered.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<comment><textHTML>&lt;p&gt;All learning outcomes from Tests 1, 2 and 3 are included in the final exam&lt;/p&gt;</textHTML>
+<x>960</x>
+<y>7020</y>
+</comment>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Wk 1: Naming Compounds</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>7</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>4997</tagsetARRAY>
+<wfdata><column><columnname>OOC</columnname>
+<columnimage>home</columnimage>
+<columntext>Out of Class</columntext>
+<columnnodetext>Home</columnnodetext>
+</column>
+<column><columnname>ICI</columnname>
+<columnimage>instruct</columnimage>
+<columntext>In Class (Instructor)</columntext>
+<columnnodetext>Instructor</columnnodetext>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columntext>In Class (Students)</columntext>
+<columnnodetext>Students</columnnodetext>
+</column>
+<week><weekid>8</weekid>
+<node><name>Assign problems</name>
+<id>20</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Nomenclature problem set:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1lPErViQSx0tQjxsHit7qfkbk8iIxn-63" target="_blank"&gt;https://drive.google.com/open?id=1lPErViQSx0tQjxsHit7qfkbk8iIxn-63&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>21</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>22</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>23</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>24</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+</week>
+<bracket><id>25</id>
+<icon>gallery-walk</icon>
+<topnode>20</topnode>
+<bottomnode>24</bottomnode>
+</bracket>
+</wfdata></workflow>
+<tag><tagname>Assess the identity of substances based on chemical analysis.</tagname>
+<tagid>4996</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1. Use chemical language and symbols. (CC1)</tagname>
+<tagid>4997</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>1.1 Use chemical language and symbols that accurately represent atoms and isotopes.</tagname>
+<tagid>4998</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>1.2 Use chemical language and symbols that are consistent with the interpretation of chemical formulas:  condensed, structural, semi-structural, stylized.</tagname>
+<tagid>4999</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>1.3 Use chemical language and symbols that follow the rules of inorganic nomenclature.</tagname>
+<tagid>6080</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>2. Analyze a chemical formula. (CC1)</tagname>
+<tagid>5000</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>2.1 Analyze a chemical formula using electron configuration to appropriately justify periodic properties.</tagname>
+<tagid>5001</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>2.2 Analyze a chemical formula to accurately recognize the different types of chemical bonds.</tagname>
+<tagid>5002</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>2.3 Analyze a chemical formula by correctly predicting the Lewis structures.</tagname>
+<tagid>5942</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>2.4 Analyze a chemical formula to draw a correct three-dimensional representation.</tagname>
+<tagid>5943</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>2.5 Analyze a chemical formula to clearly explain a bond according to the orbital overlap theory.</tagname>
+<tagid>5944</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>3. Explain the macroscopic properties of matter. (CC1)</tagname>
+<tagid>5003</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>3.1 Explain the macroscopic properties of matter with correct types of interactions based on the type of compound: covalent, ionic, molecular, metallic.</tagname>
+<tagid>5004</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>3.2 Explain the macroscopic properties of matter with accurate identification of the interactions involved.</tagname>
+<tagid>5005</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>3.3 Explain the macroscopic properties of matter with appropriate association of the energetic aspects of the interactions.</tagname>
+<tagid>6078</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>3.4 Explain the macroscopic properties of matter with coherent explanations.</tagname>
+<tagid>6079</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>4. Apply an experimental technique in the analysis of a substance. (CC1)</tagname>
+<tagid>5006</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>4.1 Apply an experimental technique that is appropriate for the analysis of a substance.</tagname>
+<tagid>5007</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>4.2 Apply an experimental technique with accurate measurement readings of instruments during the analysis of a substance.</tagname>
+<tagid>6075</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>4.3 Apply an experimental technique with correct application during the analysis of a substance.</tagname>
+<tagid>6076</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>4.4 Apply an experiment technique to demonstrate the coherent measurement during the analysis a substance ???</tagname>
+<tagid>6077</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>5. Analyze a substance. (CC1)</tagname>
+<tagid>5008</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>5.1 Analyze a substance with accurate interpretation of the data collected or provided.</tagname>
+<tagid>5009</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>5.2 Analyze a substance by logically deducing the possible formula(s) based on different sources of data.</tagname>
+<tagid>5010</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>5.3 Analyze a substance where the proposed formula is consistent with the data collected or provided.</tagname>
+<tagid>5011</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>8. Apply the probabilistic model of the atom in analyzing the properties of elements. (00UL)</tagname>
+<tagid>6066</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>8.1 Apply the probabilistic model of the atom with appropriate awareness of the historical development when analyzing the properties of elements</tagname>
+<tagid>6067</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>8.2 Apply the probabilistic model of the atom during the study of atoms when analyzing the properties of elements.</tagname>
+<tagid>6068</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>6. Analyze chemical systems from a quantitative point of view. (CC2)</tagname>
+<tagid>6070</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>6.1 Analyze chemical systems from a quantitative point of view that is consistent with the chemical equation(s).</tagname>
+<tagid>6071</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>6.2 Analyze chemical systems from a quantitative point of view with accurate calculation of the reaction yield involving a limiting reactant.</tagname>
+<tagid>6072</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+<tag><tagname>6.5 Analyze chemical systems from a quantitative point of view with correct interpretation of the meaning of the values calculated.</tagname>
+<tagid>6083</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>9. Analyze chemical processes on the basis of energy. (00UL)</tagname>
+<tagid>6073</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>9.1 Analyze chemical and simple physical processes using precise calculation of energy changes.</tagname>
+<tagid>6074</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>7. Describe the phenomena of a solution from an atomic or molecular point of view. (CC2)</tagname>
+<tagid>6081</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>7.4 Describe the phenomena of a solution from an atomic or molecular point of view with correct determination of the type of reaction: precipitation, acid base, redox, complexation (???).</tagname>
+<tagid>6082</tagid>
+<iscollapsed>false</iscollapsed>
+</tag>
+</tag>
+</tag>
+<workflow><wfname>Wk 2: Moles and Molar Mass</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>38</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6071</tagsetARRAY>
+<wfdata><week><weekid>39</weekid>
+<node><name>Assign groups</name>
+<id>41</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor divides the class into small groups (4-6 students) and assigns each to a shared writable surface (whiteboard or interactive board).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Moles and Molar Mass problem set:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1aBeEBX4UuxonT3pHw7LKk9UyN0YQomVi" target="_blank"&gt;https://drive.google.com/open?id=1aBeEBX4UuxonT3pHw7LKk9UyN0YQomVi&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Assign distinct problems</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns one problem for each group. Problems should be closely related but distinct, and there should be at least two different problems.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Begin problem solving</name>
+<id>43</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Groups begin their problem solving process, making sure to record their worked solutions on the surface, e.g. Group 1 working on Problem A, Group 2 working on Problem B, etc.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Interrupt process and switch groups</name>
+<id>44</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor interrupts the process and has students switch problems and take up another group's problem-solving process, e.g. Group 1 moves to Group 2's problem B, Group 2 moves to Group 1's Problem A.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Review work of other group</name>
+<id>45</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Groups review and revise the solution of the first group and decide how they will continue the problem solving process.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Interrupt process again</name>
+<id>46</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor interrupts the process and instructs groups to return to their original problem and evaluated the completed solution.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Evaluate solution to original problem</name>
+<id>47</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Groups review and evaluate the final solution to the original problem - e.g. Group 1 returns to Problem A, which was completed by Group 2.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Instructor evaluation and discussion</name>
+<id>48</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>49</id>
+<icon>distributed-problem-solving</icon>
+<topnode>41</topnode>
+<bottomnode>48</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 3: Finding EF and MF</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>71</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6071,6083</tagsetARRAY>
+<wfdata><week><weekid>72</weekid>
+<node><name>Assign Problem with Scaffolded Questions</name>
+<id>2186</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Students arrange themselves into small groups (5-6).  A problem set with scaffolded questions are given to the students.  Questions start out simple and progress to higher level of difficulty. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Finding EF and MF problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1x-sNjJE_KOjKkxYFOdl520A8QjUS_byV" target="_blank"&gt;https://drive.google.com/open?id=1x-sNjJE_KOjKkxYFOdl520A8QjUS_byV&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve first set of questions</name>
+<id>2264</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students solve the first set of questions and stop at the 'stop sign'.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Instructor Evaluation and Discussion</name>
+<id>2305</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve second set of questions</name>
+<id>2380</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students move on to the second set of questions and stop at the 'stop sign'&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Instructor Evaluation and Discussion</name>
+<id>2381</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve third set of questions</name>
+<id>2382</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students move on to the third set of questions and stop at the 'stop sign'&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Instructor Evaluation and Discussion</name>
+<id>2383</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve last set of questions</name>
+<id>2385</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students move on to the last set of questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Instructor Evaluation and Discussion</name>
+<id>2386</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week></wfdata></workflow>
+<workflow><wfname>Wk 4: Stoichiometry Calculations with LR</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1210</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6070</tagsetARRAY>
+<wfdata><column><columnname>OOC</columnname>
+<columnimage>home</columnimage>
+<columntext>Out of Class</columntext>
+<columnnodetext>Home</columnnodetext>
+</column>
+<column><columnname>ICI</columnname>
+<columnimage>instruct</columnimage>
+<columntext>In Class (Instructor)</columntext>
+<columnnodetext>Instructor</columnnodetext>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columntext>In Class (Students)</columntext>
+<columnnodetext>Students</columnnodetext>
+</column>
+<week><weekid>1211</weekid>
+<node><name>Distribute Case</name>
+<id>1212</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor selects and distributes case study (or studies) that they want students to work with.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Actual workflow can be found on the Saltise website:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/limestone-rescue/" target="_blank"&gt;https://www.saltise.ca/activity/limestone-rescue/&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Read and prepare</name>
+<id>1213</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students - in groups - read the case study and identify key components.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Solve</name>
+<id>1214</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students solve the problems&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>1217</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students compare and contrast their work with that of other groups to determine whether they have completed the required steps. If not, students correct their work. &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Prepare a flow chart</name>
+<id>2726</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each group prepares a flow chart of the steps they took to solve the case.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Instructor evaluation and discussion</name>
+<id>2727</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all flow charts and discusses key points with the class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+</week>
+<bracket><id>1218</id>
+<icon>case-studies</icon>
+<topnode>1212</topnode>
+<bottomnode>1217</bottomnode>
+</bracket>
+</wfdata></workflow>
+<workflow><wfname>Wk 5: Precipitation</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>149</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5004,6081</tagsetARRAY>
+<wfdata><week><weekid>150</weekid>
+<node><name>Assign problems</name>
+<id>151</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Actual workflow can be found on the Saltise website:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/chemistry-if-youre-not-part-of-the-solution-youre-part-of-the-precipitate/" target="_blank"&gt;https://www.saltise.ca/activity/chemistry-if-youre-not-part-of-the-solution-youre-part-of-the-precipitate/&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>152</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>153</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>154</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>155</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>156</id>
+<icon>gallery-walk</icon>
+<topnode>151</topnode>
+<bottomnode>155</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 6: Oxidation States Game</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>184</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6081</tagsetARRAY>
+<wfdata><week><weekid>185</weekid>
+<node><name>Provides information on Oxidation States Game</name>
+<id>3099</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Insert a description here.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Play Game</name>
+<id>3208</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students practice finding the oxidation states in compounds/ions playing an online 'Mahjong' type game&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www2.stetson.edu/mahjongchem/" target="_blank"&gt;https://www2.stetson.edu/mahjongchem/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This game prepares them to do the Balancing Redox Reaction activity.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week></wfdata></workflow>
+<workflow><wfname>Wk 7: Bohr Model</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>233</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6067</tagsetARRAY>
+<wfdata><week><weekid>234</weekid>
+<node><name>Assign problems</name>
+<id>235</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bohr Model problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1_wazU_MQnnsZohRoRZOeUoinXw5qz3PL" target="_blank"&gt;https://drive.google.com/open?id=1_wazU_MQnnsZohRoRZOeUoinXw5qz3PL&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>236</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>237</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>238</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>239</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>240</id>
+<icon>gallery-walk</icon>
+<topnode>235</topnode>
+<bottomnode>239</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 9: Quantum Numbers and Electron Configuration</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>274</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6068,5001</tagsetARRAY>
+<wfdata><week><weekid>275</weekid>
+<node><name>Assign problems</name>
+<id>276</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Quantum Numbers and Electron Configuration problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1H_9_7N9-bZ0d8adRSjPlpufzrdh8H3cq" target="_blank"&gt;https://drive.google.com/open?id=1H_9_7N9-bZ0d8adRSjPlpufzrdh8H3cq&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>277</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>278</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>279</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>280</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>281</id>
+<icon>gallery-walk</icon>
+<topnode>276</topnode>
+<bottomnode>280</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 10: Lewis Structures and Resonance</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>422</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5002,5942</tagsetARRAY>
+<wfdata><week><weekid>423</weekid>
+<node><name>Assign problems</name>
+<id>424</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lewis Structures and Resonance problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1GjqiBxIaUUH_IG1UMAAUWStyqFn3sLNd" target="_blank"&gt;https://drive.google.com/open?id=1GjqiBxIaUUH_IG1UMAAUWStyqFn3sLNd&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>425</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>426</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>427</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>428</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>429</id>
+<icon>gallery-walk</icon>
+<topnode>424</topnode>
+<bottomnode>428</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 11: VSEPR</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>473</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5002,5942,5943,5944</tagsetARRAY>
+<wfdata><week><weekid>474</weekid>
+<node><name>Assign problems</name>
+<id>475</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;VSEPR problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1RiVY1yHpmEWBr8yYqc8m5jvybpPJuPyE" target="_blank"&gt;https://drive.google.com/open?id=1RiVY1yHpmEWBr8yYqc8m5jvybpPJuPyE&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>476</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned VSEPR questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>477</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Students use a PhET simulator to in their Peer Review&lt;/p&gt;&lt;p&gt;Molecule Shapes:  &lt;a href="https://phet.colorado.edu/en/simulation/molecule-shapes" target="_blank"&gt;https://phet.colorado.edu/en/simulation/molecule-shapes&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>478</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>479</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all VSEPR responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve Problems</name>
+<id>3342</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve an online quiz on polarity of molecules.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;'Is the Molecule Polar'?&lt;/p&gt;&lt;p&gt;&lt;a href="https://legacy.chemgym.net/as_a2/topics/intermolecular_forces/quiz_2.html?textMessage=Incorrect.+The+molecule+has+a+dipole+moment+pointing+down." target="_blank"&gt;https://legacy.chemgym.net/as_a2/topics/intermolecular_forces/quiz_2.html?textMessage=Incorrect.+The+molecule+has+a+dipole+moment+pointing+down.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>480</id>
+<icon>gallery-walk</icon>
+<topnode>475</topnode>
+<bottomnode>479</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 12: Bonding and Hybridization</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>525</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5002,5942,5943,5944</tagsetARRAY>
+<wfdata><week><weekid>526</weekid>
+<node><name>Assign problems</name>
+<id>527</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bonding and Hybridization problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1MTHlj5m0IJJ2vCIjQAn8RGfmw6vI_Pmv" target="_blank"&gt;https://drive.google.com/open?id=1MTHlj5m0IJJ2vCIjQAn8RGfmw6vI_Pmv&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>528</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>529</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>530</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>531</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week><bracket><id>532</id>
+<icon>gallery-walk</icon>
+<topnode>527</topnode>
+<bottomnode>531</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 13: Molecular Orbitals</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>620</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5944</tagsetARRAY>
+<wfdata><week><weekid>621</weekid>
+<node><name>Assign problems</name>
+<id>622</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Molecular Orbitals problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1lvih48oW11ENDAGNt4ESHEJm8ev_5xX5" target="_blank"&gt;https://drive.google.com/open?id=1lvih48oW11ENDAGNt4ESHEJm8ev_5xX5&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>623</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>624</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>625</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>626</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+</week><bracket><id>627</id>
+<icon>gallery-walk</icon>
+<topnode>622</topnode>
+<bottomnode>626</bottomnode>
+</bracket></wfdata></workflow>
+<workflow><wfname>Wk 14: Intermolecular Forces</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>679</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>5003</tagsetARRAY>
+<wfdata><week><weekid>680</weekid>
+<node><name>Assign problems</name>
+<id>681</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Intermolecular Forces problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1ADVPEnk_59LkfRWC1Qmki5k6M-rvSx0S" target="_blank"&gt;https://drive.google.com/open?id=1ADVPEnk_59LkfRWC1Qmki5k6M-rvSx0S&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Solve problems</name>
+<id>682</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Peer review</name>
+<id>683</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Analyze feedback</name>
+<id>684</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+<node><name>Class discussion</name>
+<id>685</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+</node>
+</week></wfdata></workflow>
+<workflow><wfname>Wk 6:  Balancing Redox Reactions</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>2910</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6081</tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2911</weekid>
+<node><name>Assign problems</name>
+<id>2913</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor assigns a problem to each group of students. Problems may be identical or distinct, but they generally address related content.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Balancing Redox Reactions problem set:&lt;/p&gt;&lt;p&gt;&lt;a href="https://drive.google.com/open?id=1wGO07-kVbouXHiiy9TrlJgMXMi34C16u" target="_blank"&gt;https://drive.google.com/open?id=1wGO07-kVbouXHiiy9TrlJgMXMi34C16u&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Solve problems</name>
+<id>2914</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students try to solve their assigned problem.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Peer review</name>
+<id>2915</id>
+<lefticon>group</lefticon>
+<righticon>peerreview</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students move around the classroom and peer-review the work completed by another group, making annotations and providing feedback.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Analyze feedback</name>
+<id>2916</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students examine the feedback provided by their peers before finalizing their response.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Class discussion</name>
+<id>2917</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Instructor evaluates all responses with the class, highlighting any errors and distinct procedures for arriving at correct solutions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<bracket><id>2918</id>
+<icon>gallery-walk</icon>
+<topnode>2913</topnode>
+<bottomnode>2917</bottomnode>
+</bracket>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Wk 8: Limestone Rescue</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>4572</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>6070</tagsetARRAY>
+<wfdata><column><columnname>OOC</columnname>
+<columnimage>home</columnimage>
+<columntext>Out of Class</columntext>
+<columnnodetext>Home</columnnodetext>
+</column>
+<column><columnname>ICI</columnname>
+<columnimage>instruct</columnimage>
+<columntext>In Class (Instructor)</columntext>
+<columnnodetext>Instructor</columnnodetext>
+</column>
+<column><columnname>ICS</columnname>
+<columnimage>noinstructor</columnimage>
+<columntext>In Class (Students)</columntext>
+<columnnodetext>Students</columnnodetext>
+</column>
+<week><weekid>4573</weekid>
+<node><name>Distribute Case</name>
+<id>4574</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Refer to Limestone Rescue workflow at: &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.saltise.ca/activity/limestone-rescue/" target="_blank"&gt;https://www.saltise.ca/activity/limestone-rescue/&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Read and prepare</name>
+<id>4575</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Students - individually or in groups - read the case study and identify key components.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Discuss</name>
+<id>4576</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students discuss key components and lessons learned - i.e., general principles or exceptions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Solve case</name>
+<id>4578</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;In groups, students solve the case&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+<node><name>Class Discussion</name>
+<id>4577</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;As a class, instructor and students discuss key components and lessons learned - i.e. general principles or exceptions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<fixedlinkARRAY/>
+<linkportARRAY/>
+<tagARRAY/>
+</node>
+</week>
+<bracket><id>4580</id>
+<icon>case-studies</icon>
+<topnode>4574</topnode>
+<bottomnode>4578</bottomnode>
+</bracket>
+</wfdata></workflow>
+</project>
