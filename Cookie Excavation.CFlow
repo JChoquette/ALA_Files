@@ -1,0 +1,99 @@
+<project><prname>Cookie Excavation</prname>
+<idnum>9</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Cookie Excavation</wfname>
+<wfauthor>By Dario Guiducci</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take the role of archaeologists as they excavate multi-colored chocolate chips from a cookie. This activity provides students with an understanding of the full process involved in excavating artefacts, from the mathematics and planning to the digging, recording, and interpretation of their sites. See a full description here.
+&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Gather the following materials and prepare to transport them safely:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;rainbow-colored chocolate chip cookies&lt;/li&gt;&lt;li&gt;toothpicks&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Give lecture presentation to provide an introduction to Archaeology, including a) an explanation of excavation and field work, b) a description of the field, its goals, methods, and components, and c) the process of collecting data, interpreting results, and dispelling myths&lt;/li&gt;&lt;li&gt;Give students the role of archaeologists that must excavate artifacts (the chocolate chips) from an archaeological site (the cookie) to the best of their ability while keeping the chips intact&lt;/li&gt;&lt;li&gt;Pass out the materials and &lt;u&gt;Excavation Worksheet&lt;/u&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>282</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Outline Excavation and Describe Plan</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete the "Before Excavation" section:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;With a partner, outline the excavation site on Excavation GRID A to identify geographic extent of site&lt;/li&gt;&lt;li&gt;Outline the site again on Data Recording GRID B&lt;/li&gt;&lt;li&gt;Record coordinates for artefacts and sketch it on the GRID B&lt;/li&gt;&lt;li&gt;Describe the “excavation plan” using knowledge gained in lecture and discussion&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: read the worksheet carefully before beginning. It will be the field notebook used to keep track of the excavation and “artifacts.”&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>268</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Excavate the Site</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete the "During Excavation" section:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use a toothpick to excavate your site, while keeping the cookie in place on GRID A&lt;/li&gt;&lt;li&gt;Note the coordinates of artefacts as they are found&lt;/li&gt;&lt;li&gt;Sketch them into GRID B&lt;strong&gt;, &lt;/strong&gt;and&lt;strong&gt; &lt;/strong&gt;place them in the finds bowl.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Try not to break or melt any artefacts during the dig.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>184</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Interpret Site and Reflect on Process</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Complete the "After Excavation" section by answering questions related to interpreting results and patterns found, and challenges encountered.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Stop and Assess Progress</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Stop the excavation work&lt;/li&gt;&lt;li&gt;Ask how many students were successful in excavating whole chips from their cookies&lt;/li&gt;&lt;li&gt;Discuss process and reflections&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: See &lt;u&gt;Teacher Instructions&lt;/u&gt; for examples of question prompts.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Participate in Discussion</name>
+<id>6</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Engage in discussion led by the instructor&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
