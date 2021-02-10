@@ -1,0 +1,68 @@
+<project><prname>Blended Learning</prname>
+<idnum>236</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Blended Learning</wfname>
+<wfauthor>Maxime Denis</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students read an article on Leptin and take a quiz on what they have read. In class, the instructor polls for questions and then starts to lecture on the topic related to the article. See a full description here.	&lt;/p&gt;</wfdescription>
+<wfid>3</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>4</weekid>
+<node><name>Read about a hormone</name>
+<id>23</id>
+<lefticon>solo</lefticon>
+<righticon>reading</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Read a paper about the hormone involved in appetite (leptin).&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Take a Self Assessment</name>
+<id>25</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Complete a self-assessment with a few multiple choice questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Answer a Poll </name>
+<id>27</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;At the beginning of class, respond to a poll for questions.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Continue with Targeted Lecture</name>
+<id>26</id>
+<lefticon>class</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Continue with the lecture material related to the content of their reading &lt;/p&gt;&lt;p&gt;Note: Gage areas where students are having more trouble understanding the material and spend more time on those parts of the lecture.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>111.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>

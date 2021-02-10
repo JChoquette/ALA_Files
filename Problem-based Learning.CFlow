@@ -1,0 +1,118 @@
+<project><prname>Problem-Based Learning</prname>
+<idnum>236</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Problem Based Learning</wfname>
+<wfauthor>By Maxime Denis</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students prepare a presentation on an experiment related to their chosen topic. This activity will allow them analyze a problem and propose for a solution through their presentation. See a full description here.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;At the beginning of the semester&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Distribute a list of topics  related to subjects seen in class&lt;/li&gt;&lt;li&gt;Place students in teams using a random team generator&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Search the Literature </name>
+<id>12</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Search literature to find the function and structure of the chosen protein&lt;/li&gt;&lt;li&gt;Attempt to find diseases associated with mutations in this protein&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Formulate a Research Question</name>
+<id>13</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Form a question that is solved by proposing something novel or by presenting data.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Design an Experiment</name>
+<id>15</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Design a possible experimental approach to find a solution to the problem they have identified.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Develop Questions and Powerpoint</name>
+<id>14</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Come up with three questions and answers related to their topic.&lt;/li&gt;&lt;li&gt;Develop a powerpoint to defend the experiment&lt;/li&gt;&lt;li&gt;Submit questions and powerpoint to the instructor two weeks before a scheduled meeting with the instructor&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: These questions should be designed in such a way so as to rank high on the Bloom's taxonomy scale of complexity. Aim to design questions that foster creative thinking or application of techniques taught in class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>245.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Meet to Assess Groups' Progress</name>
+<id>16</id>
+<lefticon>group</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;During office hours&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meet with one group at a time, 1 week before their presentation (2-3 students at a time)&lt;/li&gt;&lt;li&gt;Listen to the defense of their position and assesses their progress&lt;/li&gt;&lt;li&gt;Prepare them for the questions they will pose the group during their presentation&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188.00001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present Research Project </name>
+<id>17</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Present PowerPoint Presentation&lt;/p&gt;&lt;p&gt;Note: An alternative option, to be OSD-inclusive, is to have prepare a video presentation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>82.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Select Questions</name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Choose one of the three questions prepared by each group to put on the exam.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Answer Questions in Final Exam</name>
+<id>20</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer questions from their peers' presentations during the final exam&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
