@@ -1,0 +1,946 @@
+<project><prname>360-420</prname>
+<idnum>493</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Intro to Statistics</wfname>
+<wfauthor>Rodney Acteson</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>2</weekid>
+<node><name>1 Introduction to Statistics</name>
+<id>390</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>2 Descriptive Statistics</name>
+<id>391</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+</node>
+<node><name>3 Linear Regression and Correlation</name>
+<id>392</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>4 Probability</name>
+<id>398</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>5 Discrete Probability Distribution</name>
+<id>393</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>6 Continuous Probability Distribution</name>
+<id>394</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>7 Normal Distribution</name>
+<id>397</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>8 Central Limit Theorem</name>
+<id>395</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>9 Inferential Statistics</name>
+<id>396</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>10 Hypothesis Testing with One Sample</name>
+<id>399</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>11 Inferences For Proportions</name>
+<id>401</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>12 Inferences about Small Samples: t Distribution</name>
+<id>400</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>13 Inferences for Two Samples</name>
+<id>402</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>14 The F Test for Two Population Variances</name>
+<id>403</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>15 Inferences For The Difference of Two Proportions</name>
+<id>404</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>16 The Chi-Squared Goodness of Fit Test</name>
+<id>405</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Intro to Computer Programming in Engineering and Science</wfname>
+<wfauthor>Laurent R.</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>3</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columntext>Korbit / Preparation</columntext>
+<columnnodetext>Korbit / Preparation</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columntext>Computer  Science
+Lessons</columntext>
+<columnnodetext>Computer  Science
+Lessons</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instruct</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>Physics 
+Lessons</columntext>
+<columnnodetext>Physics 
+Lessons</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<week><weekid>56</weekid>
+<weekname>Week 1</weekname>
+<node><name>Basic terminology and concepts (1.1)</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Understand basic Computer Science terminology and concepts.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Specify typical computer architecture: CPU, RAM, peripherals including secondary storage devices (e.g. hard disks, DVD drives).&lt;/li&gt;&lt;li&gt;Explain the distinction between hardware and software.&lt;/li&gt;&lt;li&gt;Describe the nature and importance of operating systems.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>202.40000915527344</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Python syntax and data types (2.1)</name>
+<id>54</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 2, Class 1 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Python syntax, recognize essential data types.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python syntax: indentation, comments.&lt;/li&gt;&lt;li&gt;Identify given values as well as required input and output.&lt;/li&gt;&lt;li&gt;Explain the meaning of reserved words and identifiers.&lt;/li&gt;&lt;li&gt;Distinguish between primitive data type variables and reference type variables. (mutable vs unmutable)&lt;/li&gt;&lt;li&gt;Define and initialize variables&lt;/li&gt;&lt;li&gt;Use the assignment operator to change values of variables.&lt;/li&gt;&lt;li&gt;String operations&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 1</name>
+<id>125</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The first block will focus on two skills, solving differential equations and optimizing by using numerical methods.&lt;/p&gt;&lt;p&gt;We will use the numerical methods to study models of epidemic outbreaks(!) and the effect of air resistance on moving objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>14</weekid>
+<weekname>Week 2</weekname>
+<node><name>Python syntax and data types (2.2)</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 2, Class 2 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Python syntax, recognize essential data types.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python syntax: indentation, comments.&lt;/li&gt;&lt;li&gt;Identify given values as well as required input and output.&lt;/li&gt;&lt;li&gt;Explain the meaning of reserved words and identifiers.&lt;/li&gt;&lt;li&gt;Distinguish between primitive data type variables and reference type variables. (mutable vs unmutable)&lt;/li&gt;&lt;li&gt;Define and initialize variables&lt;/li&gt;&lt;li&gt;Use the assignment operator to change values of variables.&lt;/li&gt;&lt;li&gt;String operations&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm2 Variables ( 360-420 topic 2, 6 ) </name>
+<id>309</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Sm2 Variables ( 360-420 topic 2, 6 ) &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Storing data , examples &lt;/li&gt;&lt;li&gt;naming variables, reusing them : multiplication example&lt;/li&gt;&lt;li&gt;Primitive data&amp;nbsp;types: float, int , strings , (Boolean) &lt;/li&gt;&lt;li&gt;Equality vs assignment &lt;/li&gt;&lt;li&gt;Naming convention&lt;/li&gt;&lt;li&gt;Exercise: string addition. Using the console&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188.00001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Python syntax and data types (2.3)</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 2, Class 3 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Python syntax, recognize essential data types.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python syntax: indentation, comments.&lt;/li&gt;&lt;li&gt;Identify given values as well as required input and output.&lt;/li&gt;&lt;li&gt;Explain the meaning of reserved words and identifiers.&lt;/li&gt;&lt;li&gt;Distinguish between primitive data type variables and reference type variables. (mutable vs unmutable)&lt;/li&gt;&lt;li&gt;Define and initialize variables&lt;/li&gt;&lt;li&gt;Use the assignment operator to change values of variables.&lt;/li&gt;&lt;li&gt;String operations&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>282.800048828125</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 1</name>
+<id>134</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The first block will focus on two skills, solving differential equations and optimizing by using numerical methods.&lt;/p&gt;&lt;p&gt;We will use the numerical methods to study models of epidemic outbreaks(!) and the effect of air resistance on moving objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>15</weekid>
+<weekname>Week 3</weekname>
+<node><name>Develop a Computer Program with Python (3.1)</name>
+<id>53</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 3, Class 1 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Develop a computer program using the Python programming language.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the steps involved in the program development process.&lt;/li&gt;&lt;li&gt;Identify programs associated with the processing steps – editor and interpreter.&lt;/li&gt;&lt;li&gt;Use an Integrated Development Environment (IDE) that combines programs required to process a computer program.&lt;/li&gt;&lt;li&gt;Describe the purpose of libraries.&lt;/li&gt;&lt;li&gt;Differentiate between logic and syntax errors and run-time errors.&lt;/li&gt;&lt;li&gt;Identify common syntax errors.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm 1: Hello World </name>
+<id>308</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Sm 1: Hello World ( 360-420 topic 3 ) &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is programming&lt;/li&gt;&lt;li&gt;What tools used to go from text to execution: notebook?&lt;/li&gt;&lt;li&gt;My 1&lt;sup&gt;st&lt;/sup&gt; program: adding 2 numbers &lt;strong&gt;video&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Python: indentation, comments, case sensitivity.&lt;/li&gt;&lt;li&gt;Exercise: multiplying 2 numbers. Using the console&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>190.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Develop a Computer Program with Python (3.2)</name>
+<id>168</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 3, Class 2 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Develop a computer program using the Python programming language.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the steps involved in the program development process.&lt;/li&gt;&lt;li&gt;Identify programs associated with the processing steps – editor and interpreter.&lt;/li&gt;&lt;li&gt;Use an Integrated Development Environment (IDE) that combines programs required to process a computer program.&lt;/li&gt;&lt;li&gt;Describe the purpose of libraries.&lt;/li&gt;&lt;li&gt;Differentiate between logic and syntax errors and run-time errors.&lt;/li&gt;&lt;li&gt;Identify common syntax errors.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 1</name>
+<id>131</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The first block will focus on two skills, solving differential equations and optimizing by using numerical methods.&lt;/p&gt;&lt;p&gt;We will use the numerical methods to study models of epidemic outbreaks(!) and the effect of air resistance on moving objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>16</weekid>
+<weekname>Week 4</weekname>
+<node><name>Develop a Computer Program with Python (3.3)</name>
+<id>165</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 3, Class 3 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Develop a computer program using the Python programming language.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the steps involved in the program development process.&lt;/li&gt;&lt;li&gt;Identify programs associated with the processing steps – editor and interpreter.&lt;/li&gt;&lt;li&gt;Use an Integrated Development Environment (IDE) that combines programs required to process a computer program.&lt;/li&gt;&lt;li&gt;Describe the purpose of libraries.&lt;/li&gt;&lt;li&gt;Differentiate between logic and syntax errors and run-time errors.&lt;/li&gt;&lt;li&gt;Identify common syntax errors.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Using the Standard Output Object (2.1)</name>
+<id>52</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 4 Class 1 of 2 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Use the standard output object in order to display results and implement programs that input data from the keyboard and display screen output.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Invoke the print(), input() functions.&lt;/li&gt;&lt;li&gt;Supply functions arguments.&lt;/li&gt;&lt;li&gt;Trace program execution.&lt;/li&gt;&lt;li&gt;Do text-based I/O&lt;/li&gt;&lt;li&gt;Do simple file I/O.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>172.6000213623047</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm4: I/O ( 360-420 topic 4 ) </name>
+<id>314</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Entering data: input. print &lt;/li&gt;&lt;li&gt;Read/write &lt;/li&gt;&lt;li&gt;Casting input&lt;/li&gt;&lt;li&gt;Exercise on strings , int, float&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>101.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm9: File I/O, Error handling ( topic 4 ) </name>
+<id>319</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;File i/o&lt;/li&gt;&lt;li&gt;Error handling&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>72.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 1</name>
+<id>128</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The first block will focus on two skills, solving differential equations and optimizing by using numerical methods.&lt;/p&gt;&lt;p&gt;We will use the numerical methods to study models of epidemic outbreaks(!) and the effect of air resistance on moving objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>17</weekid>
+<weekname>Week 5</weekname>
+<node><name>Using the Standard Output Object (2.2)</name>
+<id>73</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 4 Class 2 of 2 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Use the standard output object in order to display results and implement programs that input data from the keyboard and display screen output.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Invoke the print(), input() functions.&lt;/li&gt;&lt;li&gt;Supply functions arguments.&lt;/li&gt;&lt;li&gt;Trace program execution.&lt;/li&gt;&lt;li&gt;Do text-based I/O&lt;/li&gt;&lt;li&gt;Do simple file I/O.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>172.6000213623047</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluation of Mathematical Equations (5.1)</name>
+<id>80</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 5, Class 1 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve problems that require the evaluation of mathematical equations.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use arithmetic operators respecting the rules of precedence.&lt;/li&gt;&lt;li&gt;Convert arithmetic expressions into Python expressions.&lt;/li&gt;&lt;li&gt;Evaluate Python arithmetic expressions.&lt;/li&gt;&lt;li&gt;Recognize the limitations of numeric data types.&lt;/li&gt;&lt;li&gt;Use methods of the math class – pow(), sqrt(), random(), abs(), min(), and max().&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm3: Operators and Expressions (topic 5) </name>
+<id>313</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Arithmetic operators : +, -,&amp;nbsp;*, /, **, %&lt;/li&gt;&lt;li&gt;Comparison operators ==,! =, &amp;gt;, &amp;gt;=, &amp;lt;, &amp;lt;=,&lt;/li&gt;&lt;li&gt;Logical operators : and, not, or&lt;/li&gt;&lt;li&gt;Operators precedence&amp;nbsp;&lt;/li&gt;&lt;li&gt;Operators&lt;/li&gt;&lt;li&gt;Expressions. Combining operators&lt;/li&gt;&lt;li&gt;Exercise on operators&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>173.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 1</name>
+<id>96</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The first block will focus on two skills, solving differential equations and optimizing by using numerical methods.&lt;/p&gt;&lt;p&gt;We will use the numerical methods to study models of epidemic outbreaks(!) and the effect of air resistance on moving objects.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>18</weekid>
+<weekname>Week 6</weekname>
+<node><name>Evaluation of Mathematical Equations (5.2)</name>
+<id>51</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 5, Class 2 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve problems that require the evaluation of mathematical equations.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use arithmetic operators respecting the rules of precedence.&lt;/li&gt;&lt;li&gt;Convert arithmetic expressions into Python expressions.&lt;/li&gt;&lt;li&gt;Evaluate Python arithmetic expressions.&lt;/li&gt;&lt;li&gt;Recognize the limitations of numeric data types.&lt;/li&gt;&lt;li&gt;Use methods of the math class – pow(), sqrt(), random(), abs(), min(), and max().&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluation of Mathematical Equations (5.3)</name>
+<id>77</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 5, Class 3 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve problems that require the evaluation of mathematical equations.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use arithmetic operators respecting the rules of precedence.&lt;/li&gt;&lt;li&gt;Convert arithmetic expressions into Python expressions.&lt;/li&gt;&lt;li&gt;Evaluate Python arithmetic expressions.&lt;/li&gt;&lt;li&gt;Recognize the limitations of numeric data types.&lt;/li&gt;&lt;li&gt;Use methods of the math class – pow(), sqrt(), random(), abs(), min(), and max().&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>PHYS Project 1 [10%]</name>
+<id>122</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Solving differential equations and optimization.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Towards the end of the block, students will have to work on a project that shows that they master the content and that they can present the method and results using good scientific reporting.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>145.20001220703125</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>19</weekid>
+<weekname>Week 7</weekname>
+<node><name>Computer Science Test 1
+Week 6 or 7 </name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;test 1&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Naming Conventions &amp; Guidelines (6.1)</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 6, Class 1 of 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Code a Python program respecting naming conventions and guidelines.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Apply standard naming conventions.&lt;/li&gt;&lt;li&gt;Apply recommended indentation and program style techniques.&lt;/li&gt;&lt;li&gt;Apply recommended documentation techniques.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182.60000610351562</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm2 Variables ( 360-420 topic 2, 6 ) </name>
+<id>311</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Sm2 Variables ( 360-420 topic 2, 6 ) &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Storing data , examples &lt;/li&gt;&lt;li&gt;naming variables, reusing them : multiplication example&lt;/li&gt;&lt;li&gt;Primitive data&amp;nbsp;types: float, int , strings , (Boolean) &lt;/li&gt;&lt;li&gt;Equality vs assignment &lt;/li&gt;&lt;li&gt;Naming convention&lt;/li&gt;&lt;li&gt;Exercise: string addition. Using the console&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188.00001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>97</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>20</weekid>
+<weekname>Week 8</weekname>
+<node><name>Naming Conventions &amp; Guidelines (6.2)</name>
+<id>85</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 6, Class 2 of 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Code a Python program respecting naming conventions and guidelines.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Apply standard naming conventions.&lt;/li&gt;&lt;li&gt;Apply recommended indentation and program style techniques.&lt;/li&gt;&lt;li&gt;Apply recommended documentation techniques.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>182.60000610351562</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Problems Requiring Decision-Making (7.1)</name>
+<id>49</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 7, Class 1 of 4&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require decision-making.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the three basic control structures – sequence, selection and repetition.&lt;/li&gt;&lt;li&gt;Illustrate control structures using a flowchart.&lt;/li&gt;&lt;li&gt;Code simple if/else selection structures.&lt;/li&gt;&lt;li&gt;Code nested if/else selection structures.&lt;/li&gt;&lt;li&gt;Evaluate the efficiency of selection structures.&lt;/li&gt;&lt;li&gt;Code complex decisions.&lt;/li&gt;&lt;li&gt;Identify the order of precedence of relational and logical operators.&lt;/li&gt;&lt;li&gt;Understand short circuit evaluation.&lt;/li&gt;&lt;li&gt;Understand data validation and its importance to data integrity and system security.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>383.0000305175781</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm5: If Else (topic7) </name>
+<id>315</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Boolean concept &lt;/li&gt;&lt;li&gt;If, else , elif: &lt;/li&gt;&lt;li&gt;Indentation 1&lt;sup&gt;st&lt;/sup&gt; occurrence &lt;/li&gt;&lt;li&gt;Exercise on i/o, if / else : entering a numerical&amp;nbsp;grade and printing the Letter grade&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>132.8000030517578</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>137</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>21</weekid>
+<weekname>Week 9</weekname>
+<node><name>Problems Requiring Decision-Making (7.2)</name>
+<id>94</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 7, Class 2 of 4&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require decision-making.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the three basic control structures – sequence, selection and repetition.&lt;/li&gt;&lt;li&gt;Illustrate control structures using a flowchart.&lt;/li&gt;&lt;li&gt;Code simple if/else selection structures.&lt;/li&gt;&lt;li&gt;Code nested if/else selection structures.&lt;/li&gt;&lt;li&gt;Evaluate the efficiency of selection structures.&lt;/li&gt;&lt;li&gt;Code complex decisions.&lt;/li&gt;&lt;li&gt;Identify the order of precedence of relational and logical operators.&lt;/li&gt;&lt;li&gt;Understand short circuit evaluation.&lt;/li&gt;&lt;li&gt;Understand data validation and its importance to data integrity and system security.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>365.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Problems Requiring Decision-Making (7.3)</name>
+<id>88</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 7, Class 3 of 4&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require decision-making.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the three basic control structures – sequence, selection and repetition.&lt;/li&gt;&lt;li&gt;Illustrate control structures using a flowchart.&lt;/li&gt;&lt;li&gt;Code simple if/else selection structures.&lt;/li&gt;&lt;li&gt;Code nested if/else selection structures.&lt;/li&gt;&lt;li&gt;Evaluate the efficiency of selection structures.&lt;/li&gt;&lt;li&gt;Code complex decisions.&lt;/li&gt;&lt;li&gt;Identify the order of precedence of relational and logical operators.&lt;/li&gt;&lt;li&gt;Understand short circuit evaluation.&lt;/li&gt;&lt;li&gt;Understand data validation and its importance to data integrity and system security.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>365.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>140</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>22</weekid>
+<weekname>Week 10</weekname>
+<node><name>Problems Requiring Decision-Making (7.4)</name>
+<id>91</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 7, Class 4 of 4&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require decision-making.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the three basic control structures – sequence, selection and repetition.&lt;/li&gt;&lt;li&gt;Illustrate control structures using a flowchart.&lt;/li&gt;&lt;li&gt;Code simple if/else selection structures.&lt;/li&gt;&lt;li&gt;Code nested if/else selection structures.&lt;/li&gt;&lt;li&gt;Evaluate the efficiency of selection structures.&lt;/li&gt;&lt;li&gt;Code complex decisions.&lt;/li&gt;&lt;li&gt;Identify the order of precedence of relational and logical operators.&lt;/li&gt;&lt;li&gt;Understand short circuit evaluation.&lt;/li&gt;&lt;li&gt;Understand data validation and its importance to data integrity and system security.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>365.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Function to Solve a Single Identifiable Task (8.1)</name>
+<id>99</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 8, Class 1 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Design a function that solves a single identifiable task.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Solve problems by constructing and using functions that perform one major task.&lt;/li&gt;&lt;li&gt;Create a function.&lt;/li&gt;&lt;li&gt;Invoke a function.&lt;/li&gt;&lt;li&gt;Pass primitive data values to a function.&lt;/li&gt;&lt;li&gt;Return a single value from a function.&lt;/li&gt;&lt;li&gt;Pass a reference value to a function.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>302.1999969482422</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm8: Python Functions ( topic 8 ) </name>
+<id>318</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Syntax&lt;/li&gt;&lt;li&gt;Arguments&lt;/li&gt;&lt;li&gt;Return statement &lt;/li&gt;&lt;li&gt;Function calls &lt;/li&gt;&lt;li&gt;Docstrings&lt;/li&gt;&lt;li&gt;Naming conventions&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>143</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>23</weekid>
+<weekname>Week 11</weekname>
+<node><name>Function to Solve a Single Identifiable Task (8.2)</name>
+<id>48</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 8, Class 2 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Design a function that solves a single identifiable task.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Solve problems by constructing and using functions that perform one major task.&lt;/li&gt;&lt;li&gt;Create a function.&lt;/li&gt;&lt;li&gt;Invoke a function.&lt;/li&gt;&lt;li&gt;Pass primitive data values to a function.&lt;/li&gt;&lt;li&gt;Return a single value from a function.&lt;/li&gt;&lt;li&gt;Pass a reference value to a function.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>302.1999969482422</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Function to Solve a Single Identifiable Task (8.3)</name>
+<id>102</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 8, Class 3 of 3 &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Design a function that solves a single identifiable task.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Solve problems by constructing and using functions that perform one major task.&lt;/li&gt;&lt;li&gt;Create a function.&lt;/li&gt;&lt;li&gt;Invoke a function.&lt;/li&gt;&lt;li&gt;Pass primitive data values to a function.&lt;/li&gt;&lt;li&gt;Return a single value from a function.&lt;/li&gt;&lt;li&gt;Pass a reference value to a function.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>302.1999969482422</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>146</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>24</weekid>
+<weekname>Week 12</weekname>
+<node><name>Repetition of a Block of Statements (9.1)</name>
+<id>47</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 9, Class 1 of 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require the repetition of a block of statements.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use a for loop to perform counter-controlled repetition&lt;/li&gt;&lt;li&gt;introduce list data types&lt;/li&gt;&lt;li&gt;Use a while loop to perform conditional repetition.&lt;/li&gt;&lt;li&gt;Determine the most appropriate repetitive structure.&lt;/li&gt;&lt;li&gt;Outline the function of the break and continue statements.&lt;/li&gt;&lt;li&gt;Describe how and why to avoid the use of the break and continue statements.&lt;/li&gt;&lt;li&gt;Use loop nesting appropriately.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>293.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm6: For Loops (topic 9)</name>
+<id>316</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Concept &lt;/li&gt;&lt;li&gt;Range &lt;/li&gt;&lt;li&gt;Break, continue &lt;/li&gt;&lt;li&gt;Exercise on loops with an if, continue …&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Repetition of a Block of Statements (9.2)</name>
+<id>107</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 9, Class 2 of 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require the repetition of a block of statements.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use a for loop to perform counter-controlled repetition&lt;/li&gt;&lt;li&gt;introduce list data types&lt;/li&gt;&lt;li&gt;Use a while loop to perform conditional repetition.&lt;/li&gt;&lt;li&gt;Determine the most appropriate repetitive structure.&lt;/li&gt;&lt;li&gt;Outline the function of the break and continue statements.&lt;/li&gt;&lt;li&gt;Describe how and why to avoid the use of the break and continue statements.&lt;/li&gt;&lt;li&gt;Use loop nesting appropriately.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>293.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Sm7: While Loops (topic 9) </name>
+<id>317</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>HW</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Boolean concept &lt;/li&gt;&lt;li&gt;Difference with for loop&lt;/li&gt;&lt;li&gt;Infinite loop&lt;/li&gt;&lt;li&gt;Exercise illustrating the difference between for and while loop.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>149</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>112</weekid>
+<weekname>Week 13</weekname>
+<node><name>Repetition of a Block of Statements (9.3)</name>
+<id>110</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 9, Class 3 or 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Solve and implement problems that require the repetition of a block of statements.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use a for loop to perform counter-controlled repetition&lt;/li&gt;&lt;li&gt;introduce list data types&lt;/li&gt;&lt;li&gt;Use a while loop to perform conditional repetition.&lt;/li&gt;&lt;li&gt;Determine the most appropriate repetitive structure.&lt;/li&gt;&lt;li&gt;Outline the function of the break and continue statements.&lt;/li&gt;&lt;li&gt;Describe how and why to avoid the use of the break and continue statements.&lt;/li&gt;&lt;li&gt;Use loop nesting appropriately.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>293.8000183105469</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Arrays and Lists (10.1)</name>
+<id>26</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 10, Class 1 of 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Declare and use arrays and lists: arrays, containers, numpy&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Declare a list of a primitive data type.&lt;/li&gt;&lt;li&gt;Use a for loop to manipulate data stored in an array.&lt;/li&gt;&lt;li&gt;Understand and be able to use single and multiple dimension arrays.&lt;/li&gt;&lt;li&gt;The different types of containers.&lt;/li&gt;&lt;li&gt;Defining and using numpys&lt;/li&gt;&lt;li&gt;Saving results in a file&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259.00001525878906</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>152</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>120</weekid>
+<weekname>Week 14</weekname>
+<node><name>Arrays and Lists (10.2)</name>
+<id>114</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 10, Class 2 of 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Declare and use arrays and lists: arrays, containers, numpy&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Declare a list of a primitive data type.&lt;/li&gt;&lt;li&gt;Use a for loop to manipulate data stored in an array.&lt;/li&gt;&lt;li&gt;Understand and be able to use single and multiple dimension arrays.&lt;/li&gt;&lt;li&gt;The different types of containers.&lt;/li&gt;&lt;li&gt;Defining and using numpys&lt;/li&gt;&lt;li&gt;Saving results in a file&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259.00001525878906</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Arrays and Lists (10.3)</name>
+<id>117</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>AC</column>
+<textHTML>&lt;p&gt;&lt;strong&gt;Topic 10, Class 3 of 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Declare and use arrays and lists: arrays, containers, numpy&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Declare a list of a primitive data type.&lt;/li&gt;&lt;li&gt;Use a for loop to manipulate data stored in an array.&lt;/li&gt;&lt;li&gt;Understand and be able to use single and multiple dimension arrays.&lt;/li&gt;&lt;li&gt;The different types of containers.&lt;/li&gt;&lt;li&gt;Defining and using numpys&lt;/li&gt;&lt;li&gt;Saving results in a file&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>259.00001525878906</textheight>
+<timevalue>1.5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Block 2</name>
+<id>162</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;The second block will tackle a completely different topic. The goal will be to learn how to use the various libraries available in Python to: i) visualize large sets of data, ii) try to find meaningful patterns in the data, and iii) use this knowledge to make predictive models.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>120.80000305175781</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>119</weekid>
+<weekname>Week 15</weekname>
+<node><name>Computer Science Test 2
+Week 14 or 15</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>PHYS Project 2 [20%]</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>SA</column>
+<textHTML>&lt;p&gt;Data Science&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;All the skills developed in this block will be applied to a second project in which students will need to explore a data set on their own and present their results.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.40000915527344</textheight>
+<timevalue>2</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>360-420 Statement of Competencies</tagname>
+<tagid>170</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>To apply the experimental method in a scientific field (00UV)</tagname>
+<tagid>171</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>To represent various situations, drawing upon relevant concepts, laws and principles of science</tagname>
+<tagid>172</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To solve problems using a method proper to science</tagname>
+<tagid>173</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To apply techniques of experimentation or validation specific to science</tagname>
+<tagid>174</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</tag>
+<tag><tagname>Course Objectives and Related Competencies</tagname>
+<tagid>175</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Build upon the knowledge gained in previous science courses by examining actual, complex problems in science and engineering</tagname>
+<tagid>176</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Develop solid problem solving skills by teaching the student how to analyze and break down such complex problems into algorithms that are implemented in software programs</tagname>
+<tagid>178</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Introduce the student to the skills needed to use an object-oriented programming language as a tool to analyze, design, plan, and implement solutions for engineering and scientific problems</tagname>
+<tagid>179</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Upon successful completion of this course the student will be able to:</tagname>
+<tagid>180</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>Solve problems using methods proper to science</tagname>
+<tagid>181</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Demonstrate consistency and rigor in problem solving</tagname>
+<tagid>182</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Justify, orally and in writing, the approach used to solve the problem</tagname>
+<tagid>183</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Apply a software development method to solve engineering and scientific problems</tagname>
+<tagid>184</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Solve scientific problems that require the evaluation of mathematical equations</tagname>
+<tagid>185</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Evaluate and use packages from software libraries to solve engineering and scientific problems</tagname>
+<tagid>186</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Validate and assess the solution to the problem</tagname>
+<tagid>187</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</tag>
+</project>
