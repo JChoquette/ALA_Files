@@ -1,0 +1,793 @@
+<project><prname>Interior Design</prname>
+<idnum>388</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Interior Design</wfname>
+<wfauthor>Anne Marie Legault</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>program</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>168</tagsetARRAY>
+<wfdata><column><columnname>CUS1</columnname>
+<columnimage>target</columnimage>
+<columncolour>#ff7a33</columncolour>
+<columntext>Learn Skills</columntext>
+<columnnodetext>Learn Skills</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>homework</columnimage>
+<columncolour>#1881f2</columncolour>
+<columntext>Build Knowledge</columntext>
+<columnnodetext>Build Knowledge</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS3</columnname>
+<columnimage>lesson</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Apply Skills
+and Knowledge</columntext>
+<columnnodetext>Apply Skills
+and Knowledge</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS4</columnname>
+<columnimage>general</columnimage>
+<columncolour>#474747</columncolour>
+<columntext>General Education</columntext>
+<columnnodetext>General Education</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Drawing from Observation (45 hrs)</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+</node>
+<node><name>2D Studies 
+(45 hrs)</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>171</nodetagid>
+</nodetag>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+</node>
+<node><name>Visual Language of Design (60 hrs)</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>171</nodetagid>
+</nodetag>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+</node>
+<node><name>Materials &amp; Furnishings 1
+(60 hrs)</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>169</nodetagid>
+</nodetag>
+<nodetag><nodetagid>170</nodetagid>
+</nodetag>
+<nodetag><nodetagid>177</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 1 
+(75 hrs)</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>169</nodetagid>
+</nodetag>
+<nodetag><nodetagid>171</nodetagid>
+</nodetag>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+</node>
+<node><name>Humanities
+(45 hrs)</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>English 
+(60 hrs)</name>
+<id>298</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Physical Education 
+(30 hrs)</name>
+<id>301</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<week><weekid>16</weekid>
+<node><name>CAD 1 
+(45 hrs)</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>174</nodetagid>
+</nodetag>
+</node>
+<node><name>Visual Communication 1 (45 hrs)</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+<nodetag><nodetagid>173</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+</node>
+<node><name>Art and the Built Environment (45 hrs)</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>170</nodetagid>
+</nodetag>
+</node>
+<node><name>Materials &amp; Furnishings 2 (45 hrs)</name>
+<id>12</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>169</nodetagid>
+</nodetag>
+<nodetag><nodetagid>170</nodetagid>
+</nodetag>
+<nodetag><nodetagid>177</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+</node>
+<node><name>Colour &amp; Lighting 1 
+(45 hrs)</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>176</nodetagid>
+</nodetag>
+<nodetag><nodetagid>183</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 2 
+(90 hrs)</name>
+<id>14</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>169</nodetagid>
+</nodetag>
+<nodetag><nodetagid>171</nodetagid>
+</nodetag>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>181</nodetagid>
+</nodetag>
+</node>
+<node><name>English 
+(60 hrs)</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Humanities 
+(60 hrs)</name>
+<id>292</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>Physical Education 
+(30 hrs)</name>
+<id>295</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>36</weekid>
+<node><name>CAD 2 (45 hrs)</name>
+<id>29</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>174</nodetagid>
+</nodetag>
+</node>
+<node><name>Visual Communication 2 (45 hrs)</name>
+<id>30</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+<nodetag><nodetagid>173</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+</node>
+<node><name>3D Studies 
+(45 hrs)</name>
+<id>31</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>171</nodetagid>
+</nodetag>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+</node>
+<node><name>Colour &amp; Lighting 2 
+(60 hrs)</name>
+<id>46</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>176</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+<nodetag><nodetagid>183</nodetagid>
+</nodetag>
+</node>
+<node><name>Design and the Built Environment (45 hrs)</name>
+<id>33</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>170</nodetagid>
+</nodetag>
+</node>
+<node><name>Construction Documents 1 (60 hrs)</name>
+<id>32</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>184</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 3 (90 hrs)</name>
+<id>34</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>177</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>187</nodetagid>
+</nodetag>
+</node>
+<node><name>English (60 hrs)</name>
+<id>35</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<week><weekid>57</weekid>
+<node><name>Visual Communication 3 (60 hrs)</name>
+<id>50</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>173</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+<nodetag><nodetagid>183</nodetagid>
+</nodetag>
+</node>
+<node><name>Construction Documents 2 (45 hrs)</name>
+<id>54</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>179</nodetagid>
+</nodetag>
+<nodetag><nodetagid>184</nodetagid>
+</nodetag>
+</node>
+<node><name>Building Systems, Environmental Des. (45 hrs)</name>
+<id>51</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>177</nodetagid>
+</nodetag>
+<nodetag><nodetagid>179</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 4 
+(120 hrs)</name>
+<id>55</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+<nodetag><nodetagid>186</nodetagid>
+</nodetag>
+<nodetag><nodetagid>187</nodetagid>
+</nodetag>
+<nodetag><nodetagid>189</nodetagid>
+</nodetag>
+</node>
+<node><name>Physical Education (30 hrs)</name>
+<id>56</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>French (135 hrs)</name>
+<id>286</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>English (135 hrs)</name>
+<id>289</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<week><weekid>73</weekid>
+<node><name>Building Information Management (45 hrs)</name>
+<id>68</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>173</nodetagid>
+</nodetag>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>177</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>184</nodetagid>
+</nodetag>
+</node>
+<node><name>Professional Practice 1 
+(45 hrs)</name>
+<id>81</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>185</nodetagid>
+</nodetag>
+<nodetag><nodetagid>188</nodetagid>
+</nodetag>
+</node>
+<node><name>Construction Documents 3 (45 hrs)</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>179</nodetagid>
+</nodetag>
+<nodetag><nodetagid>184</nodetagid>
+</nodetag>
+</node>
+<node><name>Human Factors (45 hrs)</name>
+<id>70</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>169</nodetagid>
+</nodetag>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>187</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design V 
+(135 hrs)</name>
+<id>71</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+<nodetag><nodetagid>186</nodetagid>
+</nodetag>
+<nodetag><nodetagid>187</nodetagid>
+</nodetag>
+<nodetag><nodetagid>189</nodetagid>
+</nodetag>
+</node>
+<node><name>Furniture Design &amp; Construction (45 hrs)</name>
+<id>84</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>180</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+</node>
+<node><name>Humanities 
+(45 hrs)</name>
+<id>72</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complementary 
+(45 hrs)</name>
+<id>283</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<week><weekid>94</weekid>
+<node><name>Construction Documents 4  (60 hrs)</name>
+<id>88</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>179</nodetagid>
+</nodetag>
+<nodetag><nodetagid>180</nodetagid>
+</nodetag>
+<nodetag><nodetagid>184</nodetagid>
+</nodetag>
+</node>
+<node><name>Professional Practice 2 
+(45 hrs)</name>
+<id>90</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>185</nodetagid>
+</nodetag>
+<nodetag><nodetagid>188</nodetagid>
+</nodetag>
+<nodetag><nodetagid>189</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 6
+(180 hrs)</name>
+<id>91</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+<nodetag><nodetagid>186</nodetagid>
+</nodetag>
+<nodetag><nodetagid>187</nodetagid>
+</nodetag>
+<nodetag><nodetagid>189</nodetagid>
+</nodetag>
+</node>
+<node><name>Industry Practicum 
+(60 hrs)</name>
+<id>92</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>185</nodetagid>
+</nodetag>
+<nodetag><nodetagid>188</nodetagid>
+</nodetag>
+</node>
+<node><name>French 
+(45 hrs)</name>
+<id>93</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complementary 
+(45 hrs)</name>
+<id>280</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<tag><tagname>Competencies</tagname>
+<tagid>168</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>To analyze the job function / Analyser la fonction de travail (G) - 022A</tagname>
+<tagid>169</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To integrate historic and artistic trends into interior design / Int�grer les courants historiques et artistiques au design d�int�rieur (G) - 022B</tagname>
+<tagid>170</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To develop ideas / D�velopper des id�es (G) - 022C</tagname>
+<tagid>171</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To produce sketches / Faire des esquisses (G) - 022D</tagname>
+<tagid>172</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To MODEL objects and spaces to scale / Mod�liser des objets et des espaces (G) - *022E</tagname>
+<tagid>173</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To produce computer assisted drawings / Effectuer des dessins assist�s par ordinateur (G) - 022F</tagname>
+<tagid>174</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>New Activity Outcome</tagname>
+<tagid>190</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>To interact with clients, resource-persons and colleagues / Interagir avec les clientes et les clients, les personnes-ressources et les coll�gues de travail (G) - 022G</tagname>
+<tagid>175</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To create a mood using colour / Cr�er des ambiances par la couleur (P) - 029H</tagname>
+<tagid>176</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To suggest finishes and materials for a project / Proposer les finis et les mat�riaux relatifs � un projet (G) - 022H</tagname>
+<tagid>177</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To specify the furniture, accessories and equipment for a project / Sp�cifier le mobilier en s�rie, les accessoires d�coratifs et l��quipement n�cessaires � un projet (G) - *022J</tagname>
+<tagid>178</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To use interior architectural and construction elements / �laborer une composition architecturale int�rieure (G) - *026H</tagname>
+<tagid>179</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To design custom elements / Concevoir des �l�ments sur mesure (P) - 026J</tagname>
+<tagid>180</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To create an interior design concept for a residence / Cr�er un concept de design d�int�rieur r�sidentiel (P) - 026K</tagname>
+<tagid>181</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To present a design project / Pr�senter un projet de design (P) - 027Y</tagname>
+<tagid>182</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To create lighting concepts / Cr�er des concepts d��clairage (G) - 027Z</tagname>
+<tagid>183</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To produce working drawings and specifications / Produire des plans d�ex�cution (P) - *029X</tagname>
+<tagid>184</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To perfrom project management activities / Effectuer des activit�s relatives � la gestion de projet (G) - *029Y</tagname>
+<tagid>185</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To plan a layout for a commercial, industrial or public building / Planifier un am�nagement pour un �tablissement commercial, industriel ou public (P) - 029Z</tagname>
+<tagid>186</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To create an interior design concept for a commercial, industrial or public building / Cr�er un concept de design d�int�rieur pour un �tablissement commercial, industriel ou public (P) - 02A0</tagname>
+<tagid>187</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To promote one&apos;s services / Promouvoir ses services (G) - 029V</tagname>
+<tagid>188</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>To develop an interior design project / Concevoir un projet de design d�int�rieur (P) - 02A1</tagname>
+<tagid>189</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+</project>
