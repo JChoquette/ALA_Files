@@ -1,5 +1,5 @@
 <project><prname> CEBD 1260 –Introduction to machine learning</prname>
-<idnum>7618</idnum>
+<idnum>7824</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>StVrsn_CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
@@ -11,7 +11,6 @@
 <wfdata><column><columnname>HW</columnname>
 <columntext>Preparation (students)</columntext>
 <columnnodetext>Preparation (students)</columnnodetext>
-<columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <column><columnname>CUS1</columnname>
 <columnimage>solo</columnimage>
@@ -37,11 +36,11 @@
 <columncolour>#116444</columncolour>
 <columntext>Offline Assignments</columntext>
 <columnnodetext>Offline Assignments</columnnodetext>
-<columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <column><columnname>SA</columnname>
 <columntext>Project / Assessments</columntext>
 <columnnodetext>Project / Assessments</columnnodetext>
+<columnoutcomevisibility>false</columnoutcomevisibility>
 </column>
 <week><weekid>278</weekid>
 <weekname>Week 1: general terms and development review for ML</weekname>
@@ -52,7 +51,7 @@
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;important concepts and terminologies in ML/AI&lt;/li&gt;&lt;li&gt;Data mining, machine learning and AI definition and their relationship/differences&lt;/li&gt;&lt;li&gt;often-used platform and toolbox in ML/AI&lt;/li&gt;&lt;li&gt;Role /work flow as data analyst/scientist/engineer&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;NOTE:&lt;/p&gt;&lt;p&gt;Korbit and complementary materials will be used together for students understanding. Student should keep reading throughout the entire course&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>270</textheight>
+<textheight>264</textheight>
 <isdropped>true</isdropped>
 <link><targetid>3951</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -69,7 +68,7 @@
 <column>AC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;What is machine learning (ML) and artificial intelligence (AI)&lt;/li&gt;&lt;li&gt;What are their relationships and differences&lt;/li&gt;&lt;li&gt;Over view of often-used toolkits and programming languages in ML/AI development&lt;/li&gt;&lt;li&gt;Career path and learning path of being a data scientist and data engineer&lt;/li&gt;&lt;li&gt;Overview of applications in diverse businesses for ML/AI&lt;/li&gt;&lt;li&gt;Overview and guideline for ML libs installation and environment setting&lt;/li&gt;&lt;li&gt;Assign multiple projects for students according to their timeline and difficulties of the project&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Groups and Projects are chosen in Session #1&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>332</textheight>
+<textheight>324</textheight>
 <timevalue>180</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -92,7 +91,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Introduction to Korbit is important for student at #1 session. I will introduce how to use it cross all sessions constantly and will be used as one portion of their marks&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77</textheight>
+<textheight>76</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -104,7 +103,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Linear Algebra Basics (2)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why Learn Linear Algebra?&lt;/li&gt;&lt;li&gt;Vectors and Matrices and Scalars&lt;/li&gt;&lt;li&gt;Addition and Scalar Multiplication and Transpose&lt;/li&gt;&lt;li&gt;Dot Product&lt;/li&gt;&lt;li&gt;Norm and Euclidean Distance&lt;/li&gt;&lt;li&gt;Matrix Multiplication&lt;/li&gt;&lt;li&gt;Identity Matrix&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: Review these sub-modules throughout the semester for a stronger foundation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>284</textheight>
+<textheight>278</textheight>
 <isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -119,7 +118,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;To support your learning, the following sub-modules may be helpful to review after session #1.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Probability Basics (3)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction to Probability&lt;/li&gt;&lt;li&gt;Discrete vs. Continuous Random Variables&lt;/li&gt;&lt;li&gt;Expected Value vs. Sample Mean&lt;/li&gt;&lt;li&gt;Variance and Standard Deviation&lt;/li&gt;&lt;li&gt;Binomial Distribution&lt;/li&gt;&lt;li&gt;Normal distribution&lt;/li&gt;&lt;li&gt;conditional probability&lt;/li&gt;&lt;li&gt;Joint and marginal probability&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;Review these sub-modules throughout the semester for a stronger foundation&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>298</textheight>
+<textheight>292</textheight>
 <isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -137,7 +136,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;To master session #2, review Korbit sub-modules before class:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Machine Learning Overview (9)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Motivation of ML&lt;/li&gt;&lt;li&gt;Supervised learning&lt;/li&gt;&lt;li&gt;Overfitting and underfitting&lt;/li&gt;&lt;li&gt;Bias-variance trade-off and decomposition&lt;/li&gt;&lt;li&gt;Gradient descent&lt;/li&gt;&lt;li&gt;Summary of ML&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Foundational ML Theory (7)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cross validation (HD)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>265</textheight>
+<textheight>260</textheight>
 <isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -164,7 +163,7 @@
 <column>HW</column>
 <textHTML>&lt;p&gt;Complete readings:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Types of learning &lt;/strong&gt;(supervised &amp;amp; unsupervised)&lt;/li&gt;&lt;li&gt;overfitting and underfitting&lt;/li&gt;&lt;li&gt;Generalization and robustness in ML&lt;/li&gt;&lt;li&gt;Overfit and underfit concept&lt;/li&gt;&lt;li&gt;Identify data format(input features and target)&lt;/li&gt;&lt;li&gt;How to prepare data (split dataset)&lt;/li&gt;&lt;li&gt;Train, validation and test and how they work&lt;/li&gt;&lt;li&gt;Concept of loss function&lt;/li&gt;&lt;li&gt;Cross validation strategy&lt;/li&gt;&lt;li&gt;What are evaluation metrics used in ML&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>274</textheight>
+<textheight>268</textheight>
 <isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -177,7 +176,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;Provide a comprehensive bigger picture and methodologies used in ML and key techniques&lt;/p&gt;&lt;ul&gt;&lt;li&gt;generalization of ML&lt;/li&gt;&lt;li&gt;overfitting and underfitting&lt;/li&gt;&lt;li&gt;learning types and format&lt;/li&gt;&lt;li&gt;split data into train, valid and test&lt;/li&gt;&lt;li&gt;Categorical and numerical features&lt;/li&gt;&lt;li&gt;loss function as objective&lt;/li&gt;&lt;li&gt;why does ML use loss&lt;/li&gt;&lt;li&gt;loss functions for classification and regression (just overview and concept build)&lt;/li&gt;&lt;li&gt;how to learn(gradient descent)&lt;/li&gt;&lt;li&gt;visualize how gradient decent works&lt;/li&gt;&lt;li&gt;Cross validation strategy&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>288</textheight>
+<textheight>282</textheight>
 <timevalue>110</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -201,6 +200,20 @@
 </nodetag>
 <nodetag><nodetagid>563</nodetagid>
 </nodetag>
+<nodetag><nodetagid>7287</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7294</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7295</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7298</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7299</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7301</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7303</nodetagid>
+</nodetag>
 </node>
 <node><name>#2 Code Demo &amp; Practice</name>
 <id>3955</id>
@@ -209,7 +222,7 @@
 <column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Read/load data, split data by input features and target variables using pandas&lt;/li&gt;&lt;li&gt;Identify categorical and numerical features in the dataset&lt;/li&gt;&lt;li&gt;Split data into train, validation and test by sklearn API&lt;/li&gt;&lt;li&gt;Split total data by cross validation strategy using sklearn API&lt;/li&gt;&lt;li&gt;Get to know loss functions provided by sklearn API&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202</textheight>
+<textheight>198</textheight>
 <timevalue>70</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -239,7 +252,7 @@
 <column>CUS2</column>
 <textHTML>&lt;p&gt;Complete theoretical assignment&lt;strong&gt;, due at Session #5&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand supervised/unsupervised learning tasks and classification/regression&lt;/li&gt;&lt;li&gt;data splitting strategies&lt;/li&gt;&lt;li&gt;imbalanced dataset (extensive reading and review)&lt;/li&gt;&lt;li&gt;learning rule calculation for linear regression(bonus point)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note: You can work on this assignment over the next two weeks.&lt;/strong&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>216</textheight>
+<textheight>212</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>542</nodetagid>
 </nodetag>
@@ -263,7 +276,7 @@
 <column>CUS2</column>
 <textHTML>&lt;p&gt;For projects, students complete the following, &lt;strong&gt;which is due next week&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;practice data splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice cross validation splitting and sklearn API&lt;/li&gt;&lt;li&gt;practice calculate loss using sklearn API&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>173</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6283</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -294,7 +307,7 @@
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules before session #3:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Data Science Basics (1)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is a Dataset?&lt;/li&gt;&lt;li&gt;Exploratory Data Analysis&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Data Preprocessing (6)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Overview of Data Preprocessing&lt;/li&gt;&lt;li&gt;One-hot encoding&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>227</textheight>
+<textheight>223</textheight>
 <isdropped>true</isdropped>
 <link><targetid>23</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -313,7 +326,7 @@
 <column>HW</column>
 <textHTML>&lt;p&gt;Provide some reading lists for understanding:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;NOTE:  external readings will be updated as links according to students progress and needs&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Categorical and numerical variables&lt;/li&gt;&lt;li&gt;refresh of pandas data processing API&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>183</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -326,7 +339,7 @@
 <column>AC</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data Preprocessing 1: Basic Processing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lecture includes the following concepts &amp;amp; topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Missing data analysis&lt;/li&gt;&lt;li&gt;Data type check and conversion&lt;/li&gt;&lt;li&gt;Indexing and query data by conditions&lt;/li&gt;&lt;li&gt;Groupby and merge tables&lt;/li&gt;&lt;li&gt;Lambda expressions in pandas&lt;/li&gt;&lt;li&gt;Process categorical data (label encoding and one hot encoding)&lt;/li&gt;&lt;li&gt;Process numerical data(normalize)&lt;/li&gt;&lt;li&gt;Sparse matrix for large dimensional features&lt;/li&gt;&lt;li&gt;Memory management skills for larger data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>279</textheight>
+<textheight>273</textheight>
 <timevalue>100</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -350,6 +363,12 @@
 </nodetag>
 <nodetag><nodetagid>560</nodetagid>
 </nodetag>
+<nodetag><nodetagid>7250</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7279</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7281</nodetagid>
+</nodetag>
 </node>
 <node><name>#3 Code Demo &amp; Practice</name>
 <id>4078</id>
@@ -358,7 +377,7 @@
 <column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data preprocessing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provided coding practice for preprocessing in pandas using student's project datasets as demo&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data I/O in pandas&lt;/li&gt;&lt;li&gt;Data type conversion&lt;/li&gt;&lt;li&gt;Find and fill missing data&lt;/li&gt;&lt;li&gt;Indexing subset from total data&lt;/li&gt;&lt;li&gt;Table aggregation, join and merge&lt;/li&gt;&lt;li&gt;Fast processing using lambda expression&lt;/li&gt;&lt;li&gt;Label &amp;amp; one-hot encoding categorical data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>236</textheight>
+<textheight>231</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -378,7 +397,7 @@ Basic Processing</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Due next week&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asked students to practice all aspects of basic data preprocessing based on their own project datasets&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>82</textheight>
+<textheight>81</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6285</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -407,7 +426,7 @@ Basic Processing</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules before class:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Data Preprocessing (6)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Feature Engineering&lt;/li&gt;&lt;li&gt;feature selection&lt;/li&gt;&lt;li&gt;feature scaling&lt;/li&gt;&lt;li&gt;feature importance&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>135</textheight>
+<textheight>133</textheight>
 <isdropped>true</isdropped>
 <link><targetid>23</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -428,7 +447,7 @@ Basic Processing</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Data Preprocessing 2: Feature Engineering&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lecture on feature engineering, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Feature engineering for timestamp/date related features&lt;/li&gt;&lt;li&gt;Feature engineering for categorical features&lt;/li&gt;&lt;li&gt;Feature engineering at aggregation level stats&lt;/li&gt;&lt;li&gt;Feature engineering on business sense&lt;/li&gt;&lt;li&gt;Feature selection skills&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>236</textheight>
+<textheight>231</textheight>
 <timevalue>100</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -446,6 +465,14 @@ Basic Processing</name>
 </nodetag>
 <nodetag><nodetagid>563</nodetagid>
 </nodetag>
+<nodetag><nodetagid>7280</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7282</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7283</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7284</nodetagid>
+</nodetag>
 </node>
 <node><name>#4 Code Demo &amp; Practice</name>
 <id>139</id>
@@ -454,7 +481,7 @@ Basic Processing</name>
 <column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;&lt;span class="ql-cursor"&gt;﻿&lt;/span&gt;Feature engineering code &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In-class code practice on feature engineering includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Process timestamp, extract time information&lt;/li&gt;&lt;li&gt;Extract features on categorical data&lt;/li&gt;&lt;li&gt;feature aggregation&lt;/li&gt;&lt;li&gt;Customize features based on business understanding (open practice)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>193</textheight>
+<textheight>189</textheight>
 <timevalue>80</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -484,7 +511,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Assignment for feature engineering&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Due date next week&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Replay in-class code demo by using your own dataset&lt;/li&gt;&lt;li&gt;Come up with new business-orientated features based on your own project dataset&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>169</textheight>
+<textheight>166</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6288</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -513,7 +540,7 @@ Feature Engineering</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules before class:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Classification (5)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Binary classification&lt;/li&gt;&lt;li&gt;logistic regression basic&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sigmoid function (removed)!!&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Evaluation Metrics (classification)&lt;/li&gt;&lt;li&gt;binary classification for imbalanced classes&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>183</textheight>
+<textheight>180</textheight>
 <isdropped>true</isdropped>
 <link><targetid>101</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -528,7 +555,7 @@ Feature Engineering</name>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Tree based models&lt;/li&gt;&lt;li&gt;Entropy and information gain&lt;/li&gt;&lt;li&gt;Precision and recall, F1 score&lt;/li&gt;&lt;li&gt;ROC-AUC score&lt;/li&gt;&lt;li&gt;Random Forest &lt;/li&gt;&lt;li&gt;Gradient boosting tree classifier&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 <link><targetid>101</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -541,7 +568,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on classification models, including the following concepts and processes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear classifier ; perceptron and logistic regression&lt;/li&gt;&lt;li&gt;Log loss for binary classification&lt;/li&gt;&lt;li&gt;Softmax for multi-class classification &lt;/li&gt;&lt;li&gt;Sigmoid activation function for output&lt;/li&gt;&lt;li&gt;Decision tree and its principals&lt;/li&gt;&lt;li&gt;Entropy and information gain&lt;/li&gt;&lt;li&gt;Shannon information and its general property&lt;/li&gt;&lt;li&gt;Random forest &lt;/li&gt;&lt;li&gt;Gradient boosting machine&lt;/li&gt;&lt;li&gt;Evaluation metrics for classification&lt;/li&gt;&lt;li class="ql-indent-1"&gt;F1 score, confusion matrix&lt;/li&gt;&lt;li class="ql-indent-1"&gt;ROC curve&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>303</textheight>
+<textheight>296</textheight>
 <timevalue>130</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -569,6 +596,8 @@ Feature Engineering</name>
 </nodetag>
 <nodetag><nodetagid>560</nodetagid>
 </nodetag>
+<nodetag><nodetagid>7273</nodetagid>
+</nodetag>
 </node>
 <node><name>#5 Code Demo &amp; Practice</name>
 <id>140</id>
@@ -577,7 +606,7 @@ Feature Engineering</name>
 <column>CUS3</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;5: Train first model by classifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Build first model pipeline using linear classifier (perceptron) and nonlinear classifier (random forest and gradient boosting machine)&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>97</textheight>
+<textheight>95</textheight>
 <timevalue>50</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -597,7 +626,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;#5 theory assignment includes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;understand entropy and its property&lt;/li&gt;&lt;li&gt;derive learning rule for logistic regression based on binary log-loss&lt;/li&gt;&lt;li&gt;understanding F1 score&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Due date in 2 weeks&lt;/strong&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>164</textheight>
+<textheight>161</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>#5 Coding Assignment</name>
@@ -636,7 +665,7 @@ Feature Engineering</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;Review Korbit sub-modules before class:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Linear Regression (4)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;evaluation matrix(regression)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Foundational ML Theory (7)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hyperparameters tuning&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>178</textheight>
+<textheight>176</textheight>
 <isdropped>true</isdropped>
 <link><targetid>121</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
@@ -653,7 +682,7 @@ Feature Engineering</name>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Regularization and  penalty in ML&lt;/li&gt;&lt;li&gt;L1 and L2 mathematical principals&lt;/li&gt;&lt;li&gt;Ensemble methods&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>87</textheight>
+<textheight>86</textheight>
 <isdropped>true</isdropped>
 <link><targetid>121</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -666,7 +695,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on Regression, including the following concepts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;Regularization (L1 and L2)&lt;/li&gt;&lt;li&gt;Ensemble: bagging and boosting&lt;/li&gt;&lt;li&gt;LightGBM and Xgboost introduction&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130</textheight>
+<textheight>128</textheight>
 <timevalue>100</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -678,6 +707,10 @@ Feature Engineering</name>
 </link>
 <nodetag><nodetagid>562</nodetagid>
 </nodetag>
+<nodetag><nodetagid>7270</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7289</nodetagid>
+</nodetag>
 </node>
 <node><name>#6 Code Demo &amp; Practice</name>
 <id>141</id>
@@ -686,7 +719,7 @@ Feature Engineering</name>
 <column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Train lightGBM&lt;/li&gt;&lt;li&gt;Hyper-parameters tuning in lightGBM&lt;/li&gt;&lt;li&gt;Learning rate, early-stopping tuning&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>101</textheight>
+<textheight>100</textheight>
 <timevalue>80</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -703,7 +736,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Project coding practice/ activity (due next week)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;train models using lightGBM and hyperparameter tuning, early stopping&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>102</textheight>
+<textheight>100</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6294</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -733,7 +766,7 @@ Feature Engineering</name>
 <column>HW</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;review and install docker image box&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>87</textheight>
+<textheight>86</textheight>
 <isdropped>true</isdropped>
 <link><targetid>124</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -746,7 +779,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on advanced feature engineering and docker images includes&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Feature importance and rank&lt;/li&gt;&lt;li&gt;Feature selection skills&lt;/li&gt;&lt;li&gt;Target encoding skill&lt;/li&gt;&lt;li&gt;Bayesian models in probability perspective&lt;/li&gt;&lt;li&gt;Spam mail detection overview by naive Bayes&lt;/li&gt;&lt;li&gt;Docker image: shift your code entirely to clients&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202</textheight>
+<textheight>198</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -780,7 +813,7 @@ Feature Engineering</name>
 <column>CUS3</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Target encoding&lt;/li&gt;&lt;li&gt;Other advanced feature engineering skills&lt;/li&gt;&lt;li&gt;create docker images step by step&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>101</textheight>
+<textheight>100</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -797,7 +830,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Apply target encoding on project data&lt;/li&gt;&lt;li&gt;Fine tune pipeline model&lt;/li&gt;&lt;li&gt;Use feature selection and rank to improve model performance&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>116</textheight>
+<textheight>114</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6297</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -827,7 +860,7 @@ Feature Engineering</name>
 <column>HW</column>
 <textHTML>&lt;p&gt;please review:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Property of time series data&lt;/li&gt;&lt;li&gt;lag features&lt;/li&gt;&lt;li&gt;rolling features&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>101</textheight>
+<textheight>100</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>#8 Session: Time series analysis</name>
@@ -837,7 +870,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on time series analysis, including the following &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Basic property of time series data&lt;/li&gt;&lt;li&gt;Some important index in time series data&lt;/li&gt;&lt;li&gt;Strategy to split time series data&lt;/li&gt;&lt;li&gt;Moving averge&lt;/li&gt;&lt;li&gt;Culmulative sum&lt;/li&gt;&lt;li&gt;Lagged features&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>173</textheight>
+<textheight>170</textheight>
 <timevalue>120</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -873,7 +906,7 @@ Feature Engineering</name>
 <column>CUS3</column>
 <textHTML>&lt;p&gt;In-class coding demo for time series provided&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pipeline for time series data analysis&lt;/li&gt;&lt;li&gt;Important features demo to improve time series model &lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130</textheight>
+<textheight>128</textheight>
 <timevalue>60</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -892,7 +925,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;continue fine tune models&lt;/li&gt;&lt;li&gt;practice rolling mean&lt;/li&gt;&lt;li&gt;practice cumsum &lt;/li&gt;&lt;li&gt;practice lagged features for time series demo data&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>116</textheight>
+<textheight>114</textheight>
 <isdropped>true</isdropped>
 <link><targetid>6300</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -922,7 +955,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;Lecture on K-means clustering &amp;amp; Dimensionality Reduction, including the following concepts and topics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensionality reduction introduction&lt;/li&gt;&lt;li&gt;PCA analysis introduction&lt;/li&gt;&lt;li&gt;Clustering: K-means&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>144</textheight>
+<textheight>142</textheight>
 <timevalue>90</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -932,6 +965,10 @@ Feature Engineering</name>
 <link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
+<nodetag><nodetagid>7285</nodetagid>
+</nodetag>
+<nodetag><nodetagid>7292</nodetagid>
+</nodetag>
 </node>
 <node><name>#9 Korbit: Module 8 &amp; 6</name>
 <id>4342</id>
@@ -940,7 +977,7 @@ Feature Engineering</name>
 <column>CUS1</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Unsupervised Learning (8)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;k-means clustering&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Data Preprocessing (6)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;dimensionality reduction&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>125</textheight>
+<textheight>124</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>7292</nodetagid>
 </nodetag>
@@ -969,7 +1006,7 @@ Feature Engineering</name>
 <column>CUS2</column>
 <textHTML>&lt;p&gt;&lt;strong&gt;Coding practice. &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;replay k-means clustering and PCA from demo code&lt;/li&gt;&lt;li&gt;work on project code and push them into production level code base&lt;/li&gt;&lt;li&gt;review ML coding skills and be ready for final test&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>159</textheight>
+<textheight>156</textheight>
 <isdropped>true</isdropped>
 <link><targetid>147</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INw;</portstyle>
@@ -982,7 +1019,7 @@ Feature Engineering</name>
 <column>SA</column>
 <textHTML>&lt;p&gt;The final project is worth 60%&lt;/p&gt;&lt;p&gt;The final project should contain&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The complete and clean code developed to implement the analyses&lt;/li&gt;&lt;li&gt;A README file briefly summarizing the results obtained and explaining how to reproduce the results&lt;/li&gt;&lt;li&gt;A report of project describing the analysis and findings&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: Submit the night before class&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>226</textheight>
+<textheight>222</textheight>
 <isdropped>true</isdropped>
 <link><targetid>136</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
@@ -998,7 +1035,7 @@ Feature Engineering</name>
 <column>AC</column>
 <textHTML>&lt;p&gt;The final test is worth 10%&lt;/p&gt;&lt;p&gt;Use selected small data set for final in-class evaluation/test and competition&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>68</textheight>
+<textheight>67</textheight>
 <timevalue>150</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -1027,7 +1064,7 @@ Feature Engineering</name>
 </week>
 <wflegendx>940</wflegendx>
 <wflegendy>400</wflegendy>
-<wfoutcomesorttype>column</wfoutcomesorttype>
+<wfoutcomesorttype>week</wfoutcomesorttype>
 </wfdata></workflow>
 <tag><tagname>CCE Competencies</tagname>
 <tagid>541</tagid>
