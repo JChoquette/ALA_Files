@@ -1,5 +1,5 @@
 <project><prname>Nursing - Champlain</prname>
-<idnum>882</idnum>
+<idnum>1365</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>Nursing - Champlain</wfname>
 <wfauthor>undefined</wfauthor>
@@ -7,19 +7,12 @@
 <wfid>3</wfid>
 <wftype>program</wftype>
 <usedwfARRAY></usedwfARRAY>
-<tagsetARRAY>483</tagsetARRAY>
+<tagsetARRAY>483,757</tagsetARRAY>
 <wfdata><column><columnname>CUS1</columnname>
 <columnimage>gears</columnimage>
 <columncolour>#369934</columncolour>
-<columntext>Course Category 1</columntext>
-<columnnodetext>Course Category 1</columnnodetext>
-<columnoutcomevisibility>true</columnoutcomevisibility>
-</column>
-<column><columnname>CUS2</columnname>
-<columnimage>science</columnimage>
-<columncolour>#369934</columncolour>
-<columntext>Course Category 2</columntext>
-<columnnodetext>Course Category 2</columnnodetext>
+<columntext>Nursing - Specific</columntext>
+<columnnodetext>Nursing - Specific</columnnodetext>
 <columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <column><columnname>CUS3</columnname>
@@ -27,6 +20,15 @@
 <columncolour>#369934</columncolour>
 <columntext>Clinical</columntext>
 <columnnodetext>Clinical</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>science</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Biology, Sociology, 
+Psychology</columntext>
+<columnnodetext>Biology, Sociology, 
+Psychology</columnnodetext>
 <columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <column><columnname>CUS4</columnname>
@@ -57,32 +59,32 @@
 <nodetag><nodetagid>555</nodetagid>
 </nodetag>
 </node>
+<node><name>Health Assess. &amp; Phys. Exam 180-N12-LA</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Health Assessment &amp;amp; Physical Examination&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>506</nodetagid>
+</nodetag>
+</node>
 <node><name>Anatomy and Physiology 1 
 101-N11-LA</name>
 <id>6</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>CUS1</column>
+<column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
 <nodetag><nodetagid>489</nodetagid>
-</nodetag>
-</node>
-<node><name>Health Assess. &amp; Phys. Exam 180-N12-LA</name>
-<id>7</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS2</column>
-<textHTML>&lt;p&gt;Health Assessment &amp;amp; Physical Examination&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>34.400001525878906</textheight>
-<timevalue>45</timevalue>
-<timeunit>hr</timeunit>
-<isdropped>true</isdropped>
-<nodetag><nodetagid>506</nodetagid>
 </nodetag>
 </node>
 <node><name>Comm. &amp; Prof. Challenges 
@@ -93,7 +95,7 @@
 <column>CUS2</column>
 <textHTML>&lt;p&gt;Communication &amp;amp; Professional Challenges in Nursing&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48.80000305175781</textheight>
+<textheight>48</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -132,27 +134,13 @@
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 </node>
 </week>
 <week><weekid>20</weekid>
-<node><name>Anatomy and Physiology II
-101-N21-LA </name>
-<id>13</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS1</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<timevalue>75</timevalue>
-<timeunit>hr</timeunit>
-<nodetag><nodetagid>489</nodetagid>
-</nodetag>
-</node>
 <node><name>Introduction to Medical-Surgical Nursing &amp; Chronic Illnesses 180-N21-LA </name>
 <id>14</id>
 <lefticon>undefined</lefticon>
@@ -170,6 +158,26 @@
 <nodetag><nodetagid>534</nodetagid>
 </nodetag>
 <nodetag><nodetagid>540</nodetagid>
+</nodetag>
+</node>
+<node><name>Wellness in the Aging Adult
+180-N22-LA </name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>506</nodetagid>
+</nodetag>
+<nodetag><nodetagid>534</nodetagid>
+</nodetag>
+<nodetag><nodetagid>540</nodetagid>
+</nodetag>
+<nodetag><nodetagid>555</nodetagid>
 </nodetag>
 </node>
 <node><name>Introduction to Medical-Surgical Nursing &amp; Chronic illnesses | Clinical 180-N23LA </name>
@@ -220,42 +228,22 @@
 <timevalue>30</timevalue>
 <timeunit>hr</timeunit>
 </node>
-<node><name>Wellness in the Aging Adult
-180-N22-LA </name>
-<id>15</id>
+<node><name>Anatomy and Physiology II
+101-N21-LA </name>
+<id>13</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<timevalue>45</timevalue>
-<timeunit>hr</timeunit>
-<nodetag><nodetagid>506</nodetagid>
-</nodetag>
-<nodetag><nodetagid>534</nodetagid>
-</nodetag>
-<nodetag><nodetagid>540</nodetagid>
-</nodetag>
-<nodetag><nodetagid>555</nodetagid>
-</nodetag>
-</node>
-</week>
-<week><weekid>37</weekid>
-<node><name>Anatomy and Physiology III 
-101-N31-LA </name>
-<id>30</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS1</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<timevalue>45</timevalue>
+<timevalue>75</timevalue>
 <timeunit>hr</timeunit>
 <nodetag><nodetagid>489</nodetagid>
 </nodetag>
 </node>
+</week>
+<week><weekid>37</weekid>
 <node><name>Medical-Surgical Nursing II 
 180-N31-LA </name>
 <id>32</id>
@@ -278,10 +266,10 @@
 <id>34</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>CUS2</column>
+<column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -294,6 +282,20 @@
 <nodetag><nodetagid>540</nodetagid>
 </nodetag>
 <nodetag><nodetagid>547</nodetagid>
+</nodetag>
+</node>
+<node><name>Anatomy and Physiology III 
+101-N31-LA </name>
+<id>30</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>489</nodetagid>
 </nodetag>
 </node>
 <node><name>387-N31-LA Sociology of Families</name>
@@ -355,26 +357,13 @@
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 </node>
 </week>
 <week><weekid>54</weekid>
-<node><name>Microbiology &amp; Immunology 101-N41-LA </name>
-<id>47</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS1</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<timevalue>75</timevalue>
-<timeunit>hr</timeunit>
-<nodetag><nodetagid>528</nodetagid>
-</nodetag>
-</node>
 <node><name>Medical-Surgical Nursing III 180-N41-LA </name>
 <id>49</id>
 <lefticon>undefined</lefticon>
@@ -382,7 +371,7 @@
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -397,7 +386,7 @@
 <id>51</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>CUS2</column>
+<column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
@@ -408,6 +397,19 @@
 <nodetag><nodetagid>540</nodetagid>
 </nodetag>
 <nodetag><nodetagid>506</nodetagid>
+</nodetag>
+</node>
+<node><name>Microbiology &amp; Immunology 101-N41-LA </name>
+<id>47</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>528</nodetagid>
 </nodetag>
 </node>
 <node><name>Lifespan &amp; Development 350-N41-LA </name>
@@ -430,7 +432,7 @@
 <column>CUS3</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>90</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -483,7 +485,7 @@
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -494,6 +496,29 @@
 <nodetag><nodetagid>540</nodetagid>
 </nodetag>
 <nodetag><nodetagid>594</nodetagid>
+</nodetag>
+</node>
+<node><name>Mental Health Care 180-N53-LA </name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>495</nodetagid>
+</nodetag>
+<nodetag><nodetagid>506</nodetagid>
+</nodetag>
+<nodetag><nodetagid>515</nodetagid>
+</nodetag>
+<nodetag><nodetagid>534</nodetagid>
+</nodetag>
+<nodetag><nodetagid>540</nodetagid>
+</nodetag>
+<nodetag><nodetagid>588</nodetagid>
 </nodetag>
 </node>
 <node><name>Mental Health Care Clinical 180-N54-LA </name>
@@ -516,7 +541,7 @@
 <column>CUS3</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>90</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -533,7 +558,7 @@
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
@@ -549,17 +574,6 @@
 <timevalue>30</timevalue>
 <timeunit>hr</timeunit>
 </node>
-<node><name>Humanities for Professional Programs 345-BMC MQ </name>
-<id>69</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS4</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<timevalue>45</timevalue>
-<timeunit>hr</timeunit>
-</node>
 <node><name>Complementary 2 XXX XXX-LA </name>
 <id>148</id>
 <lefticon>undefined</lefticon>
@@ -571,28 +585,16 @@
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 </node>
-<node><name>Mental Health Care 180-N53-LA </name>
-<id>66</id>
+<node><name>Humanities for Professional Programs 345-BMC MQ </name>
+<id>69</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
-<timevalue>60</timevalue>
+<timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>495</nodetagid>
-</nodetag>
-<nodetag><nodetagid>506</nodetagid>
-</nodetag>
-<nodetag><nodetagid>515</nodetagid>
-</nodetag>
-<nodetag><nodetagid>534</nodetagid>
-</nodetag>
-<nodetag><nodetagid>540</nodetagid>
-</nodetag>
-<nodetag><nodetagid>588</nodetagid>
-</nodetag>
 </node>
 </week>
 <week><weekid>88</weekid>
@@ -621,7 +623,7 @@
 <id>84</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
-<column>CUS2</column>
+<column>CUS1</column>
 <textHTML>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
@@ -645,7 +647,7 @@
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
