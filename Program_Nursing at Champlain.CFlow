@@ -1,5 +1,5 @@
 <project><prname>Nursing - Champlain</prname>
-<idnum>1365</idnum>
+<idnum>2224</idnum>
 <terminologyset>cegep</terminologyset>
 <workflow><wfname>Nursing - Champlain</wfname>
 <wfauthor>undefined</wfauthor>
@@ -1623,6 +1623,1910 @@ Psychology</columnnodetext>
 <tag><tagname>01QM - To intervene with adults and elderly clients experiencing loss of autonomy who require institutional nursing. </tagname>
 <tagid>831</tagid>
 <iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>MELS Comps &amp; TPE</tagname>
+<tagid>1749</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>01Q0 - To analyze the work function. </tagname>
+<tagid>1750</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q0-1 (T) . To characterize a nurse’s function and working conditions.</tagname>
+<tagid>1751</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-1 (P) . To characterize a nurse’s function and working conditions.</tagname>
+<tagid>1752</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-1 (E) . To characterize a nurse’s function and working conditions.</tagname>
+<tagid>1753</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-2 (T) . To explore the tasks pertaining to the work function.</tagname>
+<tagid>1754</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-2 (P) . To explore the tasks pertaining to the work function.</tagname>
+<tagid>1755</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-2 (E) . To explore the tasks pertaining to the work function.</tagname>
+<tagid>1756</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-3 (T) . To examine the abilities and behaviours required to perform the work function.</tagname>
+<tagid>1757</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-3 (P) . To examine the abilities and behaviours required to perform the work function.</tagname>
+<tagid>1758</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-3 (E) . To examine the abilities and behaviours required to perform the work function.</tagname>
+<tagid>1759</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-4 (T) . To study the legislation applicable to professional practice.</tagname>
+<tagid>1760</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-4 (P) . To study the legislation applicable to professional practice.</tagname>
+<tagid>1761</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q0-4 (E) . To study the legislation applicable to professional practice.</tagname>
+<tagid>1762</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q1 - To develop an integrated perception of the human body and its functions. </tagname>
+<tagid>1763</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q1-1 (T) . To discern the anatomy of the human body.</tagname>
+<tagid>1764</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-1 (P) . To discern the anatomy of the human body.</tagname>
+<tagid>1765</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-1 (E) . To discern the anatomy of the human body.</tagname>
+<tagid>1766</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-2 (T) . To recognize the human body as a group of systems.</tagname>
+<tagid>1767</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-2 (P) . To recognize the human body as a group of systems.</tagname>
+<tagid>1768</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-2 (E) . To recognize the human body as a group of systems.</tagname>
+<tagid>1769</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-3 (T) . To establish links between nutrition and the body’s functioning.</tagname>
+<tagid>1770</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-3 (P) . To establish links between nutrition and the body’s functioning.</tagname>
+<tagid>1771</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-3 (E) . To establish links between nutrition and the body’s functioning.</tagname>
+<tagid>1772</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-4 (T) . To consider the human body as an entity seeking equilibrium.</tagname>
+<tagid>1773</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-4 (P) . To consider the human body as an entity seeking equilibrium.</tagname>
+<tagid>1774</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-4 (E) . To consider the human body as an entity seeking equilibrium.</tagname>
+<tagid>1775</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-5 (T) . To understand the incidence of a biological imbalance on body functioning.</tagname>
+<tagid>1776</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-5 (P) . To understand the incidence of a biological imbalance on body functioning.</tagname>
+<tagid>1777</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q1-5 (E) . To understand the incidence of a biological imbalance on body functioning.</tagname>
+<tagid>1778</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q2 - To deal with a client’s reactions and behaviours. </tagname>
+<tagid>1779</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q2-1 (T) . To establish initial contact with the client.</tagname>
+<tagid>1780</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-1 (P) . To establish initial contact with the client.</tagname>
+<tagid>1781</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-1 (E) . To establish initial contact with the client.</tagname>
+<tagid>1782</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-2 (T) . To describe the client’s reactions and behaviours.</tagname>
+<tagid>1783</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-2 (P) . To describe the client’s reactions and behaviours.</tagname>
+<tagid>1784</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-2 (E) . To describe the client’s reactions and behaviours.</tagname>
+<tagid>1785</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-3 (T) . To interpret the client’s reactions and behaviours.</tagname>
+<tagid>1786</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-3 (P) . To interpret the client’s reactions and behaviours.</tagname>
+<tagid>1787</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-3 (E) . To interpret the client’s reactions and behaviours.</tagname>
+<tagid>1788</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-4 (T) . To appraise the potential danger of a situation.</tagname>
+<tagid>1789</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-4 (P) . To appraise the potential danger of a situation.</tagname>
+<tagid>1790</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-4 (E) . To appraise the potential danger of a situation.</tagname>
+<tagid>1791</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-5 (T) . To react to risk situations.</tagname>
+<tagid>1792</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-5 (P) . To react to risk situations.</tagname>
+<tagid>1793</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-5 (E) . To react to risk situations.</tagname>
+<tagid>1794</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-6 (T) . To perform self-assessment.</tagname>
+<tagid>1795</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-6 (P) . To perform self-assessment.</tagname>
+<tagid>1796</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q2-6 (E) . To perform self-assessment.</tagname>
+<tagid>1797</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q3 - To refer to a conceptual nursing framework to define one’s professional practice </tagname>
+<tagid>1798</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q3-1 (T) . To base one’s own action on the foundations of professional practice.</tagname>
+<tagid>1799</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-1 (P) . To base one’s own action on the foundations of professional practice.</tagname>
+<tagid>1800</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-1 (E) . To base one’s own action on the foundations of professional practice.</tagname>
+<tagid>1801</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-2 (T) . To base nursing care activities on a conceptual model.</tagname>
+<tagid>1802</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-2 (P) . To base nursing care activities on a conceptual model.</tagname>
+<tagid>1803</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-2 (E) . To base nursing care activities on a conceptual model.</tagname>
+<tagid>1804</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-3 (T) . To apply the nursing process.</tagname>
+<tagid>1805</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-3 (P) . To apply the nursing process.</tagname>
+<tagid>1806</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q3-3 (E) . To apply the nursing process.</tagname>
+<tagid>1807</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q4 - To use assessment and nursing care procedures. </tagname>
+<tagid>1808</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q4-1 (T) . To carry out the preliminary steps to the implementation of the procedure.</tagname>
+<tagid>1809</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-1 (P) . To carry out the preliminary steps to the implementation of the procedure.</tagname>
+<tagid>1810</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-1 (E) . To carry out the preliminary steps to the implementation of the procedure.</tagname>
+<tagid>1811</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-2 (T) . To proceed with a clinical examination of the client.</tagname>
+<tagid>1812</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-2 (P) . To proceed with a clinical examination of the client.</tagname>
+<tagid>1813</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-2 (E) . To proceed with a clinical examination of the client.</tagname>
+<tagid>1814</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-3 (T) . To monitor a client’s physical condition.</tagname>
+<tagid>1815</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-3 (P) . To monitor a client’s physical condition.</tagname>
+<tagid>1816</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-3 (E) . To monitor a client’s physical condition.</tagname>
+<tagid>1817</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-4 (T) . To assess a client’s cognitive and affective functions.</tagname>
+<tagid>1818</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-4 (P) . To assess a client’s cognitive and affective functions.</tagname>
+<tagid>1819</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-4 (E) . To assess a client’s cognitive and affective functions.</tagname>
+<tagid>1820</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-5 (T) . To assess a client’s ability to function autonomously.</tagname>
+<tagid>1821</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-5 (P) . To assess a client’s ability to function autonomously.</tagname>
+<tagid>1822</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-5 (E) . To assess a client’s ability to function autonomously.</tagname>
+<tagid>1823</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-6 (T) . To carry out nursing/medical care and treatment.</tagname>
+<tagid>1824</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-6 (P) . To carry out nursing/medical care and treatment.</tagname>
+<tagid>1825</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-6 (E) . To carry out nursing/medical care and treatment.</tagname>
+<tagid>1826</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-7 (T) . To administer medication by various routes.</tagname>
+<tagid>1827</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-7 (P) . To administer medication by various routes.</tagname>
+<tagid>1828</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-7 (E) . To administer medication by various routes.</tagname>
+<tagid>1829</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-8 (T) . To chart data.</tagname>
+<tagid>1830</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-8 (P) . To chart data.</tagname>
+<tagid>1831</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q4-8 (E) . To chart data.</tagname>
+<tagid>1832</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q5 - To establish a helping communication with the client and his/her significant others. </tagname>
+<tagid>1833</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q5-1 (T) . To enter into relation with the client and his/her significant others.</tagname>
+<tagid>1834</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-1 (P) . To enter into relation with the client and his/her significant others.</tagname>
+<tagid>1835</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-1 (E) . To enter into relation with the client and his/her significant others.</tagname>
+<tagid>1836</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-2 (T) . To create an alliance with the client and his/her significant others.</tagname>
+<tagid>1837</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-2 (P) . To create an alliance with the client and his/her significant others.</tagname>
+<tagid>1838</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-2 (E) . To create an alliance with the client and his/her significant others.</tagname>
+<tagid>1839</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-3 (T) . To conduct an interview.</tagname>
+<tagid>1840</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-3 (P) . To conduct an interview.</tagname>
+<tagid>1841</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-3 (E) . To conduct an interview.</tagname>
+<tagid>1842</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-4 (T) . To interact within a helping relationship.</tagname>
+<tagid>1843</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-4 (P) . To interact within a helping relationship.</tagname>
+<tagid>1844</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-4 (E) . To interact within a helping relationship.</tagname>
+<tagid>1845</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-5 (T) . To support a client through a decision-making process concerning his/her health.</tagname>
+<tagid>1846</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-5 (P) . To support a client through a decision-making process concerning his/her health.</tagname>
+<tagid>1847</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-5 (E) . To support a client through a decision-making process concerning his/her health.</tagname>
+<tagid>1848</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-6 (T) . To support a client experiencing bereavement or loss, as well as his/her entourage.</tagname>
+<tagid>1849</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-6 (P) . To support a client experiencing bereavement or loss, as well as his/her entourage.</tagname>
+<tagid>1850</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-6 (E) . To support a client experiencing bereavement or loss, as well as his/her entourage.</tagname>
+<tagid>1851</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-7 (T) . To evaluate established relationships.</tagname>
+<tagid>1852</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-7 (P) . To evaluate established relationships.</tagname>
+<tagid>1853</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q5-7 (E) . To evaluate established relationships.</tagname>
+<tagid>1854</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q6 - To deal with social and cultural realities related to health matters. </tagname>
+<tagid>1855</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q6-1 (T) . To consider the social context surrounding one’s own professional practice.</tagname>
+<tagid>1856</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-1 (P) . To consider the social context surrounding one’s own professional practice.</tagname>
+<tagid>1857</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-1 (E) . To consider the social context surrounding one’s own professional practice.</tagname>
+<tagid>1858</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-2 (T) . To take the client’s family context into consideration.</tagname>
+<tagid>1859</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-2 (P) . To take the client’s family context into consideration.</tagname>
+<tagid>1860</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-2 (E) . To take the client’s family context into consideration.</tagname>
+<tagid>1861</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-3 (T) . To take the client’s sociocultural characteristics into account.</tagname>
+<tagid>1862</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-3 (P) . To take the client’s sociocultural characteristics into account.</tagname>
+<tagid>1863</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-3 (E) . To take the client’s sociocultural characteristics into account.</tagname>
+<tagid>1864</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-4 (T) . To assess one’s own attitudes and behaviours with regard to sociocultural diversity.</tagname>
+<tagid>1865</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-4 (P) . To assess one’s own attitudes and behaviours with regard to sociocultural diversity.</tagname>
+<tagid>1866</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q6-4 (E) . To assess one’s own attitudes and behaviours with regard to sociocultural diversity.</tagname>
+<tagid>1867</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q7 - To link immunological disorders and infections to physiological and metabolic mechanisms. </tagname>
+<tagid>1868</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q7-1 (T) . To specify the action of an aggressive agent on the human body.</tagname>
+<tagid>1869</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-1 (P) . To specify the action of an aggressive agent on the human body.</tagname>
+<tagid>1870</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-1 (E) . To specify the action of an aggressive agent on the human body.</tagname>
+<tagid>1871</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-2 (T) . To define the body’s reactions to the aggressor.</tagname>
+<tagid>1872</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-2 (P) . To define the body’s reactions to the aggressor.</tagname>
+<tagid>1873</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-2 (E) . To define the body’s reactions to the aggressor.</tagname>
+<tagid>1874</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-3 (T) . To describe the infectious or immunological disorder.</tagname>
+<tagid>1875</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-3 (P) . To describe the infectious or immunological disorder.</tagname>
+<tagid>1876</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-3 (E) . To describe the infectious or immunological disorder.</tagname>
+<tagid>1877</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-4 (T) . To relate the immunopathological disorder to the therapy.</tagname>
+<tagid>1878</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-4 (P) . To relate the immunopathological disorder to the therapy.</tagname>
+<tagid>1879</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-4 (E) . To relate the immunopathological disorder to the therapy.</tagname>
+<tagid>1880</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-5 (T) . To examine measures to prevent or control infection.</tagname>
+<tagid>1881</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-5 (P) . To examine measures to prevent or control infection.</tagname>
+<tagid>1882</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q7-5 (E) . To examine measures to prevent or control infection.</tagname>
+<tagid>1883</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q8 - To interpret a clinical situation by referring to health problems and other problems related to the field of nursing. </tagname>
+<tagid>1884</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q8-1 (T) . To describe the health problem.</tagname>
+<tagid>1885</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-1 (P) . To describe the health problem.</tagname>
+<tagid>1886</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-1 (E) . To describe the health problem.</tagname>
+<tagid>1887</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-2 (T) . To relate test results to the diagnosed health problem.</tagname>
+<tagid>1888</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-2 (P) . To relate test results to the diagnosed health problem.</tagname>
+<tagid>1889</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-2 (E) . To relate test results to the diagnosed health problem.</tagname>
+<tagid>1890</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-3 (T) . To relate the health problem to the therapy.</tagname>
+<tagid>1891</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-3 (P) . To relate the health problem to the therapy.</tagname>
+<tagid>1892</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-3 (E) . To relate the health problem to the therapy.</tagname>
+<tagid>1893</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-4 (T) . To identify nursing-related problems connected to the health situation.</tagname>
+<tagid>1894</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-4 (P) . To identify nursing-related problems connected to the health situation.</tagname>
+<tagid>1895</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-4 (E) . To identify nursing-related problems connected to the health situation.</tagname>
+<tagid>1896</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-5 (T) . To outline the nursing interventions.</tagname>
+<tagid>1897</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-5 (P) . To outline the nursing interventions.</tagname>
+<tagid>1898</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q8-5 (E) . To outline the nursing interventions.</tagname>
+<tagid>1899</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q9 - To establish links between pharmacotherapy and a clinical situation. </tagname>
+<tagid>1900</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01Q9-1 (T) . To interpret a medical prescription for medication.</tagname>
+<tagid>1901</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-1 (P) . To interpret a medical prescription for medication.</tagname>
+<tagid>1902</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-1 (E) . To interpret a medical prescription for medication.</tagname>
+<tagid>1903</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-2 (T) . To relate clinical manifestations to the medication prescribed.</tagname>
+<tagid>1904</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-2 (P) . To relate clinical manifestations to the medication prescribed.</tagname>
+<tagid>1905</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-2 (E) . To relate clinical manifestations to the medication prescribed.</tagname>
+<tagid>1906</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-3 (T) . To anticipate the effects of the drug.</tagname>
+<tagid>1907</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-3 (P) . To anticipate the effects of the drug.</tagname>
+<tagid>1908</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-3 (E) . To anticipate the effects of the drug.</tagname>
+<tagid>1909</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-4 (T) . To specify conditions for drug administration.</tagname>
+<tagid>1910</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-4 (P) . To specify conditions for drug administration.</tagname>
+<tagid>1911</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-4 (E) . To specify conditions for drug administration.</tagname>
+<tagid>1912</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-5 (T) . To select measures to support medication.</tagname>
+<tagid>1913</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-5 (P) . To select measures to support medication.</tagname>
+<tagid>1914</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-5 (E) . To select measures to support medication.</tagname>
+<tagid>1915</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-6 (T) . To plan prescription follow-up.</tagname>
+<tagid>1916</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-6 (P) . To plan prescription follow-up.</tagname>
+<tagid>1917</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01Q9-6 (E) . To plan prescription follow-up.</tagname>
+<tagid>1918</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QA - To teach the client and his/her significant others. </tagname>
+<tagid>1919</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QA-1 (T) . To determine needs and expectations with respect to information and learning.</tagname>
+<tagid>1920</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-1 (P) . To determine needs and expectations with respect to information and learning.</tagname>
+<tagid>1921</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-1 (E) . To determine needs and expectations with respect to information and learning.</tagname>
+<tagid>1922</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-2 (T) . To provide information on health, nursing care and services.</tagname>
+<tagid>1923</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-2 (P) . To provide information on health, nursing care and services.</tagname>
+<tagid>1924</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-2 (E) . To provide information on health, nursing care and services.</tagname>
+<tagid>1925</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-3 (T) . To organize a teaching activity.</tagname>
+<tagid>1926</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-3 (P) . To organize a teaching activity.</tagname>
+<tagid>1927</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-3 (E) . To organize a teaching activity.</tagname>
+<tagid>1928</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-4 (T) . To provide teaching on an individual basis.</tagname>
+<tagid>1929</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-4 (P) . To provide teaching on an individual basis.</tagname>
+<tagid>1930</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-4 (E) . To provide teaching on an individual basis.</tagname>
+<tagid>1931</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-5 (T) . To teach a small group of people.</tagname>
+<tagid>1932</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-5 (P) . To teach a small group of people.</tagname>
+<tagid>1933</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-5 (E) . To teach a small group of people.</tagname>
+<tagid>1934</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-6 (T) . To evaluate the results of the activity.</tagname>
+<tagid>1935</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-6 (P) . To evaluate the results of the activity.</tagname>
+<tagid>1936</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-6 (E) . To evaluate the results of the activity.</tagname>
+<tagid>1937</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-7 (T) . To chart data.</tagname>
+<tagid>1938</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-7 (P) . To chart data.</tagname>
+<tagid>1939</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QA-7 (E) . To chart data.</tagname>
+<tagid>1940</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QB - To assist clients in the maintenance and improvement of their health. </tagname>
+<tagid>1941</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QB-1 (T) . To perform health care activities as part of a prevention program.</tagname>
+<tagid>1942</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-1 (P) . To perform health care activities as part of a prevention program.</tagname>
+<tagid>1943</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-1 (E) . To perform health care activities as part of a prevention program.</tagname>
+<tagid>1944</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-2 (T) . To promote a healthy lifestyle.</tagname>
+<tagid>1945</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-2 (P) . To promote a healthy lifestyle.</tagname>
+<tagid>1946</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-2 (E) . To promote a healthy lifestyle.</tagname>
+<tagid>1947</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-3 (T) . To make the client aware of various risk situations.</tagname>
+<tagid>1948</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-3 (P) . To make the client aware of various risk situations.</tagname>
+<tagid>1949</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-3 (E) . To make the client aware of various risk situations.</tagname>
+<tagid>1950</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-4 (T) . To support the client taking charge of his/her health.</tagname>
+<tagid>1951</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-4 (P) . To support the client taking charge of his/her health.</tagname>
+<tagid>1952</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-4 (E) . To support the client taking charge of his/her health.</tagname>
+<tagid>1953</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-5 (T) . To assess the client’s capacity to take charge of himself/herself after returning to his/her natural environment.</tagname>
+<tagid>1954</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-5 (P) . To assess the client’s capacity to take charge of himself/herself after returning to his/her natural environment.</tagname>
+<tagid>1955</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QB-5 (E) . To assess the client’s capacity to take charge of himself/herself after returning to his/her natural environment.</tagname>
+<tagid>1956</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QC - To adapt to various work situations. </tagname>
+<tagid>1957</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QC-1 (T) . To assume the emotional consequences inherent in carrying out duties.</tagname>
+<tagid>1958</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-1 (P) . To assume the emotional consequences inherent in carrying out duties.</tagname>
+<tagid>1959</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-1 (E) . To assume the emotional consequences inherent in carrying out duties.</tagname>
+<tagid>1960</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-2 (T) . To manage the stress inherent in professional practice.</tagname>
+<tagid>1961</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-2 (P) . To manage the stress inherent in professional practice.</tagname>
+<tagid>1962</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-2 (E) . To manage the stress inherent in professional practice.</tagname>
+<tagid>1963</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-3 (T) . To prevent professional burnout.</tagname>
+<tagid>1964</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-3 (P) . To prevent professional burnout.</tagname>
+<tagid>1965</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-3 (E) . To prevent professional burnout.</tagname>
+<tagid>1966</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-4 (T) . To react to a crisis situation.</tagname>
+<tagid>1967</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-4 (P) . To react to a crisis situation.</tagname>
+<tagid>1968</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-4 (E) . To react to a crisis situation.</tagname>
+<tagid>1969</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-5 (T) . To organize one’s workload.</tagname>
+<tagid>1970</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-5 (P) . To organize one’s workload.</tagname>
+<tagid>1971</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-5 (E) . To organize one’s workload.</tagname>
+<tagid>1972</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-6 (T) . To adjust to changes in work environment.</tagname>
+<tagid>1973</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-6 (P) . To adjust to changes in work environment.</tagname>
+<tagid>1974</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-6 (E) . To adjust to changes in work environment.</tagname>
+<tagid>1975</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-7 (T) . To assume responsibility for one’s own professional development.</tagname>
+<tagid>1976</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-7 (P) . To assume responsibility for one’s own professional development.</tagname>
+<tagid>1977</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QC-7 (E) . To assume responsibility for one’s own professional development.</tagname>
+<tagid>1978</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QD - To establish a cooperative relationship with members of the interdisciplinary team. </tagname>
+<tagid>1979</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QD-1 (T) . To work collaboratively within a care team.</tagname>
+<tagid>1980</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-1 (P) . To work collaboratively within a care team.</tagname>
+<tagid>1981</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-1 (E) . To work collaboratively within a care team.</tagname>
+<tagid>1982</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-2 (T) . To coordinate nursing activities.</tagname>
+<tagid>1983</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-2 (P) . To coordinate nursing activities.</tagname>
+<tagid>1984</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-2 (E) . To coordinate nursing activities.</tagname>
+<tagid>1985</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-3 (T) . To work within the interdisciplinary team.</tagname>
+<tagid>1986</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-3 (P) . To work within the interdisciplinary team.</tagname>
+<tagid>1987</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-3 (E) . To work within the interdisciplinary team.</tagname>
+<tagid>1988</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-4 (T) . To intervene in conflictual work situations.</tagname>
+<tagid>1989</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-4 (P) . To intervene in conflictual work situations.</tagname>
+<tagid>1990</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-4 (E) . To intervene in conflictual work situations.</tagname>
+<tagid>1991</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-5 (T) . To carry out administrative duties.</tagname>
+<tagid>1992</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-5 (P) . To carry out administrative duties.</tagname>
+<tagid>1993</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-5 (E) . To carry out administrative duties.</tagname>
+<tagid>1994</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-6 (T) . To process information to ensure continuity of care and follow-up.</tagname>
+<tagid>1995</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-6 (P) . To process information to ensure continuity of care and follow-up.</tagname>
+<tagid>1996</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QD-6 (E) . To process information to ensure continuity of care and follow-up.</tagname>
+<tagid>1997</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QE - To intervene with hospitalized adults and elderly clients requiring medical/surgical nursing. </tagname>
+<tagid>1998</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QE-1 (T) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>1999</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-1 (P) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2000</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-1 (E) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2001</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-2 (T) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2002</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-2 (P) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2003</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-2 (E) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2004</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-3 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2005</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-3 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2006</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-3 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2007</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-4 (T) . To outline the care needs.</tagname>
+<tagid>2008</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-4 (P) . To outline the care needs.</tagname>
+<tagid>2009</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-4 (E) . To outline the care needs.</tagname>
+<tagid>2010</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-5 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2011</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-5 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2012</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-5 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2013</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-6 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2014</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-6 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2015</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-6 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2016</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-7 (T) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan</tagname>
+<tagid>2017</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-7 (P) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan</tagname>
+<tagid>2018</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-7 (E) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan</tagname>
+<tagid>2019</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-8 (T) . To carry out the interventions:</tagname>
+<tagid>2020</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-8 (P) . To carry out the interventions:</tagname>
+<tagid>2021</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-8 (E) . To carry out the interventions:</tagname>
+<tagid>2022</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-9 (T) . To administer medication.</tagname>
+<tagid>2023</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-9 (P) . To administer medication.</tagname>
+<tagid>2024</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-9 (E) . To administer medication.</tagname>
+<tagid>2025</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-10 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2026</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-10 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2027</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-10 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2028</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-11 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2029</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-11 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2030</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QE-11 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2031</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QF - To use the ethics and values of the profession to understand one’s own role. </tagname>
+<tagid>2032</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QF-1 (T) . To comply with professional values.</tagname>
+<tagid>2033</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-1 (P) . To comply with professional values.</tagname>
+<tagid>2034</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-1 (E) . To comply with professional values.</tagname>
+<tagid>2035</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-2 (T) . To assume responsibility for actions and decisions.</tagname>
+<tagid>2036</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-2 (P) . To assume responsibility for actions and decisions.</tagname>
+<tagid>2037</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-2 (E) . To assume responsibility for actions and decisions.</tagname>
+<tagid>2038</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-3 (T) . To understand the moral dimensions of the role.</tagname>
+<tagid>2039</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-3 (P) . To understand the moral dimensions of the role.</tagname>
+<tagid>2040</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-3 (E) . To understand the moral dimensions of the role.</tagname>
+<tagid>2041</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-4 (T) . To consider various professional situations from an ethical point of view.</tagname>
+<tagid>2042</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-4 (P) . To consider various professional situations from an ethical point of view.</tagname>
+<tagid>2043</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-4 (E) . To consider various professional situations from an ethical point of view.</tagname>
+<tagid>2044</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-5 (T) . To become involved in maintaining and improving the quality of nursing care.</tagname>
+<tagid>2045</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-5 (P) . To become involved in maintaining and improving the quality of nursing care.</tagname>
+<tagid>2046</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QF-5 (E) . To become involved in maintaining and improving the quality of nursing care.</tagname>
+<tagid>2047</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QG - To apply emergency measures. </tagname>
+<tagid>2048</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QG-1 (T) . To initiate emergency intervention.</tagname>
+<tagid>2049</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-1 (P) . To initiate emergency intervention.</tagname>
+<tagid>2050</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-1 (E) . To initiate emergency intervention.</tagname>
+<tagid>2051</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-2 (T) . To perform cardiopulmonary resuscitation.</tagname>
+<tagid>2052</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-2 (P) . To perform cardiopulmonary resuscitation.</tagname>
+<tagid>2053</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-2 (E) . To perform cardiopulmonary resuscitation.</tagname>
+<tagid>2054</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-3 (T) . To provide first aid.</tagname>
+<tagid>2055</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-3 (P) . To provide first aid.</tagname>
+<tagid>2056</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-3 (E) . To provide first aid.</tagname>
+<tagid>2057</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-4 (T) . To report data regarding the situation.</tagname>
+<tagid>2058</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-4 (P) . To report data regarding the situation.</tagname>
+<tagid>2059</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-4 (E) . To report data regarding the situation.</tagname>
+<tagid>2060</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-5 (T) . To apply interdisciplinary care protocols.</tagname>
+<tagid>2061</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-5 (P) . To apply interdisciplinary care protocols.</tagname>
+<tagid>2062</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QG-5 (E) . To apply interdisciplinary care protocols.</tagname>
+<tagid>2063</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QH - To intervene with clients requiring nursing care in a perinatal setting. </tagname>
+<tagid>2064</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QH-1 (T) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2065</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-1 (P) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2066</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-1 (E) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2067</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-2 (T) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2068</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-2 (P) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2069</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-2 (E) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2070</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-3 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2071</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-3 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2072</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-3 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2073</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-4 (T) . To outline the care needs.</tagname>
+<tagid>2074</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-4 (P) . To outline the care needs.</tagname>
+<tagid>2075</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-4 (E) . To outline the care needs.</tagname>
+<tagid>2076</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-5 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2077</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-5 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2078</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-5 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2079</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-6 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2080</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-6 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2081</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-6 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2082</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-7 (T) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2083</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-7 (P) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2084</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-7 (E) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2085</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-8 (T) . To carry out the interventions:</tagname>
+<tagid>2086</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-8 (P) . To carry out the interventions:</tagname>
+<tagid>2087</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-8 (E) . To carry out the interventions:</tagname>
+<tagid>2088</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-9 (T) . To administer medication.</tagname>
+<tagid>2089</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-9 (P) . To administer medication.</tagname>
+<tagid>2090</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-9 (E) . To administer medication.</tagname>
+<tagid>2091</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-10 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2092</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-10 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2093</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-10 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2094</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-11 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2095</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-11 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2096</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QH-11 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2097</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QJ - To intervene with children and adolescents requiring nursing care. </tagname>
+<tagid>2098</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QJ-1 (T) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2099</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-1 (P) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2100</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-1 (E) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2101</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-2 (T) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2102</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-2 (P) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2103</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-2 (E) . To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>2104</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-3 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2105</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-3 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2106</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-3 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2107</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-4 (T) . To outline the care needs.</tagname>
+<tagid>2108</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-4 (P) . To outline the care needs.</tagname>
+<tagid>2109</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-4 (E) . To outline the care needs.</tagname>
+<tagid>2110</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-5 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2111</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-5 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2112</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-5 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2113</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-6 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2114</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-6 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2115</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-6 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2116</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-7 (T) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2117</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-7 (P) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2118</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-7 (E) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2119</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-8 (T) . To carry out interventions:</tagname>
+<tagid>2120</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-8 (P) . To carry out interventions:</tagname>
+<tagid>2121</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-8 (E) . To carry out interventions:</tagname>
+<tagid>2122</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-9 (T) . To administer medication.</tagname>
+<tagid>2123</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-9 (P) . To administer medication.</tagname>
+<tagid>2124</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-9 (E) . To administer medication.</tagname>
+<tagid>2125</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-10 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2126</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-10 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2127</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-10 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2128</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-11 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2129</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-11 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2130</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QJ-11 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2131</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QK - To intervene with clients receiving medical/surgical nursing care in an ambulatory service. </tagname>
+<tagid>2132</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QK-1 (T) . To perform or complete an initial assessment of the client.</tagname>
+<tagid>2133</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-1 (P) . To perform or complete an initial assessment of the client.</tagname>
+<tagid>2134</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-1 (E) . To perform or complete an initial assessment of the client.</tagname>
+<tagid>2135</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-2 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2136</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-2 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2137</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-2 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2138</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-3 (T) . To outline or revise the care needs.</tagname>
+<tagid>2139</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-3 (P) . To outline or revise the care needs.</tagname>
+<tagid>2140</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-3 (E) . To outline or revise the care needs.</tagname>
+<tagid>2141</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-4 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2142</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-4 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2143</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-4 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2144</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-5 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2145</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-5 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2146</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-5 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2147</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-6 (T) . To carry out the interventions:</tagname>
+<tagid>2148</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-6 (P) . To carry out the interventions:</tagname>
+<tagid>2149</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-6 (E) . To carry out the interventions:</tagname>
+<tagid>2150</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-7 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2151</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-7 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2152</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-7 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2153</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-8 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2154</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-8 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2155</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QK-8 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2156</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QL - To intervene with clients requiring mental health nursing care. </tagname>
+<tagid>2157</tagid>
+<iscollapsed>false</iscollapsed>
+<tag><tagname>01QL-1 (T) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2158</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-1 (P) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2159</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-1 (E) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2160</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-2 (T) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2161</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-2 (P) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2162</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-2 (E) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2163</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-3 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2164</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-3 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2165</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-3 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2166</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-4 (T) . To outline the care needs.</tagname>
+<tagid>2167</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-4 (P) . To outline the care needs.</tagname>
+<tagid>2168</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-4 (E) . To outline the care needs.</tagname>
+<tagid>2169</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-5 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2170</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-5 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2171</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-5 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2172</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-6 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2173</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-6 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2174</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-6 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2175</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-7 (T) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2176</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-7 (P) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2177</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-7 (E) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2178</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-8 (T) . To carry out the interventions:</tagname>
+<tagid>2179</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-8 (P) . To carry out the interventions:</tagname>
+<tagid>2180</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-8 (E) . To carry out the interventions:</tagname>
+<tagid>2181</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-9 (T) . To administer medication.</tagname>
+<tagid>2182</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-9 (P) . To administer medication.</tagname>
+<tagid>2183</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-9 (E) . To administer medication.</tagname>
+<tagid>2184</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-10 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2185</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-10 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2186</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-10 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2187</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-11 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2188</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-11 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2189</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QL-11 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2190</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QM - To intervene with adults and elderly clients experiencing loss of autonomy who require institutional nursing. </tagname>
+<tagid>2191</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>01QM-1 (T) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2192</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-1 (P) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2193</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-1 (E) . To seek information in order to ensure continuity of care.</tagname>
+<tagid>2194</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-2 (T) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2195</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-2 (P) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2196</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-2 (E) . To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>2197</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-3 (T) . To ensure clinical monitoring.</tagname>
+<tagid>2198</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-3 (P) . To ensure clinical monitoring.</tagname>
+<tagid>2199</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-3 (E) . To ensure clinical monitoring.</tagname>
+<tagid>2200</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-4 (T) . To outline the care needs.</tagname>
+<tagid>2201</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-4 (P) . To outline the care needs.</tagname>
+<tagid>2202</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-4 (E) . To outline the care needs.</tagname>
+<tagid>2203</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-5 (T) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2204</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-5 (P) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2205</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-5 (E) . To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>2206</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-6 (T) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2207</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-6 (P) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2208</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-6 (E) . To determine the nursing care and treatment plan.</tagname>
+<tagid>2209</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-7 (T) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2210</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-7 (P) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2211</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-7 (E) . To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>2212</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-8 (T) . To carry out the interventions:</tagname>
+<tagid>2213</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-8 (P) . To carry out the interventions:</tagname>
+<tagid>2214</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-8 (E) . To carry out the interventions:</tagname>
+<tagid>2215</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-9 (T) . To administer medication.</tagname>
+<tagid>2216</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-9 (P) . To administer medication.</tagname>
+<tagid>2217</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-9 (E) . To administer medication.</tagname>
+<tagid>2218</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-10 (T) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2219</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-10 (P) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2220</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-10 (E) . To evaluate nursing interventions and outcomes.</tagname>
+<tagid>2221</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-11 (T) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2222</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-11 (P) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2223</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>01QM-11 (E) . To ensure continuity of care and follow-up.</tagname>
+<tagid>2224</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
 </tag>
 </tag>
 </project>
