@@ -1,5 +1,5 @@
 <project><prname>Interior Design</prname>
-<idnum>464</idnum>
+<idnum>644</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Interior Design</wfname>
 <wfauthor>Anne Marie Legault</wfauthor>
@@ -46,7 +46,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
@@ -59,7 +59,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>171</nodetagid>
 </nodetag>
@@ -129,7 +129,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>English 
@@ -140,7 +140,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Physical Education 
@@ -162,7 +162,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>30</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -182,7 +182,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>29</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
@@ -197,7 +197,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
@@ -230,7 +230,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>46</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -289,7 +289,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
@@ -301,7 +301,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>174</nodetagid>
 </nodetag>
@@ -313,7 +313,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>50</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -333,7 +333,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>171</nodetagid>
 </nodetag>
@@ -348,7 +348,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>176</nodetagid>
 </nodetag>
@@ -364,7 +364,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>170</nodetagid>
 </nodetag>
@@ -376,7 +376,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>54</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -437,7 +437,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>69</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -523,7 +523,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>173</nodetagid>
 </nodetag>
@@ -543,7 +543,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>88</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -562,7 +562,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
@@ -600,7 +600,7 @@ and Knowledge</columnnodetext>
 <column>CUS3</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <link><targetid>91</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -635,7 +635,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complementary 
@@ -657,7 +657,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>179</nodetagid>
 </nodetag>
@@ -674,7 +674,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>175</nodetagid>
 </nodetag>
@@ -727,7 +727,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
+<textheight>20</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complementary 
@@ -751,11 +751,11 @@ and Knowledge</columnnodetext>
 <tagid>169</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To integrate historic and artistic trends into interior design / Int�grer les courants historiques et artistiques au design d�int�rieur (G) - 022B</tagname>
+<tag><tagname>To integrate historic and artistic trends into interior design / Intégrer les courants historiques et artistiques au design d’intérieur (G) - 022B</tagname>
 <tagid>170</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To develop ideas / D�velopper des id�es (G) - 022C</tagname>
+<tag><tagname>To develop ideas / Développer des idées (G) - 022C</tagname>
 <tagid>171</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -763,67 +763,63 @@ and Knowledge</columnnodetext>
 <tagid>172</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To MODEL objects and spaces to scale / Mod�liser des objets et des espaces (G) - *022E</tagname>
+<tag><tagname>To MODEL objects and spaces to scale / Modéliser des objets et des espaces (G) - *022E</tagname>
 <tagid>173</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To produce computer assisted drawings / Effectuer des dessins assist�s par ordinateur (G) - 022F</tagname>
+<tag><tagname>To produce computer assisted drawings / Effectuer des dessins assistés par ordinateur (G) - 022F</tagname>
 <tagid>174</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>New Activity Outcome</tagname>
-<tagid>190</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-</tag>
-<tag><tagname>To interact with clients, resource-persons and colleagues / Interagir avec les clientes et les clients, les personnes-ressources et les coll�gues de travail (G) - 022G</tagname>
+<tag><tagname>To interact with clients, resource-persons and colleagues / Interagir avec les clientes et les clients, les personnes-ressources et les collègues de travail (G) - 022G</tagname>
 <tagid>175</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To create a mood using colour / Cr�er des ambiances par la couleur (P) - 029H</tagname>
+<tag><tagname>To create a mood using colour / Créer des ambiances par la couleur (P) - 029H</tagname>
 <tagid>176</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To suggest finishes and materials for a project / Proposer les finis et les mat�riaux relatifs � un projet (G) - 022H</tagname>
+<tag><tagname>To suggest finishes and materials for a project / Proposer les finis et les matériaux relatifs à un projet (G) - 022H</tagname>
 <tagid>177</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To specify the furniture, accessories and equipment for a project / Sp�cifier le mobilier en s�rie, les accessoires d�coratifs et l��quipement n�cessaires � un projet (G) - *022J</tagname>
+<tag><tagname>To specify the furniture, accessories and equipment for a project / Spécifier le mobilier en série, les accessoires décoratifs et l’équipement nécessaires à un projet (G) - *022J</tagname>
 <tagid>178</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To use interior architectural and construction elements / �laborer une composition architecturale int�rieure (G) - *026H</tagname>
+<tag><tagname>To use interior architectural and construction elements /Élaborer une composition architecturale intérieure (G) - *026H</tagname>
 <tagid>179</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To design custom elements / Concevoir des �l�ments sur mesure (P) - 026J</tagname>
+<tag><tagname>To design custom elements / Concevoir des éléments sur mesure (P) - 026J</tagname>
 <tagid>180</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To create an interior design concept for a residence / Cr�er un concept de design d�int�rieur r�sidentiel (P) - 026K</tagname>
+<tag><tagname>To create an interior design concept for a residence / Créer un concept de design d’intérieur résidentiel (P) - 026K</tagname>
 <tagid>181</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To present a design project / Pr�senter un projet de design (P) - 027Y</tagname>
+<tag><tagname>To present a design project / Présenter un projet de design (P) - 027Y</tagname>
 <tagid>182</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To create lighting concepts / Cr�er des concepts d��clairage (G) - 027Z</tagname>
+<tag><tagname>To create lighting concepts / Créer des concepts d’éclairage (G) - 027Z</tagname>
 <tagid>183</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To produce working drawings and specifications / Produire des plans d�ex�cution (P) - *029X</tagname>
+<tag><tagname>To produce working drawings and specifications / Produire des plans d’exécution (P) - *029X</tagname>
 <tagid>184</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To perfrom project management activities / Effectuer des activit�s relatives � la gestion de projet (G) - *029Y</tagname>
+<tag><tagname>To perfrom project management activities / Effectuer des activités relatives à la gestion de projet (G) - *029Y</tagname>
 <tagid>185</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To plan a layout for a commercial, industrial or public building / Planifier un am�nagement pour un �tablissement commercial, industriel ou public (P) - 029Z</tagname>
+<tag><tagname>To plan a layout for a commercial, industrial or public building / Planifier un aménagement pour un établissement commercial, industriel ou public (P) - 029Z</tagname>
 <tagid>186</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To create an interior design concept for a commercial, industrial or public building / Cr�er un concept de design d�int�rieur pour un �tablissement commercial, industriel ou public (P) - 02A0</tagname>
+<tag><tagname>To create an interior design concept for a commercial, industrial or public building / Créer un concept de design d’intérieur pour un établissement commercial, industriel ou public (P) - 02A0</tagname>
 <tagid>187</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
@@ -831,7 +827,7 @@ and Knowledge</columnnodetext>
 <tagid>188</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
-<tag><tagname>To develop an interior design project / Concevoir un projet de design d�int�rieur (P) - 02A1</tagname>
+<tag><tagname>To develop an interior design project / Concevoir un projet de design d’intérieur  (P) - 02A1</tagname>
 <tagid>189</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
