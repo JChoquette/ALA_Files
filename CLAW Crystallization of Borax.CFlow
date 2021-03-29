@@ -1,0 +1,139 @@
+<project><prname>CLAW At-Home Experiments: Crystallization of Borax</prname>
+<idnum>85</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: Crystallization of Borax</wfname>
+<wfauthor>By Yann Brouillette and Carmen Leung</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to qualitatively introduce the purifying technique of crystallization. See a full description &lt;a href=&quot;https://www.saltise.ca/activities/claw-at-home-experiment-crystallization-of-borax/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the &lt;a href="https://www.saltise.ca/wp-content/uploads/2021/03/SALTISE-Chem-Protocol-CRYSTALLIZATION.pdf" target="_blank"&gt;&lt;u&gt;protocol&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk through the procedure synchronously, or by sharing a pre-recorded video assynchronously&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144.80001831054688</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Gather Materials</name>
+<id>51</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Gather necessary materials and tools:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Water&lt;/li&gt;&lt;li&gt;Ice cubes&lt;/li&gt;&lt;li&gt;Borax (household cleaner)&lt;/li&gt;&lt;li&gt;Large bowl&lt;/li&gt;&lt;li&gt;Two identical glass containers (jars or large drinking glasses)&lt;/li&gt;&lt;li&gt;Measuring tablespoon&lt;/li&gt;&lt;li&gt;Cooking pot&lt;/li&gt;&lt;li&gt;Two pipe cleaners (any color except dark red)&lt;/li&gt;&lt;li&gt;Two pencils (or chop sticks, dowels, etc.)&lt;/li&gt;&lt;li&gt;Waterproof cover (aluminum foil, saran wrap or Ziplock)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: &lt;strong&gt;CAUTION.&lt;/strong&gt; Borax is harmful if swallowed, inhaled or has come in contact with the eyes. On rare occasion, touching it can result in rashes.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>317.6000061035156</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Ice Water and Set Up Pipe Cleaners</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Fill half of the large bowl with ice cubes. Then, add water until the bowl is about three quarters full&lt;/li&gt;&lt;li&gt;Cut two pipe cleaners at least as long as the height of the glass containers&lt;/li&gt;&lt;li&gt;Tie the end of one pipe cleaner around a pencil. Tie the end of the second pipe cleaner around the other pencil&lt;/li&gt;&lt;li&gt;Adjust the pipe cleaners' lengths so that when the pencil is laid across the top of one of the jars, the end of the pipe cleaner hangs down to just above the bottom of the jar. Make sure the pipe cleaners are equal in length&lt;/li&gt;&lt;li&gt;Set the pipe cleaners tied to the pencils aside so they are no longer in the jars&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>346.4000549316406</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Add Borax to Heated Water</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Fill a cooking pot with enough water to fill both jars nearly full&lt;/li&gt;&lt;li&gt;Bring that water to a boil on the stove&lt;/li&gt;&lt;li&gt;Once the water is boiling, turn the burner off so that the water stops boiling (see note below)&lt;/li&gt;&lt;li&gt;Add one tablespoon of Borax to the water and stir until it dissolves. Continue to add one tablespoon of Borax at a time until no more dissolves. You should have a small amount of solid Borax at the bottom to ensure the solution is saturated when very hot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;CAUTION.&lt;/strong&gt; The water should be as hot as possible but not boiling. Do not dissolve it with boiling water because Borax is harmful if inhaled or in contact with eyes&lt;/li&gt;&lt;li&gt;Don’t add so much Borax that the water becomes cloudy&lt;/li&gt;&lt;li&gt;You may need to heat the water again if dissolving the Borax takes more than 3 minutes&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>442.4000244140625</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Place Heated Water and Pipe Cleaners in Jars</name>
+<id>52</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Carefully, but quickly, pour equal amounts of the very hot saturated Borax solution (see note below) into the two jars until each jar is about three fourths full&lt;/li&gt;&lt;li&gt;Lay a pencil across the top of each jar so that the pipe cleaner hangs down into the saturated solution, not touching the walls or bottom&lt;/li&gt;&lt;li&gt;Shake them a little to get rid of any air bubbles&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It is important to avoid losing time, as the saturated solution must be as hot as possible when you add the pipe cleaners&lt;/li&gt;&lt;li&gt;The part closest to the bottom usually ends up with more crystals than the part hanging near the surface of the solution&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>356.0000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Cover and Place Jars in Different Environments </name>
+<id>53</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Cover the top of the jars loosely with plastic wrap, aluminum foil or other material&lt;/li&gt;&lt;li&gt;Leave one jar (called "Jar A") undisturbed on a countertop or table at room temperature&lt;/li&gt;&lt;li&gt;Place the other jar (called "Jar B") in the bowl full of ice that you previously prepared&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: If needed, adjust the water level in the bowl so that the water reaches at least three fourths the way up the jar, but is not so high that it goes into the jar.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>231.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Check on Crystal Formation during 5-hour Rest</name>
+<id>54</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Do not disturb the jars for at least five hours&lt;/li&gt;&lt;li&gt;Check the bowl of ice regularly and add ice if it has melted&lt;/li&gt;&lt;li&gt;Check on both jars about once an hour to see how the crystals are forming&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: It may be difficult to observe the jar in the bowl. Try looking at the pipe cleaner through the plastic wrap cover.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>188.00001525878906</textheight>
+<timevalue>5</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Remove Pipe Cleaner and Take Pictures</name>
+<id>56</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Carefully remove the pencils and observe the crystals on the pipe cleaners, after at least 5 hours&lt;/li&gt;&lt;li&gt;Take a picture of the crystals from Jar A and Jar B and include them in your lab report&lt;/li&gt;&lt;li&gt;Put the pipe cleaner of jar A back in the jar. After at least 24 hours, take a picture of the crystals from jar A&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: &lt;strong&gt;CAUTION.&lt;/strong&gt; Very carefully clean all the materials. Do not leave any trace of Borax on your kitchen utensils.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>240.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Lab Report and Submit </name>
+<id>25</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Finish data sheet and answer lab questions&lt;/li&gt;&lt;li&gt;Answer post-lab questions&lt;/li&gt;&lt;li&gt;Submit lab report to the instructor, with picture(s) of the experimental set up&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.40000915527344</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<link><targetid>26</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>26</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

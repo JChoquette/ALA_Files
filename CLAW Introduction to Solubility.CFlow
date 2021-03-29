@@ -1,0 +1,198 @@
+<project><prname>CLAW At-Home Experiments: Organic Chemistry, Introduction to Solubility</prname>
+<idnum>115</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>CLAW At-Home Experiments: Organic Chemistry, Introduction to Solubility</wfname>
+<wfauthor>By Carmen Leung and Yann Brouillette</wfauthor>
+<wfdescription>&lt;p&gt;In this out-of-class activity, students will perform at-home experiment to qualitatively evaluate and understand solubility behavior. Students will be able to determine conditions and properties that favor solubility. See a full description &lt;a href=&quot;https://www.saltise.ca/activities/claw-at-home-experiment-organic-chemistry-introduction-to-solubility/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Present topic/theory to the whole class&lt;/li&gt;&lt;li&gt;Distribute the &lt;a href="https://www.saltise.ca/wp-content/uploads/2021/03/SALTISE-Chem-Protocol-ORGANIC-INTRO-TO-SOLUBILITY.pdf" target="_blank"&gt;protocol&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Demonstrate the at-home experiment with a walk through the procedure synchronously, or by sharing a pre-recorded video assynchronously&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>159.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Gather Materials</name>
+<id>51</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Gather necessary materials and tools: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Spatula (or popsicle stick)&lt;/li&gt;&lt;li&gt;Teaspoon&lt;/li&gt;&lt;li&gt;Aluminum foil&lt;/li&gt;&lt;li&gt;Transparent containers (such as test tubes, shot glass, narrow drinking glass, etc.)&lt;/li&gt;&lt;li&gt;Water&lt;/li&gt;&lt;li&gt;Rubbing alcohol&lt;/li&gt;&lt;li&gt;Baby oil&lt;/li&gt;&lt;li&gt;Nail polish remover (ultra-powerful),&lt;/li&gt;&lt;li&gt;Table salt (NaCl)&lt;/li&gt;&lt;li&gt;Table sugar (sucrose)&lt;/li&gt;&lt;li&gt;Petroleum jelly (vaseline)&lt;/li&gt;&lt;li&gt;Packing peanuts&lt;/li&gt;&lt;li&gt;Styrofoam pieces (from cups, or packages, etc.)&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>303.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Set up and Conduct Part A of Experiment</name>
+<id>3</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Conduct Part A for each pair of compounds, following the steps in order:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Choose a pair of compounds (water, rubbing alcohol, nail polish remover or baby oil)&lt;/li&gt;&lt;li&gt;Record the brand name and the ingredients of the rubbing alcohol and nail polish remover being used&lt;/li&gt;&lt;li&gt;Use a clean and dry tube to add equal amounts of each liquid to the same tube&lt;/li&gt;&lt;li&gt;Rigorously shake the tube for 10–20 seconds. Then let it stand for 30 seconds&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>279.4000244140625</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Analyze Part A Mixture 
+and Record Results</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Check mixture to determine if the two liquids are miscible (forms one layer) or immiscible (forms two layers)&lt;/li&gt;&lt;li&gt;Record your results (miscible or immiscible) on the Data sheet provided&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144.8000030517578</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>3</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>                            Repeat for each
+                               pair of compounds</linktext>
+<linklabelx>-0.8166</linklabelx>
+</link>
+<link><targetid>52</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Set up and Conduct Part B of Experiment</name>
+<id>52</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Conduct Part B three times with three different solids (salt, sugar, then petroleum jelly heated for 20-30s until liquid). Follow these steps each time:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Use clean and dry tubes. Then, using the tip of the spatula (or popsicle stick, or coffee stick), place a small amount of table salt (sodium chloride, NaCl) into each of five tubes. The amount should be approximately the same&lt;/li&gt;&lt;li&gt;Label tubes according to compounds: water, baby oil, rubbing alcohol , nail polish remover and label the fifth tube control&lt;/li&gt;&lt;li&gt;Add about 2 mL of each compound to each tube according to its label. (e.g. add the compound water to the tube labeled water) The fifth tube will be used as a control to visualize the starting quantity of the solid&lt;/li&gt;&lt;li&gt;Cover the top of each tube with aluminum foil and shake it vigorously for 30 seconds. Then, let it stand for 30 seconds&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: When using petroleum jelly (Vaseline), heat solid in a microwave for 20 to 30 seconds to get a liquid solute before mixing it with the liquid solvents.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>509.8000183105469</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Analyze Part B Solubility and Record Results</name>
+<id>53</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Compare each tube with the control to determine solubility&lt;/li&gt;&lt;li&gt;Record on the data sheet whether the compound is soluble (dissolves completely), insoluble (none of it dissolves), or partially soluble&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: use the following cases to guide determinations:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If a significant amount (at least 50%) of the solid has dissolved, the sample is partially soluble&lt;/li&gt;&lt;li&gt;For the purpose of this experiment, if it is not clear that a significant amount of solid has dissolved, then state that the sample is insoluble&lt;/li&gt;&lt;li&gt;If all but a couple of granules have dissolved, state that the sample is soluble&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>341.6000061035156</textheight>
+<isdropped>true</isdropped>
+<link><targetid>52</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>                           Repeat using 2
+                             substitute solids</linktext>
+<linklabelx>-0.892</linklabelx>
+</link>
+</node>
+<node><name>Set up and Conduct Part C of Experiment</name>
+<id>54</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Follow these steps in order using styrofoam pieces the first time and then substituting styrofoam with packing peanuts:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Clean and dry three tubes and place a piece of Styrofoam into each of three tubes&lt;/li&gt;&lt;li&gt;Label tubes according to compounds: water, baby oil, nail polish remover&lt;/li&gt;&lt;li&gt;Add about 5 mL of compound to each tube, according to its label&lt;/li&gt;&lt;li&gt;Cover the top of the tube with aluminum foil and shake vigorously for 30 seconds. Then, let it stand for 30 seconds&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>293.8000183105469</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Analyze Part C Solubility 
+and Record Results</name>
+<id>56</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Record on the data sheet whether the compound is soluble (dissolves completely), insoluble (none of it dissolves), or partially soluble.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>77.60000610351562</textheight>
+<isdropped>true</isdropped>
+<link><targetid>54</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>                         Repeat  using 
+                    1 substitute</linktext>
+<linklabelx>-0.8086</linklabelx>
+</link>
+</node>
+<node><name>Set up and Conduct Part D of Experiment</name>
+<id>55</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Follow these steps in order three time, first using tap water, then substituting tap water with ice water, and then substituting with boiling water.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Add a 1/2 cup of tap water to a transparent cup&lt;/li&gt;&lt;li&gt;Gradually add table salt, one teaspoon at a time, to the tap water and stirring the solution between each addition. Stop adding salt when it no longer dissolves&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>236.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Analyze Part D 
+and Record Results</name>
+<id>57</id>
+<lefticon>solo</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;For each type of water, record the number of teaspoons of salt added on the Data sheet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>82.60000610351562</textheight>
+<isdropped>true</isdropped>
+<link><targetid>55</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>                               Repeat twice with 
+                          different water</linktext>
+<linklabelx>-0.8082</linklabelx>
+</link>
+</node>
+<node><name>Complete and Submit Data</name>
+<id>25</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Once data sheet is complete, submit to the instructor, including a picture of the experimental set up.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>26</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+</node>
+<node><name>Optional: Test Solubility of an Egg Shell in Vinegar</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;ol&gt;&lt;li&gt;Delicately place an egg into a transparent glass&lt;/li&gt;&lt;li&gt;Add a large amount of vinegar (CH3CO2H) to cover the egg&lt;/li&gt;&lt;li&gt;Observe the egg after 24, 48 and 72 hours to see if the vinegar has dissolved the eggshell, which is made up of calcium carbonate (CaCO3)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Note: Be careful, the egg will break very easily once the shell has dissolved.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>202.40000915527344</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Review and Discuss Lab Reports</name>
+<id>26</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Review the student lab reports&lt;/li&gt;&lt;li&gt;Discuss the results with the class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>
