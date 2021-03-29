@@ -1,5 +1,5 @@
 <project><prname>Interior Design</prname>
-<idnum>388</idnum>
+<idnum>464</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Interior Design</wfname>
 <wfauthor>Anne Marie Legault</wfauthor>
@@ -88,6 +88,9 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<link><targetid>12</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
 <nodetag><nodetagid>170</nodetagid>
@@ -106,6 +109,9 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<link><targetid>14</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
 <nodetag><nodetagid>171</nodetagid>
@@ -149,6 +155,25 @@ and Knowledge</columnnodetext>
 </node>
 </week>
 <week><weekid>16</weekid>
+<node><name>Visual Communication 1 (45 hrs)</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<link><targetid>30</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>172</nodetagid>
+</nodetag>
+<nodetag><nodetagid>173</nodetagid>
+</nodetag>
+<nodetag><nodetagid>182</nodetagid>
+</nodetag>
+</node>
 <node><name>CAD 1 
 (45 hrs)</name>
 <id>10</id>
@@ -159,34 +184,10 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>29</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
 <nodetag><nodetagid>174</nodetagid>
-</nodetag>
-</node>
-<node><name>Visual Communication 1 (45 hrs)</name>
-<id>11</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS1</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>20.000001907348633</textheight>
-<isdropped>true</isdropped>
-<nodetag><nodetagid>172</nodetagid>
-</nodetag>
-<nodetag><nodetagid>173</nodetagid>
-</nodetag>
-<nodetag><nodetagid>182</nodetagid>
-</nodetag>
-</node>
-<node><name>Art and the Built Environment (45 hrs)</name>
-<id>13</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS2</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<nodetag><nodetagid>170</nodetagid>
 </nodetag>
 </node>
 <node><name>Materials &amp; Furnishings 2 (45 hrs)</name>
@@ -207,6 +208,20 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>178</nodetagid>
 </nodetag>
 </node>
+<node><name>Art and the Built Environment (45 hrs)</name>
+<id>13</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>33</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>170</nodetagid>
+</nodetag>
+</node>
 <node><name>Colour &amp; Lighting 1 
 (45 hrs)</name>
 <id>25</id>
@@ -217,6 +232,9 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>46</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>176</nodetagid>
 </nodetag>
 <nodetag><nodetagid>183</nodetagid>
@@ -231,6 +249,9 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<link><targetid>34</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
 <nodetag><nodetagid>171</nodetagid>
@@ -294,6 +315,9 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>50</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
 <nodetag><nodetagid>173</nodetagid>
@@ -354,6 +378,9 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>54</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>184</nodetagid>
 </nodetag>
 </node>
@@ -365,6 +392,9 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<link><targetid>55</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>175</nodetagid>
 </nodetag>
 <nodetag><nodetagid>177</nodetagid>
@@ -409,6 +439,9 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>69</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>179</nodetagid>
 </nodetag>
 <nodetag><nodetagid>184</nodetagid>
@@ -438,6 +471,9 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>20</textheight>
+<link><targetid>71</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>175</nodetagid>
 </nodetag>
 <nodetag><nodetagid>178</nodetagid>
@@ -500,24 +536,6 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>184</nodetagid>
 </nodetag>
 </node>
-<node><name>Professional Practice 1 
-(45 hrs)</name>
-<id>81</id>
-<lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
-<column>CUS2</column>
-<textHTML>undefined</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<nodetag><nodetagid>175</nodetagid>
-</nodetag>
-<nodetag><nodetagid>178</nodetagid>
-</nodetag>
-<nodetag><nodetagid>185</nodetagid>
-</nodetag>
-<nodetag><nodetagid>188</nodetagid>
-</nodetag>
-</node>
 <node><name>Construction Documents 3 (45 hrs)</name>
 <id>69</id>
 <lefticon>undefined</lefticon>
@@ -527,6 +545,9 @@ and Knowledge</columnnodetext>
 <linkedwf>undefined</linkedwf>
 <textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
+<link><targetid>88</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>178</nodetagid>
 </nodetag>
 <nodetag><nodetagid>179</nodetagid>
@@ -550,7 +571,28 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>187</nodetagid>
 </nodetag>
 </node>
-<node><name>Interior Design V 
+<node><name>Professional Practice 1 
+(45 hrs)</name>
+<id>81</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<link><targetid>90</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>175</nodetagid>
+</nodetag>
+<nodetag><nodetagid>178</nodetagid>
+</nodetag>
+<nodetag><nodetagid>185</nodetagid>
+</nodetag>
+<nodetag><nodetagid>188</nodetagid>
+</nodetag>
+</node>
+<node><name>Interior Design 5
 (135 hrs)</name>
 <id>71</id>
 <lefticon>undefined</lefticon>
@@ -558,7 +600,11 @@ and Knowledge</columnnodetext>
 <column>CUS3</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<isdropped>true</isdropped>
+<link><targetid>91</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
 <nodetag><nodetagid>182</nodetagid>
 </nodetag>
 <nodetag><nodetagid>186</nodetagid>
