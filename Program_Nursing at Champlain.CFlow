@@ -1,13 +1,13 @@
 <project><prname>Nursing - Champlain</prname>
-<idnum>3186</idnum>
-<terminologyset>eng</terminologyset>
-<workflow><wfname>Nursing - Champlain</wfname>
+<idnum>5469</idnum>
+<terminologyset>cegep</terminologyset>
+<workflow><wfname>Nursing - Students</wfname>
 <wfauthor>undefined</wfauthor>
 <wfdescription>undefined</wfdescription>
-<wfid>3</wfid>
+<wfid>3554</wfid>
 <wftype>program</wftype>
 <usedwfARRAY></usedwfARRAY>
-<tagsetARRAY>483,757</tagsetARRAY>
+<tagsetARRAY>757,3705,3710,3716,3723,3727,3736,3744,3749,3755,3761,3768,3776,3782,3790,3797,3809,3815,3821,3833,3845,3854,3866</tagsetARRAY>
 <wfdata><column><columnname>CUS1</columnname>
 <columnimage>gears</columnimage>
 <columncolour>#369934</columncolour>
@@ -38,10 +38,10 @@ Psychology</columnnodetext>
 <columnnodetext>General Education</columnnodetext>
 <columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
-<week><weekid>4</weekid>
+<week><weekid>3546</weekid>
 <node><name>Introduction to Nursing
 180-N11-LA</name>
-<id>8</id>
+<id>3502</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -50,26 +50,26 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>14</targetid>
+<link><targetid>3509</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>15</targetid>
+<link><targetid>3510</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>16</targetid>
+<link><targetid>3511</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>484</nodetagid>
+<nodetag><nodetagid>3705</nodetagid>
 </nodetag>
-<nodetag><nodetagid>502</nodetagid>
+<nodetag><nodetagid>3723</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>555</nodetagid>
+<nodetag><nodetagid>3776</nodetagid>
 </nodetag>
 </node>
 <node><name>Health Assess. &amp; Phys. Exam 180-N12-LA</name>
-<id>7</id>
+<id>3503</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -79,21 +79,21 @@ Psychology</columnnodetext>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<link><targetid>14</targetid>
+<link><targetid>3509</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>15</targetid>
+<link><targetid>3510</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>16</targetid>
+<link><targetid>3511</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
 </node>
 <node><name>Anatomy and Physiology 1 
 101-N11-LA</name>
-<id>6</id>
+<id>3504</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -102,15 +102,15 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>13</targetid>
+<link><targetid>3515</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>489</nodetagid>
+<nodetag><nodetagid>3710</nodetagid>
 </nodetag>
 </node>
 <node><name>Comm. &amp; Prof. Challenges 
 350-N11-LA</name>
-<id>9</id>
+<id>3505</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -120,11 +120,11 @@ Psychology</columnnodetext>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>515</nodetagid>
+<nodetag><nodetagid>3736</nodetagid>
 </nodetag>
 </node>
 <node><name>Introduction to Nursing 180-N13-LA</name>
-<id>11</id>
+<id>3506</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -133,12 +133,12 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
 </node>
 <node><name>French (Block A)
 602-COM-R4</name>
-<id>145</id>
+<id>3507</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -149,7 +149,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>Introduction to College English 603-101-MQ </name>
-<id>10</id>
+<id>3508</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -161,9 +161,9 @@ Psychology</columnnodetext>
 <isdropped>true</isdropped>
 </node>
 </week>
-<week><weekid>20</weekid>
+<week><weekid>3547</weekid>
 <node><name>Introduction to Medical-Surgical Nursing &amp; Chronic Illnesses 180-N21-LA </name>
-<id>14</id>
+<id>3509</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -172,21 +172,21 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>32</targetid>
+<link><targetid>3516</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>515</nodetagid>
+<nodetag><nodetagid>3736</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
 </node>
 <node><name>Wellness in the Aging Adult
 180-N22-LA </name>
-<id>15</id>
+<id>3510</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -195,17 +195,17 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>555</nodetagid>
+<nodetag><nodetagid>3776</nodetagid>
 </nodetag>
 </node>
 <node><name>Introduction to Medical-Surgical Nursing &amp; Chronic illnesses | Clinical 180-N23LA </name>
-<id>16</id>
+<id>3511</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -214,16 +214,16 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>32</targetid>
+<link><targetid>3516</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>495</nodetagid>
+<nodetag><nodetagid>3716</nodetagid>
 </nodetag>
-<nodetag><nodetagid>576</nodetagid>
+<nodetag><nodetagid>3797</nodetagid>
 </nodetag>
 </node>
 <node><name>Humanities (Knowledge) 346-101-MQ </name>
-<id>18</id>
+<id>3512</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -234,7 +234,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>French (Block B) 602-BMT-MQ </name>
-<id>19</id>
+<id>3513</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -245,7 +245,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>Physical Education (101 or 102) 109-1MXMQ </name>
-<id>17</id>
+<id>3514</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -257,7 +257,7 @@ Psychology</columnnodetext>
 </node>
 <node><name>Anatomy and Physiology II
 101-N21-LA </name>
-<id>13</id>
+<id>3515</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -266,20 +266,20 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>32</targetid>
+<link><targetid>3516</targetid>
 <portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
 </link>
-<link><targetid>30</targetid>
+<link><targetid>3519</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>489</nodetagid>
+<nodetag><nodetagid>3710</nodetagid>
 </nodetag>
 </node>
 </week>
-<week><weekid>37</weekid>
+<week><weekid>3548</weekid>
 <node><name>Medical-Surgical Nursing II 
 180-N31-LA </name>
-<id>32</id>
+<id>3516</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -288,21 +288,21 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>50</targetid>
+<link><targetid>3528</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<link><targetid>49</targetid>
+<link><targetid>3524</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
 </node>
 <node><name>Perinatal Care and Women's Health 180-N33-LA </name>
-<id>34</id>
+<id>3517</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -312,25 +312,25 @@ Psychology</columnnodetext>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>495</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3716</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>547</nodetagid>
+<nodetag><nodetagid>3768</nodetagid>
 </nodetag>
 </node>
 <node><name>387-N31-LA Sociology of Families</name>
-<id>31</id>
+<id>3518</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -339,12 +339,12 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>523</nodetagid>
+<nodetag><nodetagid>3744</nodetagid>
 </nodetag>
 </node>
 <node><name>Anatomy and Physiology III 
 101-N31-LA </name>
-<id>30</id>
+<id>3519</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -353,20 +353,20 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>50</targetid>
+<link><targetid>3528</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>49</targetid>
+<link><targetid>3524</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>47</targetid>
+<link><targetid>3527</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>489</nodetagid>
+<nodetag><nodetagid>3710</nodetagid>
 </nodetag>
 </node>
 <node><name>Medical-Surgical Nursing II | Clinical 180-N32-LA </name>
-<id>33</id>
+<id>3520</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -375,14 +375,14 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>105</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>50</targetid>
+<link><targetid>3528</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>576</nodetagid>
+<nodetag><nodetagid>3797</nodetagid>
 </nodetag>
 </node>
 <node><name>Perinatal Care and Women's Health Clinical 180-N34-LA </name>
-<id>35</id>
+<id>3521</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -391,19 +391,19 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>547</nodetagid>
+<nodetag><nodetagid>3768</nodetagid>
 </nodetag>
-<nodetag><nodetagid>600</nodetagid>
+<nodetag><nodetagid>3821</nodetagid>
 </nodetag>
 </node>
 <node><name>Complementary 1 XXX-XXX-LA </name>
-<id>36</id>
+<id>3522</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -414,7 +414,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>English for Nursing Students 603-8MN-MQ </name>
-<id>146</id>
+<id>3523</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -426,9 +426,9 @@ Psychology</columnnodetext>
 <isdropped>true</isdropped>
 </node>
 </week>
-<week><weekid>54</weekid>
+<week><weekid>3549</weekid>
 <node><name>Medical-Surgical Nursing III 180-N41-LA </name>
-<id>49</id>
+<id>3524</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -438,21 +438,21 @@ Psychology</columnnodetext>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<link><targetid>64</targetid>
+<link><targetid>3532</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>65</targetid>
+<link><targetid>3534</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
 </node>
 <node><name>Pediatric Care 180-N43-LA </name>
-<id>51</id>
+<id>3525</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -461,21 +461,21 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
 </node>
 <node><name>Lifespan &amp; Development 350-N41-LA </name>
-<id>48</id>
+<id>3526</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -484,11 +484,11 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>495</nodetagid>
+<nodetag><nodetagid>3716</nodetagid>
 </nodetag>
 </node>
 <node><name>Microbiology &amp; Immunology 101-N41-LA </name>
-<id>47</id>
+<id>3527</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -498,17 +498,17 @@ Psychology</columnnodetext>
 <timevalue>75</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<link><targetid>65</targetid>
+<link><targetid>3534</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>64</targetid>
+<link><targetid>3532</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
 </link>
-<nodetag><nodetagid>528</nodetagid>
+<nodetag><nodetagid>3749</nodetagid>
 </nodetag>
 </node>
 <node><name>Medical-Surgical Nursing III clinical 180-N42-LA </name>
-<id>50</id>
+<id>3528</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -517,17 +517,17 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>90</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>64</targetid>
+<link><targetid>3532</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>65</targetid>
+<link><targetid>3534</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>576</nodetagid>
+<nodetag><nodetagid>3797</nodetagid>
 </nodetag>
 </node>
 <node><name>Pediatric Care Clinical 180-N44-LA </name>
-<id>52</id>
+<id>3529</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -537,18 +537,18 @@ Psychology</columnnodetext>
 <timevalue>90</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>612</nodetagid>
+<nodetag><nodetagid>3833</nodetagid>
 </nodetag>
 </node>
 <node><name>English (102 or 103) 
 603-10X-MQ </name>
-<id>53</id>
+<id>3530</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -560,7 +560,7 @@ Psychology</columnnodetext>
 </node>
 <node><name>Humanities (World Views) 
 345-102-MQ </name>
-<id>147</id>
+<id>3531</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -571,9 +571,9 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 </week>
-<week><weekid>71</weekid>
+<week><weekid>3550</weekid>
 <node><name>Medical-Surgical Nusing IV &amp; Ambulatory Care180-N51-LA </name>
-<id>64</id>
+<id>3532</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -583,17 +583,17 @@ Psychology</columnnodetext>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>594</nodetagid>
+<nodetag><nodetagid>3815</nodetagid>
 </nodetag>
 </node>
 <node><name>Mental Health Care 180-N53-LA </name>
-<id>66</id>
+<id>3533</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -602,27 +602,27 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
 </link>
-<nodetag><nodetagid>495</nodetagid>
+<nodetag><nodetagid>3716</nodetagid>
 </nodetag>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
-<nodetag><nodetagid>515</nodetagid>
+<nodetag><nodetagid>3736</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>588</nodetagid>
+<nodetag><nodetagid>3809</nodetagid>
 </nodetag>
 </node>
 <node><name>Medical Surgical Nursing &amp; Ambulatory Care | Clinical 180-N52-LA </name>
-<id>65</id>
+<id>3534</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -632,13 +632,13 @@ Psychology</columnnodetext>
 <timevalue>90</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>624</nodetagid>
+<nodetag><nodetagid>3797</nodetagid>
 </nodetag>
-<nodetag><nodetagid>576</nodetagid>
+<nodetag><nodetagid>3845</nodetagid>
 </nodetag>
 </node>
 <node><name>Mental Health Care Clinical 180-N54-LA </name>
-<id>67</id>
+<id>3535</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -647,18 +647,18 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>120</timevalue>
 <timeunit>hr</timeunit>
-<link><targetid>82</targetid>
+<link><targetid>3540</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
 </link>
-<link><targetid>83</targetid>
+<link><targetid>3543</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
-<nodetag><nodetagid>633</nodetagid>
+<nodetag><nodetagid>3854</nodetagid>
 </nodetag>
 </node>
 <node><name>English (102 or 103) 
 603-10X-MQ </name>
-<id>68</id>
+<id>3536</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -670,7 +670,7 @@ Psychology</columnnodetext>
 <isdropped>true</isdropped>
 </node>
 <node><name>Physical Education (101 or 102) 109-1MXMQ </name>
-<id>70</id>
+<id>3537</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -681,7 +681,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>Complementary 2 XXX XXX-LA </name>
-<id>148</id>
+<id>3538</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -692,7 +692,7 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 <node><name>Humanities for Professional Programs 345-BMC MQ </name>
-<id>69</id>
+<id>3539</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -703,9 +703,9 @@ Psychology</columnnodetext>
 <timeunit>hr</timeunit>
 </node>
 </week>
-<week><weekid>88</weekid>
+<week><weekid>3551</weekid>
 <node><name>Nursing Integration 180-N61-LA </name>
-<id>82</id>
+<id>3540</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -714,19 +714,19 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>484</nodetagid>
+<nodetag><nodetagid>3705</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>561</nodetagid>
+<nodetag><nodetagid>3782</nodetagid>
 </nodetag>
-<nodetag><nodetagid>588</nodetagid>
+<nodetag><nodetagid>3809</nodetagid>
 </nodetag>
 </node>
 <node><name>Gerontology Care 180-N63-LA </name>
-<id>84</id>
+<id>3541</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
@@ -735,19 +735,19 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>506</nodetagid>
+<nodetag><nodetagid>3755</nodetagid>
 </nodetag>
-<nodetag><nodetagid>515</nodetagid>
+<nodetag><nodetagid>3761</nodetagid>
 </nodetag>
-<nodetag><nodetagid>534</nodetagid>
+<nodetag><nodetagid>3776</nodetagid>
 </nodetag>
-<nodetag><nodetagid>540</nodetagid>
+<nodetag><nodetagid>3736</nodetagid>
 </nodetag>
-<nodetag><nodetagid>555</nodetagid>
+<nodetag><nodetagid>3727</nodetagid>
 </nodetag>
 </node>
 <node><name>Sociology of Health 387-N61-LA </name>
-<id>81</id>
+<id>3542</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
@@ -757,11 +757,11 @@ Psychology</columnnodetext>
 <timevalue>45</timevalue>
 <timeunit>hr</timeunit>
 <isdropped>true</isdropped>
-<nodetag><nodetagid>523</nodetagid>
+<nodetag><nodetagid>3744</nodetagid>
 </nodetag>
 </node>
 <node><name>Nursing Integration Clinical 180-N62-LA </name>
-<id>83</id>
+<id>3543</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -770,13 +770,13 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>195</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>569</nodetagid>
+<nodetag><nodetagid>3790</nodetagid>
 </nodetag>
-<nodetag><nodetagid>576</nodetagid>
+<nodetag><nodetagid>3797</nodetagid>
 </nodetag>
 </node>
 <node><name>Gerontology Care Clinical 180-N64-LA </name>
-<id>85</id>
+<id>3544</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS3</column>
@@ -785,11 +785,11 @@ Psychology</columnnodetext>
 <textheight>100</textheight>
 <timevalue>60</timevalue>
 <timeunit>hr</timeunit>
-<nodetag><nodetagid>645</nodetagid>
+<nodetag><nodetagid>3866</nodetagid>
 </nodetag>
 </node>
 <node><name>Physical Education 109-1M3-MQ </name>
-<id>86</id>
+<id>3545</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
@@ -803,705 +803,811 @@ Psychology</columnnodetext>
 <wflegendx>880</wflegendx>
 <wflegendy>400</wflegendy>
 </wfdata></workflow>
-<tag><tagname>MELS Competencies</tagname>
-<tagid>483</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>01Q0 - To analyze the work function. </tagname>
-<tagid>484</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To characterize a nurse&apos;s function and working conditions.</tagname>
-<tagid>485</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To explore the tasks pertaining to the work function.</tagname>
-<tagid>486</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To examine the abilities and behaviours required to perform the work function.</tagname>
-<tagid>487</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To study the legislation applicable to professional practice.</tagname>
-<tagid>488</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q1 - To develop an integrated perception of the human body and its functions. </tagname>
-<tagid>489</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To discern the anatomy of the human body.</tagname>
-<tagid>490</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To recognize the human body as a group of systems.</tagname>
-<tagid>491</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To establish links between nutrition and the body&apos;s functioning.</tagname>
-<tagid>492</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To consider the human body as an entity seeking equilibrium.</tagname>
-<tagid>493</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To understand the incidence of a biological imbalance on body functioning.</tagname>
-<tagid>494</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q2 - To deal with a client&apos;s reactions and behaviours. </tagname>
-<tagid>495</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To establish initial contact with the client.</tagname>
-<tagid>496</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To describe the client&apos;s reactions and behaviours.</tagname>
-<tagid>497</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To interpret the client&apos;s reactions and behaviours.</tagname>
-<tagid>498</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To appraise the potential danger of a situation.</tagname>
-<tagid>499</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To react to risk situations.</tagname>
-<tagid>500</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To perform self-assessment.</tagname>
-<tagid>501</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q3 - To refer to a conceptual nursing framework to define one&apos;s professional practice </tagname>
-<tagid>502</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To base one&apos;s own action on the foundations of professional practice.</tagname>
-<tagid>503</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To base nursing care activities on a conceptual model.</tagname>
-<tagid>504</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To apply the nursing process.</tagname>
-<tagid>505</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q4 - To use assessment and nursing care procedures. </tagname>
-<tagid>506</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To carry out the preliminary steps to the implementation of the procedure.</tagname>
-<tagid>507</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To proceed with a clinical examination of the client.</tagname>
-<tagid>508</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To monitor a client&apos;s physical condition.</tagname>
-<tagid>509</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To assess a client&apos;s cognitive and affective functions.</tagname>
-<tagid>510</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To assess a client&apos;s ability to function autonomously.</tagname>
-<tagid>511</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To carry out nursing/medical care and treatment.</tagname>
-<tagid>512</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To administer medication by various routes.</tagname>
-<tagid>513</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To chart data.</tagname>
-<tagid>514</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q5 - To establish a helping communication with the client and his/her significant others. </tagname>
-<tagid>515</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To enter into relation with the client and his/her significant others.</tagname>
-<tagid>516</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To create an alliance with the client and his/her significant others.</tagname>
-<tagid>517</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To conduct an interview.</tagname>
-<tagid>518</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To interact within a helping relationship.</tagname>
-<tagid>519</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To support a client through a decision-making process concerning his/her health.</tagname>
-<tagid>520</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To support a client experiencing bereavement or loss, as well as his/her entourage.</tagname>
-<tagid>521</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To evaluate established relationships.</tagname>
-<tagid>522</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q6 - To deal with social and cultural realities related to health matters. </tagname>
-<tagid>523</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To consider the social context surrounding one&apos;s own professional practice.</tagname>
-<tagid>524</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To take the client&apos;s family context into consideration.</tagname>
-<tagid>525</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To take the client&apos;s sociocultural characteristics into account.</tagname>
-<tagid>526</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To assess one&apos;s own attitudes and behaviours with regard to sociocultural diversity.</tagname>
-<tagid>527</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q7 - To link immunological disorders and infections to physiological and metabolic mechanisms. </tagname>
-<tagid>528</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To specify the action of an aggressive agent on the human body.</tagname>
-<tagid>529</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To define the body&apos;s reactions to the aggressor.</tagname>
-<tagid>530</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To describe the infectious or immunological disorder.</tagname>
-<tagid>531</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To relate the immunopathological disorder to the therapy.</tagname>
-<tagid>532</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To examine measures to prevent or control infection.</tagname>
-<tagid>533</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q8 - To interpret a clinical situation by referring to health problems and other problems related to the field of nursing. </tagname>
-<tagid>534</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To describe the health problem.</tagname>
-<tagid>535</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To relate test results to the diagnosed health problem.</tagname>
-<tagid>536</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To relate the health problem to the therapy.</tagname>
-<tagid>537</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To identify nursing-related problems connected to the health situation.</tagname>
-<tagid>538</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To outline the nursing interventions.</tagname>
-<tagid>539</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01Q9 - To establish links between pharmacotherapy and a clinical situation. </tagname>
-<tagid>540</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To interpret a medical prescription for medication.</tagname>
-<tagid>541</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To relate clinical manifestations to the medication prescribed.</tagname>
-<tagid>542</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To anticipate the effects of the drug.</tagname>
-<tagid>543</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To specify conditions for drug administration.</tagname>
-<tagid>544</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To select measures to support medication.</tagname>
-<tagid>545</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To plan prescription follow-up.</tagname>
-<tagid>546</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QA - To teach the client and his/her significant others. </tagname>
-<tagid>547</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To determine needs and expectations with respect to information and learning.</tagname>
-<tagid>548</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To provide information on health, nursing care and services.</tagname>
-<tagid>549</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To organize a teaching activity.</tagname>
-<tagid>550</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To provide teaching on an individual basis.</tagname>
-<tagid>551</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To teach a small group of people.</tagname>
-<tagid>552</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To evaluate the results of the activity.</tagname>
-<tagid>553</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To chart data.</tagname>
-<tagid>554</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QB - To assist clients in the maintenance and improvement of their health. </tagname>
-<tagid>555</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To perform health care activities as part of a prevention program.</tagname>
-<tagid>556</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To promote a healthy lifestyle.</tagname>
-<tagid>557</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To make the client aware of various risk situations.</tagname>
-<tagid>558</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To support the client taking charge of his/her health.</tagname>
-<tagid>559</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To assess the client&apos;s capacity to take charge of himself/herself after returning to his/her natural environment.</tagname>
-<tagid>560</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QC - To adapt to various work situations. </tagname>
-<tagid>561</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To assume the emotional consequences inherent in carrying out duties.</tagname>
-<tagid>562</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To manage the stress inherent in professional practice.</tagname>
-<tagid>563</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To prevent professional burnout.</tagname>
-<tagid>564</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To react to a crisis situation.</tagname>
-<tagid>565</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To organize one&apos;s workload.</tagname>
-<tagid>566</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To adjust to changes in work environment.</tagname>
-<tagid>567</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To assume responsibility for one&apos;s own professional development.</tagname>
-<tagid>568</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QD - To establish a cooperative relationship with members of the interdisciplinary team. </tagname>
-<tagid>569</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To work collaboratively within a care team.</tagname>
-<tagid>570</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To coordinate nursing activities.</tagname>
-<tagid>571</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To work within the interdisciplinary team.</tagname>
-<tagid>572</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To intervene in conflictual work situations.</tagname>
-<tagid>573</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To carry out administrative duties.</tagname>
-<tagid>574</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To process information to ensure continuity of care and follow-up.</tagname>
-<tagid>575</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QE - To intervene with hospitalized adults and elderly clients requiring medical/surgical nursing. </tagname>
-<tagid>576</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
-<tagid>577</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
-<tagid>578</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To ensure clinical monitoring.</tagname>
-<tagid>579</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To outline the care needs.</tagname>
-<tagid>580</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>581</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
-<tagid>582</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan</tagname>
-<tagid>583</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To carry out the interventions:</tagname>
-<tagid>584</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>9. To administer medication.</tagname>
-<tagid>585</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>586</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
-<tagid>587</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QF - To use the ethics and values of the profession to understand one&apos;s own role. </tagname>
-<tagid>588</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To comply with professional values.</tagname>
-<tagid>589</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To assume responsibility for actions and decisions.</tagname>
-<tagid>590</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To understand the moral dimensions of the role.</tagname>
-<tagid>591</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To consider various professional situations from an ethical point of view.</tagname>
-<tagid>592</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To become involved in maintaining and improving the quality of nursing care.</tagname>
-<tagid>593</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QG - To apply emergency measures. </tagname>
-<tagid>594</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To initiate emergency intervention.</tagname>
-<tagid>595</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform cardiopulmonary resuscitation.</tagname>
-<tagid>596</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To provide first aid.</tagname>
-<tagid>597</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To report data regarding the situation.</tagname>
-<tagid>598</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To apply interdisciplinary care protocols.</tagname>
-<tagid>599</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QH - To intervene with clients requiring nursing care in a perinatal setting. </tagname>
-<tagid>600</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
-<tagid>601</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
-<tagid>602</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To ensure clinical monitoring.</tagname>
-<tagid>603</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To outline the care needs.</tagname>
-<tagid>604</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>605</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
-<tagid>606</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
-<tagid>607</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To carry out the interventions:</tagname>
-<tagid>608</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>9. To administer medication.</tagname>
-<tagid>609</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>610</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
-<tagid>611</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QJ - To intervene with children and adolescents requiring nursing care. </tagname>
-<tagid>612</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
-<tagid>613</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
-<tagid>614</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To ensure clinical monitoring.</tagname>
-<tagid>615</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To outline the care needs.</tagname>
-<tagid>616</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>617</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
-<tagid>618</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
-<tagid>619</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To carry out interventions:</tagname>
-<tagid>620</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>9. To administer medication.</tagname>
-<tagid>621</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>622</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
-<tagid>623</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QK - To intervene with clients receiving medical/surgical nursing care in an ambulatory service. </tagname>
-<tagid>624</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To perform or complete an initial assessment of the client.</tagname>
-<tagid>625</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To ensure clinical monitoring.</tagname>
-<tagid>626</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To outline or revise the care needs.</tagname>
-<tagid>627</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>628</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine the nursing care and treatment plan.</tagname>
-<tagid>629</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To carry out the interventions:</tagname>
-<tagid>630</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>631</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To ensure continuity of care and follow-up.</tagname>
-<tagid>632</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QL - To intervene with clients requiring mental health nursing care. </tagname>
-<tagid>633</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
-<tagid>634</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform an initial or an ongoing assessment of the client.</tagname>
-<tagid>635</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To ensure clinical monitoring.</tagname>
-<tagid>636</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To outline the care needs.</tagname>
-<tagid>637</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>638</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
-<tagid>639</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
-<tagid>640</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To carry out the interventions:</tagname>
-<tagid>641</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>9. To administer medication.</tagname>
-<tagid>642</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>643</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
-<tagid>644</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-<tag><tagname>01QM - To intervene with adults and elderly clients experiencing loss of autonomy who require institutional nursing. </tagname>
-<tagid>645</tagid>
-<iscollapsed>false</iscollapsed>
-<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
-<tagid>646</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>2. To perform an initial or an ongoing assessment of the client.</tagname>
-<tagid>647</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>3. To ensure clinical monitoring.</tagname>
-<tagid>648</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>4. To outline the care needs.</tagname>
-<tagid>649</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
-<tagid>650</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
-<tagid>651</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
-<tagid>652</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>8. To carry out the interventions:</tagname>
-<tagid>653</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>9. To administer medication.</tagname>
-<tagid>654</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
-<tagid>655</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
-<tagid>656</tagid>
-<iscollapsed>false</iscollapsed>
-</tag>
-</tag>
-</tag>
+<workflow><wfname>Nursing - Faculty</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>4969</wfid>
+<wftype>program</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY>757,3705,3710,3716,3723,3727,3736,3744,3749,3755,3761,3768,3776,3782,3790,3797,3809,3815,3821,3833,3845,3854,3866</tagsetARRAY>
+<wfdata><column><columnname>CUS1</columnname>
+<columnimage>gears</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Nursing - Specific</columntext>
+<columnnodetext>Nursing - Specific</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS3</columnname>
+<columnimage>target</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Clinical</columntext>
+<columnnodetext>Clinical</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>science</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>Biology, Sociology, 
+Psychology</columntext>
+<columnnodetext>Biology, Sociology, 
+Psychology</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<column><columnname>CUS4</columnname>
+<columnimage>general</columnimage>
+<columncolour>#369934</columncolour>
+<columntext>General Education</columntext>
+<columnnodetext>General Education</columnnodetext>
+<columnoutcomevisibility>true</columnoutcomevisibility>
+</column>
+<week><weekid>4961</weekid>
+<node><name>Introduction to Nursing
+180-N11-LA</name>
+<id>4917</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4924</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4925</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4926</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3705</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3723</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3776</nodetagid>
+</nodetag>
+</node>
+<node><name>Health Assess. &amp; Phys. Exam 180-N12-LA</name>
+<id>4918</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Health Assessment &amp;amp; Physical Examination&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4924</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4925</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4926</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+</node>
+<node><name>Anatomy and Physiology 1 
+101-N11-LA</name>
+<id>4919</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4930</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3710</nodetagid>
+</nodetag>
+</node>
+<node><name>Comm. &amp; Prof. Challenges 
+350-N11-LA</name>
+<id>4920</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Communication &amp;amp; Professional Challenges in Nursing&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>3736</nodetagid>
+</nodetag>
+</node>
+<node><name>Introduction to Nursing 180-N13-LA</name>
+<id>4921</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;Clinical&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+</node>
+<node><name>French (Block A)
+602-COM-R4</name>
+<id>4922</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Introduction to College English 603-101-MQ </name>
+<id>4923</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>4962</weekid>
+<node><name>Introduction to Medical-Surgical Nursing &amp; Chronic Illnesses 180-N21-LA </name>
+<id>4924</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Introduction to Medical-Surgical Nursing &amp;amp; Chronic Illnesses&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4931</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3736</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+</node>
+<node><name>Wellness in the Aging Adult
+180-N22-LA </name>
+<id>4925</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3776</nodetagid>
+</nodetag>
+</node>
+<node><name>Introduction to Medical-Surgical Nursing &amp; Chronic illnesses | Clinical 180-N23LA </name>
+<id>4926</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;Introduction to Medical-Surgical Nursing &amp;amp; Chronic illnesses | Clinical&amp;nbsp;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4931</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3716</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3797</nodetagid>
+</nodetag>
+</node>
+<node><name>Humanities (Knowledge) 346-101-MQ </name>
+<id>4927</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>French (Block B) 602-BMT-MQ </name>
+<id>4928</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Physical Education (101 or 102) 109-1MXMQ </name>
+<id>4929</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Anatomy and Physiology II
+101-N21-LA </name>
+<id>4930</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4931</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+<link><targetid>4934</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3710</nodetagid>
+</nodetag>
+</node>
+</week>
+<week><weekid>4963</weekid>
+<node><name>Medical-Surgical Nursing II 
+180-N31-LA </name>
+<id>4931</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4943</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4939</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+</node>
+<node><name>Perinatal Care and Women's Health 180-N33-LA </name>
+<id>4932</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3716</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3768</nodetagid>
+</nodetag>
+</node>
+<node><name>387-N31-LA Sociology of Families</name>
+<id>4933</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3744</nodetagid>
+</nodetag>
+</node>
+<node><name>Anatomy and Physiology III 
+101-N31-LA </name>
+<id>4934</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4943</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4939</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4942</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3710</nodetagid>
+</nodetag>
+</node>
+<node><name>Medical-Surgical Nursing II | Clinical 180-N32-LA </name>
+<id>4935</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>105</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4943</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3797</nodetagid>
+</nodetag>
+</node>
+<node><name>Perinatal Care and Women's Health Clinical 180-N34-LA </name>
+<id>4936</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3768</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3821</nodetagid>
+</nodetag>
+</node>
+<node><name>Complementary 1 XXX-XXX-LA </name>
+<id>4937</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>English for Nursing Students 603-8MN-MQ </name>
+<id>4938</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>4964</weekid>
+<node><name>Medical-Surgical Nursing III 180-N41-LA </name>
+<id>4939</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4947</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4949</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+</node>
+<node><name>Pediatric Care 180-N43-LA </name>
+<id>4940</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+</node>
+<node><name>Lifespan &amp; Development 350-N41-LA </name>
+<id>4941</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3716</nodetagid>
+</nodetag>
+</node>
+<node><name>Microbiology &amp; Immunology 101-N41-LA </name>
+<id>4942</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4949</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4947</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INn;</portstyle>
+</link>
+<nodetag><nodetagid>3749</nodetagid>
+</nodetag>
+</node>
+<node><name>Medical-Surgical Nursing III clinical 180-N42-LA </name>
+<id>4943</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>90</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4947</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4949</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3797</nodetagid>
+</nodetag>
+</node>
+<node><name>Pediatric Care Clinical 180-N44-LA </name>
+<id>4944</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>90</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3833</nodetagid>
+</nodetag>
+</node>
+<node><name>English (102 or 103) 
+603-10X-MQ </name>
+<id>4945</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities (World Views) 
+345-102-MQ </name>
+<id>4946</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+</week>
+<week><weekid>4965</weekid>
+<node><name>Medical-Surgical Nusing IV &amp; Ambulatory Care180-N51-LA </name>
+<id>4947</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3815</nodetagid>
+</nodetag>
+</node>
+<node><name>Mental Health Care 180-N53-LA </name>
+<id>4948</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+<nodetag><nodetagid>3716</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3736</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3809</nodetagid>
+</nodetag>
+</node>
+<node><name>Medical Surgical Nursing &amp; Ambulatory Care | Clinical 180-N52-LA </name>
+<id>4949</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>90</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>3797</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3845</nodetagid>
+</nodetag>
+</node>
+<node><name>Mental Health Care Clinical 180-N54-LA </name>
+<id>4950</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>120</timevalue>
+<timeunit>hr</timeunit>
+<link><targetid>4955</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INe;</portstyle>
+</link>
+<link><targetid>4958</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+</link>
+<nodetag><nodetagid>3854</nodetagid>
+</nodetag>
+</node>
+<node><name>English (102 or 103) 
+603-10X-MQ </name>
+<id>4951</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Physical Education (101 or 102) 109-1MXMQ </name>
+<id>4952</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Complementary 2 XXX XXX-LA </name>
+<id>4953</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+<node><name>Humanities for Professional Programs 345-BMC MQ </name>
+<id>4954</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+</node>
+</week>
+<week><weekid>4966</weekid>
+<node><name>Nursing Integration 180-N61-LA </name>
+<id>4955</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3705</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3782</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3809</nodetagid>
+</nodetag>
+</node>
+<node><name>Gerontology Care 180-N63-LA </name>
+<id>4956</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3755</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3761</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3776</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3736</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3727</nodetagid>
+</nodetag>
+</node>
+<node><name>Sociology of Health 387-N61-LA </name>
+<id>4957</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>20</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
+<nodetag><nodetagid>3744</nodetagid>
+</nodetag>
+</node>
+<node><name>Nursing Integration Clinical 180-N62-LA </name>
+<id>4958</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>195</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3790</nodetagid>
+</nodetag>
+<nodetag><nodetagid>3797</nodetagid>
+</nodetag>
+</node>
+<node><name>Gerontology Care Clinical 180-N64-LA </name>
+<id>4959</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<nodetag><nodetagid>3866</nodetagid>
+</nodetag>
+</node>
+<node><name>Physical Education 109-1M3-MQ </name>
+<id>4960</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS4</column>
+<textHTML>undefined</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
 <tag><tagname>Nursing Threads</tagname>
 <tagid>757</tagid>
-<iscollapsed>false</iscollapsed>
+<iscollapsed>true</iscollapsed>
 <tag><tagname>01Q4 - To use assessment and nursing care procedures. </tagname>
 <tagid>766</tagid>
 <iscollapsed>false</iscollapsed>
@@ -1657,6 +1763,854 @@ Psychology</columnnodetext>
 <tagid>812</tagid>
 <iscollapsed>false</iscollapsed>
 </tag>
+</tag>
+</tag>
+<tag><tagname>01Q0 - To analyze the work function. </tagname>
+<tagid>3705</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To characterize a nurse&apos;s function and working conditions.</tagname>
+<tagid>3706</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To explore the tasks pertaining to the work function.</tagname>
+<tagid>3707</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To examine the abilities and behaviours required to perform the work function.</tagname>
+<tagid>3708</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To study the legislation applicable to professional practice.</tagname>
+<tagid>3709</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q1 - To develop an integrated perception of the human body and its functions. </tagname>
+<tagid>3710</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To discern the anatomy of the human body.</tagname>
+<tagid>3711</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To recognize the human body as a group of systems.</tagname>
+<tagid>3712</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To establish links between nutrition and the body&apos;s functioning.</tagname>
+<tagid>3713</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To consider the human body as an entity seeking equilibrium.</tagname>
+<tagid>3714</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To understand the incidence of a biological imbalance on body functioning.</tagname>
+<tagid>3715</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q2 - To deal with a client&apos;s reactions and behaviours. </tagname>
+<tagid>3716</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To establish initial contact with the client.</tagname>
+<tagid>3717</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To describe the client&apos;s reactions and behaviours.</tagname>
+<tagid>3718</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To interpret the client&apos;s reactions and behaviours.</tagname>
+<tagid>3719</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To appraise the potential danger of a situation.</tagname>
+<tagid>3720</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To react to risk situations.</tagname>
+<tagid>3721</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To perform self-assessment.</tagname>
+<tagid>3722</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q3 - To refer to a conceptual nursing framework to define one&apos;s professional practice </tagname>
+<tagid>3723</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To base one&apos;s own action on the foundations of professional practice.</tagname>
+<tagid>3724</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To base nursing care activities on a conceptual model.</tagname>
+<tagid>3725</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To apply the nursing process.</tagname>
+<tagid>3726</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q4 - To use assessment and nursing care procedures. </tagname>
+<tagid>3727</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To carry out the preliminary steps to the implementation of the procedure.</tagname>
+<tagid>3728</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To proceed with a clinical examination of the client.</tagname>
+<tagid>3729</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To monitor a client&apos;s physical condition.</tagname>
+<tagid>3730</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To assess a client&apos;s cognitive and affective functions.</tagname>
+<tagid>3731</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To assess a client&apos;s ability to function autonomously.</tagname>
+<tagid>3732</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To carry out nursing/medical care and treatment.</tagname>
+<tagid>3733</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To administer medication by various routes.</tagname>
+<tagid>3734</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To chart data.</tagname>
+<tagid>3735</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q5 - To establish a helping communication with the client and his/her significant others. </tagname>
+<tagid>3736</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To enter into relation with the client and his/her significant others.</tagname>
+<tagid>3737</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To create an alliance with the client and his/her significant others.</tagname>
+<tagid>3738</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To conduct an interview.</tagname>
+<tagid>3739</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To interact within a helping relationship.</tagname>
+<tagid>3740</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To support a client through a decision-making process concerning his/her health.</tagname>
+<tagid>3741</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To support a client experiencing bereavement or loss, as well as his/her entourage.</tagname>
+<tagid>3742</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To evaluate established relationships.</tagname>
+<tagid>3743</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q6 - To deal with social and cultural realities related to health matters. </tagname>
+<tagid>3744</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To consider the social context surrounding one&apos;s own professional practice.</tagname>
+<tagid>3745</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To take the client&apos;s family context into consideration.</tagname>
+<tagid>3746</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To take the client&apos;s sociocultural characteristics into account.</tagname>
+<tagid>3747</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To assess one&apos;s own attitudes and behaviours with regard to sociocultural diversity.</tagname>
+<tagid>3748</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q7 - To link immunological disorders and infections to physiological and metabolic mechanisms. </tagname>
+<tagid>3749</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To specify the action of an aggressive agent on the human body.</tagname>
+<tagid>3750</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To define the body&apos;s reactions to the aggressor.</tagname>
+<tagid>3751</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To describe the infectious or immunological disorder.</tagname>
+<tagid>3752</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To relate the immunopathological disorder to the therapy.</tagname>
+<tagid>3753</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To examine measures to prevent or control infection.</tagname>
+<tagid>3754</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q8 - To interpret a clinical situation by referring to health problems and other problems related to the field of nursing. </tagname>
+<tagid>3755</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To describe the health problem.</tagname>
+<tagid>3756</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To relate test results to the diagnosed health problem.</tagname>
+<tagid>3757</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To relate the health problem to the therapy.</tagname>
+<tagid>3758</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To identify nursing-related problems connected to the health situation.</tagname>
+<tagid>3759</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To outline the nursing interventions.</tagname>
+<tagid>3760</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q9 - To establish links between pharmacotherapy and a clinical situation. </tagname>
+<tagid>3761</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To interpret a medical prescription for medication.</tagname>
+<tagid>3762</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To relate clinical manifestations to the medication prescribed.</tagname>
+<tagid>3763</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To anticipate the effects of the drug.</tagname>
+<tagid>3764</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To specify conditions for drug administration.</tagname>
+<tagid>3765</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To select measures to support medication.</tagname>
+<tagid>3766</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To plan prescription follow-up.</tagname>
+<tagid>3767</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QA - To teach the client and his/her significant others. </tagname>
+<tagid>3768</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To determine needs and expectations with respect to information and learning.</tagname>
+<tagid>3769</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To provide information on health, nursing care and services.</tagname>
+<tagid>3770</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To organize a teaching activity.</tagname>
+<tagid>3771</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To provide teaching on an individual basis.</tagname>
+<tagid>3772</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To teach a small group of people.</tagname>
+<tagid>3773</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To evaluate the results of the activity.</tagname>
+<tagid>3774</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To chart data.</tagname>
+<tagid>3775</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QB - To assist clients in the maintenance and improvement of their health. </tagname>
+<tagid>3776</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To perform health care activities as part of a prevention program.</tagname>
+<tagid>3777</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To promote a healthy lifestyle.</tagname>
+<tagid>3778</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To make the client aware of various risk situations.</tagname>
+<tagid>3779</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To support the client taking charge of his/her health.</tagname>
+<tagid>3780</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To assess the client&apos;s capacity to take charge of himself/herself after returning to his/her natural environment.</tagname>
+<tagid>3781</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QC - To adapt to various work situations. </tagname>
+<tagid>3782</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To assume the emotional consequences inherent in carrying out duties.</tagname>
+<tagid>3783</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To manage the stress inherent in professional practice.</tagname>
+<tagid>3784</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To prevent professional burnout.</tagname>
+<tagid>3785</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To react to a crisis situation.</tagname>
+<tagid>3786</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To organize one&apos;s workload.</tagname>
+<tagid>3787</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To adjust to changes in work environment.</tagname>
+<tagid>3788</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To assume responsibility for one&apos;s own professional development.</tagname>
+<tagid>3789</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QD - To establish a cooperative relationship with members of the interdisciplinary team. </tagname>
+<tagid>3790</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To work collaboratively within a care team.</tagname>
+<tagid>3791</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To coordinate nursing activities.</tagname>
+<tagid>3792</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To work within the interdisciplinary team.</tagname>
+<tagid>3793</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To intervene in conflictual work situations.</tagname>
+<tagid>3794</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To carry out administrative duties.</tagname>
+<tagid>3795</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To process information to ensure continuity of care and follow-up.</tagname>
+<tagid>3796</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QE - To intervene with hospitalized adults and elderly clients requiring medical/surgical nursing. </tagname>
+<tagid>3797</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
+<tagid>3798</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>3799</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To ensure clinical monitoring.</tagname>
+<tagid>3800</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To outline the care needs.</tagname>
+<tagid>3801</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3802</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
+<tagid>3803</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan</tagname>
+<tagid>3804</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To carry out the interventions:</tagname>
+<tagid>3805</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. To administer medication.</tagname>
+<tagid>3806</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3807</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
+<tagid>3808</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QF - To use the ethics and values of the profession to understand one&apos;s own role. </tagname>
+<tagid>3809</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To comply with professional values.</tagname>
+<tagid>3810</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To assume responsibility for actions and decisions.</tagname>
+<tagid>3811</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To understand the moral dimensions of the role.</tagname>
+<tagid>3812</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To consider various professional situations from an ethical point of view.</tagname>
+<tagid>3813</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To become involved in maintaining and improving the quality of nursing care.</tagname>
+<tagid>3814</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QG - To apply emergency measures. </tagname>
+<tagid>3815</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To initiate emergency intervention.</tagname>
+<tagid>3816</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform cardiopulmonary resuscitation.</tagname>
+<tagid>3817</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To provide first aid.</tagname>
+<tagid>3818</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To report data regarding the situation.</tagname>
+<tagid>3819</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To apply interdisciplinary care protocols.</tagname>
+<tagid>3820</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QH - To intervene with clients requiring nursing care in a perinatal setting. </tagname>
+<tagid>3821</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
+<tagid>3822</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>3823</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To ensure clinical monitoring.</tagname>
+<tagid>3824</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To outline the care needs.</tagname>
+<tagid>3825</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3826</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
+<tagid>3827</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>3828</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To carry out the interventions:</tagname>
+<tagid>3829</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. To administer medication.</tagname>
+<tagid>3830</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3831</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
+<tagid>3832</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QJ - To intervene with children and adolescents requiring nursing care. </tagname>
+<tagid>3833</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
+<tagid>3834</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform an initial or an ongoing assessment of a client.</tagname>
+<tagid>3835</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To ensure clinical monitoring.</tagname>
+<tagid>3836</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To outline the care needs.</tagname>
+<tagid>3837</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3838</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
+<tagid>3839</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>3840</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To carry out interventions:</tagname>
+<tagid>3841</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. To administer medication.</tagname>
+<tagid>3842</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3843</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
+<tagid>3844</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QK - To intervene with clients receiving medical/surgical nursing care in an ambulatory service. </tagname>
+<tagid>3845</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To perform or complete an initial assessment of the client.</tagname>
+<tagid>3846</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To ensure clinical monitoring.</tagname>
+<tagid>3847</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To outline or revise the care needs.</tagname>
+<tagid>3848</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3849</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine the nursing care and treatment plan.</tagname>
+<tagid>3850</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To carry out the interventions:</tagname>
+<tagid>3851</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3852</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To ensure continuity of care and follow-up.</tagname>
+<tagid>3853</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QL - To intervene with clients requiring mental health nursing care. </tagname>
+<tagid>3854</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
+<tagid>3855</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>3856</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To ensure clinical monitoring.</tagname>
+<tagid>3857</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To outline the care needs.</tagname>
+<tagid>3858</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3859</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
+<tagid>3860</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>3861</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To carry out the interventions:</tagname>
+<tagid>3862</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. To administer medication.</tagname>
+<tagid>3863</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3864</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
+<tagid>3865</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QM - To intervene with adults and elderly clients experiencing loss of autonomy who require institutional nursing. </tagname>
+<tagid>3866</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>1. To seek information in order to ensure continuity of care.</tagname>
+<tagid>3867</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>2. To perform an initial or an ongoing assessment of the client.</tagname>
+<tagid>3868</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>3. To ensure clinical monitoring.</tagname>
+<tagid>3869</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>4. To outline the care needs.</tagname>
+<tagid>3870</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>5. To determine and adjust the therapeutic nursing plan.</tagname>
+<tagid>3871</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>6. To determine the nursing care and treatment plan.</tagname>
+<tagid>3872</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>7. To plan the implementation of the therapeutic nursing plan and the nursing care and treatment plan.</tagname>
+<tagid>3873</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>8. To carry out the interventions:</tagname>
+<tagid>3874</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>9. To administer medication.</tagname>
+<tagid>3875</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>10. To evaluate nursing interventions and outcomes.</tagname>
+<tagid>3876</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>11. To ensure continuity of care and follow-up.</tagname>
+<tagid>3877</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q4 - Threads</tagname>
+<tagid>3878</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>Assessment</tagname>
+<tagid>3879</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Nursing and Care Treatment</tagname>
+<tagid>3880</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q8 - Threads</tagname>
+<tagid>3881</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>Cardiovascular</tagname>
+<tagid>3882</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Respiratory</tagname>
+<tagid>3883</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>GI</tagname>
+<tagid>3884</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>GU</tagname>
+<tagid>3885</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Ethical and Legal</tagname>
+<tagid>3886</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Musculoskeletal</tagname>
+<tagid>3887</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Hemato-Onco</tagname>
+<tagid>3888</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Endocrinology</tagname>
+<tagid>3889</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Palliative care &amp; end-of-life</tagname>
+<tagid>3890</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Neurological</tagname>
+<tagid>3891</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Integumentary</tagname>
+<tagid>3892</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Endocrine</tagname>
+<tagid>3893</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Immunology &amp; Infection control</tagname>
+<tagid>3894</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Eyes &amp; ears</tagname>
+<tagid>3895</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Sensory changes/impairment </tagname>
+<tagid>3896</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Pregnancy</tagname>
+<tagid>3897</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Labour and delivery </tagname>
+<tagid>3898</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Post-partum</tagname>
+<tagid>3899</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Women�s Health</tagname>
+<tagid>3900</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Communication </tagname>
+<tagid>3901</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Loss of Autonomy &amp; Mobility</tagname>
+<tagid>3902</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Neurological</tagname>
+<tagid>3903</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Palliative care &amp; EOL </tagname>
+<tagid>3904</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Chronic Illness</tagname>
+<tagid>3905</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01Q9 - Threads</tagname>
+<tagid>3906</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>Pregnancy</tagname>
+<tagid>3907</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Labour &amp; Delivery</tagname>
+<tagid>3908</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Post-Partum</tagname>
+<tagid>3909</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Newborn</tagname>
+<tagid>3910</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+</tag>
+<tag><tagname>01QB - Threads</tagname>
+<tagid>3911</tagid>
+<iscollapsed>true</iscollapsed>
+<tag><tagname>Immobility</tagname>
+<tagid>3912</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Nutrition</tagname>
+<tagid>3913</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>GI elimination</tagname>
+<tagid>3914</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Skin integrity</tagname>
+<tagid>3915</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>Infection control</tagname>
+<tagid>3916</tagid>
+<iscollapsed>true</iscollapsed>
 </tag>
 </tag>
 </project>
