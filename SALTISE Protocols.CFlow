@@ -1,0 +1,934 @@
+<project><prname>Protocols</prname>
+<idnum>423</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Creating and Publishing ALAs</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>9</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz</columntext>
+<columnnodetext>Liz</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office</columntext>
+<columnnodetext>Office</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>RAs</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columntext>Instructors</columntext>
+<columnnodetext>Instructors</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>10</weekid>
+<node><name>undefined</name>
+<id>35</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Vet activity &amp;amp; person. Make sure they are in agreement and sign giving us permission to use the activity&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;p&gt;Activities collected should align to the SALTISE definition. Activities directly engage students and may serve a variety of purposes, from building community to building knowledge, to showcasing applications)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>193.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>36</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Interview Instructor &amp;amp; collect relevant documents via &lt;strong&gt;Zoom or in-person meeting&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Instructor should provide all practical specifics about the activity, leaving nothing to the discretion of the RA&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.8000030517578</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>57</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Develop CourseFlow Draft using &lt;strong&gt;CourseFlow &amp;amp; Instructional Material&lt;/strong&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Obtain:&lt;/p&gt;&lt;p&gt;1) validation from Instructor of CourseFlow &amp;amp;&lt;/p&gt;&lt;p&gt;2) Activity Description for webpage using the tempate&lt;/p&gt;&lt;p&gt;Upload on &lt;strong&gt;Drive or Sharepoint&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Instructor should validate final product and maintain ownership of ideas&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>174.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>273</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Upload to Sharepoint &amp;amp; inform Office that activity is final.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+</node>
+<node><name>undefined</name>
+<id>82</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Decide on when to publish NEW AL Activity, usng &lt;strong&gt;Wordpress backend&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;to strengthen their involvement in SALTISE, &lt;em&gt;publish within the month&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if Instructor is eager to see it published, &lt;em&gt;publish within the month&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if relevant to an upcoming / recent virtual event, or particular community interest, &lt;em&gt;publish at specific time&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if we have a strong relationship with instructor, &lt;em&gt;publish at three month mark&lt;/em&gt;&lt;/li&gt;&lt;li&gt;If it's been about three months, &lt;em&gt;publish at three month mark&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>288.8000183105469</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>109</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Follow up with an email including finalized activity, link to activity webpage, and thank you from SALTISE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000076293945</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Planning and Executing Virtual Events</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>124</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz &amp; Michael</columntext>
+<columnnodetext>Liz &amp; Michael</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office Staff</columntext>
+<columnnodetext>Office Staff</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columntext>RAs</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>Fellows</columntext>
+<columnnodetext>Fellows</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>125</weekid>
+<weekname>PLAN</weekname>
+<node><name>undefined</name>
+<id>129</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Determine interest of community using Survey Responses (i.e. SWOCs, Webinars) &amp;amp; Meeting Minutes&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000076293945</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>357</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;When choosing a date, check the schedules of CoPs &amp;amp; DALC.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>127</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Confirm theme&lt;/p&gt;&lt;p&gt;Recruits presenters for the semester&lt;/p&gt;&lt;p&gt;Identifies the Support Crew - hosts, facilitators and other support&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.5999984741211</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>133</weekid>
+<weekname>PREP</weekname>
+<node><name>undefined</name>
+<id>291</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Contact presenters to obtain title, blurb and bios.	&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>131</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Set up Zoom link&lt;/p&gt;&lt;p&gt;Send Calendar Invite with link to Presenters &amp;amp; Support Crew&lt;/p&gt;&lt;p&gt;Set up Registration&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.5999984741211</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>290</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Set up Registration form,&lt;/p&gt;&lt;p&gt;Add Information to Event page &amp;amp; Calendar&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>130</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Set up Communications&lt;/p&gt;&lt;p&gt;local (emails, newsletter) &amp;amp; global (Social Media Posts)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>132</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Prepare Survey&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>128</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prep &amp;amp; Run Through event with Presenter &amp;amp; Organizers&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>189</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>189</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Prep &amp;amp; Run Through event with Presenter &amp;amp; Organizers&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>134</weekid>
+<weekname>HOST</weekname>
+<node><name>undefined</name>
+<id>324</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Starts the Zoom link&lt;/p&gt;&lt;p&gt;Ensures technical requiements are working&lt;/p&gt;&lt;p&gt;Records attendance&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>87.5999984741211</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>136</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Introduce Speaker&lt;/p&gt;&lt;p&gt;Host and Facilitate the Event&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>326</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send survey link to attendees in the chat, ideally before Q&amp;amp;A when people drop off&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>135</weekid>
+<weekname>FOLLOW UP</weekname>
+<node><name>undefined</name>
+<id>327</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Send a thank you email to the Presenters &amp;amp; facilitators&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>137</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Edit recording, &amp;amp; Publish on YouTube&lt;/p&gt;&lt;p&gt;Gather slides &amp;amp; materials from presenters&lt;/p&gt;&lt;p&gt;Publish recordings and materials on SALTISE Event webpage&lt;/p&gt;&lt;p&gt;Change the homepage so publicize the recording&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>121.4000015258789</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>138</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Report on the webinar&lt;/p&gt;&lt;p&gt;number of attendees, feedback from survey, confirm archiving&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>139</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send  Survey, Recording, Materials to attendees&lt;/p&gt;&lt;p&gt;Add attendees to MailChimp &amp;amp; Master list&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+<workflow><wfname>Planning and Executing Virtual Events - Group</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>157</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz &amp; Michael</columntext>
+<columnnodetext>Liz &amp; Michael</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office Staff</columntext>
+<columnnodetext>Office Staff</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columntext>RAs</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>Fellows</columntext>
+<columnnodetext>Fellows</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>151</weekid>
+<weekname>PLAN</weekname>
+<node><name>undefined</name>
+<id>141</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Confirm theme&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>142</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Executive recruits presenters for the semester&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.787498474121094</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>146</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prep &amp;amp; Run Through event with Presenter &amp;amp; Organizers&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.787498474121094</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>152</weekid>
+<weekname>PREP</weekname>
+<node><name>undefined</name>
+<id>140</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Determine interest of community using Survey Responses (i.e. SWOCs, Webinars) &amp;amp; Meeting Minutes&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.187496185302734</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>143</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send Calendar Invite to Presenters&lt;/p&gt;&lt;p&gt;Set up Registration&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.78437042236328</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>144</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Set up Communications&lt;/p&gt;&lt;p&gt;local (emails, newsletter) &amp;amp; global (Social Media Posts)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.18437194824219</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>145</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Prepare Survey&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>153</weekid>
+<weekname>HOST</weekname>
+<node><name>undefined</name>
+<id>147</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Host &amp;amp; Facilitate the Event&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>154</weekid>
+<weekname>FOLLOW UP</weekname>
+<node><name>undefined</name>
+<id>148</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Post-Production&lt;/p&gt;&lt;p&gt;Edit recording, &amp;amp; Publish on YouTube&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.78437042236328</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>149</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Report on the webinar&lt;/p&gt;&lt;p&gt;number of attendees, feedback from survey, confirm archiving&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.18437194824219</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>150</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Follow up with attendees&lt;/p&gt;&lt;p&gt;Survey, Recording, Materials on SALTISE + Send to attendees&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.18437194824219</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+<workflow><wfname>Curating &amp; Publishing Newsletters</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>191</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz</columntext>
+<columnnodetext>Liz</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office Staff</columntext>
+<columnnodetext>Office Staff</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>RAs</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>192</weekid>
+<node><name>undefined</name>
+<id>193</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Determine interests of community using analytics, school calendar&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>194</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Identify most popular past events and materials to be highlighted&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>195</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Identify most popular past events and materials to be highlighted&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>196</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Structure MailChimp layout&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>197</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Find relevant images to include with different types of content&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>198</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Wordsmith with staff for brevity/tone&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>201</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Finalizing wordsmith for brevity/tone&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>199</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Press SEND&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Quality Assurance</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>376</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz &amp; Michael</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office Staff</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>414</weekid>
+<weekname>Beginning of Fall Semester</weekname>
+<node><name>undefined</name>
+<id>419</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Review surveys for upcoming year&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>420</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+</week>
+<week><weekid>422</weekid>
+<weekname>End of Fall Semester</weekname>
+<node><name>undefined</name>
+<id>420</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send Surveys to Instructors&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>14.990623474121094</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<week><weekid>377</weekid>
+<weekname>End of Winter Semester</weekname>
+<node><name>undefined</name>
+<id>415</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Design/review SWOC&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>423</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send SWOC to Anglo College Reps&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>416</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Collect &amp;amp; Analyze results&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>421</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send Surveys to Instructors&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.38749694824219</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>417</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+<workflow><wfname>ICE &amp; CLE Content</wfname>
+<wfauthor>undefined</wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>378</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columntext>Liz &amp; Michael</columntext>
+<columnnodetext>Liz &amp; Michael</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columntext>Office Team</columntext>
+<columnnodetext>Office Team</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columntext>Fellows</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columntext>RAs</columntext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instruct</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>Community</columntext>
+<columnnodetext>Community</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>379</weekid>
+<node><name>undefined</name>
+<id>399</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Determine Production Teams, including Fellows, S4 Teams and other teams&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>401</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Assess needs of P.T.s to create materials and recruit manpower to assist&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>400</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Produce ALAs, Course Levels, MyDalite Questions&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>411</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Provide content to add to tools/website&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>406</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Upload MyDALITE Questions&lt;/p&gt;&lt;p&gt;Assist in drafting and finalizing CourseFlow &lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>53.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>407</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide tutorials for community on using tools and adding content&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>409</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>undefined</name>
+<id>409</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Provide tutorials for community on using tools and adding content&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>405</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Collect materials and upload on the website, when applicable (e.g. templates)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>403</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Design surveys for students and teachers&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>402</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Send Survey to Production Teams to assess students and teachers use of tools&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.79999923706055</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>404</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Collect survey results directly from teachers&lt;/p&gt;&lt;p&gt;Analyze &amp;amp; report results&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+<workflow><wfname>Creating and Publishing ALAs</wfname>
+<wfauthor>Office Staff, Instructors, </wfauthor>
+<wfdescription>undefined</wfdescription>
+<wfid>1</wfid>
+<wftype>course</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>HW</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>AC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>SA</columnname>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instructor</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>Office Staff</columntext>
+<columnnodetext>Office Staff</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS2</columnname>
+<columnimage>group</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>RAs</columntext>
+<columnnodetext>RAs</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS3</columnname>
+<columnimage>solo</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>Instructor</columntext>
+<columnnodetext>Instructor</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>undefined</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Vet activity &amp;amp; person&lt;/p&gt;&lt;p&gt;Activities should directly engage students and may serve a variety of purposes, from building community to building knowledge, to showcasing applications)&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>97</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Interview Instructor &amp;amp; collect relevant material&lt;/p&gt;&lt;p&gt;via &lt;strong&gt;Zoom or in-person meeting&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="ql-cursor"&gt;﻿&lt;/span&gt;Instructor should interview to provide practical specifics&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>121.4000015258789</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Develop CourseFlow Draft&lt;/p&gt;&lt;p&gt;using &lt;strong&gt;CourseFlow &amp;amp; Instructional Material&lt;/strong&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS3</column>
+<textHTML>&lt;p&gt;Obtain:&lt;/p&gt;&lt;p&gt;1) validation from Instructor of CourseFlow &amp;amp;&lt;/p&gt;&lt;p&gt;2) Activity Description for webpage&lt;/p&gt;&lt;p&gt;Upload on &lt;strong&gt;Drive or Sharepoint&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Instructor should validate final product and maintain ownership of ideas&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>160.1999969482422</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Decide on when to publish NEW AL Activity, usng &lt;strong&gt;Wordpress backend&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;to strengthen their involvement in SALTISE, &lt;em&gt;publish within the month&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if Instructor is eager to see it published, &lt;em&gt;publish within the month&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if relevant to an upcoming / recent virtual event, or particular community interest, &lt;em&gt;publish at specific time&lt;/em&gt;&lt;/li&gt;&lt;li&gt;if we have a strong relationship with instructor, &lt;em&gt;publish at three month mark&lt;/em&gt;&lt;/li&gt;&lt;li&gt;If it's been about three months, &lt;em&gt;publish at three month mark&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>274.3999938964844</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>undefined</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>CUS2</column>
+<textHTML>&lt;p&gt;Follow up with an email including finalized activity, link to activity webpage, and thank you from SALTISE&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000076293945</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>880</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>
