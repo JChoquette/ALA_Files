@@ -1,0 +1,103 @@
+<project><prname>Ian Gold</prname>
+<idnum>54</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Peer Review</wfname>
+<wfauthor>By Ian Gold</wfauthor>
+<wfdescription>&lt;p&gt;In this semester-long activity, students submit a paper to Peerceptiv, which then goes through two rounds of peer review and resubmission. This gives students experience with the revising their written work based on feedback. See full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/peer-review/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>CUS1</columnname>
+<columnimage>instruct</columnimage>
+<columncolour>#6738ff</columncolour>
+<columntext>Peerceptive</columntext>
+<columnnodetext>Peerceptive</columnnodetext>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Provide students with instructions for the paper and for signing up for Peerceptive.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Write First Draft </name>
+<id>4</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write first draft of paper &lt;/li&gt;&lt;li&gt;Submit to Peerceptiv&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>72.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Send Papers for Feedback</name>
+<id>54</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Automatically send 4 papers to each student.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Evaluate and Rate Peers' Papers</name>
+<id>5</id>
+<lefticon>solo</lefticon>
+<righticon>peerreview</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read and evaluate the 4 papers from Peerceptiv, using comment prompts set by instructor&lt;/li&gt;&lt;li&gt;Rate each component numerically on a scale of 1-10&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>13</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>Evaluate Feedback &amp; Revise</name>
+<id>13</id>
+<lefticon>solo</lefticon>
+<righticon>practice</righticon>
+<column>OOC</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate/comment on the helpfulness of the comment received from each reviewer on own paper&lt;/li&gt;&lt;li&gt;Using reviewer feedback, revise paper and resubmit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: After second round of feedback and revision, submit final draft for grading&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>159.20001220703125</textheight>
+<isdropped>true</isdropped>
+<link><targetid>54</targetid>
+<portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
+<linktext>Repeat a second time</linktext>
+</link>
+</node>
+<node><name>Assign Grades</name>
+<id>15</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>CUS1</column>
+<textHTML>&lt;p&gt;Using the Peerceptiv algorithm, it assigns the final grade for the paper based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Both rounds of peer reviews&lt;/li&gt;&lt;li&gt;Retroactive feedback on reviews&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>101.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>1100</wflegendx>
+<wflegendy>400</wflegendy>
+</wfdata></workflow>
+</project>

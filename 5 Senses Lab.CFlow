@@ -1,0 +1,146 @@
+<project><prname>Five Senses Lab</prname>
+<idnum>111</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Five Senses Lab</wfname>
+<wfauthor>By Jen Mitchell</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students engage in a series of experiments designed to fit within a Knowledge course where we have discussed the concepts of rationalism and empiricism. The goal of this activity is to have students experience how or knowledge from experience might not be reliable, as claimed by the rationalists. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/5-senses-lab/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare lab materials and instructions</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;For each of the lab stations, prepare and print the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Station signs with the name of the sense and a number 1-5&lt;/li&gt;&lt;li&gt;Instructions for each of the activities students need to do at that station.&lt;/li&gt;&lt;li&gt;The worksheet that students will fill in with their results from the different stations.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Click to download the &lt;a href="https://www.saltise.ca/wp-content/uploads/2021/09/5-Senses-Labs-Instructions-and-Worksheet.docx" target="_blank"&gt;instructions and worksheet&lt;/a&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>216.80001831054688</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Sight Lab Materials</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare the materials for the &lt;strong&gt;Sight lab:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Print images that are optical illusions (available in the 5 Senses Labs document)&lt;/li&gt;&lt;li&gt;Gather 6 small plastic containers with lids and label each 1 to 6. Fill them with an equal amount of water. &lt;/li&gt;&lt;li&gt;Rearrange the containers so the numbers are in a random order. Then put one drop of yellow liquid food colouring into the first container, two into the next, three into the next, and so on for all six. &lt;/li&gt;&lt;li&gt;Use crazy glue to glue the lids on. Once the lids have dried make sure they don't leak. They can then be reused any time you do this activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>303.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Hearing Lab Materials</name>
+<id>69</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare the materials for the &lt;strong&gt;Hearing lab:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gather duct tape or masking tape for marking the distances on the floor. &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>101.60000610351562</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Touch Lab Materials</name>
+<id>66</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare the materials for the &lt;strong&gt;Touch lab:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gather toothpicks for students to poke each other according to worksheet instructions and rulers for students to measure how far apart the toothpicks.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Taste Lab Materials</name>
+<id>63</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare the materials for the &lt;strong&gt;Taste lab&lt;/strong&gt;, replacing some of the materials each time you do it. Keep the same instruction sheets.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get 2 1L bottles of no name brand cream soda, and 2 1L bottles of 7-up. Remove all the labels from the bottles. Get a set of liquid food colouring. Add food colouring to the bottles to have the following: (1) Red cream soda, (1) Purple cream soda, (1) Green 7-up, (1) clear 7-up&lt;/li&gt;&lt;li&gt;For an easier way to add the colouring, add it to the empty bottle and then slowly pour in the soda. This will allow the colour to mix without shaking the bottle.&lt;/li&gt;&lt;li&gt;Get packets of disposable paper cups for them to use for taste testing.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: Once you have the 1L bottles you can keep them and clean them for future use. To keep paper cups to a minimum, ask students to reuse the same cup for each drink, and then throw it out when they are done the lab. Also, tell students who have any food allergies to not drink it if they are concerned.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>539.2000732421875</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Prepare Smell Lab Materials</name>
+<id>72</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare the materials for the &lt;strong&gt;Smell lab&lt;/strong&gt;, replacing some of the materials each time you do it. Keep the same instruction sheets.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get 12 small plastic containers with lids.&lt;/li&gt;&lt;li&gt;Label half with 1-6 and the other half with A-E. Randomly pair up each numbered container with a lettered one.&lt;/li&gt;&lt;li&gt;Add a small cotton ball to each container. Using different scented liquids (i.e. artificial flavour extracts, essential oils) from around the house, add scent to each pair of jars. Each scent should have one in the numbered container and one in the lettered container. &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>317.6000061035156</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Arrive early to set up stations</name>
+<id>5</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Arrive early to class to set up the stations around the room. It will take at least 5 minutes to set everything up.&lt;/li&gt;&lt;li&gt;For each station, put a sign up on the wall or upright on the tables so students can see it from across the room. Place all of the items they will need and the instruction papers for the labs at the station.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;At Hearing Lab Station&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Find an area for this station outside the classroom, in a quiet hallway.&lt;/li&gt;&lt;li&gt;Put an X on the ground in tape. Then count of a 5 foot distance from the x and mark a line with the tape. From this line count another 10 feet and mark a line, then another 10 feet and mark a line.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It helps to put the sight station across the room from the classroom clock. It also helps to arrange the stations so they go up in number around the room. This helps when they should move to the next station. The hearing station should be outside, so you should put the sign by the classroom door.&lt;/li&gt;&lt;li&gt;For the taste section, include some paper towel, in case there are any spills, and put the garbage can nearby.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>581.6000366210938</textheight>
+<timevalue>5</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity with Presentations</name>
+<id>4</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Start class by explaining what students will be doing and placing the activity within some context.&lt;/p&gt;&lt;p&gt;Note: In the course we have looked at the ideas of the rationalists and the claim that our senses are not a reliable tool for observational data. While we can understand this concept on a theoretical level, it helps to experience the errors and problems with our senses to really understand how problematic it can be.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Show Presentations:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Monkey Business&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Show the Monkey Business &lt;a href="https://www.youtube.com/watch?v=IGQmdoK_ZfY" target="_blank"&gt;video&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Stop the video before they reveal the answers, and ask the students the same questions that will be asked in the video.&lt;/li&gt;&lt;li&gt;Get their responses, then watch the rest of the video to see the answers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Would you Fall for That: Change Blindness&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explain the concept of change blindness&lt;/li&gt;&lt;li&gt;Show the &lt;a href="https://www.youtube.com/watch?v=qN7s9E6M4RQ" target="_blank"&gt;video&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;PTC (Phenylthiocarbamide) papers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you can get ahold of some PTC papers, tell students about the chemical and the fact that only some people can taste it, then pass around the papers and see who can taste it&lt;/li&gt;&lt;li&gt;PTC is a chemical that can only be tasted by people with certain genes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The biology department at your school may know how to get PTC papers.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>698</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Start Activity</name>
+<id>85</id>
+<lefticon>undefined</lefticon>
+<righticon>undefined</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Divide the number of students in the class that day by 5&lt;/li&gt;&lt;li&gt;Direct students to get into groups of that size and go to a lab station&lt;/li&gt;&lt;li&gt;Once students are divided, pass around worksheet.&lt;/li&gt;&lt;li&gt;Set timer to give one minute warnings at each station rotation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Students at the touch station and the sound station often need a bit more clarification on what they are supposed to do, so check in on them once they've had a chance to read the instructions.&lt;/li&gt;&lt;li&gt;At Smell Lab Station, tell students not to touch the cotton balls, as this could cross contaminate the scents.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>327.20001220703125</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Rotate Through Different Stations</name>
+<id>43</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;At lab stations, read the instructions and do the activities described. Record results on the 5 Senses lab worksheet.&lt;/li&gt;&lt;li&gt;Take around 12 minutes at the station to complete the tasks. There is a one minute warning before time is up.&lt;/li&gt;&lt;li&gt;Then rotate to the next station by going up one number from the current station and those at #5 go to #1.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>216.80001831054688</textheight>
+<timevalue>75</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Present Results</name>
+<id>44</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Once students have gone through all the labs, bring students back together as a whole class.&lt;/li&gt;&lt;li&gt;Show them the results for each of the stations, one at a time.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It helps to have these in a PowerPoint that you go through, one station at a time. (Click to download the &lt;a href="https://www.saltise.ca/wp-content/uploads/2021/09/Example-Results-Slides-5-Senses-Lab.pptx" target="_blank"&gt;&lt;u&gt;example Powerpoint&lt;/u&gt;&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;Along with the results it helps to explain why their senses might be fooled in each of the experiments.&lt;/li&gt;&lt;li&gt;For the taste station it helps to have them share their results before revealing what the taste actually were. I also share the results from a &lt;a href="https://www.vaniercollege.qc.ca/science/the-taste-of-colour/" target="_blank"&gt;study&lt;/a&gt; done by a former student&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>361.0000305175781</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

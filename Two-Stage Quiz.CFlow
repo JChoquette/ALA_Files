@@ -1,0 +1,127 @@
+<project><prname>Two-Stage Quiz</prname>
+<idnum>87</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Two-Stage Quiz</wfname>
+<wfauthor>Phoebe Jackson</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students take a daily quiz in two stages. They engage in a peer-learning format to review material seen in the previous class. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/two-stage-quiz/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity Questions </name>
+<id>59</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare three conceptual multiple choice questions that review the most important concepts learned in the previous class.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Direct students to move desks to form permanent groups of 4-5&lt;/li&gt;&lt;li&gt;Hand out the question sheet and an answer slip to each student&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Click to download &lt;a href="https://www.saltise.ca/wp-content/uploads/2021/09/Quiz-Answer-Sheets-PDF-Two-Stage-Quiz.pdf" target="_blank"&gt;answer slip&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Quiz</name>
+<id>7</id>
+<lefticon>solo</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Complete quiz using the answer slip to record answers&lt;/li&gt;&lt;li&gt;When all group members finish, compile answer slips and give to the teacher&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Keep the question sheet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>166</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Distribute IF-AT cards</name>
+<id>8</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Take each of the individual slips from the groups&lt;/li&gt;&lt;li&gt;Give each group on IF-AT scratch card at a time&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>100</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss Questions</name>
+<id>9</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Discuss the quiz question.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Complete Quiz</name>
+<id>74</id>
+<lefticon>group</lefticon>
+<righticon>quiz</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Scratch answers on IF AT card when ready&lt;/li&gt;&lt;li&gt;When finished, begin next activity without waiting for teacher or other students&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Can try as many times as needed. The card is graded halves per attempt.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>142</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Facilitate Group Quiz</name>
+<id>60</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Circulate during quiz to gauge level of understanding and also facilitate discussion as needed.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+<link><targetid>8</targetid>
+<portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
+</link>
+</node>
+<node><name>Grade Quizzes</name>
+<id>10</id>
+<lefticon>undefined</lefticon>
+<righticon>instrevaluate</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Grade quiz using the marking scheme.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Marking scheme = 50:50, individual:group&lt;/li&gt;&lt;li&gt;If the individual does better than their group, their individual grade is doubled instead&lt;/li&gt;&lt;li&gt;2 marks per question. On group stage, 2 = right on first try, 1 = right on second try, 0.5 = right on third try, 0 = more than three tries&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>203</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Review Questions and Concepts</name>
+<id>11</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Review any concept(s) that many groups had difficulty with, as needed. &lt;/p&gt;&lt;p&gt;Note: This can be done in a Q/A format, as lecture, whole class discussion, or using pre-prepared review activities.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

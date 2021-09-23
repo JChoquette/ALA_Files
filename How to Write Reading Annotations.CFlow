@@ -1,0 +1,137 @@
+<project><prname>How to write reading annotations</prname>
+<idnum>42</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>How to Write Reading Annotations</wfname>
+<wfauthor>By: Pheobe Jackson</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students improve their reading annotation skills by evaluating, commenting on, and writing various kinds of annotations. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/how-to-write-reading-annotations/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>42</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Consider replacing text for students to read in Task  4 to one connected to class material&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>63.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Do Social Annotations</name>
+<id>17</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Socially annotate reading.&lt;/p&gt;&lt;p&gt;Note: This task is a regular part of out-of-class work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>68.20000457763672</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Distribute Worksheet</name>
+<id>4</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Distribute annotation &lt;a href="https://www.saltise.ca/resources/materials/how-to-write-reading-annotations-worksheet/" target="_blank"&gt;worksheet&lt;/a&gt;.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34.400001525878906</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Task 1: Evaluate Holistic Criteria</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read the text excerpt&lt;/li&gt;&lt;li&gt;Read the three annotations (S1, S2, S3)&lt;/li&gt;&lt;li&gt;Evaluate which annotation was the best and worst, and justify your reasoning&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>130.40000915527344</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Task 2: Evaluate Three Criteria</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Evaluate the same annotations according to the three criteria&lt;/li&gt;&lt;li&gt;Compare answers to those from task 1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: An annotation is high quality if it:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discusses one or more of the ideas to which your annotation is connected&lt;/li&gt;&lt;li&gt;Uses scientific terminology where appropriate; and&lt;/li&gt;&lt;li&gt;Uses full sentences with punctuation.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>212.00003051757812</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>19</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<link><targetid>7</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>[Optional] Pause and Discuss</name>
+<id>19</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Discuss the first 2 activities: address questions and concerns. Emphasize that from now on, students should be writing their annotations using these criteria as guidelines.&lt;/p&gt;&lt;p&gt;Note: This is a good place to break up the activities - can do the second half another day if needed.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>145.6000213623047</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Task 3: Improve Annotations</name>
+<id>7</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read Table 1 on how to write and answer questions&lt;/li&gt;&lt;li&gt;Drawing on info in Table 1, suggest improvements for the sample Q&amp;amp;A style annotations given&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>116.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Task 4: Write 3 Kinds of Annotations</name>
+<id>8</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Read Table 2 on three other kinds of annotations (clarify, connect, and extend)&lt;/li&gt;&lt;li&gt;Read a text&lt;/li&gt;&lt;li&gt;Annotate the text three times - once for each of the three types of annotations given in Table 2&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>144.8000030517578</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Discuss and Review</name>
+<id>18</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Lead discuss of activities as a class. &lt;/p&gt;&lt;p&gt;Answer questions&lt;/p&gt;&lt;p&gt;Emphasize that students should be using the other types of annotations - not just Q&amp;amp;A.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>102.00000762939453</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Continue to do Social Annotations</name>
+<id>16</id>
+<lefticon>solo</lefticon>
+<righticon>write</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Continue to socially annotate reading as a regular part of out-of-class work.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48.80000305175781</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>

@@ -1,0 +1,104 @@
+<project><prname>Jennifer Mitchell</prname>
+<idnum>53</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>Categorizing For Review</wfname>
+<wfauthor>By Jennifer Mitchell</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, students categorize statements or terms under two general headings (e.g. dividing terms into the categories of rationalism or empiricism). This activity helps students review and understand important differences between key terms and concepts we have covered. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/categorizing-for-review/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Prepare Activity</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>curation</righticon>
+<column>OOCI</column>
+<textHTML>&lt;p&gt;Prepare a list of terms that students will need to categorize during the activity. The terms should relate clearly to one of the categories they need to understand.&lt;/p&gt;&lt;p&gt;Example:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;In a Rationalist and Empiricist activity, the terms used in this activity include anything from names of philosophers, terminology used in the study of epistemology, to phrases that express ideas of either the rationalists or empiricists. It can even include graphic representations of concepts. For a more detailed list of the terms used in this activity, please see the &lt;a href="https://www.saltise.ca/resources/materials/categorizing-for…-example-answers/" target="_blank"&gt;Rationalist and Empiricist Answers document&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This is a review activity, so the terms should be things they have already seen before. However, you can also include short phrases that express certain concepts that relate to the different categories.&lt;/li&gt;&lt;li&gt;You can also include terms that might not fit exactly into either category, but might branch between the two. This challenges the students to think outside the categories as well.&lt;/li&gt;&lt;li&gt;If there are enough smartboards in the classroom for each group, this activity can be prepared in the smartboards app. Students can move the terms around on the smartboard&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Low Tech Version&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use color paper and sticky tack&lt;/li&gt;&lt;li&gt;Prepare a document with all of the terms, including the terms for the general categories&lt;/li&gt;&lt;li&gt;Print each term large enough to be put out as a distinct piece of paper. Then cut each term or word out so that you have a packet of terms&lt;/li&gt;&lt;li&gt;Create enough of these packets for each group. It helps if each packet of terms is printed on a different color paper. This makes it easier to keep the packets together for future use.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>860.2000732421875</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Introduce Activity and Review Concepts</name>
+<id>25</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Give a quick review of key concepts used as terms before starting the review activity&lt;/p&gt;&lt;p&gt;Example: When they need to break the different terms into the categories of rationalist or empiricist, review these terms and the central concepts and differences between each group.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>125.80000305175781</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Categorize Terms</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>problem</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Collect a packet of papers and claim a section of the wall in the classroom&lt;/li&gt;&lt;li&gt;Use sticky tack to put the main category terms at the top on the wall, leaving space below each for the other terms&lt;/li&gt;&lt;li&gt;Divide terms into the appropriate category and put them up on the wall.&lt;/li&gt;&lt;li&gt;Once finished, ask instructor to check&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>231.2000274658203</textheight>
+<timevalue>20</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+<node><name>Circulate to Check Group's Work</name>
+<id>6</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;When a group indicates that they have finished, go and check their list&lt;/li&gt;&lt;li&gt;If they have mistakes, do not tell them what is wrong. Just tell them how many they have wrong in each side and have them continue to work on it until it is correct&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>159.20001220703125</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+<link><targetid>5</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+<linkstyle>dashed</linkstyle>
+</link>
+<link><targetid>26</targetid>
+<portstyle>sourcePort=OUTs;targetPort=INn;</portstyle>
+</link>
+</node>
+<node><name>(Optional) Compare With Another Group</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;While working on their list, compare work with other group&lt;/li&gt;&lt;li&gt;Discuss whether or not they agree&lt;/li&gt;&lt;li&gt;Adjust list based on discussion&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>115.60000610351562</textheight>
+<isdropped>true</isdropped>
+<noautolink>true</noautolink>
+</node>
+<node><name>Review Results</name>
+<id>26</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Once all groups have finished, discuss with the class:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Some of the more difficult terms&lt;/li&gt;&lt;li&gt;Why difficult terms fit into a particular category&lt;/li&gt;&lt;li&gt;Why terms branch between two categories, where it was included, and why&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Instruct students to keep a copy of the final version of their list. It will be useful to have for their notes. Either post a document with the answers on the course LMS or have students take a picture&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>231.20001220703125</textheight>
+<timevalue>10</timevalue>
+<timeunit>min</timeunit>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+<simpletoggled>true</simpletoggled>
+</wfdata></workflow>
+</project>
