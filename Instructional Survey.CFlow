@@ -1,8 +1,8 @@
 <project><prname>Instructional Survey</prname>
-<idnum>65</idnum>
+<idnum>78</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Instructional Survey</wfname>
-<wfauthor>By: Julia Freeman</wfauthor>
+<wfauthor>By Julia Freeman</wfauthor>
 <wfdescription>&lt;p&gt;In this multiple-class activity, students design and execute a survey over two months. Students are able to apply the methodology they learned in class. See full description here.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
@@ -46,9 +46,9 @@
 <lefticon>solo</lefticon>
 <righticon>quiz</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Answer the questions on the survey&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Answer the questions on the survey.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>34</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Analyze Survey Questions</name>
@@ -66,7 +66,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>OOCI</column>
-<textHTML>&lt;p&gt;Assign the subject of the survey&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Assign the subject of the survey.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>34</textheight>
 <isdropped>true</isdropped>
@@ -76,7 +76,7 @@
 <lefticon>solo</lefticon>
 <righticon>create</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Develop 1 - 2 questions that relate to the subject&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Develop 1 - 2 questions that relate to the subject.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>48</textheight>
 <isdropped>true</isdropped>
@@ -96,7 +96,7 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Next class&lt;/p&gt;&lt;p&gt;Distribute the rough draft of the survey&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Next class&lt;/p&gt;&lt;p&gt;Distribute the rough draft of the survey.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>53</textheight>
 <isdropped>true</isdropped>
@@ -106,7 +106,7 @@
 <lefticon>class</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Suggest any changes and finalize survey&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Suggest any changes and finalize survey.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>34</textheight>
 <isdropped>true</isdropped>
@@ -128,7 +128,7 @@
 <lefticon>class</lefticon>
 <righticon>analyze</righticon>
 <column>ICS</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Discuss unforeseen problems with questions designed&lt;/li&gt;&lt;li&gt;Analyze big-picture trends&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Optionally, co-instructor can use this data to teach more quantitative statistical analysis&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Discuss unforeseen problems with questions designed&lt;/li&gt;&lt;li&gt;Analyze big-picture trends&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Optionally, co-instructor can use this data to teach more quantitative statistical analysis.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>128</textheight>
 <isdropped>true</isdropped>

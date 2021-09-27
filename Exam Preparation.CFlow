@@ -1,9 +1,9 @@
 <project><prname>Exam Preparation</prname>
-<idnum>236</idnum>
+<idnum>245</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Exam Preparation</wfname>
-<wfauthor>Maxime Denis</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students learn using questions designed to show students clinical applications of theories. By doing this, students will learn to integrate theories to solve real-world problems. See a full description here.&lt;/p&gt;</wfdescription>
+<wfauthor>by Maxime Denis</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students learn using questions designed to show students clinical applications of theories. By doing this, students will learn to integrate theories to solve real-world problems. See a full description &lt;a href=&quot;http:// https://www.saltise.ca/resources/activities/exam-preparation/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>5</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -28,7 +28,7 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;5 days before the exam&lt;/p&gt;&lt;p&gt;Hand out a list of 10 questions for students to use to prepare for the exam.&lt;/p&gt;&lt;p&gt;Note: In addition to the question, each question has a grading rubric, learning outcomes, and further reading so that they can prepare for it.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130.8000030517578</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Prepare with Questions</name>
@@ -38,7 +38,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Prepare for each case seen in the questions, using all the materials provided by the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Apply Theories to the Case Problems</name>
@@ -48,7 +48,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Apply the theory they have seen in class to each new problem in the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48.80000305175781</textheight>
+<textheight>48</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Review Cases and Material</name>
@@ -58,7 +58,7 @@
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Review the cases related to course theory and show its clinical application.&lt;/li&gt;&lt;li&gt;Refer to the list of resources to consult, given be the instructor&lt;/li&gt;&lt;li&gt;Apply the theories they have seen throughout the course to the cases&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>144.8000030517578</textheight>
+<textheight>142</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Apply Theories to the Case Problems</name>
@@ -68,7 +68,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Apply the theory they have seen in class to each new problem in the case.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48.80000305175781</textheight>
+<textheight>48</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complete the Exam</name>
@@ -78,16 +78,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Complete the exam, which includes one of the questions they prepared.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>48.80000305175781</textheight>
+<textheight>48</textheight>
 <isdropped>true</isdropped>
 </node>
 </week>
-<bracket><id>40</id>
-<icon>case-studies</icon>
-<topnode>29</topnode>
-<bottomnode>32</bottomnode>
-</bracket>
-<wflegendx>1100</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

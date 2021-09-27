@@ -1,9 +1,9 @@
 <project><prname>Peerwise Assignment: Human Body</prname>
-<idnum>113</idnum>
+<idnum>122</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Peerwise Assignment: Human Body</wfname>
-<wfauthor>Pierre-Luc Grondin</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students write three multiple choice questions throughout the semester. They answer, rate, and comment on questions submitted by their peers, which provides an opportunity to review course material as well as design questions. See a full description here&lt;/p&gt;</wfdescription>
+<wfauthor>By Pierre-Luc Grondin</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students write three multiple choice questions throughout the semester. They answer, rate, and comment on questions submitted by their peers, which provides an opportunity to review course material as well as design questions. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/peerwise-assignment-human-body/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Introduces students to Bloom's Taxonomy&lt;/li&gt;&lt;li&gt;Hand out assignment instructions and feedback/tips from previous students&lt;/li&gt;&lt;li&gt;Read through the instructions with the students&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The instructions contain deadlines, sample questions (good and bad examples), instructions on signing in to Peerwise, and marking notes.&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Introduces students to Bloom's Taxonomy (see &lt;a href="https://www.saltise.ca/resources/materials/article-pdf-peerwise-assignment-human-body/" target="_blank"&gt;article&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;Hand out assignment &lt;a href="https://www.saltise.ca/resources/materials/assignment-instructions-doc-peerwise-assignment-human-body/" target="_blank"&gt;instructions&lt;/a&gt; and &lt;a href="https://www.saltise.ca/resources/materials/mcq-feedback-doc-peerwise-assignment-human-body/" target="_blank"&gt;feedback/tips&lt;/a&gt; from previous students&lt;/li&gt;&lt;li&gt;Read through the instructions with the students&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The instructions contain deadlines, sample questions (good and bad examples), instructions on signing in to Peerwise, and marking notes.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>198</textheight>
+<textheight>190</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Develop a Multiple Choice Question</name>
@@ -36,9 +36,9 @@
 <lefticon>solo</lefticon>
 <righticon>create</righticon>
 <column>OOC</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Write first multiple choice question, aiming to design a question that is high on Bloom's taxonomical pyramid. &lt;/li&gt;&lt;li&gt;Provide an explanation for the correct answer (and why it is the best of the options). &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Identify which unit the question is related to.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;All questions/comments are anonymous &lt;/li&gt;&lt;li&gt;Due close to the test date. &lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Write first multiple choice question, aiming to design a question that is high on Bloom's taxonomical pyramid.&lt;/li&gt;&lt;li&gt;Provide an explanation for the correct answer (and why it is the best of the options).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Identify which unit the question is related to.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;All questions/comments are anonymous&lt;/li&gt;&lt;li&gt;Due close to the test date.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>255</textheight>
+<textheight>222</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Answer Peer Questions</name>
@@ -48,7 +48,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;Answer a minimum of 10 questions from their peers.&lt;/p&gt;&lt;p&gt;Note: After the first answer, Peerwise will show the answer distributions and the explanation provided by the student who wrote the question. Then there is an option to change or confirm the given answer.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>137</textheight>
+<textheight>110</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Rate and Comment on Questions</name>
@@ -56,9 +56,9 @@
 <lefticon>solo</lefticon>
 <righticon>peerreview</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Rate the difficulty level and comment on a minimum of 10 questions.&lt;/p&gt;&lt;p&gt;Note: Comments can be taken into account by the students as they are able to change their questions until the deadline&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Rate the difficulty level and comment on a minimum of 10 questions.&lt;/p&gt;&lt;p&gt;Note: Comments can be taken into account by the students as they are able to change their questions until the deadline.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>109</textheight>
+<textheight>78</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Give Feedback </name>
@@ -68,7 +68,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Give feedback on questions.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;For the first question, the feedback is more general&lt;/li&gt;&lt;li&gt;For the second question the feedback is given as a comment at the end of the thread so that all the students can benefit from it.&lt;/li&gt;&lt;li&gt;The instructor may suggest ways to make the question more high-order.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>203</textheight>
+<textheight>170</textheight>
 <isdropped>true</isdropped>
 <link><targetid>5</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
@@ -101,7 +101,7 @@ semester</linktext>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1100</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

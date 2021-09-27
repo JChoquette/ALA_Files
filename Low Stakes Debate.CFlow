@@ -1,9 +1,9 @@
 <project><prname>Low Stakes Debate</prname>
-<idnum>94</idnum>
+<idnum>109</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Low Stakes Debate</wfname>
-<wfauthor>Jen Mitchell</wfauthor>
-<wfdescription>&lt;p&gt;In this single-class activity, an informal debate is held in class around a topic discussed in the course. The purpose of the debate is to help students explore a topic or issue from multiple and angles, and to practice preparing, critically analyzing, and responding to different arguments. See full description here.&lt;/p&gt;</wfdescription>
+<wfauthor>By Jen Mitchell</wfauthor>
+<wfdescription>&lt;p&gt;In this single-class activity, an informal debate is held in class around a topic discussed in the course. The purpose of the debate is to help students explore a topic or issue from multiple and angles, and to practice preparing, critically analyzing, and responding to different arguments. See full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/low-stakes-debate/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -21,34 +21,34 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Choose a Method to Build Student's Knowledge</name>
+<node><name>Choose a Method to Build Student Knowledge</name>
 <id>92</id>
 <lefticon>undefined</lefticon>
-<righticon>undefined</righticon>
+<righticon>orchestration</righticon>
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Choose a method to help students develop background information on the topic:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Present the concepts and reinforce their learning through active learning activities in previous classes&lt;/li&gt;&lt;li&gt;Have students do homework assignments or readings to gain the necessary background knowledge&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>202.4000244140625</textheight>
+<textheight>150</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>Gain Knowledge</name>
+<node><name>Gather Background Knowledge</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>research</righticon>
 <column>OOC</column>
-<textHTML>&lt;p&gt;Gain background knowledge on the issue, before the debate, either in class or for homework.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in a Knowledge course:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn about the scientific method, its steps and the principles behind those steps for gaining accurate knowledge in a previous class&lt;/li&gt;&lt;li&gt;Learn about a social science research method, the steps and the principles behind those steps for gaining accurate knowledge in a previous class&lt;/li&gt;&lt;li&gt;Complete a worksheet activity comparing some of the steps in each method and the reasons for the similarities and differences in those methods in a previous class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Read the short story The Ones who Walk away from Omelas for homework. The story is about a utopian society that is based off the suffering of one child&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Gain background knowledge on the issue, before the debate, either in class or for homework.&lt;/p&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in a Knowledge course:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn about the scientific method, its steps and the principles behind those steps for gaining accurate knowledge in a previous class&lt;/li&gt;&lt;li&gt;Learn about a social science research method, the steps and the principles behind those steps for gaining accurate knowledge in a previous class&lt;/li&gt;&lt;li&gt;Complete a worksheet activity comparing some of the steps in each method and the reasons for the similarities and differences in those methods in a previous class&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Read the short story The Ones who Walk away from Omelas for homework. The story is about a utopian society that is based off the suffering of one child&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>457.4000244140625</textheight>
+<textheight>420</textheight>
 <isdropped>true</isdropped>
 </node>
-<node><name>Activation activity</name>
+<node><name>Review through an Activation Activity</name>
 <id>4</id>
 <lefticon>class</lefticon>
 <righticon>present</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Have a short review type activity to get students thinking about the issues before starting the debate. This allows students to quickly review the material on this topic.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: &lt;/p&gt;&lt;p&gt;If you only have a 1.5 hour class, keep this short, as you will want to make sure you have as much time as possible for the discussion at the end.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in a Knowledge class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Using a PowerPoint slide with the steps of each of the scientific and social science methods, quickly review the key points covered in the last class about the similarities in terms of gathering data, developing a hypothesis, testing the hypothesis. Then emphasize there are additional steps in the social sciences because of the different context of the material studied&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Go over the key events in the story The Ones Who Walk Away from Omelas by having a short discussion and asking the following questions&lt;/li&gt;&lt;li&gt;What is Omelas like?&lt;/li&gt;&lt;li&gt;What is the cost of this happiness?&lt;/li&gt;&lt;li&gt;What are conditions like for the child?&lt;/li&gt;&lt;li&gt;Do people know about the child?&lt;/li&gt;&lt;li&gt;Why is the story called "the ones who walk away from omelas"?&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;p&gt;Have a short review type activity to get students thinking about the issues before starting the debate. This allows students to quickly review the material on this topic.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: If you only have a 1.5 hour class, keep this short, as you will want to make sure you have as much time as possible for the discussion at the end.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in a Knowledge class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Quickly review the key points covered in the last class using a PowerPoint slide with the steps of each of the scientific and social science methods.&lt;/li&gt;&lt;li&gt;Cover the similarities in terms of gathering data, developing a hypothesis, and testing the hypothesis.&lt;/li&gt;&lt;li&gt;Emphasize the additional steps in the social sciences because of the different context of the material studied&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Go over the key events in the story The Ones Who Walk Away from Omelas by having a short discussion and asking the following questions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is Omelas like?&lt;/li&gt;&lt;li&gt;What is the cost of this happiness?&lt;/li&gt;&lt;li&gt;What are conditions like for the child?&lt;/li&gt;&lt;li&gt;Do people know about the child?&lt;/li&gt;&lt;li&gt;Why is the story called "the ones who walk away from omelas"?&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>684</textheight>
+<textheight>621</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -58,9 +58,9 @@
 <lefticon>class</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;ul&gt;&lt;li&gt;Put up on the board:  1) A topic that can easily be argued either way; 2) The different stages in the debate and give each one a number from 1-6 in the following format:&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1 &amp;amp; 4-- Opening statements (5 minutes)&lt;/p&gt;&lt;p&gt;2 &amp;amp; 5-- Rebuttal (3 minutes)&lt;/p&gt;&lt;p&gt;3 &amp;amp; 6-- Closing Statements (2 minutes)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Assign students a number from 1-6. Tell them that their number will decide their role in the debate, based on the chart on the board. &lt;/li&gt;&lt;li&gt;Direct all the 1, 2, and 3s go to one side of the class, and all the 4, 5, and 6s to the other side of the class.&lt;/li&gt;&lt;li&gt;Only reveal which side of the debate each group is doing after they have moved. This prevents students who don't like their assigned side from hiding and trying to be on the other side. &lt;/li&gt;&lt;li&gt;Once they are organized in their groups, explain the process for the debate and give them their side.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: For the process of the debate, they will have 10 minutes to prepare their initial arguments. Then both groups will come up and present their arguments, one side at a time. Then they will have another 5 minutes to prepare rebuttals, and then they present. Then another round of 5 minutes to plan and then they present their closing statements&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example of a debate question in a Knowledge class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The social sciences are a science&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example of a debate question in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You should walk away from Omelas&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Put up on the board: 1) A topic that can easily be argued either way; 2) The different stages in the debate and give each one a number from 1-6 in the following format:&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1 &amp;amp; 4-- Opening statements (5 minutes)&lt;/p&gt;&lt;p&gt;2 &amp;amp; 5-- Rebuttal (3 minutes)&lt;/p&gt;&lt;p&gt;3 &amp;amp; 6-- Closing Statements (2 minutes)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Assign students a number from 1-6. Tell them that their number will decide their role in the debate, based on the chart on the board.&lt;/li&gt;&lt;li&gt;Direct all the 1, 2, and 3s go to one side of the class, and all the 4, 5, and 6s to the other side of the class.&lt;/li&gt;&lt;li&gt;Only reveal which side of the debate each group is doing after they have moved. This prevents students who don't like their assigned side from hiding and trying to be on the other side.&lt;/li&gt;&lt;li&gt;Once they are organized in their groups, explain the process for the debate and give them their side.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example of a debate question in a Knowledge class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The social sciences are a science&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example of a debate question in an Ethics class:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You should walk away from Omelas&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>784.6000366210938</textheight>
+<textheight>595</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -70,9 +70,9 @@
 <lefticon>group</lefticon>
 <righticon>discuss</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Each side prepares arguments. &lt;/p&gt;&lt;p&gt;Decide who will present, chosen from the students given numbers 1 and 4. &lt;/p&gt;&lt;p&gt;Note: if other students are really keen to present that's fine. A good rule of thumb is to tell them that they can't have the same person as the main presenter more than once.&lt;/p&gt;&lt;p&gt;Note: This can be done in either smaller groups, or one large group, &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;ul&gt;&lt;li&gt;Each side prepares arguments.&lt;/li&gt;&lt;li&gt;Decide who will present, chosen from the students given numbers 1 and 4.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If other students are really keen to present that's fine. A good rule of thumb is to tell them that they can't have the same person as the main presenter more than once.&lt;/li&gt;&lt;li&gt;This can be done in either smaller groups, or one large group&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>140.80001831054688</textheight>
+<textheight>286</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -88,21 +88,21 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;Go around and help students focus their arguments. Refrain from suggesting arguments; Let them figure it out for themselves.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>77.60000610351562</textheight>
+<textheight>100</textheight>
 <isdropped>true</isdropped>
 <noautolink>true</noautolink>
 <link><targetid>10</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
 </node>
-<node><name>Share Ground Rules and Begin</name>
+<node><name>Share Ground Rules and Begin Debate</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Bring the class back together once both groups have some arguments prepared and are organized on who is presenting&lt;/li&gt;&lt;li&gt;Share the following ground rules to help keep the debate organized but fun:&lt;/li&gt;&lt;li&gt;During the debate, take note of the arguments and rebuttals made for each side. This will be the basis for deciding the winning group at the end and the points for the discussion.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ground Rules:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;They are not allowed to talk if they are sitting down. If they have a point to make for their side they need to be standing up with the group presenting&lt;/li&gt;&lt;li&gt;They don't have to talk if they stand up with the group. They can just be up there to provide "emotional support."&lt;/li&gt;&lt;li&gt;They are not allowed to heckle from the audience, but they can sass all they want if they are up presenting, as long as they aren't mean and don't insult others.&lt;/li&gt;&lt;li&gt;They have up to the time limit and then I will cut them off. They don't have to fill all the time, but it helps to get in as many arguments as they can&lt;/li&gt;&lt;li&gt;They should take notes of the other sides arguments so they can prepare their rebuttals for next round&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>600.800048828125</textheight>
+<textheight>555</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -112,9 +112,9 @@
 <lefticon>class</lefticon>
 <righticon>debate</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Start with the "yes" side and then the "no" side. Each side has up to 5 minutes&lt;/p&gt;&lt;p&gt;Note: The groups rarely get to 5 minutes at this point. It's ok if they don't fill the time or have many arguments. They usually pick it up in the next round.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present statements, starting with the "yes" side and then the "no" side. Each side has up to 5 minutes&lt;/p&gt;&lt;p&gt;Note: May not get to 5 minutes at this point. It's ok to not fill the time or have many arguments. Can pick it up in the next round.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>92.00001525878906</textheight>
+<textheight>123</textheight>
 <timevalue>10</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -126,7 +126,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Return to groups to plan rebuttal arguments and decide who will present next.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
+<textheight>62</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -136,9 +136,9 @@
 <lefticon>class</lefticon>
 <righticon>debate</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Start with the "no" side and then the "yes" side, just to change it up. Each side has up to 3 minutes for their presentation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Note: This round is usually much more active with the arguments. They are allowed to present new arguments and rebut old ones. This allows them to catch up if their first round wasn't great.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present rebuttals, starting with the "no" side and then the "yes" side, just to change it up. Each side has up to 3 minutes for their presentation.&lt;/p&gt;&lt;p&gt;Note: This round is usually much more active with the arguments. They are allowed to present new arguments and rebut old ones. This allows them to catch up if their first round wasn't great.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>159.60000610351562</textheight>
+<textheight>146</textheight>
 <timevalue>6</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -150,7 +150,7 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Prepare any final arguments&lt;/li&gt;&lt;li&gt;Finish up with what they feel are still the 1-2 best arguments.&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>106.20000457763672</textheight>
+<textheight>86</textheight>
 <timevalue>5</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -160,27 +160,27 @@
 <lefticon>class</lefticon>
 <righticon>debate</righticon>
 <column>ICS</column>
-<textHTML>&lt;p&gt;Start with the "yes" and then the "no" side. Each side has up tp 2 minutes for their presentation.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Present closing statements, starting with the "yes" and then the "no" side. Each side has up tp 2 minutes for their presentation.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
+<textheight>62</textheight>
 <timevalue>4</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
 </node>
 <node><name>Declaration of Winner and Optional Discussion</name>
 <id>17</id>
-<lefticon>class</lefticon>
-<righticon>present</righticon>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;Once the debate is done, go over the notes of the arguments from the debate. Decide on and declare a winner. The decision should be based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The quality of the arguments made&lt;/li&gt;&lt;li&gt;The quality of their rebuttals&lt;/li&gt;&lt;li&gt;Any innovative arguments that really changed our perspective on the issue&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Explain why you chose that side, the arguments or counter arguments that they made that allowed them to win. Also explain some of the following that would have come out of the debate:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Good arguments made on both sides&lt;/li&gt;&lt;li&gt;Good counter arguments and why they worked well&lt;/li&gt;&lt;li&gt;Arguments that were missed that could have supported their position well&lt;/li&gt;&lt;li&gt;Counter arguments that were missed&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The final discussion here is mostly the teacher presenting and explaining ideas, allowing you to summarize many of the key points. However, sometimes students get really into the debate and want to continue discussing some of these points. It's good to allow them to do so in a more open discussion format, if the time allows.&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;Go over the notes of the arguments, once the debate is done. Decide on and declare a winner. The decision should be based on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The quality of the arguments made&lt;/li&gt;&lt;li&gt;The quality of their rebuttals&lt;/li&gt;&lt;li&gt;Any innovative arguments that really changed our perspective on the issue&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Explain why you chose that side, the arguments or counter arguments that they made that allowed them to win. Also explain some of the following that would have come out of the debate:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Good arguments made on both sides&lt;/li&gt;&lt;li&gt;Good counter arguments and why they worked well&lt;/li&gt;&lt;li&gt;Arguments that were missed that could have supported their position well&lt;/li&gt;&lt;li&gt;Counter arguments that were missed&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: The final discussion here is mostly presenting and explaining ideas, allowing you to summarize many of the key points. However, sometimes students get really into the debate and want to continue discussing some of these points. It's good to allow them to do so in a more open discussion format, if the time allows.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>538.2000732421875</textheight>
+<textheight>436</textheight>
 <timevalue>20</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1100</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>

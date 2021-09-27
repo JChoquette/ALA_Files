@@ -1,9 +1,9 @@
 <project><prname>Genevieve Caron</prname>
-<idnum>177</idnum>
+<idnum>195</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Les Ateliers de Creation</wfname>
-<wfauthor>By: Geneviève Caron</wfauthor>
-<wfdescription>&lt;p&gt;In this multiple-class activity, students appropriate three themes from an assigned book to write three 250 word creative texts. This allows students to explore their creativity and learn to revise their writing based on feedback from peers and teachers. See a full description here.&lt;/p&gt;</wfdescription>
+<wfauthor>By Geneviève Caron</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students appropriate three themes from an assigned book to write three 250 word creative texts. This allows students to explore their creativity and learn to revise their writing based on feedback from peers and teachers. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/les-ateliers-de-creation&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</wfdescription>
 <wfid>1</wfid>
 <wftype>activity</wftype>
 <usedwfARRAY></usedwfARRAY>
@@ -26,9 +26,9 @@
 <lefticon>undefined</lefticon>
 <righticon>orchestration</righticon>
 <column>ICI</column>
-<textHTML>&lt;p&gt;For each of three writing activities, at different points while reading the book,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduce one of three major themes present in the book (ex. sickness, pop culture, and the outside/outsiders)&lt;/li&gt;&lt;li&gt;Divide the class into permanent groups of 8-10&lt;/li&gt;&lt;li&gt;Hand out the related activity instructions for writing the text and participating in forum in TEAMS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Links to the activity instructions for &lt;strong&gt;&lt;u&gt;theme 1&lt;/u&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;u&gt;theme 2&lt;/u&gt;&lt;/strong&gt;, and &lt;strong&gt;&lt;u&gt;theme 3&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;</textHTML>
+<textHTML>&lt;p&gt;For each of three writing activities, at different points while reading the book,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduce one of three major themes present in the book (ex. sickness, pop culture, and the outside/outsiders)&lt;/li&gt;&lt;li&gt;Divide the class into permanent groups of 8-10&lt;/li&gt;&lt;li&gt;Hand out the related activity instructions for writing the text and participating in forum in TEAMS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note: Links to the the &lt;a href="https://www.saltise.ca/resources/materials/rubric-doc-les-ateliers-de-creation" target="_blank"&gt;rubric&lt;/a&gt; and the activity instructions for &lt;a href="https://www.saltise.ca/resources/materials/atelier-theme-1-instructions-pdf-les-ateliers-de-creation" target="_blank"&gt;theme 1&lt;/a&gt;, &lt;a href="http:// https://www.saltise.ca/resources/materials/atelier-theme-2-instructions-pdf-les-ateliers-de-creation" target="_blank"&gt;theme 2&lt;/a&gt;, and &lt;a href="http:// https://www.saltise.ca/resources/materials/atelier-theme-3-instructions-pdf-les-ateliers-de-creation" target="_blank"&gt;theme 3&lt;/a&gt;.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>231.20001220703125</textheight>
+<textheight>240</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Write a Creative Text</name>
@@ -38,7 +38,7 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;The following class&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write a text of at least 250 words, appropriating the given theme in a chosen genre of text.&lt;/li&gt;&lt;li&gt;Publish the text on TEAMS in the collaborative space&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130.40000915527344</textheight>
+<textheight>128</textheight>
 <timevalue>60</timevalue>
 <timeunit>min</timeunit>
 <isdropped>true</isdropped>
@@ -50,7 +50,7 @@
 <column>OOC</column>
 <textHTML>&lt;p&gt;On the online TEAMS forum,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Read at least one text from another member of your group&lt;/li&gt;&lt;li&gt;Write constructive suggestions for improvement, or identifying good aspects (at least 100 words)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>130.40000915527344</textheight>
+<textheight>128</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Read and Give Feedback</name>
@@ -60,7 +60,7 @@
 <column>OOCI</column>
 <textHTML>&lt;p&gt;Comment on all of the texts, evaluating content for creativity, style, and originality rather than grammar.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>63.20000457763672</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
 <link><targetid>3</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -93,8 +93,8 @@ themes</linktext>
 <isdropped>true</isdropped>
 </node>
 </week>
-<wflegendx>1100</wflegendx>
-<wflegendy>400</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 <simpletoggled>true</simpletoggled>
 </wfdata></workflow>
 </project>

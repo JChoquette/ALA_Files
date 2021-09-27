@@ -1,0 +1,119 @@
+<project><prname>An Abundance of Bells</prname>
+<idnum>21</idnum>
+<terminologyset>standard</terminologyset>
+<workflow><wfname>An Abundance of Bells</wfname>
+<wfauthor>By Angela Smart</wfauthor>
+<wfdescription>&lt;p&gt;In this multiple-class activity, students sample certain human characteristics and discover that they naturally fall along a certain distribution curve (the bell curve). Through a gallery walk, groups display a presentation board of their histogram, allowing them to discuss similarities between their graphs and answer follow-up questions. See a full description &lt;a href=&quot;https://www.saltise.ca/resources/activities/an-abundance-of-bells&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;</wfdescription>
+<wfid>1</wfid>
+<wftype>activity</wftype>
+<usedwfARRAY></usedwfARRAY>
+<tagsetARRAY></tagsetARRAY>
+<wfdata><column><columnname>OOCI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>OOC</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICI</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<column><columnname>ICS</columnname>
+<columnoutcomevisibility>undefined</columnoutcomevisibility>
+</column>
+<week><weekid>2</weekid>
+<node><name>Introduce Activity: Group
+Allocation</name>
+<id>3</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;ul&gt;&lt;li&gt;Place students in groups of three&lt;/li&gt;&lt;li&gt;Provide two groups the same question. (ex. foot size, height, finger length, newborn weight). &lt;/li&gt;&lt;li&gt;Ask students to survey at least 40 people.&lt;/li&gt;&lt;/ul&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>128</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Survey People</name>
+<id>4</id>
+<lefticon>group</lefticon>
+<righticon>research</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Survey 40 people for their given question.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>34</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Construct Histogram</name>
+<id>5</id>
+<lefticon>group</lefticon>
+<righticon>analyze</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Construct a histogram with the data collected, containing the average and standard deviation.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Drop Balls in Binsotat</name>
+<id>6</id>
+<lefticon>group</lefticon>
+<righticon>experiment</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Each drop 100 balls in the binostat and plot the results.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Check Histograms</name>
+<id>7</id>
+<lefticon>undefined</lefticon>
+<righticon>orchestration</righticon>
+<column>ICI</column>
+<textHTML>&lt;p&gt;Check the histogram constructed by each group to ensure:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The bell curve is evident &lt;/li&gt;&lt;li&gt;The mean and standard deviation are accurate&lt;/li&gt;&lt;/ol&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>114</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Design Presentation Board</name>
+<id>8</id>
+<lefticon>group</lefticon>
+<righticon>create</righticon>
+<column>OOC</column>
+<textHTML>&lt;p&gt;Using the histogram, construct a presentation board in order to participate in the gallery walk.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>62</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Display Board in Gallery Walk</name>
+<id>9</id>
+<lefticon>class</lefticon>
+<righticon>present</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Each displays results, as a part of a Gallery Walk&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>48</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Notice Similarities</name>
+<id>10</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Identify and discuss the various similarities in data relating to the overall shape of the histograms, and the percentage of results that are within 1, 2, and 3 standard deviations of the mean.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>90</textheight>
+<isdropped>true</isdropped>
+</node>
+<node><name>Answer Follow-up Questions</name>
+<id>11</id>
+<lefticon>class</lefticon>
+<righticon>discuss</righticon>
+<column>ICS</column>
+<textHTML>&lt;p&gt;Answer follow-up questions, prompted by the instructor, to internalize findings, identify the patterns, and put it in the wider context of subject.&lt;/p&gt;</textHTML>
+<linkedwf>undefined</linkedwf>
+<textheight>76</textheight>
+<isdropped>true</isdropped>
+</node>
+</week>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
+</wfdata></workflow>
+</project>
