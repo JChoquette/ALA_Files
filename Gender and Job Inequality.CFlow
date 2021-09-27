@@ -1,5 +1,5 @@
 <project><prname>Gender and Job Inequality</prname>
-<idnum>120</idnum>
+<idnum>135</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Gender and Job Inequality</wfname>
 <wfauthor>By Elliot Kerr</wfauthor>
@@ -22,38 +22,15 @@
 <columnoutcomevisibility>undefined</columnoutcomevisibility>
 </column>
 <week><weekid>13</weekid>
-<node><name>Watch a Video</name>
-<id>1</id>
-<lefticon>solo</lefticon>
-<righticon>reading</righticon>
-<column>OOC</column>
-<textHTML>&lt;p&gt;Watch the ﬁrst episode of a tv drama (i.e. Madmen) that exposes them to assumptions about social interactions and hierarchies in the workplace.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Analyze the Video</name>
-<id>2</id>
-<lefticon>solo</lefticon>
-<righticon>analyze</righticon>
-<column>OOC</column>
-<textHTML>&lt;p&gt;Write a ﬁlm analysis about how the structure of that speciﬁc culture in the video inﬂuences the division of labor within that workplace in that time period.&lt;/p&gt;</textHTML>
-<linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
-<isdropped>true</isdropped>
-<tagARRAY/>
-</node>
-<node><name>Review Information</name>
+<node><name>Read and Review Information</name>
 <id>3</id>
 <lefticon>solo</lefticon>
 <righticon>reading</righticon>
 <column>OOC</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Complete a reading about gender roles&lt;/li&gt;&lt;li&gt;Establish diﬀerences between gender and sex and how they are constructed&lt;/li&gt;&lt;li&gt;Review statistics regarding occupational segregation to prepare for the activity&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>156</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Assign Group Work</name>
 <id>4</id>
@@ -62,9 +39,8 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Separate the class into groups of 4-6 &lt;/li&gt;&lt;li&gt;Ask groups to list 6 characteristics associated with each of the jobs identiﬁed on the whiteboard (nurse, engineer, teacher, lawyer, manager, and ﬂight attendant)&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>116</textheight>
+<textheight>142</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Analyze Assigned Content</name>
 <id>5</id>
@@ -73,9 +49,8 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Explore and question the stereotypes generally associated with each job in their groups when coming up with their 6 characteristics.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Discuss Assigned Content</name>
 <id>6</id>
@@ -84,9 +59,8 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Discuss characteristics and qualiﬁcations associated with each job as well as what qualiﬁes a person as being competent in the profession.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Provide an Additional Prompt</name>
 <id>7</id>
@@ -95,9 +69,8 @@
 <column>ICI</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Pause the discussion &lt;/li&gt;&lt;li&gt;Ask the students to indicate which jobs they think pay more&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>86</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Research Information</name>
 <id>8</id>
@@ -106,9 +79,8 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Research the actual pay range of the jobs in order to establish the answer to this question.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Analyze Information </name>
 <id>9</id>
@@ -117,9 +89,8 @@
 <column>ICS</column>
 <textHTML>&lt;ul&gt;&lt;li&gt;Identify the higher and lower paying jobs and compare their categorizing to what they discussed regarding gender stereotyping in each job&lt;/li&gt;&lt;li&gt;Look for patterns with regards to these gender stereotypes and the way jobs are valued&lt;/li&gt;&lt;/ul&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>126</textheight>
+<textheight>156</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Record Results</name>
 <id>10</id>
@@ -128,9 +99,8 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Write down the patterns and reasoning on the white board.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>66</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Initiate Group Presentations</name>
 <id>60</id>
@@ -139,9 +109,8 @@
 <column>ICI</column>
 <textHTML>&lt;p&gt;After all the groups have written their characteristics and monetary values on the whiteboards, move the activity to group presentations.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>76</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Present in Groups </name>
 <id>12</id>
@@ -150,9 +119,8 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;Present the categorizations and patterns groups found (in general) to the class in short 30-60-sec presentations.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 <node><name>Engage in Class Discussion</name>
 <id>11</id>
@@ -161,12 +129,11 @@
 <column>ICS</column>
 <textHTML>&lt;p&gt;After group presentations, engage in a class-wide discussion facilitated by the instructor.&lt;/p&gt;</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>62</textheight>
 <isdropped>true</isdropped>
-<tagARRAY/>
 </node>
 </week>
-<wflegendx>940</wflegendx>
-<wflegendy>220</wflegendy>
+<wflegendx>990</wflegendx>
+<wflegendy>380</wflegendy>
 </wfdata></workflow>
 </project>
