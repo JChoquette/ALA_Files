@@ -1,8 +1,8 @@
 <project><prname>Interior Design</prname>
-<idnum>644</idnum>
+<idnum>766</idnum>
 <terminologyset>standard</terminologyset>
 <workflow><wfname>Interior Design</wfname>
-<wfauthor>Anne Marie Legault</wfauthor>
+<wfauthor>by ...</wfauthor>
 <wfdescription>undefined</wfdescription>
 <wfid>1</wfid>
 <wftype>program</wftype>
@@ -39,34 +39,37 @@ and Knowledge</columnnodetext>
 <columnoutcomevisibility>true</columnoutcomevisibility>
 </column>
 <week><weekid>2</weekid>
-<node><name>Drawing from Observation (45 hrs)</name>
+<node><name>Drawing from Observation</name>
 <id>3</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
 </node>
-<node><name>2D Studies 
-(45 hrs)</name>
+<node><name>2D Studies </name>
 <id>4</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>171</nodetagid>
 </nodetag>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
 </node>
-<node><name>Visual Language of Design (60 hrs)</name>
+<node><name>Visual Language of Design</name>
 <id>5</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -74,20 +77,25 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 <nodetag><nodetagid>171</nodetagid>
 </nodetag>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
 </node>
 <node><name>Materials &amp; Furnishings 1
-(60 hrs)</name>
+</name>
 <id>8</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>100</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
+<isdropped>true</isdropped>
 <link><targetid>12</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
@@ -101,7 +109,7 @@ and Knowledge</columnnodetext>
 </nodetag>
 </node>
 <node><name>Interior Design 1 
-(75 hrs)</name>
+</name>
 <id>6</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -109,6 +117,8 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>75</timevalue>
+<timeunit>hr</timeunit>
 <link><targetid>14</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
@@ -121,30 +131,31 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>175</nodetagid>
 </nodetag>
 </node>
-<node><name>Humanities
-(45 hrs)</name>
+<node><name>Humanities</name>
 <id>7</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 </node>
-<node><name>English 
-(60 hrs)</name>
+<node><name>English</name>
 <id>298</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 </node>
-<node><name>Physical Education 
-(30 hrs)</name>
+<node><name>Physical Education</name>
 <id>301</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -152,17 +163,21 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
 </node>
 </week>
 <week><weekid>16</weekid>
-<node><name>Visual Communication 1 (45 hrs)</name>
+<node><name>Visual Communication 1</name>
 <id>11</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <link><targetid>30</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -174,15 +189,16 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>182</nodetagid>
 </nodetag>
 </node>
-<node><name>CAD 1 
-(45 hrs)</name>
+<node><name>CAD 1</name>
 <id>10</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <link><targetid>29</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
@@ -190,14 +206,16 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>174</nodetagid>
 </nodetag>
 </node>
-<node><name>Materials &amp; Furnishings 2 (45 hrs)</name>
+<node><name>Materials &amp; Furnishings 2</name>
 <id>12</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
@@ -208,7 +226,7 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>178</nodetagid>
 </nodetag>
 </node>
-<node><name>Art and the Built Environment (45 hrs)</name>
+<node><name>Art and the Built Environment</name>
 <id>13</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -216,21 +234,24 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <link><targetid>33</targetid>
 <portstyle>sourcePort=OUTe;targetPort=INe;</portstyle>
 </link>
 <nodetag><nodetagid>170</nodetagid>
 </nodetag>
 </node>
-<node><name>Colour &amp; Lighting 1 
-(45 hrs)</name>
+<node><name>Colour &amp; Lighting 1</name>
 <id>25</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <link><targetid>46</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -240,8 +261,7 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>183</nodetagid>
 </nodetag>
 </node>
-<node><name>Interior Design 2 
-(90 hrs)</name>
+<node><name>Interior Design 2</name>
 <id>14</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -249,6 +269,8 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>90</timevalue>
+<timeunit>hr</timeunit>
 <link><targetid>34</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
@@ -261,8 +283,7 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>181</nodetagid>
 </nodetag>
 </node>
-<node><name>English 
-(60 hrs)</name>
+<node><name>English</name>
 <id>15</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -270,9 +291,10 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 </node>
-<node><name>Humanities 
-(60 hrs)</name>
+<node><name>Humanities</name>
 <id>292</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -280,40 +302,47 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 </node>
-<node><name>Physical Education 
-(30 hrs)</name>
+<node><name>Physical Education</name>
 <id>295</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>30</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 </node>
 </week>
 <week><weekid>36</weekid>
-<node><name>CAD 2 (45 hrs)</name>
+<node><name>CAD 2</name>
 <id>29</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>174</nodetagid>
 </nodetag>
 </node>
-<node><name>Visual Communication 2 (45 hrs)</name>
+<node><name>Visual Communication 2</name>
 <id>30</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <link><targetid>50</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -325,30 +354,32 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>182</nodetagid>
 </nodetag>
 </node>
-<node><name>3D Studies 
-(45 hrs)</name>
+<node><name>3D Studies</name>
 <id>31</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>171</nodetagid>
 </nodetag>
 <nodetag><nodetagid>172</nodetagid>
 </nodetag>
 </node>
-<node><name>Colour &amp; Lighting 2 
-(60 hrs)</name>
+<node><name>Colour &amp; Lighting 2 </name>
 <id>46</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>176</nodetagid>
 </nodetag>
@@ -357,26 +388,30 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>183</nodetagid>
 </nodetag>
 </node>
-<node><name>Design and the Built Environment (45 hrs)</name>
+<node><name>Design and the Built Environment</name>
 <id>33</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>45</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>170</nodetagid>
 </nodetag>
 </node>
-<node><name>Construction Documents 1 (60 hrs)</name>
+<node><name>Construction Documents 1</name>
 <id>32</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 <isdropped>true</isdropped>
 <link><targetid>54</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -384,7 +419,7 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>184</nodetagid>
 </nodetag>
 </node>
-<node><name>Interior Design 3 (90 hrs)</name>
+<node><name>Interior Design 3</name>
 <id>34</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -392,6 +427,8 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>90</timevalue>
+<timeunit>hr</timeunit>
 <link><targetid>55</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
 </link>
@@ -404,7 +441,7 @@ and Knowledge</columnnodetext>
 <nodetag><nodetagid>187</nodetagid>
 </nodetag>
 </node>
-<node><name>English (60 hrs)</name>
+<node><name>English</name>
 <id>35</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -412,10 +449,12 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>100</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 </node>
 </week>
 <week><weekid>57</weekid>
-<node><name>Visual Communication 3 (60 hrs)</name>
+<node><name>Visual Communication 3</name>
 <id>50</id>
 <lefticon>undefined</lefticon>
 <righticon>undefined</righticon>
@@ -423,6 +462,8 @@ and Knowledge</columnnodetext>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
 <textheight>20</textheight>
+<timevalue>60</timevalue>
+<timeunit>hr</timeunit>
 <nodetag><nodetagid>173</nodetagid>
 </nodetag>
 <nodetag><nodetagid>182</nodetagid>
@@ -437,7 +478,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <link><targetid>69</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -523,7 +564,7 @@ and Knowledge</columnnodetext>
 <column>CUS1</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>173</nodetagid>
 </nodetag>
@@ -543,7 +584,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <link><targetid>88</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -562,7 +603,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>169</nodetagid>
 </nodetag>
@@ -600,7 +641,7 @@ and Knowledge</columnnodetext>
 <column>CUS3</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <link><targetid>91</targetid>
 <portstyle>sourcePort=OUTw;targetPort=INw;</portstyle>
@@ -635,7 +676,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complementary 
@@ -657,7 +698,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>179</nodetagid>
 </nodetag>
@@ -674,7 +715,7 @@ and Knowledge</columnnodetext>
 <column>CUS2</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 <nodetag><nodetagid>175</nodetagid>
 </nodetag>
@@ -727,7 +768,7 @@ and Knowledge</columnnodetext>
 <column>CUS4</column>
 <textHTML>undefined</textHTML>
 <linkedwf>undefined</linkedwf>
-<textheight>20</textheight>
+<textheight>20.000001907348633</textheight>
 <isdropped>true</isdropped>
 </node>
 <node><name>Complementary 
@@ -746,7 +787,7 @@ and Knowledge</columnnodetext>
 </wfdata></workflow>
 <tag><tagname>Competencies</tagname>
 <tagid>168</tagid>
-<iscollapsed>false</iscollapsed>
+<iscollapsed>true</iscollapsed>
 <tag><tagname>To analyze the job function / Analyser la fonction de travail (G) - 022A</tagname>
 <tagid>169</tagid>
 <iscollapsed>true</iscollapsed>
@@ -831,5 +872,89 @@ and Knowledge</columnnodetext>
 <tagid>189</tagid>
 <iscollapsed>true</iscollapsed>
 </tag>
+</tag>
+<tag><tagname>022A To analyze the job function / Analyser la fonction de travail (G)</tagname>
+<tagid>746</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022B To integrate historic and artistic trends into interior design / Intégrer les courants historiques et artistiques au design d’intérieur (G)</tagname>
+<tagid>747</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022C To develop ideas / Développer des idées (G)</tagname>
+<tagid>748</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022D To produce sketches / Faire des esquisses (G)</tagname>
+<tagid>749</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022E* To MODEL objects and spaces to scale / Modéliser des objets et des espaces (G)</tagname>
+<tagid>750</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022F To produce computer assisted drawings / Effectuer des dessins assistés par ordinateur (G)</tagname>
+<tagid>751</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022G To interact with clients, resource-persons and colleagues / Interagir avec les clientes et les clients, les personnes-ressources et les collègues de travail (G)</tagname>
+<tagid>752</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>029H To create a mood using colour / Créer des ambiances par la couleur (P)</tagname>
+<tagid>753</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022H To suggest finishes and materials for a project / Proposer les finis et les matériaux relatifs à un projet (G)</tagname>
+<tagid>754</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>022J* To specify the furniture, accessories and equipment for a project / Spécifier le mobilier en série, les accessoires décoratifs et l’équipement nécessaires à un projet (G)</tagname>
+<tagid>755</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>026H* To use interior architectural and construction elements /Élaborer une composition architecturale intérieure (G)</tagname>
+<tagid>756</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>026J To design custom elements / Concevoir des éléments sur mesure (P)</tagname>
+<tagid>757</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>026K To create an interior design concept for a residence / Créer un concept de design d’intérieur résidentiel (P)</tagname>
+<tagid>758</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>027Y To present a design project / Présenter un projet de design (P)</tagname>
+<tagid>759</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>027Z To create lighting concepts / Créer des concepts d’éclairage (G)</tagname>
+<tagid>760</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>029X* To produce working drawings and specifications / Produire des plans d’exécution (P)</tagname>
+<tagid>761</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>029Y* To perfrom project management activities / Effectuer des activités relatives à la gestion de projet (G)</tagname>
+<tagid>762</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>029Z To plan a layout for a commercial, industrial or public building / Planifier un aménagement pour un établissement commercial, industriel ou public (P)</tagname>
+<tagid>763</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>02A0 To create an interior design concept for a commercial, industrial or public building / Créer un concept de design d’intérieur pour un établissement commercial, industriel ou public (P)</tagname>
+<tagid>764</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>029V To promote one&apos;s services / Promouvoir ses services (G)</tagname>
+<tagid>765</tagid>
+<iscollapsed>true</iscollapsed>
+</tag>
+<tag><tagname>02A1 To develop an interior design project / Concevoir un projet de design d’intérieur  (P)</tagname>
+<tagid>766</tagid>
+<iscollapsed>true</iscollapsed>
 </tag>
 </project>
